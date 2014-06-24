@@ -1,0 +1,139 @@
+[{
+    "api_boss_bgm": [2, 2],
+    "api_id": 11,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 1,
+    "api_no": 1
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 12,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 1,
+    "api_no": 2
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 13,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 1,
+    "api_no": 3
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 14,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 1,
+    "api_no": 4
+}, {
+    "api_boss_bgm": [6, 6],
+    "api_id": 15,
+    "api_map_bgm": [7, 2],
+    "api_maparea_id": 1,
+    "api_no": 5
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 21,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 2,
+    "api_no": 1
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 22,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 2,
+    "api_no": 2
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 23,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 2,
+    "api_no": 3
+}, {
+    "api_boss_bgm": [5, 5],
+    "api_id": 24,
+    "api_map_bgm": [12, 12],
+    "api_maparea_id": 2,
+    "api_no": 4
+}, {
+    "api_boss_bgm": [10, 10],
+    "api_id": 25,
+    "api_map_bgm": [11, 11],
+    "api_maparea_id": 2,
+    "api_no": 5
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 31,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 3,
+    "api_no": 1
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 32,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 3,
+    "api_no": 2
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 33,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 3,
+    "api_no": 3
+}, {
+    "api_boss_bgm": [5, 5],
+    "api_id": 34,
+    "api_map_bgm": [12, 12],
+    "api_maparea_id": 3,
+    "api_no": 4
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 41,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 4,
+    "api_no": 1
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 42,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 4,
+    "api_no": 2
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 43,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 4,
+    "api_no": 3
+}, {
+    "api_boss_bgm": [5, 5],
+    "api_id": 44,
+    "api_map_bgm": [12, 12],
+    "api_maparea_id": 4,
+    "api_no": 4
+}, {
+    "api_boss_bgm": [2, 2],
+    "api_id": 51,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 5,
+    "api_no": 1
+}, {
+    "api_boss_bgm": [3, 3],
+    "api_id": 52,
+    "api_map_bgm": [12, 12],
+    "api_maparea_id": 5,
+    "api_no": 2
+}, {
+    "api_boss_bgm": [3, 3],
+    "api_id": 53,
+    "api_map_bgm": [1, 2],
+    "api_maparea_id": 5,
+    "api_no": 3
+}, {
+    "api_boss_bgm": [5, 5],
+    "api_id": 54,
+    "api_map_bgm": [4, 2],
+    "api_maparea_id": 5,
+    "api_no": 4
+}, {
+    "api_boss_bgm": [6, 6],
+    "api_id": 55,
+    "api_map_bgm": [4, 5],
+    "api_maparea_id": 5,
+    "api_no": 5
+}]

@@ -1,0 +1,2164 @@
+[{
+    "api_color_no": 0,
+    "api_id": 1,
+    "api_map_no": 11,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 1,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 2,
+    "api_map_no": 11,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 1,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 3,
+    "api_map_no": 11,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 1,
+    "api_no": 2
+}, {
+    "api_color_no": 5,
+    "api_id": 4,
+    "api_map_no": 11,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 1,
+    "api_no": 3
+}, {
+    "api_color_no": 0,
+    "api_id": 5,
+    "api_map_no": 12,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 2,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 6,
+    "api_map_no": 12,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 2,
+    "api_no": 1
+}, {
+    "api_color_no": 2,
+    "api_id": 7,
+    "api_map_no": 12,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 2,
+    "api_no": 2
+}, {
+    "api_color_no": 5,
+    "api_id": 8,
+    "api_map_no": 12,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 2,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 9,
+    "api_map_no": 12,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 2,
+    "api_no": 4
+}, {
+    "api_color_no": 0,
+    "api_id": 10,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 11,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 1
+}, {
+    "api_color_no": 3,
+    "api_id": 12,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 2
+}, {
+    "api_color_no": 2,
+    "api_id": 13,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 14,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 15,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 16,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 6
+}, {
+    "api_color_no": 5,
+    "api_id": 17,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 18,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 19,
+    "api_map_no": 13,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 3,
+    "api_no": 9
+}, {
+    "api_color_no": 0,
+    "api_id": 20,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 21,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 22,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 2
+}, {
+    "api_color_no": 2,
+    "api_id": 23,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 24,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 4
+}, {
+    "api_color_no": 2,
+    "api_id": 25,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 5
+}, {
+    "api_color_no": 2,
+    "api_id": 26,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 27,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 28,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 29,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 9
+}, {
+    "api_color_no": 5,
+    "api_id": 30,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 10
+}, {
+    "api_color_no": 2,
+    "api_id": 31,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 11
+}, {
+    "api_color_no": 5,
+    "api_id": 32,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 12
+}, {
+    "api_color_no": 5,
+    "api_id": 33,
+    "api_map_no": 14,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 4,
+    "api_no": 13
+}, {
+    "api_color_no": 0,
+    "api_id": 34,
+    "api_map_no": 21,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 1,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 35,
+    "api_map_no": 21,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 1,
+    "api_no": 1
+}, {
+    "api_color_no": 2,
+    "api_id": 36,
+    "api_map_no": 21,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 1,
+    "api_no": 2
+}, {
+    "api_color_no": 2,
+    "api_id": 37,
+    "api_map_no": 21,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 1,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 38,
+    "api_map_no": 21,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 1,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 39,
+    "api_map_no": 21,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 1,
+    "api_no": 5
+}, {
+    "api_color_no": 5,
+    "api_id": 40,
+    "api_map_no": 21,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 1,
+    "api_no": 6
+}, {
+    "api_color_no": 0,
+    "api_id": 41,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 42,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 1
+}, {
+    "api_color_no": 2,
+    "api_id": 43,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 2
+}, {
+    "api_color_no": 2,
+    "api_id": 44,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 45,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 4
+}, {
+    "api_color_no": 2,
+    "api_id": 46,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 47,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 6
+}, {
+    "api_color_no": 5,
+    "api_id": 48,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 49,
+    "api_map_no": 22,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 2,
+    "api_no": 8
+}, {
+    "api_color_no": 0,
+    "api_id": 50,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 51,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 1
+}, {
+    "api_color_no": 2,
+    "api_id": 52,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 53,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 54,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 55,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 5
+}, {
+    "api_color_no": 2,
+    "api_id": 56,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 6
+}, {
+    "api_color_no": 2,
+    "api_id": 57,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 58,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 59,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 60,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 10
+}, {
+    "api_color_no": 5,
+    "api_id": 61,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 11
+}, {
+    "api_color_no": 2,
+    "api_id": 62,
+    "api_map_no": 23,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 3,
+    "api_no": 12
+}, {
+    "api_color_no": 0,
+    "api_id": 63,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 64,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 1
+}, {
+    "api_color_no": 2,
+    "api_id": 65,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 66,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 67,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 68,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 69,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 6
+}, {
+    "api_color_no": 2,
+    "api_id": 70,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 71,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 8
+}, {
+    "api_color_no": 2,
+    "api_id": 72,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 73,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 74,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 75,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 76,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 13
+}, {
+    "api_color_no": 4,
+    "api_id": 77,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 14
+}, {
+    "api_color_no": 4,
+    "api_id": 78,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 15
+}, {
+    "api_color_no": 5,
+    "api_id": 79,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 16
+}, {
+    "api_color_no": 5,
+    "api_id": 80,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 17
+}, {
+    "api_color_no": 5,
+    "api_id": 81,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 18
+}, {
+    "api_color_no": 4,
+    "api_id": 82,
+    "api_map_no": 24,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 4,
+    "api_no": 19
+}, {
+    "api_color_no": 0,
+    "api_id": 83,
+    "api_map_no": 31,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 1,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 84,
+    "api_map_no": 31,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 1,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 85,
+    "api_map_no": 31,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 1,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 86,
+    "api_map_no": 31,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 1,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 87,
+    "api_map_no": 31,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 1,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 88,
+    "api_map_no": 31,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 1,
+    "api_no": 5
+}, {
+    "api_color_no": 5,
+    "api_id": 89,
+    "api_map_no": 31,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 1,
+    "api_no": 6
+}, {
+    "api_color_no": 0,
+    "api_id": 90,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 91,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 92,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 2
+}, {
+    "api_color_no": 3,
+    "api_id": 93,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 94,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 4
+}, {
+    "api_color_no": 2,
+    "api_id": 95,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 96,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 6
+}, {
+    "api_color_no": 2,
+    "api_id": 97,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 7
+}, {
+    "api_color_no": 5,
+    "api_id": 98,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 8
+}, {
+    "api_color_no": 2,
+    "api_id": 99,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 100,
+    "api_map_no": 32,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 2,
+    "api_no": 10
+}, {
+    "api_color_no": 0,
+    "api_id": 101,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 102,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 1
+}, {
+    "api_color_no": 3,
+    "api_id": 103,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 104,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 3
+}, {
+    "api_color_no": 3,
+    "api_id": 105,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 106,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 5
+}, {
+    "api_color_no": 3,
+    "api_id": 107,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 108,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 109,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 8
+}, {
+    "api_color_no": 2,
+    "api_id": 110,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 9
+}, {
+    "api_color_no": 2,
+    "api_id": 111,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 10
+}, {
+    "api_color_no": 5,
+    "api_id": 112,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 113,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 12
+}, {
+    "api_color_no": 5,
+    "api_id": 114,
+    "api_map_no": 33,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 3,
+    "api_no": 13
+}, {
+    "api_color_no": 0,
+    "api_id": 115,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 116,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 117,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 2
+}, {
+    "api_color_no": 3,
+    "api_id": 118,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 119,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 120,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 121,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 6
+}, {
+    "api_color_no": 2,
+    "api_id": 122,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 123,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 8
+}, {
+    "api_color_no": 3,
+    "api_id": 124,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 125,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 126,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 127,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 128,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 13
+}, {
+    "api_color_no": 2,
+    "api_id": 129,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 14
+}, {
+    "api_color_no": 5,
+    "api_id": 130,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 15
+}, {
+    "api_color_no": 4,
+    "api_id": 131,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 16
+}, {
+    "api_color_no": 4,
+    "api_id": 132,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 17
+}, {
+    "api_color_no": 4,
+    "api_id": 133,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 18
+}, {
+    "api_color_no": 4,
+    "api_id": 134,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 19
+}, {
+    "api_color_no": 5,
+    "api_id": 135,
+    "api_map_no": 34,
+    "api_maparea_id": 3,
+    "api_mapinfo_no": 4,
+    "api_no": 20
+}, {
+    "api_color_no": 0,
+    "api_id": 136,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 137,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 138,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 139,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 140,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 141,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 142,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 143,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 144,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 8
+}, {
+    "api_color_no": 5,
+    "api_id": 145,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 146,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 147,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 11
+}, {
+    "api_color_no": 5,
+    "api_id": 148,
+    "api_map_no": 41,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 1,
+    "api_no": 12
+}, {
+    "api_color_no": 0,
+    "api_id": 149,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 150,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 151,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 2
+}, {
+    "api_color_no": 3,
+    "api_id": 152,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 153,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 4
+}, {
+    "api_color_no": 2,
+    "api_id": 154,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 155,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 156,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 157,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 8
+}, {
+    "api_color_no": 5,
+    "api_id": 158,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 9
+}, {
+    "api_color_no": 2,
+    "api_id": 159,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 160,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 161,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 12
+}, {
+    "api_color_no": 5,
+    "api_id": 162,
+    "api_map_no": 42,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 2,
+    "api_no": 13
+}, {
+    "api_color_no": 0,
+    "api_id": 163,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 164,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 165,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 2
+}, {
+    "api_color_no": 2,
+    "api_id": 166,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 167,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 168,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 5
+}, {
+    "api_color_no": 3,
+    "api_id": 169,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 170,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 171,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 172,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 9
+}, {
+    "api_color_no": 3,
+    "api_id": 173,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 10
+}, {
+    "api_color_no": 2,
+    "api_id": 174,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 175,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 12
+}, {
+    "api_color_no": 5,
+    "api_id": 176,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 13
+}, {
+    "api_color_no": 4,
+    "api_id": 177,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 14
+}, {
+    "api_color_no": 4,
+    "api_id": 178,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 15
+}, {
+    "api_color_no": 4,
+    "api_id": 179,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 16
+}, {
+    "api_color_no": 4,
+    "api_id": 180,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 17
+}, {
+    "api_color_no": 4,
+    "api_id": 181,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 18
+}, {
+    "api_color_no": 4,
+    "api_id": 182,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 19
+}, {
+    "api_color_no": 4,
+    "api_id": 183,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 20
+}, {
+    "api_color_no": 3,
+    "api_id": 184,
+    "api_map_no": 43,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 3,
+    "api_no": 21
+}, {
+    "api_color_no": 0,
+    "api_id": 185,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 186,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 1
+}, {
+    "api_color_no": 3,
+    "api_id": 187,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 188,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 189,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 190,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 5
+}, {
+    "api_color_no": 2,
+    "api_id": 191,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 192,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 193,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 8
+}, {
+    "api_color_no": 2,
+    "api_id": 194,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 9
+}, {
+    "api_color_no": 5,
+    "api_id": 195,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 196,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 197,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 198,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 13
+}, {
+    "api_color_no": 4,
+    "api_id": 199,
+    "api_map_no": 44,
+    "api_maparea_id": 4,
+    "api_mapinfo_no": 4,
+    "api_no": 14
+}, {
+    "api_color_no": 0,
+    "api_id": 200,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 0
+}, {
+    "api_color_no": 3,
+    "api_id": 201,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 202,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 203,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 3
+}, {
+    "api_color_no": 2,
+    "api_id": 204,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 205,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 206,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 207,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 208,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 8
+}, {
+    "api_color_no": 5,
+    "api_id": 209,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 210,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 211,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 212,
+    "api_map_no": 51,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 1,
+    "api_no": 12
+}, {
+    "api_color_no": 0,
+    "api_id": 213,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 214,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 215,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 216,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 217,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 4
+}, {
+    "api_color_no": 2,
+    "api_id": 218,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 219,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 220,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 221,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 222,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 9
+}, {
+    "api_color_no": 5,
+    "api_id": 223,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 224,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 11
+}, {
+    "api_color_no": 2,
+    "api_id": 225,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 226,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 13
+}, {
+    "api_color_no": 5,
+    "api_id": 227,
+    "api_map_no": 52,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 2,
+    "api_no": 14
+}, {
+    "api_color_no": 0,
+    "api_id": 228,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 229,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 230,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 231,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 232,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 233,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 234,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 6
+}, {
+    "api_color_no": 2,
+    "api_id": 235,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 236,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 237,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 238,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 10
+}, {
+    "api_color_no": 5,
+    "api_id": 239,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 240,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 241,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 13
+}, {
+    "api_color_no": 4,
+    "api_id": 242,
+    "api_map_no": 53,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 3,
+    "api_no": 14
+}, {
+    "api_color_no": 0,
+    "api_id": 243,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 244,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 245,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 246,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 247,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 248,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 249,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 250,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 7
+}, {
+    "api_color_no": 3,
+    "api_id": 251,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 252,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 253,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 10
+}, {
+    "api_color_no": 2,
+    "api_id": 254,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 255,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 256,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 13
+}, {
+    "api_color_no": 4,
+    "api_id": 257,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 14
+}, {
+    "api_color_no": 5,
+    "api_id": 258,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 15
+}, {
+    "api_color_no": 4,
+    "api_id": 259,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 16
+}, {
+    "api_color_no": 4,
+    "api_id": 260,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 17
+}, {
+    "api_color_no": 2,
+    "api_id": 261,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 18
+}, {
+    "api_color_no": 5,
+    "api_id": 262,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 19
+}, {
+    "api_color_no": 5,
+    "api_id": 263,
+    "api_map_no": 54,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 4,
+    "api_no": 20
+}, {
+    "api_color_no": 0,
+    "api_id": 264,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 265,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 266,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 267,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 268,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 269,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 270,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 271,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 7
+}, {
+    "api_color_no": 2,
+    "api_id": 272,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 273,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 274,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 275,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 11
+}, {
+    "api_color_no": 4,
+    "api_id": 276,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 277,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 13
+}, {
+    "api_color_no": 5,
+    "api_id": 278,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 14
+}, {
+    "api_color_no": 4,
+    "api_id": 279,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 15
+}, {
+    "api_color_no": 4,
+    "api_id": 280,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 16
+}, {
+    "api_color_no": 4,
+    "api_id": 281,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 17
+}, {
+    "api_color_no": 5,
+    "api_id": 282,
+    "api_map_no": 55,
+    "api_maparea_id": 5,
+    "api_mapinfo_no": 5,
+    "api_no": 18
+}, {
+    "api_color_no": 0,
+    "api_id": 283,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 284,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 285,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 286,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 287,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 288,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 289,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 6
+}, {
+    "api_color_no": 4,
+    "api_id": 290,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 291,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 8
+}, {
+    "api_color_no": 5,
+    "api_id": 292,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 9
+}, {
+    "api_color_no": 5,
+    "api_id": 293,
+    "api_map_no": 15,
+    "api_maparea_id": 1,
+    "api_mapinfo_no": 5,
+    "api_no": 10
+}, {
+    "api_color_no": 0,
+    "api_id": 294,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 295,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 296,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 297,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 298,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 299,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 300,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 6
+}, {
+    "api_color_no": 2,
+    "api_id": 301,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 7
+}, {
+    "api_color_no": 4,
+    "api_id": 302,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 303,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 9
+}, {
+    "api_color_no": 4,
+    "api_id": 304,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 10
+}, {
+    "api_color_no": 2,
+    "api_id": 305,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 11
+}, {
+    "api_color_no": 5,
+    "api_id": 306,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 307,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 13
+}, {
+    "api_color_no": 4,
+    "api_id": 308,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 14
+}, {
+    "api_color_no": 5,
+    "api_id": 309,
+    "api_map_no": 25,
+    "api_maparea_id": 2,
+    "api_mapinfo_no": 5,
+    "api_no": 15
+}]

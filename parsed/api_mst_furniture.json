@@ -1,0 +1,1837 @@
+[{
+    "api_description": "鎮守府の艦隊司令官室。その通常仕様の床板です。",
+    "api_id": 1,
+    "api_no": 0,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "鎮守府の床",
+    "api_type": 0
+}, {
+    "api_description": "天然木を使用した明るい木目が特徴の床です。",
+    "api_id": 2,
+    "api_no": 1,
+    "api_price": 50,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "ナチュラルな床",
+    "api_type": 0
+}, {
+    "api_description": "高級仕上げの床に舞う桜の<br>花びら。春の季節ならでは<br>のフローリングです。艦娘<br>たちとの鎮守府庭でのお花<br>見も楽しいですね！",
+    "api_id": 3,
+    "api_no": 2,
+    "api_price": 1700,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "桜舞う春のフローリング",
+    "api_type": 0
+}, {
+    "api_description": "しっかりとした木板で構成<br>された、木と新緑の香り漂<br>うフローリングです。作戦<br>室にはもちろん、教室の床<br>材としても最適ですね！",
+    "api_id": 4,
+    "api_no": 3,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "新緑のフローリング",
+    "api_type": 0
+}, {
+    "api_description": "高級なマホガニー仕様の重厚なフローリング。地味にセンスの光る提督の執務室にぴったり！",
+    "api_id": 5,
+    "api_no": 4,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "高級フローリング",
+    "api_type": 0
+}, {
+    "api_description": "シンプルで合わせやすい赤のカーペット。",
+    "api_id": 6,
+    "api_no": 5,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "赤のカーペット",
+    "api_type": 0
+}, {
+    "api_description": "出撃して高揚した気分も落ち着く、青色のカーペット。艦娘たちもお気に入りです。",
+    "api_id": 7,
+    "api_no": 6,
+    "api_price": 150,
+    "api_rarity": 1,
+    "api_saleflg": 1,
+    "api_title": "ブルーカーペット",
+    "api_type": 0
+}, {
+    "api_description": "高級素材を惜しげもなく使用した贅沢なタイルの床。",
+    "api_id": 8,
+    "api_no": 7,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "明るいウッドタイルの床",
+    "api_type": 0
+}, {
+    "api_description": "足元から明るい気分になれる白いタイル。洗練されたデザインは、モダンなインテリアにもよく合います！",
+    "api_id": 9,
+    "api_no": 8,
+    "api_price": 150,
+    "api_rarity": 1,
+    "api_saleflg": 1,
+    "api_title": "白い石板タイル",
+    "api_type": 0
+}, {
+    "api_description": "ダークブラウンで格調高い印象の高級な床。",
+    "api_id": 10,
+    "api_no": 9,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "暗めのウッドタイルの床",
+    "api_type": 0
+}, {
+    "api_description": "シャープで重厚な印象の黒いタイルの床。",
+    "api_id": 11,
+    "api_no": 10,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "黒いタイルの床",
+    "api_type": 0
+}, {
+    "api_description": "まるで草原にいるような心和む緑のカーペット。床とのコーディネートは、優しい気持ちにさせてくれます。",
+    "api_id": 12,
+    "api_no": 11,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "小花柄カーペット",
+    "api_type": 0
+}, {
+    "api_description": "白い床に青が爽やかな清潔感のある床。",
+    "api_id": 13,
+    "api_no": 12,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "青の小花柄のカーペット",
+    "api_type": 0
+}, {
+    "api_description": "ブラウンに小花柄がカントリー調で馴染みやすい印象のカーペット。",
+    "api_id": 14,
+    "api_no": 13,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "茶色の小花柄のカーペット",
+    "api_type": 0
+}, {
+    "api_description": "紫でシックながらも小花柄で可愛らしいカーペット。<br>和風にまとめても奥ゆかしい印象に。",
+    "api_id": 15,
+    "api_no": 14,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "紫の小花柄のカーペット",
+    "api_type": 0
+}, {
+    "api_description": "ブロックチェックがモダンで都会的な高級感を演出。",
+    "api_id": 16,
+    "api_no": 15,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "モダンな床",
+    "api_type": 0
+}, {
+    "api_description": "ガーリーなピンクに仕上げられた床。どこかのお店のような不思議な雰囲気を醸し出します。",
+    "api_id": 17,
+    "api_no": 16,
+    "api_price": 1200,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "ピンクの床",
+    "api_type": 0
+}, {
+    "api_description": "マットの柄やクッションの刺繍がエスニックで凝ったデザイン。",
+    "api_id": 18,
+    "api_no": 17,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "エスニックなマット",
+    "api_type": 0
+}, {
+    "api_description": "装飾的なアイテムは落ち着いたピンク系統でまとめると落ち着いたフェミニンな印象に。",
+    "api_id": 19,
+    "api_no": 18,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "フェミニンなマット",
+    "api_type": 0
+}, {
+    "api_description": "大胆な柄が部屋の印象を明るく演出してくれます。お馬さんのぬいぐるみもポイント高し。",
+    "api_id": 20,
+    "api_no": 19,
+    "api_price": 300,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "西欧風カーペット",
+    "api_type": 0
+}, {
+    "api_description": "高級な素材で仕上げられた真っ赤な絨毯。何かが三倍早くなるような気もしますが、それは気のせいです！紅茶セットも素敵デース！",
+    "api_id": 21,
+    "api_no": 20,
+    "api_price": 800,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "真っ赤な高級絨毯",
+    "api_type": 0
+}, {
+    "api_description": "寝そべったら気持ちよさそ<br>う！真っ白でフワフワ仕上<br>げの高級絨毯。駆逐艦娘も<br>大喜びの逸品です。紅茶と<br>かこぼしたらダメ絶対！",
+    "api_id": 22,
+    "api_no": 21,
+    "api_price": 1500,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "真っ白なフワフワ絨毯",
+    "api_type": 0
+}, {
+    "api_description": "大柄でもお部屋に馴染むナチュラルカラーを選べば悩まず柄を取り入れられます！",
+    "api_id": 23,
+    "api_no": 22,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "緑の北欧風カーペット",
+    "api_type": 0
+}, {
+    "api_description": "無垢でまっさらな白い床。",
+    "api_id": 24,
+    "api_no": 23,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "真っ白の床",
+    "api_type": 0
+}, {
+    "api_description": "ダークで荘厳な印象の黒の床。",
+    "api_id": 25,
+    "api_no": 24,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "真っ黒の床",
+    "api_type": 0
+}, {
+    "api_description": "情熱の赤い床。",
+    "api_id": 26,
+    "api_no": 25,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "真っ赤な床",
+    "api_type": 0
+}, {
+    "api_description": "活動的な印象の朱色の床。",
+    "api_id": 27,
+    "api_no": 26,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "朱色の床",
+    "api_type": 0
+}, {
+    "api_description": "シャープでスマートな青い床。",
+    "api_id": 28,
+    "api_no": 27,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "真っ青な床",
+    "api_type": 0
+}, {
+    "api_description": "カジュアルにも渋くも部屋を演出できる濃い緑の床。",
+    "api_id": 29,
+    "api_no": 28,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "緑の床",
+    "api_type": 0
+}, {
+    "api_description": "草原を思わせるような明るい黄緑の床。",
+    "api_id": 30,
+    "api_no": 29,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "黄緑の床",
+    "api_type": 0
+}, {
+    "api_description": "鎮守府で執務しながら艦載<br>機の発着艦訓練も可能かも<br>しれない特注の飛行甲板型<br>の床。エレベーターが一体<br>どこに行くのか謎です。",
+    "api_id": 31,
+    "api_no": 30,
+    "api_price": 9300,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "飛行甲板",
+    "api_type": 0
+}, {
+    "api_description": "こっそり夜まで布団の上でお菓子の交換こ！<br>食べたい…けどねむい…だべたい…ねむ…zzz",
+    "api_id": 32,
+    "api_no": 31,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "合宿セット・布団",
+    "api_type": 0
+}, {
+    "api_description": "都会派の貴方はこれでキマリ！洗練されたアーバンな執務室を演出するコンクリート製の床！",
+    "api_id": 33,
+    "api_no": 32,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "コンクリート床",
+    "api_type": 0
+}, {
+    "api_description": "何度描いても水で簡単にふき取りが可能な楽しい床。戦略を立てるのにも有効です。",
+    "api_id": 34,
+    "api_no": 33,
+    "api_price": 400,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "ラクガキ床",
+    "api_type": 0
+}, {
+    "api_description": "天然木と白タイルを組み合わせて戦艦級の艦艇柄をあしらった斬新な床です。自負に溢れた執務室です。",
+    "api_id": 35,
+    "api_no": 34,
+    "api_price": 450,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "戦艦タイルの床",
+    "api_type": 0
+}, {
+    "api_description": "い草の爽やかな香りが漂う畳。<br>鮮やかな緑が若々しく健やかな印象。",
+    "api_id": 36,
+    "api_no": 35,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "鮮やかな畳",
+    "api_type": 0
+}, {
+    "api_description": "熟練の職人が仕上げた逸品。心も安らぐい草の香りが爽やか。懐かしい、そして最高級の畳の床です。",
+    "api_id": 37,
+    "api_no": 36,
+    "api_price": 700,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "い草の畳",
+    "api_type": 0
+}, {
+    "api_description": "前任の提督が使っていたままの壁紙です。若干汚れていますし、なんとなく新調したい気もちょっぴりしますね。",
+    "api_id": 38,
+    "api_no": 0,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "普通の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "一番安い壁紙です。いいのです。執務室で戦闘するわけではないですし！",
+    "api_id": 39,
+    "api_no": 1,
+    "api_price": 50,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "低予算な壁紙",
+    "api_type": 1
+}, {
+    "api_description": "和の家具と調和する落ち着<br>いた雰囲気の壁紙が欲しい<br>…という提督達のニーズに<br>よって誕生したシンプルな<br>和壁紙です。",
+    "api_id": 40,
+    "api_no": 2,
+    "api_price": 300,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "和のシンプル壁紙",
+    "api_type": 1
+}, {
+    "api_description": "モスグリーンの落ち着いた地色に花柄パターンのシックでお洒落な壁。ちょっと格調高いですね！",
+    "api_id": 41,
+    "api_no": 3,
+    "api_price": 250,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "緑の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "春の雰囲気にマッチした明<br>るい色調で仕上げられた和<br>の壁紙。シンプルなデザイ<br>ンの中に、どんな家具とも<br>馴染む奥深い趣き。",
+    "api_id": 42,
+    "api_no": 4,
+    "api_price": 1000,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "春仕様の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "あずき色×若草色で昭和レトロな趣ある壁紙。",
+    "api_id": 43,
+    "api_no": 5,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "昭和レトロな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "シックな色合いと柄使いが大正ロマンを思わせる壁紙。",
+    "api_id": 44,
+    "api_no": 6,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "大正ロマンな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "カジュアルな若い感性の壁紙。鮮やかな色彩のストライプには提督は渋い顔ですが、気にしません！",
+    "api_id": 45,
+    "api_no": 7,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "ポップな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "青×黄が爽やかポップで可愛い印象です！",
+    "api_id": 46,
+    "api_no": 8,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "爽やかポップな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "もっと落ち着いた和の心の<br>壁紙が欲しい…という提督<br>の要請から生まれた、高級<br>和風壁紙。違いのわかる、<br>大人の提督に人気です。",
+    "api_id": 47,
+    "api_no": 9,
+    "api_price": 700,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "高級和風壁紙",
+    "api_type": 1
+}, {
+    "api_description": "特注家具職人がそのもてる<br>技術とセンスを総動員して<br>作り上げた、艦娘のための<br>新作壁紙。職人は満足気な<br>表情で帰って行きました…",
+    "api_id": 48,
+    "api_no": 10,
+    "api_price": 2000,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "家具職人の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "ポップな配色が可愛い壁紙。<br>和洋折衷で使いやすい壁紙。",
+    "api_id": 49,
+    "api_no": 11,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "ポップな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "低い位置に装飾のラインが一本だけ入った気品のある壁紙。どんな家具にもマッチします。",
+    "api_id": 50,
+    "api_no": 12,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "シンプルモダン壁紙",
+    "api_type": 1
+}, {
+    "api_description": "ポップな花柄をシックなカラーでまとめた大人カジュアを楽しむにはこれ！",
+    "api_id": 51,
+    "api_no": 13,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "モダンポップな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "水色×ベージュで可憐な印象の壁紙。",
+    "api_id": 52,
+    "api_no": 14,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "可憐な壁紙",
+    "api_type": 1
+}, {
+    "api_description": "寒色系でまとめた清楚かつ清潔なイメージの壁紙。知的な艦娘たちに好評です！",
+    "api_id": 53,
+    "api_no": 15,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "青い壁紙",
+    "api_type": 1
+}, {
+    "api_description": "職人が丹精込めてしっかり<br>焼き上げた赤煉瓦を用いて<br>イギリス積みで組み上げた<br>様式美漂う鎮守府の壁。違<br>いの判る提督に人気です。",
+    "api_id": 54,
+    "api_no": 16,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "高級赤煉瓦の壁",
+    "api_type": 1
+}, {
+    "api_description": "春のうららかな陽気にぴったりの桃色ベースの壁紙です。",
+    "api_id": 55,
+    "api_no": 17,
+    "api_price": 300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "チェック＆リーフ壁紙",
+    "api_type": 1
+}, {
+    "api_description": "壁紙ではなく、壁材自身を<br>木材に換装した逸品。自然<br>の素材ならではの落ち着い<br>た雰囲気が、鎮守府を優し<br>く包み込みます。",
+    "api_id": 56,
+    "api_no": 18,
+    "api_price": 1000,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "木板の壁",
+    "api_type": 1
+}, {
+    "api_description": "素材の木材自身の醸し出す<br>美しさと落ち着いた雰囲気<br>が味わえる高級木材の壁。<br>職人が山に登って厳選した<br>素材の良さが伝わります。",
+    "api_id": 57,
+    "api_no": 19,
+    "api_price": 2200,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "高級木材の壁",
+    "api_type": 1
+}, {
+    "api_description": "秋の気配を感じる今日この<br>頃にぴったりの落ち着いた<br>和の雰囲気の壁紙です。畳<br>などの和の家具とも自然と<br>馴染む穏やかな仕上がり。",
+    "api_id": 58,
+    "api_no": 20,
+    "api_price": 1500,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "折鶴の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "シンプルでありながら繊細<br>な仕事によって完成された<br>和の究極の壁紙のひとつ、<br>それがこの「緑の和壁紙」<br>壁紙ってわびさびよね…。",
+    "api_id": 59,
+    "api_no": 21,
+    "api_price": 1900,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "緑の和壁紙",
+    "api_type": 1
+}, {
+    "api_description": "皐月五月、新緑の季節を表<br>現した爽やかな壁紙です。<br>緑は目に優しく、また心を<br>落ち着かせる効果もあると<br>大淀さんも云ってました！",
+    "api_id": 60,
+    "api_no": 22,
+    "api_price": 900,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "新緑の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "ピンクの大きなドットがポップな雰囲気を醸し出す壁紙。前衛的なキュートさは、一部の艦娘に大好評！",
+    "api_id": 61,
+    "api_no": 23,
+    "api_price": 400,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "ピンクドット壁紙",
+    "api_type": 1
+}, {
+    "api_description": "大きなドットが子供らしいポップな壁紙。<br>淡いブルーで純粋な印象に！",
+    "api_id": 62,
+    "api_no": 24,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "ブルードットな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "大和魂を奮い立たせるジャパニーズモダン！<br>壁一面を使った大胆な柄はインパクト大！",
+    "api_id": 63,
+    "api_no": 25,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "粋な壁紙",
+    "api_type": 1
+}, {
+    "api_description": "一面のブラックに赤のさし色。センスの効いた壁紙です。艦娘が選ぶ壁紙大賞の銀賞を受賞した逸品。",
+    "api_id": 64,
+    "api_no": 26,
+    "api_price": 750,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "和モダンアート壁紙",
+    "api_type": 1
+}, {
+    "api_description": "夏の浴衣を連想させる情緒ある落ち着いた壁紙。",
+    "api_id": 65,
+    "api_no": 27,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "奥ゆかしい壁紙",
+    "api_type": 1
+}, {
+    "api_description": "落ち着いた色合いが和室にぴったり！",
+    "api_id": 66,
+    "api_no": 28,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "穏やかな壁紙",
+    "api_type": 1
+}, {
+    "api_description": "新春の新たな鎮守府の装い<br>のために新調された壁紙。<br>控えめなデザインの中に、<br>新年を切り拓く艦娘たちの<br>闘志が込められています。",
+    "api_id": 67,
+    "api_no": 29,
+    "api_price": 1800,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "新春の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "打ちっぱなしの冷たいコンクリート壁面がクール。知的でセンスのある近代的な艦隊司令部を演出します。",
+    "api_id": 68,
+    "api_no": 30,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "コンクリート壁",
+    "api_type": 1
+}, {
+    "api_description": "一部の艦娘に絶賛されているピンクのコンクリート壁。打ちっぱなし壁面なのにキュートな独特な雰囲気。",
+    "api_id": 69,
+    "api_no": 31,
+    "api_price": 250,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "ピンクコンクリ壁",
+    "api_type": 1
+}, {
+    "api_description": "家具箱の一斉開封機能実装<br>を記念して用意された家具<br>コイン長者に贈る逸品。龍<br>をモチーフにしたデザイン<br>の最高級和風壁紙です。",
+    "api_id": 70,
+    "api_no": 32,
+    "api_price": 50000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "龍の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "壁一面に紅葉した紅葉をあ<br>しらった手間暇のかかった<br>家具コイン長者提督に贈る<br>逸品。秋の夜長の艦隊指揮<br>にぴったりの最高級壁紙。",
+    "api_id": 71,
+    "api_no": 33,
+    "api_price": 20000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "紅葉の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "鎮守府に備え付けの基本的なデザインの赤いカーテンと窓。母港の様子が一望できます。",
+    "api_id": 72,
+    "api_no": 0,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "赤カーテンの窓",
+    "api_type": 2
+}, {
+    "api_description": "知的な貴方にぴったりのグリーンのカーテン。落ち着いて戦略を練る提督にぴったりです。",
+    "api_id": 73,
+    "api_no": 1,
+    "api_price": 50,
+    "api_rarity": 1,
+    "api_saleflg": 1,
+    "api_title": "緑カーテンの窓",
+    "api_type": 2
+}, {
+    "api_description": "爽やかな雰囲気になれるブルーのカーテン。生地も少し高級な素材を使っています。",
+    "api_id": 74,
+    "api_no": 2,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 1,
+    "api_title": "青カーテンの窓",
+    "api_type": 2
+}, {
+    "api_description": "鎮守府や泊地の新年を祝う<br>ための新年飾り。門松はも<br>ちろん、新春を艦娘たちと<br>楽しく迎えるための大切な<br>家具です。よいお年を！",
+    "api_id": 75,
+    "api_no": 3,
+    "api_price": 2000,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "鎮守府新年飾り",
+    "api_type": 2
+}, {
+    "api_description": "ある航空母艦娘が用意して<br>くれた破魔矢を配した特注<br>仕様の窓です。職人のこだ<br>わりが随所に感じられる特<br>注高級家具です。",
+    "api_id": 76,
+    "api_no": 4,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "破魔矢の窓",
+    "api_type": 2
+}, {
+    "api_description": "重厚感と高級感を感じさせる、シックなカーテンと窓。黒色系で統一された風格のある執務室を演出します。",
+    "api_id": 77,
+    "api_no": 5,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "ちょっとゴージャスな窓",
+    "api_type": 2
+}, {
+    "api_description": "円形窓のデザインが美しい<br>落ち着いた雰囲気をもった<br>高級和窓。晩秋の鎮守府に<br>あうこの和窓、今だけ特注<br>家具職人なしで設置可能！",
+    "api_id": 78,
+    "api_no": 6,
+    "api_price": 1980,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "晩秋の高級和窓",
+    "api_type": 2
+}, {
+    "api_description": "高級感溢れるビロードのカーテンが嬉しい、落ち着いた佇まいの大窓。",
+    "api_id": 79,
+    "api_no": 7,
+    "api_price": 350,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "青い上品な大窓",
+    "api_type": 2
+}, {
+    "api_description": "母港のドックを見渡せるよ<br>うに大きく窓が開いた窓。<br>開放的な気分で、艦娘との<br>作戦会議も捗ります！",
+    "api_id": 80,
+    "api_no": 8,
+    "api_price": 20000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "広く開いた大窓",
+    "api_type": 2
+}, {
+    "api_description": "繊細なレースカーテンがモダンな印象を与える、フレンチモダンな小窓。",
+    "api_id": 81,
+    "api_no": 9,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "モダンな小窓",
+    "api_type": 2
+}, {
+    "api_description": "ピンクのレースカーテンが可愛い、ガーリーな小窓。",
+    "api_id": 82,
+    "api_no": 10,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "ガーリーな小窓",
+    "api_type": 2
+}, {
+    "api_description": "ミントグリーンのカーテンと窓際の置かれたグリーンが爽やかな気持ちにしてくれる小窓。",
+    "api_id": 83,
+    "api_no": 11,
+    "api_price": 300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "爽やかな窓",
+    "api_type": 2
+}, {
+    "api_description": "艦娘お手製のてるてる坊主が吊るされた窓。梅雨の雨もこれがあれば安心です！中に何かが入っている気もしますが気にしませんっ！",
+    "api_id": 84,
+    "api_no": 12,
+    "api_price": 2000,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "てるてる坊主の窓",
+    "api_type": 2
+}, {
+    "api_description": "梅雨明けの窓に咲く紫陽花<br>の花。なにやら毒が作れる<br>って話もあるんですって。<br>龍田さんが云ってました！<br>夏気分先取りの風鈴付き！<br>",
+    "api_id": 85,
+    "api_no": 13,
+    "api_price": 1800,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "紫陽花の窓",
+    "api_type": 2
+}, {
+    "api_description": "いよいよ桜の季節となりま<br>した！家具職人を呼んで、<br>鎮守府の窓を大きく改造…<br>眼下の桜を肴に艦娘たちと<br>お昼からお花見宴会です！",
+    "api_id": 86,
+    "api_no": 14,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "お花見窓",
+    "api_type": 2
+}, {
+    "api_description": "間諜や暴漢から執務室を守るための堅牢な鉄格子の窓。これで、防犯体制もばっちりです！",
+    "api_id": 87,
+    "api_no": 15,
+    "api_price": 2500,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "鉄格子の窓",
+    "api_type": 2
+}, {
+    "api_description": "艦娘たちと一緒に鎮守府か<br>ら見る秋のお月様もいいも<br>のです。お団子とススキも<br>ご用意です…某正規空母の<br>つまみ食い注意して！",
+    "api_id": 88,
+    "api_no": 16,
+    "api_price": 1200,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "お月見窓",
+    "api_type": 2
+}, {
+    "api_description": "いつ敵の空襲を受けてもいいように艦娘たちにガラスをテーピングしてもらいました。これで安心なのです！",
+    "api_id": 89,
+    "api_no": 17,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "防空加工窓",
+    "api_type": 2
+}, {
+    "api_description": "究極にして最高の窓、それが障子。和のココロともいうべきデザイン。提督の熱いご要望でデラックス化！",
+    "api_id": 90,
+    "api_no": 18,
+    "api_price": 3000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "障子デラックス",
+    "api_type": 2
+}, {
+    "api_description": "シンプルなフレームの窓。機能美を追究したシンプルさが、質実剛健さを求める提督にぴったりです。",
+    "api_id": 91,
+    "api_no": 19,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "シンプルフレーム",
+    "api_type": 2
+}, {
+    "api_description": "機能美を追究したシンプルさが、質実剛健さを求める提督にぴったり。シンプルな白タイプ！",
+    "api_id": 92,
+    "api_no": 20,
+    "api_price": 200,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "シンプルフレーム2型",
+    "api_type": 2
+}, {
+    "api_description": "艦娘と見る中秋の名月もお<br>つなもの。どうせなら豪華<br>なお月見専用窓を執務室に<br>設営してしまいます？家具<br>職人も呼んでおきました！",
+    "api_id": 93,
+    "api_no": 21,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "豪華なお月見窓",
+    "api_type": 2
+}, {
+    "api_description": "なにやら少し現代的な機能<br>を持った簾付のシンプルな<br>窓です。これなら午後の日<br>差しが差し込んできても落<br>ち着いて執務できますね。",
+    "api_id": 94,
+    "api_no": 22,
+    "api_price": 350,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "シンプルなすだれ窓",
+    "api_type": 2
+}, {
+    "api_description": "現代的な機能を持った簾のついた窓。まぶしい光が差し込んできても、スムーズに執務できちゃいますね！",
+    "api_id": 95,
+    "api_no": 23,
+    "api_price": 250,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "すだれ窓",
+    "api_type": 2
+}, {
+    "api_description": "すりガラスを入れた窓です。素敵にデザインされた紅葉柄が艦隊司令部に不思議な雰囲気を演出します。",
+    "api_id": 96,
+    "api_no": 24,
+    "api_price": 400,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "昔ながらのすりガラス",
+    "api_type": 2
+}, {
+    "api_description": "鎮守府のシンプルな窓枠を<br>艦娘たちが思い思いにデコ<br>レーション…手作りで飾っ<br>てくれました。冬の提督に<br>贈るハートフルな窓です。",
+    "api_id": 97,
+    "api_no": 25,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "艦娘による冬の窓",
+    "api_type": 2
+}, {
+    "api_description": "特注家具職人の手による冬<br>と雪をイメージした高級な<br>ステンドグラス。可愛らし<br>くそれでいてシックな仕上<br>りは艦娘に大人気です！",
+    "api_id": 98,
+    "api_no": 26,
+    "api_price": 2220,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "冬のステンドグラス",
+    "api_type": 2
+}, {
+    "api_description": "どこか懐かしくて新しいデザインのガラス格子窓です。ファンの多い優れたデザイナーによる逸品です。",
+    "api_id": 99,
+    "api_no": 27,
+    "api_price": 550,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "おしゃれな格子窓",
+    "api_type": 2
+}, {
+    "api_description": "究極にして最高の窓、それが障子。和のココロの昇華ともいうべきシンプルにして最高のデザイン。",
+    "api_id": 100,
+    "api_no": 28,
+    "api_price": 800,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "障子",
+    "api_type": 2
+}, {
+    "api_description": "わびさびのわかる、大人の<br>提督のための春の高級仕様<br>です。歴戦の提督が入手可<br>能なこの窓。桜を眺めると<br>少し泣けてきますね。",
+    "api_id": 101,
+    "api_no": 29,
+    "api_price": 40000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "春の高級窓",
+    "api_type": 2
+}, {
+    "api_description": "壁に何か飾れそうですね！",
+    "api_id": 102,
+    "api_no": 0,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "なし",
+    "api_type": 3
+}, {
+    "api_description": "大きなのっぽではない古時計です。優しく時を刻む音が、作戦立案で疲れた提督を癒します。",
+    "api_id": 103,
+    "api_no": 1,
+    "api_price": 150,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "壁掛け古時計",
+    "api_type": 3
+}, {
+    "api_description": "何者かの手による「お詫び。」と書かれた掛け軸。飾ることによって、うずしおを回避するような機能はない…気持ちの逸品。",
+    "api_id": 104,
+    "api_no": 2,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "お詫び掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "海と艦艇をモチーフにしたデザインは、1クラス上の上質な時間を演出します。",
+    "api_id": 105,
+    "api_no": 3,
+    "api_price": 500,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "ステンドグラス",
+    "api_type": 3
+}, {
+    "api_description": "リッチなロッジのような世界観を醸し出す鹿の壁掛け。だけど、剥製ではなくて、ぬいぐるみ。",
+    "api_id": 106,
+    "api_no": 4,
+    "api_price": 300,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "鹿のオブジェ",
+    "api_type": 3
+}, {
+    "api_description": "「海上護衛」の重要性を艦娘たちに訴えかけるような魂の掛け軸。大井提督の筆によるものとも軽巡や駆逐艦娘作など諸説あります。",
+    "api_id": 107,
+    "api_no": 5,
+    "api_price": 2000,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "「海上護衛」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "なくとなく壁がさみしい…そんな提督のココロを癒す、花の絵画。司令官室を華やかに演出。",
+    "api_id": 108,
+    "api_no": 6,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "花の絵画",
+    "api_type": 3
+}, {
+    "api_description": "提督20万人突破を記念して<br>ある軽巡が書いた掛け軸。<br>全ての提督達に沢山の感謝<br>だクマー！多摩だニャー！<br>キ、キソだキソ―！",
+    "api_id": 109,
+    "api_no": 7,
+    "api_price": 0,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "「20万の感謝」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "ある超弩級戦艦娘が書いた<br>提督数１００万人突破記念<br>感謝の掛け軸。同戦艦娘は<br>「就役する妹も、よろしく<br>お願いしますね」と語る。",
+    "api_id": 110,
+    "api_no": 8,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「100万の感謝」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "優れた海の戦士は優しい紳士たれ。シルクハットと懐中時計がとっても紳士的な帽子掛け。",
+    "api_id": 111,
+    "api_no": 9,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "紳士な帽子掛け",
+    "api_type": 3
+}, {
+    "api_description": "「夜戦」に飽くなき執念と見敵必殺の想いを込めた艦娘自身の手による一筆です。",
+    "api_id": 112,
+    "api_no": 10,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "「夜戦」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "提督50万人突破を記念して<br>ある戦艦が書いた掛け軸。<br>べ、別に何か焦っていると<br>かではないぞ。純粋に感謝<br>の気持ちだ、胸が熱いな！",
+    "api_id": 113,
+    "api_no": 11,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「50万の感謝」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "あけましておめでとうござ<br>います！本年もどうぞよろ<br>しくお願い致します。新年<br>も提督と艦娘たちが幸せで<br>ありますように！",
+    "api_id": 114,
+    "api_no": 12,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「謹賀新年」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "提督数80万人を突破したっ<br>ぽい？ということで、ある<br>駆逐艦が準備した掛け軸。<br>ハンモック意匠を凝らした<br>キュートなデザイン。",
+    "api_id": 115,
+    "api_no": 13,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「80万の感謝」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "とても古い世界地図。よく見ると謎の印が！お宝のありかかもしれません…平和な海がきたら探索ですね！",
+    "api_id": 116,
+    "api_no": 14,
+    "api_price": 50,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "古い世界地図",
+    "api_type": 3
+}, {
+    "api_description": "提督への想いのつまった逸品です。どの艦娘の作品かはわかり…あ…裏に名前が書いてありました。",
+    "api_id": 117,
+    "api_no": 15,
+    "api_price": 2400,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "「なのです」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "歴戦の水雷戦隊である第六<br>駆逐隊。その栄光と武運長<br>久を祈って、ある暁型駆逐<br>艦の手によって書かれた掛<br>け軸です。",
+    "api_id": 118,
+    "api_no": 16,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「第六駆逐隊」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "地図をもっと大切に保管したいコレクター癖のあるあなたはこっち！",
+    "api_id": 119,
+    "api_no": 17,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "フレーム付地図",
+    "api_type": 3
+}, {
+    "api_description": "小さくても緑の観葉植物が、戦いで疲れたココロを癒してくれます。",
+    "api_id": 120,
+    "api_no": 18,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "小さな観葉植物",
+    "api_type": 3
+}, {
+    "api_description": "演習で疲れた心を癒す観葉植物。<br>爽やかなホワイト。",
+    "api_id": 121,
+    "api_no": 19,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "シンプルな観葉植物",
+    "api_type": 3
+}, {
+    "api_description": "日本海側唯一の鎮守府にし<br>て、数々の苦難を乗り越え<br>る漢たちの港、舞鶴。その<br>気概と肉じゃががアレンジ<br>された魂の掛け軸です。",
+    "api_id": 122,
+    "api_no": 20,
+    "api_price": 0,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "「舞鶴鎮守府」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "喜び、明るさ、明朗、愉快を表現するフラワーアレンジメント。司令官室を華やかなに快活に演出します！",
+    "api_id": 123,
+    "api_no": 21,
+    "api_price": 150,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "アレンジメント",
+    "api_type": 3
+}, {
+    "api_description": "提督と秘書艦たちが戦略や<br>作戦を練るための図上演習<br>セットです。戦力駒に磁石<br>がついた、まさかの壁掛け<br>タイプで省スペースです！",
+    "api_id": 124,
+    "api_no": 22,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "壁掛け図上演習セット",
+    "api_type": 3
+}, {
+    "api_description": "ある正規空母艦娘が新春<br>に書いた、提督数１５０万<br>人突破を記念した掛け軸。<br>なぜ掛け軸に妹の名を書く<br>必要があるのかは謎です。",
+    "api_id": 125,
+    "api_no": 23,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「150万の感謝」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "二水戦の旗艦を務めた艦娘<br>の手による提督数１８０万<br>人突破を記念した掛け軸。<br>「次発装填済みです…」と<br>呟きながらの達筆です。",
+    "api_id": 126,
+    "api_no": 24,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「180万の感謝」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "提督のおかげで迎えること<br>ができた「祝一周年」を記<br>念して制作された掛け軸。<br>二年目も、どうぞよろしく<br>お願い致します！",
+    "api_id": 127,
+    "api_no": 25,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "「一周年記念」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "ちび大怪獣の襲来！迎え撃つ艦娘の勇姿！大ヒットした総天然色映画のポスターです。",
+    "api_id": 128,
+    "api_no": 26,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "怪獣映画ポスター",
+    "api_type": 3
+}, {
+    "api_description": "なんとなくコーヒー牛乳が飲みたくなる…そんな風情たっぷりの富士山をあしらった壁画。",
+    "api_id": 129,
+    "api_no": 27,
+    "api_price": 3000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "富士山の壁画",
+    "api_type": 3
+}, {
+    "api_description": "遠い国での戦艦の反乱を描いた古いサイレント映画のポスターです。とってもレアなポスターなんです！",
+    "api_id": 130,
+    "api_no": 28,
+    "api_price": 400,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "戦艦映画ポスター",
+    "api_type": 3
+}, {
+    "api_description": "リボンがチャームポイントの女の子とウサギのガーリーなポスター。",
+    "api_id": 131,
+    "api_no": 29,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "女の子のポスター",
+    "api_type": 3
+}, {
+    "api_description": "空技廠から独自のルートで手に入れた新型艦上戦闘機の試作機ポスター。空母な艦娘垂涎の逸品です。",
+    "api_id": 132,
+    "api_no": 30,
+    "api_price": 1000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "試作艦戦ポスター",
+    "api_type": 3
+}, {
+    "api_description": "素敵にインテリアを置きたいですね！",
+    "api_id": 133,
+    "api_no": 0,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "なし",
+    "api_type": 4
+}, {
+    "api_description": "昔ながらの雰囲気の箪笥。<br>どんなお部屋にも馴染みます。",
+    "api_id": 134,
+    "api_no": 1,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "昔ながらの箪笥",
+    "api_type": 4
+}, {
+    "api_description": "各提督御用達の落ち着いた高品質でシックなサイドボードはいかが？鎮守府の雰囲気にもぴったりです。",
+    "api_id": 135,
+    "api_no": 2,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "サイドボード",
+    "api_type": 4
+}, {
+    "api_description": "霧の艦艇が艦隊を去る時に<br>ナノマテリアルで作ってく<br>れた、置き土産の霧箪笥。<br>箪笥の上には、あの艦の精<br>密模型が飾られています。",
+    "api_id": 136,
+    "api_no": 3,
+    "api_price": 0,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "「霧」の桐箪笥",
+    "api_type": 4
+}, {
+    "api_description": "「鬼は外、福は内！」艦娘<br>たちと節分の豆まきを行う<br>ための準備一式です。歳の<br>分だけ豆を食べると厄除け<br>にもなるみたいです！",
+    "api_id": 137,
+    "api_no": 4,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "節分「豆まき」セット",
+    "api_type": 4
+}, {
+    "api_description": "提督の執務室には暖炉が似合う！上には自慢の品を色々と飾っちゃいましょう！火事には注意してね。",
+    "api_id": 138,
+    "api_no": 5,
+    "api_price": 250,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "暖炉",
+    "api_type": 4
+}, {
+    "api_description": "艦娘たちが提督のために心<br>を込めて用意したバレンタ<br>インデーの贈り物。香り高<br>い紅茶と甘いチョコレート<br>ケーキを召し上がれ！",
+    "api_id": 139,
+    "api_no": 6,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "チョコケーキと紅茶セット",
+    "api_type": 4
+}, {
+    "api_description": "鎮守府の雛祭りをお祝する<br>古から伝わる家具。長門型<br>戦艦をイメージしたお内裏<br>様とお雛様が箪笥の上に鎮<br>座した可愛い雛人形です。",
+    "api_id": 140,
+    "api_no": 7,
+    "api_price": 20000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "「長門」「陸奥」の雛人形",
+    "api_type": 4
+}, {
+    "api_description": "インテリジェンスを感じさせるエレガントなサイドボード。選ぶ人のセンスが光る逸品です。",
+    "api_id": 141,
+    "api_no": 8,
+    "api_price": 300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "エレガントボード",
+    "api_type": 4
+}, {
+    "api_description": "各鎮守府や拠点に贈られた<br>白いツリー。少しずつ飾り<br>も充実させていきたいです<br>ね…。作戦行動中の全提督<br>の皆さんにお贈りします。",
+    "api_id": 142,
+    "api_no": 9,
+    "api_price": 0,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "鎮守府のツリー",
+    "api_type": 4
+}, {
+    "api_description": "淡いピンクなデザインの食器棚にぬいぐるみ達がとってもメルヘンな雰囲気を醸し出すインテリア家具。",
+    "api_id": 143,
+    "api_no": 10,
+    "api_price": 450,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "メルヘンシェルフ",
+    "api_type": 4
+}, {
+    "api_description": "冬を迎える各鎮守府に必要<br>なもの…それは充実の煖房<br>器具。その原点にして頂点<br>ともいえるこのストーブ。<br>やかんもセットでどうぞ！",
+    "api_id": 144,
+    "api_no": 11,
+    "api_price": 2000,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "やかんストーブ",
+    "api_type": 4
+}, {
+    "api_description": "クラシックでシンプルな食器棚。やはり艦隊の指揮に紅茶セットは必須アイテムでしょ？",
+    "api_id": 145,
+    "api_no": 12,
+    "api_price": 300,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "クラシックシェルフ",
+    "api_type": 4
+}, {
+    "api_description": "高雄型重巡の模型が飾られ<br>た高級桐箪笥。家具コイン<br>長者に贈られるこの逸品…<br>「豪華」といって差し上げ<br>ますわ！",
+    "api_id": 146,
+    "api_no": 13,
+    "api_price": 47000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "重巡模型と桐箪笥",
+    "api_type": 4
+}, {
+    "api_description": "提督20万人突破と、家具箱<br>の一斉開封機能実装を記念<br>して用意された、最高級の<br>桐箪笥。某正規空母の精密<br>模型が鎮座してます。",
+    "api_id": 147,
+    "api_no": 14,
+    "api_price": 7000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "「赤城」模型と桐箪笥",
+    "api_type": 4
+}, {
+    "api_description": "家具箱の一斉開封機能実装<br>を記念して用意された家具<br>コイン長者に贈る逸品。精<br>密模型は長門型。必要家具<br>コインの数もビッグ７級！",
+    "api_id": 148,
+    "api_no": 15,
+    "api_price": 70000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "「長門」模型と桐箪笥",
+    "api_type": 4
+}, {
+    "api_description": "所属する艦娘の大雑把な性格が見事に表現された折り畳み机！とりあえずここにかけとこっと！",
+    "api_id": 149,
+    "api_no": 16,
+    "api_price": 150,
+    "api_rarity": 1,
+    "api_saleflg": 1,
+    "api_title": "折り畳み机",
+    "api_type": 4
+}, {
+    "api_description": "ちょっと大きめのハンガーラック。<br>どんな服をかけようかな？",
+    "api_id": 150,
+    "api_no": 17,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "ハンガーラック",
+    "api_type": 4
+}, {
+    "api_description": "何となく視線を感じる素敵なハンガーラック。ちょっと大きめで色々かけられそう！",
+    "api_id": 151,
+    "api_no": 18,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 1,
+    "api_title": "ハンガーラック",
+    "api_type": 4
+}, {
+    "api_description": "艦娘が出撃前に殺到する鏡台。身だしなみは大事です！なぜ提督の部屋にあるのか、ちょっと謎です。",
+    "api_id": 152,
+    "api_no": 19,
+    "api_price": 600,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "ドレッサー",
+    "api_type": 4
+}, {
+    "api_description": "頬の紅潮が可愛いかもしれないおかめのお面。",
+    "api_id": 153,
+    "api_no": 20,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "照れ屋なお面",
+    "api_type": 4
+}, {
+    "api_description": "冬を迎える提督の執務室の<br>必需品といえる煖房器具。<br>その中でも最高級クラスに<br>位置するのが、この暖炉。<br>最高の温もりを貴方に。",
+    "api_id": 154,
+    "api_no": 21,
+    "api_price": 22000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "Ｚ旗の暖炉",
+    "api_type": 4
+}, {
+    "api_description": "お部屋も気持ちも爽やかにしてくれるグリーンのプランター。ぜひ、ときどき配置してもみて気分転換を！",
+    "api_id": 155,
+    "api_no": 22,
+    "api_price": 50,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "緑のプランター",
+    "api_type": 4
+}, {
+    "api_description": "春は異動や引っ越しの季節<br>です。我が鎮守府でも艦娘<br>に手伝ってもらって部屋の<br>お掃除や模様替えをしまし<br>ょう！",
+    "api_id": 156,
+    "api_no": 23,
+    "api_price": 700,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "模様替えお掃除セット",
+    "api_type": 4
+}, {
+    "api_description": "しょうぶの花がアレンジさ<br>れた和風家具。しょうぶの<br>葉を入れたお風呂、しょう<br>ぶ湯も健康によさそう！美<br>と武を祈る季節家具です。",
+    "api_id": 157,
+    "api_no": 24,
+    "api_price": 1700,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "しょうぶ和箪笥",
+    "api_type": 4
+}, {
+    "api_description": "前線で戦う艦娘をベストな医療環境でバックアップ。一部の提督の熱い要望により実現した診療台セット。医療？診察？",
+    "api_id": 158,
+    "api_no": 25,
+    "api_price": 4500,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "診療台セット",
+    "api_type": 4
+}, {
+    "api_description": "鎮守府で戦術や航海の講義<br>をする際に用いる教室セッ<br>ト。その後ろ側の学生机。<br>後ろ側なので、教科書を立<br>てて授業中の内職もОＫ！",
+    "api_id": 159,
+    "api_no": 26,
+    "api_price": 30000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "教室セット「机」",
+    "api_type": 4
+}, {
+    "api_description": "存在感抜群の招き猫！<br>お部屋に置くといいことあるかも！？",
+    "api_id": 160,
+    "api_no": 27,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "存在感のある招き猫",
+    "api_type": 4
+}, {
+    "api_description": "ちょっと臆病なだるまくん。<br>でも負けない！くじけない！七転八起！",
+    "api_id": 161,
+    "api_no": 28,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "泣き虫だるま",
+    "api_type": 4
+}, {
+    "api_description": "必勝祈願に「だるま」はいかがですか？両方入った黒目で艦隊の武運長久をお祈りします！",
+    "api_id": 162,
+    "api_no": 29,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "だるま",
+    "api_type": 4
+}, {
+    "api_description": "突然変異で誕生しただるま。<br>神秘的な表情が神々しい気がしますが特にご利益はないようです。",
+    "api_id": 163,
+    "api_no": 30,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "新生だるま",
+    "api_type": 4
+}, {
+    "api_description": "引っ越したてのなかなか片付かない段ボール。<br>はやく捨てたい。",
+    "api_id": 164,
+    "api_no": 0,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "ただの段ボール",
+    "api_type": 5
+}, {
+    "api_description": "提督の執務室に似合う趣きのある椅子。ちょっと腰を落ち着けて物事をじっくり考えれそう！",
+    "api_id": 165,
+    "api_no": 1,
+    "api_price": 100,
+    "api_rarity": 1,
+    "api_saleflg": 0,
+    "api_title": "椅子",
+    "api_type": 5
+}, {
+    "api_description": "色々な資料を広げられる立派な机と椅子のセットをどうぞ。艦隊の指揮がぱっちりとれそうです！",
+    "api_id": 166,
+    "api_no": 2,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "執務机",
+    "api_type": 5
+}, {
+    "api_description": "おさがりでもらったばかり。<br>どんな部屋にも合うシンプルな机。",
+    "api_id": 167,
+    "api_no": 3,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "おさがりの机",
+    "api_type": 5
+}, {
+    "api_description": "１クラス上の提督の貴方にお奨めしたい、執務机。この机なら連戦連勝、間違いなし！",
+    "api_id": 168,
+    "api_no": 4,
+    "api_price": 350,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "提督の机",
+    "api_type": 5
+}, {
+    "api_description": "真面目な印象の重厚感のある机。",
+    "api_id": 169,
+    "api_no": 5,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "ダンディな机",
+    "api_type": 5
+}, {
+    "api_description": "質の高い織柄のテーブルクロスがポイント！戦略資料を積み重ねて微動だにしない確かな作り。",
+    "api_id": 170,
+    "api_no": 6,
+    "api_price": 500,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "大将の机",
+    "api_type": 5
+}, {
+    "api_description": "気高く伝統的な、憧れの社長机。",
+    "api_id": 171,
+    "api_no": 7,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "社長の机",
+    "api_type": 5
+}, {
+    "api_description": "木彫で暖かみのある高いデザイン性と機能美を持った椅子。女の子達にも人気の逸品です。",
+    "api_id": 172,
+    "api_no": 8,
+    "api_price": 200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "インテリア椅子",
+    "api_type": 5
+}, {
+    "api_description": "暖炉の前にありそうなほっこり可愛い椅子。<br>今ならニットのひざ掛けつき！",
+    "api_id": 173,
+    "api_no": 9,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "ナチュラルな椅子",
+    "api_type": 5
+}, {
+    "api_description": "鎮守府で戦術や航海の講義<br>をする際に用いる教室セッ<br>ト。その教卓と前列の机。<br>教卓最前列の机なので、真<br>面目な艦娘達が座ります！",
+    "api_id": 174,
+    "api_no": 10,
+    "api_price": 40000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "教室セット「教卓」",
+    "api_type": 5
+}, {
+    "api_description": "アートな輝きを放つスタイリッシュなデザイナーズチェア。これなら宇宙艦隊の指揮もとれそうです。",
+    "api_id": 175,
+    "api_no": 11,
+    "api_price": 350,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "モダンチェア",
+    "api_type": 5
+}, {
+    "api_description": "小さな駆逐艦娘たちを喜ば<br>せるために提督が用意した<br>ツリーとプレゼントたち。<br>大きな艦娘たちも少し羨ま<br>しそうに見ています！",
+    "api_id": 176,
+    "api_no": 12,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "駆逐艦娘のツリー",
+    "api_type": 5
+}, {
+    "api_description": "計算された角度や素材使いで使い心地抜群！<br>日常でアートを楽しめる一品。",
+    "api_id": 177,
+    "api_no": 13,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "モダンなテーブル",
+    "api_type": 5
+}, {
+    "api_description": "提督の熱い要望による、ちゃぶ台＆座布団。ちゃぶ台の上には艦娘お手製の朝食が…頂きます！（ちゃぶ台返しは厳禁です）",
+    "api_id": 178,
+    "api_no": 14,
+    "api_price": 2000,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "ちゃぶ台セット",
+    "api_type": 5
+}, {
+    "api_description": "「鬼は外ぉ～、福は内～っ<br>ひっく！」ちょっと大人な<br>軽空母たちと節分の厄除け<br>を行う準備です。豆はおつ<br>まみとして使用する模様。",
+    "api_id": 179,
+    "api_no": 15,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "大人の節分セット",
+    "api_type": 5
+}, {
+    "api_description": "格調高いプロ仕様の写真機とレフ版、背景による艦娘撮影セット。出撃前の雄姿を撮りたいですね！（※撮影機能等はありません…）",
+    "api_id": 180,
+    "api_no": 16,
+    "api_price": 3500,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "撮影セット",
+    "api_type": 5
+}, {
+    "api_description": "ちょっと肌寒くなってきた<br>ので、例年より早く出して<br>きてしまった炬燵セット。<br>某球磨型軽巡も思わず丸く<br>なりそうな逸品です！",
+    "api_id": 181,
+    "api_no": 17,
+    "api_price": 3500,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "早く出しすぎた炬燵",
+    "api_type": 5
+}, {
+    "api_description": "高級な羽毛布団と二つの枕<br>による安眠セット。これで<br>夜の快眠もバッチリです。<br>特注家具職人が丹精込めて<br>作った次世代布団セット！",
+    "api_id": 182,
+    "api_no": 18,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "羽毛布団と枕",
+    "api_type": 5
+}, {
+    "api_description": "書類一式にサインした提督<br>のみが敷くことができる、<br>シンプルにして至高の煎餅<br>布団。読みかけの本が平和<br>なひと時を感じさせます。",
+    "api_id": 183,
+    "api_no": 19,
+    "api_price": 300,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "煎餅布団",
+    "api_type": 5
+}, {
+    "api_description": "提督達の熱い要望により、<br>遂に実装された特注家具。<br>それが「床の間」。各種の<br>掛け軸との親和性もばっち<br>りの提督ご用達家具です！",
+    "api_id": 184,
+    "api_no": 20,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "床の間",
+    "api_type": 5
+}, {
+    "api_description": "艦娘の待機部屋から持ち出してきたガーリーなデザインの机と椅子。後で怒られますよ？",
+    "api_id": 185,
+    "api_no": 21,
+    "api_price": 400,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "艦娘専用デスク",
+    "api_type": 5
+}, {
+    "api_description": "一部提督の熱い支持により<br>鎮守府に持ち込まれること<br>になった麻雀卓。艦隊勤務<br>中には使用せず、非番の時<br>に楽しんでいる…ハズ。",
+    "api_id": 186,
+    "api_no": 22,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "提督の麻雀卓",
+    "api_type": 5
+}, {
+    "api_description": "名産地から取り寄せた西瓜<br>です。もちろん、西瓜割り<br>用の棒とシートもご用意。<br>艦娘たちと提督の夏休みも<br>これでバッチリです！",
+    "api_id": 187,
+    "api_no": 23,
+    "api_price": 1700,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "西瓜割りセット",
+    "api_type": 5
+}, {
+    "api_description": "艦娘の衣装作りに欠かせな<br>い高級ミシンセット。これ<br>で、夏〇ミ衣装もパッチリ<br>ですね！※実際に艦娘の衣<br>装製作機能はありません…<br>",
+    "api_id": 188,
+    "api_no": 24,
+    "api_price": 4500,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "高級ミシン",
+    "api_type": 5
+}, {
+    "api_description": "提督と本格的なティーパー<br>ティをエンジョイするため<br>に金剛が遙か英国より取り<br>寄せた豪華な紅茶セット！<br>四姉妹御用達の逸品です。<br>",
+    "api_id": 189,
+    "api_no": 25,
+    "api_price": 9000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "金剛の紅茶セット",
+    "api_type": 5
+}, {
+    "api_description": "イチゴケーキのようなキュートなスツール！<br>もふもふで座り心地も抜群！<br>お部屋に置くだけでインテリアにも。",
+    "api_id": 190,
+    "api_no": 26,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "おいしそうなスツール",
+    "api_type": 5
+}, {
+    "api_description": "ちょっとした休憩や踏み台にあると便利なサイズ。<br>素材を生かしたライトベージュ。",
+    "api_id": 191,
+    "api_no": 27,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "小さなウッドベージュの椅子",
+    "api_type": 5
+}, {
+    "api_description": "提督20万人突破を記念して<br>用意された夏の風物詩。艦<br>娘たちより提督が先に童心<br>帰って水遊びにしちゃ、だ<br>めですよ！",
+    "api_id": 192,
+    "api_no": 28,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_title": "ご家庭用プール",
+    "api_type": 5
+}, {
+    "api_description": "モダンセンスあふれるガラスを天板したテープル。艦娘たちとのパーティにも重宝します。",
+    "api_id": 193,
+    "api_no": 29,
+    "api_price": 350,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "ガラステーブル",
+    "api_type": 5
+}, {
+    "api_description": "ピンクが主張しすぎないシンプルでフェミニンなガラステーブル。",
+    "api_id": 194,
+    "api_no": 30,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 0,
+    "api_title": "フェミニンガラステーブル",
+    "api_type": 5
+}, {
+    "api_description": "執務の間にごろんと横になるための近代的な単身者用ベッド。月月火水木金金を実践される提督に人気です！",
+    "api_id": 195,
+    "api_no": 31,
+    "api_price": 4000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "シングルベッド",
+    "api_type": 5
+}, {
+    "api_description": "美味しそうな板チョコ風な<br>デザインの机と椅子です。<br>チョコレートの甘い香りが<br>執務室全体に広がる不思議<br>な雰囲気をどうぞ！",
+    "api_id": 196,
+    "api_no": 32,
+    "api_price": 1200,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "板チョコ型の机",
+    "api_type": 5
+}, {
+    "api_description": "至高にして究極。普通のお布団と麦わら枕。結局これが一番疲れがとれるかも…。",
+    "api_id": 197,
+    "api_no": 33,
+    "api_price": 50,
+    "api_rarity": 1,
+    "api_saleflg": 1,
+    "api_title": "布団と枕",
+    "api_type": 5
+}, {
+    "api_description": "森の動物達がお茶会をはじめそうな素朴で素敵な机。艦娘にも人気の逸品！",
+    "api_id": 198,
+    "api_no": 34,
+    "api_price": 300,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "ウッディな執務机",
+    "api_type": 5
+}, {
+    "api_description": "特注家具職人が腕によりを<br>かけて設えた温泉檜風呂。<br>内風呂仕様になっており、<br>箱根要らずの提督御用達の<br>究極鎮守府設備です！",
+    "api_id": 199,
+    "api_no": 35,
+    "api_price": 8000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "温泉檜風呂",
+    "api_type": 5
+}, {
+    "api_description": "今夜は素敵なパーティしま<br>しょ！主計科さんが腕によ<br>りをかけて作ってくれた聖<br>夜のご馳走。よく焼かれた<br>七面鳥も美味しそう！",
+    "api_id": 200,
+    "api_no": 36,
+    "api_price": 3000,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_title": "七面鳥のご馳走",
+    "api_type": 5
+}, {
+    "api_description": "お内裏様とお雛様、そして<br>三人官女や五人囃子、右大<br>臣に左大臣、菱餅等も配し<br>た鎮守府雛人形豪華四段飾<br>り。職人の技が光ります。",
+    "api_id": 201,
+    "api_no": 37,
+    "api_price": 3300,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_title": "雛人形豪華四段飾り",
+    "api_type": 5
+}, {
+    "api_description": "あえて執務机などの家具を<br>置かず、シンプルな環境で<br>秘書艦と執務にあたりたい<br>という提督の意見具申から<br>生まれた「なし」です。",
+    "api_id": 202,
+    "api_no": 38,
+    "api_price": 0,
+    "api_rarity": 0,
+    "api_saleflg": 1,
+    "api_title": "なし",
+    "api_type": 5
+}, {
+    "api_description": "鎮守府で戦術や航海の講義<br>をする際に用いる教室セッ<br>ト。その必需品の黒板一式<br>です。チョークや黒板消し<br>も完備。落書き禁止です！",
+    "api_id": 203,
+    "api_no": 31,
+    "api_price": 50000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "教室セット「黒板」",
+    "api_type": 3
+}, {
+    "api_description": "ある超弩級戦艦娘による提<br>督２００万人突破記念感謝<br>の掛け軸。「大和のように<br>はいかないぜ。読みにくい<br>だと？ふっ気にするな！」",
+    "api_id": 204,
+    "api_no": 32,
+    "api_price": 0,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "「200万の感謝」掛け軸",
+    "api_type": 3
+}]
