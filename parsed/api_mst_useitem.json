@@ -343,7 +343,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["艦にスロット装備させる。装備した艦は1度だけ撃沈を回避できる。", ""],
+    "api_description": ["艦のスロットに装備する。装備した艦は1度だけ撃沈を回避できる。", ""],
     "api_id": 50,
     "api_name": "応急修理要員",
     "api_price": 0,
@@ -364,7 +364,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["最大保有艦娘数＋10(最大190)。最大保有アイテム数＋40(最大860)。", ""],
+    "api_description": ["最大保有艦娘数＋10(最大200)。最大保有アイテム数＋40(最大900)。", ""],
     "api_id": 53,
     "api_name": "母港拡張",
     "api_price": 0,

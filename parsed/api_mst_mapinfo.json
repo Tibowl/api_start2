@@ -8,7 +8,8 @@
     "api_name": "鎮守府正面海域",
     "api_no": 1,
     "api_opetext": "近海警備",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 12,
     "api_infotext": "南西諸島沖に接近する<br>敵前衛艦隊を捕捉、迎撃せよ！",
@@ -19,7 +20,8 @@
     "api_name": "南西諸島沖",
     "api_no": 2,
     "api_opetext": "南西諸島沖警備",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 13,
     "api_infotext": "製油所地帯沿岸部の<br>海上輸送ラインを防衛せよ！",
@@ -30,7 +32,8 @@
     "api_name": "製油所地帯沿岸",
     "api_no": 3,
     "api_opetext": "海上護衛作戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 14,
     "api_infotext": "南西諸島の防衛ライン上の<br>敵侵攻艦隊を捕捉、<br>全力出撃でこれを撃滅せよ！",
@@ -41,7 +44,8 @@
     "api_name": "南西諸島防衛線",
     "api_no": 4,
     "api_opetext": "南1号作戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 15,
     "api_infotext": "なるべく小編成の対潜哨戒部隊<br>を編成し、鎮守府近海に出没す<br>る敵潜水艦を発見・制圧せよ！",
@@ -52,7 +56,8 @@
     "api_name": "鎮守府近海",
     "api_no": 5,
     "api_opetext": "鎮守府近海対潜哨戒",
-    "api_required_defeat_count": 4
+    "api_required_defeat_count": 4,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 21,
     "api_infotext": "カムラン半島付近に<br>遊弋する敵艦隊を捕捉、<br>これを迎撃せよ！",
@@ -63,7 +68,8 @@
     "api_name": "カムラン半島",
     "api_no": 1,
     "api_opetext": "カ号迎撃戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 22,
     "api_infotext": "敵艦隊を排除し、<br>バシー島に集積された<br>ボーキサイト資材を輸送せよ！",
@@ -74,7 +80,8 @@
     "api_name": "バシー島沖",
     "api_no": 2,
     "api_opetext": "柳輸送作戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 23,
     "api_infotext": "オリョール海に進出し、<br>敵通商破壊艦隊を排除して、<br>海上輸送ラインを防衛せよ！",
@@ -85,7 +92,8 @@
     "api_name": "東部オリョール海",
     "api_no": 3,
     "api_opetext": "O1号作戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 24,
     "api_infotext": "沖ノ島海域に襲来した、<br>有力な敵機動部隊を迎撃、<br>全力出撃で、これを撃滅せよ！",
@@ -96,7 +104,8 @@
     "api_name": "沖ノ島海域",
     "api_no": 4,
     "api_opetext": "あ号艦隊決戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 25,
     "api_infotext": "同方面に敵反攻の兆候が報告さ<br>れた。巡洋艦を中心に哨戒部隊<br>を編成、敵艦隊の動向を探れ！",
@@ -107,7 +116,8 @@
     "api_name": "沖ノ島沖",
     "api_no": 5,
     "api_opetext": "沖ノ島沖戦闘哨戒",
-    "api_required_defeat_count": 4
+    "api_required_defeat_count": 4,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 31,
     "api_infotext": "北方海域に艦隊を進出させ、<br>モーレイ海を哨戒せよ！",
@@ -118,7 +128,8 @@
     "api_name": "モーレイ海",
     "api_no": 1,
     "api_opetext": "モーレイ海哨戒",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 32,
     "api_infotext": "駆逐艦のみの高速艦隊で、敵艦隊に包囲された北方海域キス島に突入！島の守備隊を無事収容せよ！",
@@ -129,7 +140,8 @@
     "api_name": "キス島沖",
     "api_no": 2,
     "api_opetext": "キス島撤退作戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 33,
     "api_infotext": "空母２隻以上を擁する空母機動<br>部隊をもって北方海域へ進出。<br>敵情の強行偵察を敢行せよ！",
@@ -140,7 +152,8 @@
     "api_name": "アルフォンシーノ方面",
     "api_no": 3,
     "api_opetext": "アルフォンシーノ方面進出",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 34,
     "api_infotext": "北方海域奥地に敵艦隊の大規模<br>泊地を発見！我が艦隊の総力を<br>挙げてこれを撃滅せよ！",
@@ -151,7 +164,8 @@
     "api_name": "北方海域全域",
     "api_no": 4,
     "api_opetext": "北方海域艦隊決戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 41,
     "api_infotext": "西方作戦の第一段階として、ジャム島攻略作戦を展開せよ！(対潜警戒を厳とせよ)",
@@ -162,7 +176,8 @@
     "api_name": "ジャム島攻略作戦",
     "api_no": 1,
     "api_opetext": "ジャム島攻略作戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 42,
     "api_infotext": "カレー洋の制圧作戦を行う。採掘地域を確保しつつ、カレー半島水域の敵艦隊を無力化せよ！",
@@ -173,7 +188,8 @@
     "api_name": "カレー洋制圧戦",
     "api_no": 2,
     "api_opetext": "カレー洋制圧戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 43,
     "api_infotext": "空母を伴った艦隊を編成し、リランカ島の敵母港に展開する敵艦隊を叩け！",
@@ -184,7 +200,8 @@
     "api_name": "リランカ島空襲",
     "api_no": 3,
     "api_opetext": "リランカ島空襲",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 44,
     "api_infotext": "カレー洋西方の敵哨戒線を突破、カスガダマ島沖へ侵攻し、敵東方艦隊の中枢部隊を撃滅せよ！",
@@ -195,7 +212,8 @@
     "api_name": "カスガダマ沖海戦",
     "api_no": 4,
     "api_opetext": "カスガダマ沖海戦",
-    "api_required_defeat_count": 4
+    "api_required_defeat_count": 4,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 51,
     "api_infotext": "練度の高い水上打撃部隊を編成し、南方海域への進出を図れ！",
@@ -206,7 +224,8 @@
     "api_name": "南方海域前面",
     "api_no": 1,
     "api_opetext": "南方海域進出作戦",
-    "api_required_defeat_count": null
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 52,
     "api_infotext": "MO作戦を実施する。空母機動部隊を展開し、南方海域に出没する敵機動部隊を叩け！",
@@ -217,7 +236,8 @@
     "api_name": "珊瑚諸島沖",
     "api_no": 2,
     "api_opetext": "珊瑚諸島沖海戦",
-    "api_required_defeat_count": 4
+    "api_required_defeat_count": 4,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 53,
     "api_infotext": "敵泊地に対して水上打撃部隊による夜戦突撃を敢行し、艦隊後方の敵輸送艦を叩け！",
@@ -228,7 +248,8 @@
     "api_name": "サブ島沖海域",
     "api_no": 3,
     "api_opetext": "第一次サーモン沖海戦",
-    "api_required_defeat_count": 5
+    "api_required_defeat_count": 5,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 54,
     "api_infotext": "南方海域に有力な艦隊を投入し<br>鼠輸送作戦を敢行、可能であれ<br>ば同方面の敵艦隊も撃滅せよ！",
@@ -239,7 +260,8 @@
     "api_name": "サーモン海域",
     "api_no": 4,
     "api_opetext": "東京急行",
-    "api_required_defeat_count": 5
+    "api_required_defeat_count": 5,
+    "api_sally_flag": [1, 0]
 }, {
     "api_id": 55,
     "api_infotext": "南方海域に敵の有力な機動部隊<br>の接近が確認された。空母機動<br>部隊を以て、これを迎撃せよ！",
@@ -250,5 +272,78 @@
     "api_name": "サーモン海域北方",
     "api_no": 5,
     "api_opetext": "第二次サーモン海戦",
-    "api_required_defeat_count": 5
+    "api_required_defeat_count": 5,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 271,
+    "api_infotext": "AL/MI作戦が発動された！初動<br>作戦として、北方AL方面へ艦隊<br>を進出、同制海権を確保せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 5,
+    "api_maparea_id": 27,
+    "api_max_maphp": 300,
+    "api_name": "北方AL海域",
+    "api_no": 1,
+    "api_opetext": "北方AL海域へ進出せよ！",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 272,
+    "api_infotext": "MI作戦の陽動支援作戦として、<br>軽空母二隻を基幹とした艦隊等<br>で敵北方港湾基地を強襲せよ！",
+    "api_item": [32, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 27,
+    "api_max_maphp": 300,
+    "api_name": "北方AL海域",
+    "api_no": 2,
+    "api_opetext": "陽動作戦！北方港湾を叩け！",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 273,
+    "api_infotext": "いよいよMI作戦が発動された！<br>正規空母を基幹とした連合艦隊<br>(機動部隊)を編成、出撃せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 27,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋海域",
+    "api_no": 3,
+    "api_opetext": "決戦！MI作戦発動",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 1]
+}, {
+    "api_id": 274,
+    "api_infotext": "MI島海域に展開する敵機動部隊<br>を排除しつつ、連合艦隊を以て<br>同島の攻略作戦を実施せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 27,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋MI諸島近海",
+    "api_no": 4,
+    "api_opetext": "MI島攻略作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 1]
+}, {
+    "api_id": 275,
+    "api_infotext": "MI島攻略作戦は成功した！同島<br>奪還を目的として接近する増援<br>艦隊を捕捉、これを撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 10,
+    "api_maparea_id": 27,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋MI諸島沖",
+    "api_no": 5,
+    "api_opetext": "MI島確保作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 1]
+}, {
+    "api_id": 276,
+    "api_infotext": "緊急電文！AL/MI作戦展開中に<br>敵別働隊が本土近海に来襲！残<br>置艦隊全力でこれを迎撃せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 12,
+    "api_maparea_id": 27,
+    "api_max_maphp": 300,
+    "api_name": "本土南西諸島近海",
+    "api_no": 6,
+    "api_opetext": "敵別働隊を迎撃、本土近海防衛！",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }]

@@ -31,7 +31,7 @@
     "api_no": 3,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "新緑のフローリング",
     "api_type": 0
 }, {
@@ -44,13 +44,13 @@
     "api_title": "高級フローリング",
     "api_type": 0
 }, {
-    "api_description": "シンプルで合わせやすい赤のカーペット。",
+    "api_description": "匠の職人の技によって完成<br>した海岸の砂浜を鎮守府内<br>にダイナミックに再現した<br>砂浜の床。艦娘たちも時々<br>砂遊びに来るみたいです！",
     "api_id": 6,
     "api_no": 5,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
-    "api_title": "赤のカーペット",
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "砂浜の床",
     "api_type": 0
 }, {
     "api_description": "出撃して高揚した気分も落ち着く、青色のカーペット。艦娘たちもお気に入りです。",
@@ -373,7 +373,7 @@
     "api_no": 4,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "春仕様の壁紙",
     "api_type": 1
 }, {
@@ -449,13 +449,13 @@
     "api_title": "シンプルモダン壁紙",
     "api_type": 1
 }, {
-    "api_description": "ポップな花柄をシックなカラーでまとめた大人カジュアを楽しむにはこれ！",
+    "api_description": "執務室で仕事中も艦隊勤務<br>中と同じ雰囲気に包まれる<br>軍艦色で塗装された壁面。<br>シックかつ重厚な趣きの提<br>督執務室を構成します。",
     "api_id": 51,
     "api_no": 13,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
-    "api_title": "モダンポップな壁紙",
+    "api_price": 900,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "軍艦色の壁",
     "api_type": 1
 }, {
     "api_description": "水色×ベージュで可憐な印象の壁紙。",
@@ -526,7 +526,7 @@
     "api_no": 21,
     "api_price": 1900,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "緑の和壁紙",
     "api_type": 1
 }, {
@@ -535,7 +535,7 @@
     "api_no": 22,
     "api_price": 900,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "新緑の壁紙",
     "api_type": 1
 }, {
@@ -652,7 +652,7 @@
     "api_no": 1,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "緑カーテンの窓",
     "api_type": 2
 }, {
@@ -688,7 +688,7 @@
     "api_no": 5,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ちょっとゴージャスな窓",
     "api_type": 2
 }, {
@@ -737,7 +737,7 @@
     "api_title": "ガーリーな小窓",
     "api_type": 2
 }, {
-    "api_description": "ミントグリーンのカーテンと窓際の置かれたグリーンが爽やかな気持ちにしてくれる小窓。",
+    "api_description": "ミントグリーンのカーテンと窓際に置かれたグリーンが爽やかな気持ちにしてくれる小窓。",
     "api_id": 83,
     "api_no": 11,
     "api_price": 300,
@@ -751,7 +751,7 @@
     "api_no": 12,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "てるてる坊主の窓",
     "api_type": 2
 }, {
@@ -760,7 +760,7 @@
     "api_no": 13,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花の窓",
     "api_type": 2
 }, {
@@ -796,7 +796,7 @@
     "api_no": 17,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "防空加工窓",
     "api_type": 2
 }, {
@@ -1057,7 +1057,7 @@
     "api_no": 16,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3
 }, {
@@ -1097,7 +1097,7 @@
     "api_title": "「舞鶴鎮守府」掛け軸",
     "api_type": 3
 }, {
-    "api_description": "喜び、明るさ、明朗、愉快を表現するフラワーアレンジメント。司令官室を華やかなに快活に演出します！",
+    "api_description": "喜び、明るさ、明朗、愉快を表現するフラワーアレンジメント。司令官室を華やかに快活に演出します！",
     "api_id": 123,
     "api_no": 21,
     "api_price": 150,
@@ -1138,7 +1138,7 @@
     "api_no": 25,
     "api_price": 0,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "「一周年記念」掛け軸",
     "api_type": 3
 }, {
@@ -1156,7 +1156,7 @@
     "api_no": 27,
     "api_price": 3000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "富士山の壁画",
     "api_type": 3
 }, {
@@ -1327,7 +1327,7 @@
     "api_no": 15,
     "api_price": 70000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "「長門」模型と桐箪笥",
     "api_type": 4
 }, {
@@ -1363,7 +1363,7 @@
     "api_no": 19,
     "api_price": 600,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ドレッサー",
     "api_type": 4
 }, {
@@ -1385,7 +1385,7 @@
     "api_title": "Ｚ旗の暖炉",
     "api_type": 4
 }, {
-    "api_description": "お部屋も気持ちも爽やかにしてくれるグリーンのプランター。ぜひ、ときどき配置してもみて気分転換を！",
+    "api_description": "お部屋も気持ちも爽やかにしてくれるグリーンのプランター。ぜひ、ときどき配置もしてみて気分転換を！",
     "api_id": 155,
     "api_no": 22,
     "api_price": 50,
@@ -1408,7 +1408,7 @@
     "api_no": 24,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "しょうぶ和箪笥",
     "api_type": 4
 }, {
@@ -1466,7 +1466,7 @@
     "api_title": "新生だるま",
     "api_type": 4
 }, {
-    "api_description": "引っ越したてのなかなか片付かない段ボール。<br>はやく捨てたい。",
+    "api_description": "引っ越ししたてのなかなか片付かない段ボール。<br>はやく捨てたい。",
     "api_id": 164,
     "api_no": 0,
     "api_price": 0,
@@ -1525,7 +1525,7 @@
     "api_no": 6,
     "api_price": 500,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "大将の机",
     "api_type": 5
 }, {
@@ -1543,7 +1543,7 @@
     "api_no": 8,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "インテリア椅子",
     "api_type": 5
 }, {
@@ -1597,7 +1597,7 @@
     "api_no": 14,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ちゃぶ台セット",
     "api_type": 5
 }, {
@@ -1678,7 +1678,7 @@
     "api_no": 23,
     "api_price": 1700,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "西瓜割りセット",
     "api_type": 5
 }, {
@@ -1696,7 +1696,7 @@
     "api_no": 25,
     "api_price": 9000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "金剛の紅茶セット",
     "api_type": 5
 }, {
@@ -1718,7 +1718,7 @@
     "api_title": "小さなウッドベージュの椅子",
     "api_type": 5
 }, {
-    "api_description": "提督20万人突破を記念して<br>用意された夏の風物詩。艦<br>娘たちより提督が先に童心<br>帰って水遊びにしちゃ、だ<br>めですよ！",
+    "api_description": "提督20万人突破を記念して<br>用意された夏の風物詩。艦<br>娘たちより提督が先に童心<br>に返って水遊びしちゃ、だ<br>めですよ！",
     "api_id": 192,
     "api_no": 28,
     "api_price": 2000,
@@ -1831,7 +1831,115 @@
     "api_no": 32,
     "api_price": 0,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "「200万の感謝」掛け軸",
     "api_type": 3
+}, {
+    "api_description": "やはり決戦は迷彩で！流行<br>の迷彩衣装を纏う艦娘たち<br>の共作による掛け軸です。<br>ある重巡だけでなく空母艦<br>娘も制作に参加です！",
+    "api_id": 205,
+    "api_no": 33,
+    "api_price": 2200,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "「迷彩主義」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "大きくてのっぽでない古時<br>計です。触ると仕掛け鳩が<br>飛び出るギミック付の可動<br>家具です！<br>※可動仕様家具",
+    "api_id": 206,
+    "api_no": 34,
+    "api_price": 30000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "大きな古時計",
+    "api_type": 3
+}, {
+    "api_description": "シックで落ち着いた雰囲気<br>を醸し出す大人の書斎机。<br>書斎本棚と組み合わせれば<br>提督の隠れ家的な書斎空間<br>を演出します。",
+    "api_id": 207,
+    "api_no": 39,
+    "api_price": 1900,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "提督の書斎机",
+    "api_type": 5
+}, {
+    "api_description": "いよいよ〆切が迫ってきた<br>提督に贈る原稿制作用机。<br>原稿執筆に必要なあれこれ<br>はもちろん修羅場のお供の<br>ドリンクも常備です！",
+    "api_id": 208,
+    "api_no": 40,
+    "api_price": 25000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "原稿机",
+    "api_type": 5
+}, {
+    "api_description": "七夕の季節がやってきまし<br>た！笹の葉に短冊を飾って<br>艦娘達が七夕飾りを手作り<br>しました。全ての提督の皆<br>さんにお贈りします！",
+    "api_id": 209,
+    "api_no": 30,
+    "api_price": 0,
+    "api_rarity": 2,
+    "api_saleflg": 0,
+    "api_title": "七夕飾りの窓",
+    "api_type": 2
+}, {
+    "api_description": "今年の夏がやってきます！<br>鎮守府も窓を大きく開いて<br>夏の風を楽しみましょう。<br>蚊取り線香やラムネも重要<br>ですね！",
+    "api_id": 210,
+    "api_no": 31,
+    "api_price": 1700,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "蚊取り線香の窓",
+    "api_type": 2
+}, {
+    "api_description": "夏といえば、風鈴ですね！<br>風鈴に触れば涼やかな音を<br>奏で、ゆらゆら揺れます。<br>多摩や球磨も大喜び？<br>※可動仕様家具",
+    "api_id": 211,
+    "api_no": 32,
+    "api_price": 5000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "鎮守府風鈴",
+    "api_type": 2
+}, {
+    "api_description": "夏を楽しむための小道具を<br>艦隊の駆逐艦娘達が集めて<br>くれました！これをもって<br>海に繰り出すもよし、家庭<br>用プールで楽しむもよし！",
+    "api_id": 212,
+    "api_no": 31,
+    "api_price": 800,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_title": "夏先取りセット",
+    "api_type": 4
+}, {
+    "api_description": "少し大人な艦娘が夏を愉し<br>むのため特製リゾートセッ<br>トです。これを広げれば、<br>提督執務室もたちまち高級<br>リゾート地に早変わり！？",
+    "api_id": 213,
+    "api_no": 32,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "リゾートセット",
+    "api_type": 4
+}, {
+    "api_description": "書斎にぴったりの本格本棚<br>です。書斎机と同じ素材を<br>使って、落ち着いた雰囲気<br>を醸し出します。シックで<br>大人な提督の御用達です！",
+    "api_id": 214,
+    "api_no": 33,
+    "api_price": 1900,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "書斎本棚",
+    "api_type": 4
+}, {
+    "api_description": "夏の夜の風物詩といえば…<br>花火！夜のある時間になる<br>と鎮守府港外で花火が打ち<br>上げられます。その時間ま<br>では…普通の窓ですね！",
+    "api_id": 215,
+    "api_no": 33,
+    "api_price": 1800,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "花火の窓",
+    "api_type": 2
+}, {
+    "api_description": "気軽に楽しめる夏のプール<br>といえばコレ！サイズも小<br>さくて何人も入れませんが<br>駆逐艦娘にも大人気。時々<br>水漏れするけど…大丈夫！",
+    "api_id": 216,
+    "api_no": 41,
+    "api_price": 1500,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_title": "ビニールプール",
+    "api_type": 5
 }]
