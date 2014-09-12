@@ -167,6 +167,18 @@
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 0]
 }, {
+    "api_id": 35,
+    "api_infotext": "北方海域に敵増援の動きがある。<br>中規模の水上打撃部隊を派遣し、<br>敵増援を捕捉、これを撃滅せよ！",
+    "api_item": [32, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 3,
+    "api_max_maphp": null,
+    "api_name": "北方AL海域",
+    "api_no": 5,
+    "api_opetext": "北方海域戦闘哨戒",
+    "api_required_defeat_count": 4,
+    "api_sally_flag": [1, 0]
+}, {
     "api_id": 41,
     "api_infotext": "西方作戦の第一段階として、ジャム島攻略作戦を展開せよ！(対潜警戒を厳とせよ)",
     "api_item": [31, 0, 0, 0],

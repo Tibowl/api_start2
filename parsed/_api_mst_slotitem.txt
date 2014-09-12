@@ -118,10 +118,14 @@
 九一式徹甲弾: FP: 8
 九一式徹甲弾: Acc: 1
 九一式徹甲弾: Rare: 1
-7.7mm機銃: AA: 1
-12.7mm単装機銃: AA: 2
-25mm連装機銃: AA: 4
-25mm三連装機銃: AA: 5
+7.7mm機銃: AA: 2
+7.7mm機銃: Evas: 1
+12.7mm単装機銃: AA: 3
+12.7mm単装機銃: Evas: 1
+25mm連装機銃: AA: 5
+25mm連装機銃: Evas: 1
+25mm三連装機銃: AA: 6
+25mm三連装機銃: Evas: 1
 25mm三連装機銃: Rare: 1
 甲標的: Torp: 12
 甲標的: Rare: 1
@@ -135,15 +139,16 @@
 三式水中探信儀: Acc: 2
 三式水中探信儀: Rare: 2
 12.7cm単装高角砲: FP: 1
-12.7cm単装高角砲: AA: 2
+12.7cm単装高角砲: AA: 3
 12.7cm単装高角砲: Range: 1
-25mm単装機銃: AA: 3
+25mm単装機銃: AA: 4
+25mm単装機銃: Evas: 1
 25mm単装機銃: Rare: 1
 20.3cm(3号)連装砲: FP: 9
 20.3cm(3号)連装砲: AA: 4
 20.3cm(3号)連装砲: Rare: 1
 20.3cm(3号)連装砲: Range: 2
-12cm30連装噴進砲: AA: 6
+12cm30連装噴進砲: AA: 8
 12cm30連装噴進砲: Rare: 2
 流星改: Torp: 13
 流星改: LoS: 2
@@ -199,7 +204,7 @@ Ju87C改: Rare: 3
 15.2cm連装砲: Rare: 2
 15.2cm連装砲: Range: 2
 8cm高角砲: FP: 1
-8cm高角砲: AA: 5
+8cm高角砲: AA: 6
 8cm高角砲: Acc: 1
 8cm高角砲: Rare: 3
 8cm高角砲: Range: 1
@@ -263,11 +268,11 @@ Ju87C改: Rare: 3
 天山(九三一空): LoS: 2
 天山(九三一空): ASW: 8
 天山(九三一空): Rare: 3
-2cm 四連装FlaK 38: AA: 6
+2cm 四連装FlaK 38: AA: 7
 2cm 四連装FlaK 38: Acc: 1
 2cm 四連装FlaK 38: Rare: 3
 3.7cm FlaK M42: FP: 1
-3.7cm FlaK M42: AA: 7
+3.7cm FlaK M42: AA: 8
 3.7cm FlaK M42: Acc: 1
 3.7cm FlaK M42: Rare: 3
 艦艇修理施設: Rare: 3
@@ -294,7 +299,7 @@ Ju87C改: Rare: 3
 12.7cm連装高角砲(後期型): Evas: 1
 12.7cm連装高角砲(後期型): Rare: 1
 12.7cm連装高角砲(後期型): Range: 1
-毘式40mm連装機銃: AA: 5
+毘式40mm連装機銃: AA: 6
 毘式40mm連装機銃: Evas: 1
 九七式艦攻(友永隊): Torp: 11
 九七式艦攻(友永隊): AA: 1
@@ -563,3 +568,8 @@ Ju87C改: Rare: 3
 深海復讐艦攻: ASW: 5
 深海復讐艦攻: Acc: 2
 深海復讐艦攻: Rare: 3
+5inch連装両用莢砲: FP: 2
+5inch連装両用莢砲: AA: 9
+5inch連装両用莢砲: Acc: 3
+5inch連装両用莢砲: Rare: 3
+5inch連装両用莢砲: Range: 2

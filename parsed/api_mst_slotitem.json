@@ -976,7 +976,7 @@
     "api_baku": 0,
     "api_broken": [0, 1, 1, 0],
     "api_houg": 0,
-    "api_houk": 0,
+    "api_houk": 1,
     "api_houm": 0,
     "api_id": 37,
     "api_info": "対空補助兵装です。<br>初期の対空兵器として初期の駆逐艦等に装備された小口径機銃です。<br>射程及び威力ともに能力不足で、12.7mm機銃や25mm機銃への更新が進んでいます。",
@@ -994,7 +994,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 1,
+    "api_tyku": 2,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -1003,7 +1003,7 @@
     "api_baku": 0,
     "api_broken": [0, 1, 1, 0],
     "api_houg": 0,
-    "api_houk": 0,
+    "api_houk": 1,
     "api_houm": 0,
     "api_id": 38,
     "api_info": "対空機銃です。<br>対空兵装として、主に駆逐艦等に装備されました。<br>より強力な25mm機銃への更新が進んでいます。",
@@ -1021,7 +1021,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 2,
+    "api_tyku": 3,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -1030,7 +1030,7 @@
     "api_baku": 0,
     "api_broken": [0, 2, 1, 0],
     "api_houg": 0,
-    "api_houk": 0,
+    "api_houk": 1,
     "api_houm": 0,
     "api_id": 39,
     "api_info": "標準的な対空機銃兵装です。<br>フランス製の25mm機関砲をベースに国産化した、25mm高角機銃の連装型です。<br>連装型は標準に対空装備でしたが、スペースや状況が許す限り、より強力な三連装型に更新されていきました。",
@@ -1048,7 +1048,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 4,
+    "api_tyku": 5,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -1057,7 +1057,7 @@
     "api_baku": 0,
     "api_broken": [0, 3, 1, 0],
     "api_houg": 0,
-    "api_houk": 0,
+    "api_houk": 1,
     "api_houm": 0,
     "api_id": 40,
     "api_info": "国産対空機銃兵装の強化バージョンです。<br>25mm高角機銃の三連装型ですが、一度に撃てるわけではなく、一門ずつ順番に撃って銃身の加熱を防ぎます。<br>従来の連装機銃や仮設の単装機銃を加え、この25mm三連装機銃が近接対空兵装の中核となりました。",
@@ -1075,7 +1075,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 5,
+    "api_tyku": 6,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -1291,7 +1291,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 2,
+    "api_tyku": 3,
     "api_type": [1, 1, 1, 16],
     "api_usebull": "0"
 }, {
@@ -1300,7 +1300,7 @@
     "api_baku": 0,
     "api_broken": [0, 1, 1, 0],
     "api_houg": 0,
-    "api_houk": 0,
+    "api_houk": 1,
     "api_houm": 0,
     "api_id": 49,
     "api_info": "標準的な対空機銃兵装です。<br>後期の艦艇のほとんど全てが装備した機銃です。命中しない…すぐ加熱する…等の評価もありますが、雲霞のように迫りくる敵機から味方艦艇を必死に守りました。銃身の過熱を防ぐため、連装、三連装タイプも生産＆配備されました。",
@@ -1318,7 +1318,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 3,
+    "api_tyku": 4,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -1372,7 +1372,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 6,
+    "api_tyku": 8,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -1777,7 +1777,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 5,
+    "api_tyku": 6,
     "api_type": [1, 2, 4, 16],
     "api_usebull": "0"
 }, {
@@ -2263,7 +2263,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 6,
+    "api_tyku": 7,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -2290,7 +2290,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 7,
+    "api_tyku": 8,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -2479,7 +2479,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 5,
+    "api_tyku": 6,
     "api_type": [4, 6, 21, 15],
     "api_usebull": "0"
 }, {
@@ -4371,5 +4371,32 @@
     "api_tais": 5,
     "api_tyku": 4,
     "api_type": [3, 5, 8, 8],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 0, 0, 0],
+    "api_houg": 2,
+    "api_houk": 0,
+    "api_houm": 3,
+    "api_id": 550,
+    "api_info": "",
+    "api_leng": 2,
+    "api_luck": 0,
+    "api_name": "5inch連装両用莢砲",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 3,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 0,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 9,
+    "api_type": [1, 1, 1, 16],
     "api_usebull": "0"
 }]

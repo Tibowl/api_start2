@@ -83,6 +83,12 @@
     "api_maparea_id": 3,
     "api_no": 4
 }, {
+    "api_boss_bgm": [13, 13],
+    "api_id": 35,
+    "api_map_bgm": [19, 19],
+    "api_maparea_id": 3,
+    "api_no": 5
+}, {
     "api_boss_bgm": [8, 8],
     "api_id": 41,
     "api_map_bgm": [1, 2],

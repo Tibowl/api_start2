@@ -1474,7 +1474,7 @@
     "api_no": 15,
     "api_price": 70000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「長門」模型と桐箪笥",
     "api_type": 4
@@ -1589,14 +1589,14 @@
     "api_title": "教室セット「机」",
     "api_type": 4
 }, {
-    "api_description": "存在感抜群の招き猫！<br>お部屋に置くといいことあるかも！？",
+    "api_description": "超弩級の家具コイン長者に<br>贈る最高級桐箪笥。上部に<br>は大和型二番艦「武蔵」の<br>精密模型が鎮座する、文字<br>通り最大最強の箪笥家具。",
     "api_id": 160,
     "api_no": 27,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
-    "api_season": 0,
-    "api_title": "存在感のある招き猫",
+    "api_price": 88000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 13,
+    "api_title": "「武蔵」模型と桐箪笥",
     "api_type": 4
 }, {
     "api_description": "ちょっと臆病なだるまくん。<br>でも負けない！くじけない！七転八起！",
@@ -2194,8 +2194,18 @@
     "api_no": 35,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「横須賀鎮守府」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "これまで応援して下さった<br>提督の皆さんのおかげで、<br>望外の賞を頂いた。それを<br>記念した、感謝の掛け軸！<br>※特殊BGM家具です。",
+    "api_id": 221,
+    "api_no": 36,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 13,
+    "api_title": "「ありがとう」掛け軸",
     "api_type": 3
 }]

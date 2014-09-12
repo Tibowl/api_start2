@@ -8379,8 +8379,8 @@
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
-    "api_battle_d": [64, 64],
-    "api_battle_n": [64, 64],
+    "api_battle_d": [8, 80],
+    "api_battle_n": [8, 80],
     "api_boko_d": [0, 0],
     "api_boko_n": [0, 0],
     "api_ensyue_n": [0, 0],
@@ -8399,8 +8399,8 @@
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
-    "api_battle_d": [64, 96],
-    "api_battle_n": [64, 96],
+    "api_battle_d": [-32, 72],
+    "api_battle_n": [-32, 72],
     "api_boko_d": [0, 0],
     "api_boko_n": [0, 0],
     "api_ensyue_n": [0, 0],
@@ -8419,8 +8419,8 @@
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
-    "api_battle_d": [48, 80],
-    "api_battle_n": [48, 80],
+    "api_battle_d": [8, 80],
+    "api_battle_n": [8, 80],
     "api_boko_d": [0, 0],
     "api_boko_n": [0, 0],
     "api_ensyue_n": [0, 0],
@@ -8439,8 +8439,8 @@
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
-    "api_battle_d": [64, 96],
-    "api_battle_n": [64, 136],
+    "api_battle_d": [-32, 72],
+    "api_battle_n": [-32, 72],
     "api_boko_d": [0, 0],
     "api_boko_n": [0, 0],
     "api_ensyue_n": [0, 0],
@@ -8459,8 +8459,8 @@
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
-    "api_battle_d": [64, 64],
-    "api_battle_n": [64, 64],
+    "api_battle_d": [-8, 96],
+    "api_battle_n": [-8, 96],
     "api_boko_d": [0, 0],
     "api_boko_n": [0, 0],
     "api_ensyue_n": [0, 0],
