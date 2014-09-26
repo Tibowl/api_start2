@@ -64,7 +64,7 @@
 }, {
     "api_description": "ドック増設セット(鍵1，開発資材5，高速建造5，高速修復5)",
     "api_id": 10,
-    "api_item": [0, 0, 0, 0, 5, 5, 5, 1],
+    "api_item": [0, 0, 0, 0, 5, 5, 5, 0],
     "api_name": "ドック増設セット",
     "api_price": 1000,
     "api_type": 0
@@ -144,5 +144,19 @@
     "api_item": [0, 0, 314, 314, 0, 0, 2, 0],
     "api_name": "艦娘へのクッキー",
     "api_price": 500,
+    "api_type": 0
+}, {
+    "api_description": "※",
+    "api_id": 22,
+    "api_item": [0, 0, 0, 0, 0, 0, 0, 3],
+    "api_name": "※",
+    "api_price": 700,
+    "api_type": 0
+}, {
+    "api_description": "給糧艦「伊良湖」召喚 甘いスイーツで何人かの艦娘の気分がたちまち高揚！(5回分)",
+    "api_id": 23,
+    "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
+    "api_name": "給糧艦「伊良湖」5",
+    "api_price": 1000,
     "api_type": 0
 }]

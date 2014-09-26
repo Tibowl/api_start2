@@ -18,4 +18,8 @@
     "api_id": 5,
     "api_name": "南方海域",
     "api_type": 0
+}, {
+    "api_id": 6,
+    "api_name": "中部海域",
+    "api_type": 0
 }]

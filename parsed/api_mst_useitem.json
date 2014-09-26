@@ -21,44 +21,44 @@
     "api_usetype": 3
 }, {
     "api_category": 4,
-    "api_description": ["", ""],
+    "api_description": ["※", ""],
     "api_id": 4,
-    "api_name": "開発資材箱(小)",
+    "api_name": "※",
     "api_price": 0,
-    "api_usetype": 4
+    "api_usetype": 3
 }, {
     "api_category": 4,
     "api_description": ["", ""],
     "api_id": 5,
-    "api_name": "開発資材箱(中)",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 4,
     "api_description": ["", ""],
     "api_id": 6,
-    "api_name": "開発資材箱(大)",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 5,
     "api_description": ["", ""],
     "api_id": 7,
-    "api_name": "宝箱(小)",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 5,
     "api_description": ["", ""],
     "api_id": 8,
-    "api_name": "宝箱(中)",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 5,
     "api_description": ["", ""],
     "api_id": 9,
-    "api_name": "宝箱(大)",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
@@ -86,126 +86,126 @@
     "api_category": 7,
     "api_description": ["", ""],
     "api_id": 13,
-    "api_name": "帰還命令書",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 7,
     "api_description": ["", ""],
     "api_id": 14,
-    "api_name": "帰還司令書",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 8,
     "api_description": ["", ""],
     "api_id": 15,
-    "api_name": "挑戦状",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 9,
     "api_description": ["", ""],
     "api_id": 16,
-    "api_name": "罠探知機",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 9,
     "api_description": ["", ""],
     "api_id": 17,
-    "api_name": "罠探知機・改",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 10,
     "api_description": ["", ""],
     "api_id": 18,
-    "api_name": "危険探知機",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 10,
     "api_description": ["", ""],
     "api_id": 19,
-    "api_name": "危険探知機・改",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 11,
     "api_description": ["", ""],
     "api_id": 20,
-    "api_name": "掘削機",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 11,
     "api_description": ["", ""],
     "api_id": 21,
-    "api_name": "掘削機・改",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 11,
     "api_description": ["", ""],
     "api_id": 22,
-    "api_name": "深海掘削機",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 12,
     "api_description": ["", ""],
     "api_id": 23,
-    "api_name": "よつばのクローバー",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 12,
     "api_description": ["", ""],
     "api_id": 24,
-    "api_name": "黄金のクローバー",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 13,
     "api_description": ["", ""],
     "api_id": 25,
-    "api_name": "高価な羅針盤",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 13,
     "api_description": ["", ""],
     "api_id": 26,
-    "api_name": "伝説の羅針盤",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 14,
     "api_description": ["", ""],
     "api_id": 27,
-    "api_name": "青い探照灯",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 15,
     "api_description": ["", ""],
     "api_id": 28,
-    "api_name": "銅のマスト",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 15,
     "api_description": ["", ""],
     "api_id": 29,
-    "api_name": "銀のマスト",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
     "api_category": 15,
     "api_description": ["", ""],
     "api_id": 30,
-    "api_name": "黄金のマスト",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 5
 }, {
@@ -240,98 +240,98 @@
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 35,
-    "api_name": "燃料獲得（極小）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 36,
-    "api_name": "弾薬獲得（極小）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 37,
-    "api_name": "資材の獲得（小）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 38,
-    "api_name": "出撃アイテム（悪）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 39,
-    "api_name": "家具ゲット（悪い）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 40,
-    "api_name": "基本形アイテム（悪）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 41,
-    "api_name": "家具ゲット（普通）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 42,
-    "api_name": "家具コイン獲得（極小）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 20,
     "api_description": ["", ""],
     "api_id": 43,
-    "api_name": "家具コイン獲得（小）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 7
 }, {
     "api_category": 21,
     "api_description": ["", ""],
     "api_id": 44,
-    "api_name": "家具コイン",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 6
 }, {
     "api_category": 16,
     "api_description": ["", ""],
     "api_id": 45,
-    "api_name": "燃料（大）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 6
 }, {
     "api_category": 17,
     "api_description": ["", ""],
     "api_id": 46,
-    "api_name": "弾薬（大）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 6
 }, {
     "api_category": 18,
     "api_description": ["", ""],
     "api_id": 47,
-    "api_name": "鋼材（大）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 6
 }, {
     "api_category": 19,
     "api_description": ["", ""],
     "api_id": 48,
-    "api_name": "ボーキサイト（大）",
+    "api_name": "",
     "api_price": 0,
     "api_usetype": 6
 }, {
@@ -371,7 +371,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["艦隊全体の疲労度を回復する給糧艦。編成で使用する。", ""],
+    "api_description": ["艦隊全体の疲労度を回復する給糧艦。編成で使用可能。", ""],
     "api_id": 54,
     "api_name": "給糧艦「間宮」",
     "api_price": 0,
@@ -402,6 +402,13 @@
     "api_description": ["艦娘の「特別な改造」に使用する設計図。", ""],
     "api_id": 58,
     "api_name": "改装設計図",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。", ""],
+    "api_id": 59,
+    "api_name": "給糧艦「伊良湖」",
     "api_price": 0,
     "api_usetype": 0
 }]

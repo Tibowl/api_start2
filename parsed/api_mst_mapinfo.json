@@ -286,4 +286,28 @@
     "api_opetext": "第二次サーモン海戦",
     "api_required_defeat_count": 5,
     "api_sally_flag": [1, 0]
+}, {
+    "api_id": 61,
+    "api_infotext": "有力な潜水艦隊を編成し、中部<br>海域哨戒線に進出せよ。敵艦隊<br>を発見、これを漸減撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 6,
+    "api_max_maphp": null,
+    "api_name": "中部海域哨戒線",
+    "api_no": 1,
+    "api_opetext": "潜水艦作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 62,
+    "api_infotext": "MS諸島沖前面に展開し、同諸島<br>方面に接近しつつある敵攻略部<br>隊を捕捉、全力で撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 6,
+    "api_max_maphp": null,
+    "api_name": "MS諸島沖",
+    "api_no": 2,
+    "api_opetext": "MS諸島防衛戦",
+    "api_required_defeat_count": 3,
+    "api_sally_flag": [1, 0]
 }]

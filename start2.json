@@ -2252,7 +2252,7 @@
         "api_id": 206,
         "api_no": 34,
         "api_type": 3,
-        "api_version": "4"
+        "api_version": "5"
     }, {
         "api_filename": "033",
         "api_id": 211,
@@ -2276,11 +2276,11 @@
         "api_id": 218,
         "api_no": 43,
         "api_type": 5,
-        "api_version": "2"
+        "api_version": "3"
     }],
     "api_mst_item_shop": {
         "api_cabinet_1": [1, 2, 3, 4, 15, 5, 7, 6, 11, 14, 10, -1],
-        "api_cabinet_2": [16, 17, 20, 19, 8, 9, 18, -1, -1, -1]
+        "api_cabinet_2": [16, 17, 20, 19, 8, 9, 18, -1, 23, -1]
     },
     "api_mst_maparea": [{
         "api_id": 1,
@@ -2301,6 +2301,10 @@
     }, {
         "api_id": 5,
         "api_name": "南方海域",
+        "api_type": 0
+    }, {
+        "api_id": 6,
+        "api_name": "中部海域",
         "api_type": 0
     }],
     "api_mst_mapbgm": [{
@@ -2447,6 +2451,18 @@
         "api_map_bgm": [4, 5],
         "api_maparea_id": 5,
         "api_no": 5
+    }, {
+        "api_boss_bgm": [6, 6],
+        "api_id": 61,
+        "api_map_bgm": [20, 20],
+        "api_maparea_id": 6,
+        "api_no": 1
+    }, {
+        "api_boss_bgm": [3, 3],
+        "api_id": 62,
+        "api_map_bgm": [9, 9],
+        "api_maparea_id": 6,
+        "api_no": 2
     }],
     "api_mst_mapcell": [{
         "api_color_no": 0,
@@ -4723,6 +4739,237 @@
         "api_maparea_id": 3,
         "api_mapinfo_no": 5,
         "api_no": 15
+    }, {
+        "api_color_no": 0,
+        "api_id": 326,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 0
+    }, {
+        "api_color_no": 4,
+        "api_id": 327,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 1
+    }, {
+        "api_color_no": 4,
+        "api_id": 328,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 329,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 3
+    }, {
+        "api_color_no": 4,
+        "api_id": 330,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 331,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 5
+    }, {
+        "api_color_no": 4,
+        "api_id": 332,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 6
+    }, {
+        "api_color_no": 4,
+        "api_id": 333,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 7
+    }, {
+        "api_color_no": 4,
+        "api_id": 334,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 8
+    }, {
+        "api_color_no": 4,
+        "api_id": 335,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 9
+    }, {
+        "api_color_no": 4,
+        "api_id": 336,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 10
+    }, {
+        "api_color_no": 5,
+        "api_id": 337,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 11
+    }, {
+        "api_color_no": 4,
+        "api_id": 338,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 12
+    }, {
+        "api_color_no": 4,
+        "api_id": 339,
+        "api_map_no": 61,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 1,
+        "api_no": 13
+    }, {
+        "api_color_no": 0,
+        "api_id": 340,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 0
+    }, {
+        "api_color_no": 4,
+        "api_id": 341,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 1
+    }, {
+        "api_color_no": 4,
+        "api_id": 342,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 343,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 3
+    }, {
+        "api_color_no": 3,
+        "api_id": 344,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 345,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 5
+    }, {
+        "api_color_no": 4,
+        "api_id": 346,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 6
+    }, {
+        "api_color_no": 4,
+        "api_id": 347,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 7
+    }, {
+        "api_color_no": 4,
+        "api_id": 348,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 8
+    }, {
+        "api_color_no": 4,
+        "api_id": 349,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 9
+    }, {
+        "api_color_no": 4,
+        "api_id": 350,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 10
+    }, {
+        "api_color_no": 5,
+        "api_id": 351,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 11
+    }, {
+        "api_color_no": 4,
+        "api_id": 352,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 12
+    }, {
+        "api_color_no": 3,
+        "api_id": 353,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 13
+    }, {
+        "api_color_no": 4,
+        "api_id": 354,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 14
+    }, {
+        "api_color_no": 4,
+        "api_id": 355,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 15
+    }, {
+        "api_color_no": 4,
+        "api_id": 356,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 16
+    }, {
+        "api_color_no": 5,
+        "api_id": 357,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 17
+    }, {
+        "api_color_no": 5,
+        "api_id": 358,
+        "api_map_no": 62,
+        "api_maparea_id": 6,
+        "api_mapinfo_no": 2,
+        "api_no": 18
     }],
     "api_mst_mapinfo": [{
         "api_id": 11,
@@ -5011,6 +5258,30 @@
         "api_no": 5,
         "api_opetext": "第二次サーモン海戦",
         "api_required_defeat_count": 5,
+        "api_sally_flag": [1, 0]
+    }, {
+        "api_id": 61,
+        "api_infotext": "有力な潜水艦隊を編成し、中部<br>海域哨戒線に進出せよ。敵艦隊<br>を発見、これを漸減撃滅せよ！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 8,
+        "api_maparea_id": 6,
+        "api_max_maphp": null,
+        "api_name": "中部海域哨戒線",
+        "api_no": 1,
+        "api_opetext": "潜水艦作戦",
+        "api_required_defeat_count": null,
+        "api_sally_flag": [1, 0]
+    }, {
+        "api_id": 62,
+        "api_infotext": "MS諸島沖前面に展開し、同諸島<br>方面に接近しつつある敵攻略部<br>隊を捕捉、全力で撃滅せよ！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 9,
+        "api_maparea_id": 6,
+        "api_max_maphp": null,
+        "api_name": "MS諸島沖",
+        "api_no": 2,
+        "api_opetext": "MS諸島防衛戦",
+        "api_required_defeat_count": 3,
         "api_sally_flag": [1, 0]
     }],
     "api_mst_mission": [{
@@ -5524,7 +5795,7 @@
     }, {
         "api_description": "ドック増設セット(鍵1，開発資材5，高速建造5，高速修復5)",
         "api_id": 10,
-        "api_item": [0, 0, 0, 0, 5, 5, 5, 1],
+        "api_item": [0, 0, 0, 0, 5, 5, 5, 0],
         "api_name": "ドック増設セット",
         "api_price": 1000,
         "api_type": 0
@@ -5604,6 +5875,20 @@
         "api_item": [0, 0, 314, 314, 0, 0, 2, 0],
         "api_name": "艦娘へのクッキー",
         "api_price": 500,
+        "api_type": 0
+    }, {
+        "api_description": "※",
+        "api_id": 22,
+        "api_item": [0, 0, 0, 0, 0, 0, 0, 3],
+        "api_name": "※",
+        "api_price": 700,
+        "api_type": 0
+    }, {
+        "api_description": "給糧艦「伊良湖」召喚 甘いスイーツで何人かの艦娘の気分がたちまち高揚！(5回分)",
+        "api_id": 23,
+        "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
+        "api_name": "給糧艦「伊良湖」5",
+        "api_price": 1000,
         "api_type": 0
     }],
     "api_mst_ship": [{
@@ -14723,10 +15008,10 @@
         "api_voicef": 3,
         "api_yomi": "ビスマルク"
     }, {
-        "api_afterbull": 0,
-        "api_afterfuel": 0,
-        "api_afterlv": 0,
-        "api_aftershipid": "0",
+        "api_afterbull": 2400,
+        "api_afterfuel": 1800,
+        "api_afterlv": 75,
+        "api_aftershipid": "178",
         "api_atap": [0, 0],
         "api_backs": 7,
         "api_bakk": [0, 0],
@@ -14993,53 +15278,53 @@
         "api_afterlv": 0,
         "api_aftershipid": "0",
         "api_atap": [0, 0],
-        "api_backs": 0,
+        "api_backs": 7,
         "api_bakk": [0, 0],
         "api_baku": [0, 0],
-        "api_broken": [0, 0, 0, 0],
-        "api_buildtime": 0,
-        "api_bull_max": 0,
+        "api_broken": [12, 20, 42, 4],
+        "api_buildtime": 300,
+        "api_bull_max": 155,
         "api_cnum": 1,
-        "api_ctype": 1,
-        "api_defeq": [-1, -1, -1, -1],
+        "api_ctype": 47,
+        "api_defeq": [114, 114, 85, 115],
         "api_enqflg": "0",
-        "api_fuel_max": 0,
-        "api_getmes": "",
+        "api_fuel_max": 110,
+        "api_getmes": "Guten Tag.<br>私はビスマルク型戦艦のネームシップ、ビスマルク。<br>よおく覚えておくのよ。",
         "api_gomes": null,
         "api_gomes2": null,
         "api_grow": [0, 0, 0, 0, 0, 0, 0, 0],
         "api_gumax": [0, 0, 0, 0],
         "api_homemes": null,
-        "api_houg": [0, 0],
+        "api_houg": [74, 99],
         "api_houk": [0, 0],
         "api_houm": [0, 0],
         "api_id": 178,
-        "api_kaih": [0, 0],
-        "api_leng": 0,
-        "api_luck": [0, 0],
-        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_kaih": [40, 74],
+        "api_leng": 3,
+        "api_luck": [22, 84],
+        "api_maxeq": [4, 4, 4, 4, 0],
         "api_missions": null,
-        "api_name": "なし",
-        "api_powup": [0, 0, 0, 0],
-        "api_raig": [0, 0],
+        "api_name": "Bismarck drei",
+        "api_powup": [4, 1, 2, 4],
+        "api_raig": [16, 36],
         "api_raik": [0, 0],
         "api_sakb": [0, 0],
-        "api_saku": [0, 0],
-        "api_sinfo": "",
-        "api_slot_num": 0,
-        "api_soku": 0,
-        "api_sokuh": 0,
-        "api_sortno": 0,
-        "api_souk": [0, 0],
-        "api_stype": 2,
+        "api_saku": [22, 59],
+        "api_sinfo": "ドイツの誇るビスマルク級超弩級戦艦のネームシップ、それが私よ。<br>ドイツらしい重厚かつ美しいデザインでしょう？いいのよ、もっと褒めても。<br>この海でも縦横無尽に活躍するわ。期待しなさい！",
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sokuh": 1,
+        "api_sortno": 178,
+        "api_souk": [82, 95],
+        "api_stype": 8,
         "api_systems": null,
-        "api_taik": [0, 0],
+        "api_taik": [96, 99],
         "api_tais": [0, 0],
         "api_touchs": [null, null, null],
-        "api_tous": [0, 0],
-        "api_tyku": [0, 0],
-        "api_voicef": 0,
-        "api_yomi": "なし"
+        "api_tous": [4, 16],
+        "api_tyku": [35, 70],
+        "api_voicef": 3,
+        "api_yomi": "ビスマルク"
     }, {
         "api_afterbull": 0,
         "api_afterfuel": 0,
@@ -20444,7 +20729,7 @@
         "api_touchs": [null, null, null],
         "api_tous": [54, 66],
         "api_tyku": [25, 69],
-        "api_voicef": 0,
+        "api_voicef": 1,
         "api_yomi": "ひよう"
     }, {
         "api_afterbull": 1400,
@@ -20497,7 +20782,7 @@
         "api_touchs": [null, null, null],
         "api_tous": [54, 66],
         "api_tyku": [25, 69],
-        "api_voicef": 0,
+        "api_voicef": 1,
         "api_yomi": "じゅんよう"
     }, {
         "api_afterbull": 0,
@@ -23147,7 +23432,7 @@
         "api_touchs": [null, null, null],
         "api_tous": [62, 66],
         "api_tyku": [36, 74],
-        "api_voicef": 0,
+        "api_voicef": 1,
         "api_yomi": "じゅんよう"
     }, {
         "api_afterbull": 140,
@@ -28091,8 +28376,8 @@
         "api_buildtime": 0,
         "api_bull_max": 0,
         "api_cnum": 1,
-        "api_ctype": 42,
-        "api_defeq": [-1, -1, -1, -1],
+        "api_ctype": 1,
+        "api_defeq": [550, 550, 545, 525],
         "api_enqflg": "0",
         "api_fuel_max": 0,
         "api_getmes": "",
@@ -28101,36 +28386,36 @@
         "api_grow": [0, 0, 0, 0, 0, 0, 0, 0],
         "api_gumax": [0, 0, 0, 0],
         "api_homemes": null,
-        "api_houg": [180, 180],
+        "api_houg": [64, 64],
         "api_houk": [0, 0],
         "api_houm": [0, 0],
         "api_id": 592,
-        "api_kaih": [40, 40],
-        "api_leng": 4,
-        "api_luck": [15, 15],
-        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_kaih": [74, 74],
+        "api_leng": 2,
+        "api_luck": [66, 66],
+        "api_maxeq": [0, 0, 3, 3, 0],
         "api_missions": null,
-        "api_name": "コンゴウ*",
+        "api_name": "軽巡ツ級",
         "api_powup": [0, 0, 0, 0],
-        "api_raig": [0, 0],
+        "api_raig": [92, 92],
         "api_raik": [0, 0],
         "api_sakb": [0, 0],
-        "api_saku": [90, 90],
+        "api_saku": [58, 58],
         "api_sinfo": "",
         "api_slot_num": 4,
         "api_soku": 10,
         "api_sokuh": 1,
         "api_sortno": 0,
-        "api_souk": [120, 120],
-        "api_stype": 8,
+        "api_souk": [68, 68],
+        "api_stype": 3,
         "api_systems": null,
-        "api_taik": [142, 142],
-        "api_tais": [0, 0],
+        "api_taik": [66, 66],
+        "api_tais": [98, 98],
         "api_touchs": [null, null, null],
-        "api_tous": [0, 0],
-        "api_tyku": [60, 60],
+        "api_tous": [3, 6],
+        "api_tyku": [96, 96],
         "api_voicef": 0,
-        "api_yomi": "mist*"
+        "api_yomi": "elite"
     }],
     "api_mst_shipgraph": [{
         "api_battle_d": [29, 21],
@@ -31673,25 +31958,25 @@
         "api_weda": [0, 0],
         "api_wedb": [0, 0]
     }, {
-        "api_battle_d": [0, 0],
-        "api_battle_n": [0, 0],
-        "api_boko_d": [0, 0],
-        "api_boko_n": [0, 0],
-        "api_ensyue_n": [0, 0],
-        "api_ensyuf_d": [0, 0],
-        "api_ensyuf_n": [0, 0],
+        "api_battle_d": [32, 112],
+        "api_battle_n": [-24, 88],
+        "api_boko_d": [64, 136],
+        "api_boko_n": [-72, 116],
+        "api_ensyue_n": [-96, 0],
+        "api_ensyuf_d": [32, 88],
+        "api_ensyuf_n": [-48, 104],
         "api_filename": "twvnkvqgyiru",
         "api_id": 178,
-        "api_kaisyu_d": [0, 0],
-        "api_kaisyu_n": [0, 0],
-        "api_kaizo_d": [0, 0],
-        "api_kaizo_n": [0, 0],
-        "api_map_d": [0, 0],
-        "api_map_n": [0, 0],
-        "api_sortno": 0,
+        "api_kaisyu_d": [24, -4],
+        "api_kaisyu_n": [4, -4],
+        "api_kaizo_d": [16, 32],
+        "api_kaizo_n": [-104, 60],
+        "api_map_d": [24, 116],
+        "api_map_n": [-64, 116],
+        "api_sortno": 178,
         "api_version": "1",
-        "api_weda": [0, 0],
-        "api_wedb": [0, 0]
+        "api_weda": [304, 16],
+        "api_wedb": [128, 112]
     }, {
         "api_battle_d": [80, 112],
         "api_battle_n": [48, 112],
@@ -36613,8 +36898,8 @@
         "api_weda": [0, 0],
         "api_wedb": [0, 0]
     }, {
-        "api_battle_d": [64, 64],
-        "api_battle_n": [64, 64],
+        "api_battle_d": [-8, 64],
+        "api_battle_n": [-8, 64],
         "api_boko_d": [0, 0],
         "api_boko_n": [0, 0],
         "api_ensyue_n": [0, 0],
@@ -36634,20 +36919,6 @@
         "api_wedb": [0, 0]
     }],
     "api_mst_shipupgrade": [{
-        "api_drawing_count": 0,
-        "api_id": 404,
-        "api_original_ship_id": 404,
-        "api_sortno": 201,
-        "api_upgrade_level": 0,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 185,
-        "api_original_ship_id": 184,
-        "api_sortno": 185,
-        "api_upgrade_level": 1,
-        "api_upgrade_type": 1
-    }, {
         "api_drawing_count": 1,
         "api_id": 406,
         "api_original_ship_id": 404,
@@ -36656,10 +36927,59 @@
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
+        "api_id": 72,
+        "api_original_ship_id": 72,
+        "api_sortno": 64,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 172,
+        "api_original_ship_id": 171,
+        "api_sortno": 172,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
         "api_id": 318,
         "api_original_ship_id": 184,
         "api_sortno": 190,
         "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 273,
+        "api_original_ship_id": 71,
+        "api_sortno": 373,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 71,
+        "api_original_ship_id": 71,
+        "api_sortno": 63,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 188,
+        "api_original_ship_id": 71,
+        "api_sortno": 186,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 173,
+        "api_original_ship_id": 171,
+        "api_sortno": 173,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 178,
+        "api_original_ship_id": 171,
+        "api_sortno": 176,
+        "api_upgrade_level": 3,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
@@ -36690,46 +37010,18 @@
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
-        "api_drawing_count": 1,
-        "api_id": 188,
-        "api_original_ship_id": 71,
-        "api_sortno": 186,
-        "api_upgrade_level": 2,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 173,
-        "api_original_ship_id": 171,
-        "api_sortno": 173,
-        "api_upgrade_level": 2,
-        "api_upgrade_type": 1
-    }, {
         "api_drawing_count": 0,
-        "api_id": 72,
-        "api_original_ship_id": 72,
-        "api_sortno": 64,
+        "api_id": 404,
+        "api_original_ship_id": 404,
+        "api_sortno": 201,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
-        "api_drawing_count": 0,
-        "api_id": 172,
-        "api_original_ship_id": 171,
-        "api_sortno": 172,
+        "api_drawing_count": 1,
+        "api_id": 185,
+        "api_original_ship_id": 184,
+        "api_sortno": 185,
         "api_upgrade_level": 1,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 0,
-        "api_id": 273,
-        "api_original_ship_id": 71,
-        "api_sortno": 373,
-        "api_upgrade_level": 1,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 0,
-        "api_id": 71,
-        "api_original_ship_id": 71,
-        "api_sortno": 63,
-        "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }],
     "api_mst_slotitem": [{
@@ -39787,6 +40079,60 @@
         "api_atap": 0,
         "api_bakk": 0,
         "api_baku": 0,
+        "api_broken": [0, 12, 18, 0],
+        "api_houg": 17,
+        "api_houk": 0,
+        "api_houm": 3,
+        "api_id": 114,
+        "api_info": "ビスマルク級戦艦に搭載された戦艦主砲の改修型です。<br>短～中距離での砲撃戦を意識した高速戦艦の主力兵装で、改修によってその命中精度などが大きく向上しています。",
+        "api_leng": 3,
+        "api_luck": 0,
+        "api_name": "38cm連装砲改",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 2,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 114,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 2,
+        "api_type": [1, 1, 3, 3],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 1,
+        "api_broken": [1, 2, 0, 2],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_id": 115,
+        "api_info": "ビスマルク級などの主力艦艇に搭載された艦載水上偵察機です。<br>偵察、観測、哨戒、そして対潜水艦任務など、南大西洋で幅広く活躍した同機の改修型で、艦隊の眼の役割を担います。",
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "Ar196改",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 2,
+        "api_sakb": 0,
+        "api_saku": 5,
+        "api_soku": 0,
+        "api_sortno": 115,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 5,
+        "api_tyku": 1,
+        "api_type": [5, 7, 10, 10],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
         "api_broken": [0, 0, 0, 0],
         "api_houg": 1,
         "api_houk": 0,
@@ -41841,6 +42187,16 @@
         "api_sortno": 113,
         "api_version": "1"
     }, {
+        "api_filename": "114",
+        "api_id": 114,
+        "api_sortno": 114,
+        "api_version": "1"
+    }, {
+        "api_filename": "115",
+        "api_id": 115,
+        "api_sortno": 115,
+        "api_version": "1"
+    }, {
         "api_filename": "501",
         "api_id": 501,
         "api_sortno": 0,
@@ -42975,44 +43331,44 @@
         "api_usetype": 3
     }, {
         "api_category": 4,
-        "api_description": ["", ""],
+        "api_description": ["※", ""],
         "api_id": 4,
-        "api_name": "開発資材箱(小)",
+        "api_name": "※",
         "api_price": 0,
-        "api_usetype": 4
+        "api_usetype": 3
     }, {
         "api_category": 4,
         "api_description": ["", ""],
         "api_id": 5,
-        "api_name": "開発資材箱(中)",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
         "api_category": 4,
         "api_description": ["", ""],
         "api_id": 6,
-        "api_name": "開発資材箱(大)",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
         "api_category": 5,
         "api_description": ["", ""],
         "api_id": 7,
-        "api_name": "宝箱(小)",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
         "api_category": 5,
         "api_description": ["", ""],
         "api_id": 8,
-        "api_name": "宝箱(中)",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
         "api_category": 5,
         "api_description": ["", ""],
         "api_id": 9,
-        "api_name": "宝箱(大)",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
@@ -43040,126 +43396,126 @@
         "api_category": 7,
         "api_description": ["", ""],
         "api_id": 13,
-        "api_name": "帰還命令書",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
         "api_category": 7,
         "api_description": ["", ""],
         "api_id": 14,
-        "api_name": "帰還司令書",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
         "api_category": 8,
         "api_description": ["", ""],
         "api_id": 15,
-        "api_name": "挑戦状",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 4
     }, {
         "api_category": 9,
         "api_description": ["", ""],
         "api_id": 16,
-        "api_name": "罠探知機",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 9,
         "api_description": ["", ""],
         "api_id": 17,
-        "api_name": "罠探知機・改",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 10,
         "api_description": ["", ""],
         "api_id": 18,
-        "api_name": "危険探知機",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 10,
         "api_description": ["", ""],
         "api_id": 19,
-        "api_name": "危険探知機・改",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 11,
         "api_description": ["", ""],
         "api_id": 20,
-        "api_name": "掘削機",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 11,
         "api_description": ["", ""],
         "api_id": 21,
-        "api_name": "掘削機・改",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 11,
         "api_description": ["", ""],
         "api_id": 22,
-        "api_name": "深海掘削機",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 12,
         "api_description": ["", ""],
         "api_id": 23,
-        "api_name": "よつばのクローバー",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 12,
         "api_description": ["", ""],
         "api_id": 24,
-        "api_name": "黄金のクローバー",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 13,
         "api_description": ["", ""],
         "api_id": 25,
-        "api_name": "高価な羅針盤",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 13,
         "api_description": ["", ""],
         "api_id": 26,
-        "api_name": "伝説の羅針盤",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 14,
         "api_description": ["", ""],
         "api_id": 27,
-        "api_name": "青い探照灯",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 15,
         "api_description": ["", ""],
         "api_id": 28,
-        "api_name": "銅のマスト",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 15,
         "api_description": ["", ""],
         "api_id": 29,
-        "api_name": "銀のマスト",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
         "api_category": 15,
         "api_description": ["", ""],
         "api_id": 30,
-        "api_name": "黄金のマスト",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 5
     }, {
@@ -43194,98 +43550,98 @@
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 35,
-        "api_name": "燃料獲得（極小）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 36,
-        "api_name": "弾薬獲得（極小）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 37,
-        "api_name": "資材の獲得（小）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 38,
-        "api_name": "出撃アイテム（悪）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 39,
-        "api_name": "家具ゲット（悪い）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 40,
-        "api_name": "基本形アイテム（悪）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 41,
-        "api_name": "家具ゲット（普通）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 42,
-        "api_name": "家具コイン獲得（極小）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 20,
         "api_description": ["", ""],
         "api_id": 43,
-        "api_name": "家具コイン獲得（小）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 7
     }, {
         "api_category": 21,
         "api_description": ["", ""],
         "api_id": 44,
-        "api_name": "家具コイン",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 6
     }, {
         "api_category": 16,
         "api_description": ["", ""],
         "api_id": 45,
-        "api_name": "燃料（大）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 6
     }, {
         "api_category": 17,
         "api_description": ["", ""],
         "api_id": 46,
-        "api_name": "弾薬（大）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 6
     }, {
         "api_category": 18,
         "api_description": ["", ""],
         "api_id": 47,
-        "api_name": "鋼材（大）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 6
     }, {
         "api_category": 19,
         "api_description": ["", ""],
         "api_id": 48,
-        "api_name": "ボーキサイト（大）",
+        "api_name": "",
         "api_price": 0,
         "api_usetype": 6
     }, {
@@ -43325,7 +43681,7 @@
         "api_usetype": 0
     }, {
         "api_category": 0,
-        "api_description": ["艦隊全体の疲労度を回復する給糧艦。編成で使用する。", ""],
+        "api_description": ["艦隊全体の疲労度を回復する給糧艦。編成で使用可能。", ""],
         "api_id": 54,
         "api_name": "給糧艦「間宮」",
         "api_price": 0,
@@ -43356,6 +43712,13 @@
         "api_description": ["艦娘の「特別な改造」に使用する設計図。", ""],
         "api_id": 58,
         "api_name": "改装設計図",
+        "api_price": 0,
+        "api_usetype": 0
+    }, {
+        "api_category": 0,
+        "api_description": ["艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。", ""],
+        "api_id": 59,
+        "api_name": "給糧艦「伊良湖」",
         "api_price": 0,
         "api_usetype": 0
     }]

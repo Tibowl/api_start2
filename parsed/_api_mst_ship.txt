@@ -1237,13 +1237,13 @@ Z3: speed: 10
 なし: AA: 0,0
 なし: luck: 0,0
 なし: speed: 0
-なし: HP: 0,0
-なし: Armor: 0,0
-なし: FP: 0,0
-なし: Torp: 0,0
-なし: AA: 0,0
-なし: luck: 0,0
-なし: speed: 0
+Bismarck drei: HP: 96,99
+Bismarck drei: Armor: 82,95
+Bismarck drei: FP: 74,99
+Bismarck drei: Torp: 16,36
+Bismarck drei: AA: 35,70
+Bismarck drei: luck: 22,84
+Bismarck drei: speed: 10
 Z1 zwei: HP: 35,59
 Z1 zwei: Armor: 18,53
 Z1 zwei: FP: 12,49
@@ -2966,10 +2966,10 @@ Z3改: speed: 10
 軽巡ツ級: AA: 88,88
 軽巡ツ級: luck: 55,55
 軽巡ツ級: speed: 10
-コンゴウ*: HP: 142,142
-コンゴウ*: Armor: 120,120
-コンゴウ*: FP: 180,180
-コンゴウ*: Torp: 0,0
-コンゴウ*: AA: 60,60
-コンゴウ*: luck: 15,15
-コンゴウ*: speed: 10
+軽巡ツ級: HP: 66,66
+軽巡ツ級: Armor: 68,68
+軽巡ツ級: FP: 64,64
+軽巡ツ級: Torp: 92,92
+軽巡ツ級: AA: 96,96
+軽巡ツ級: luck: 66,66
+軽巡ツ級: speed: 10
