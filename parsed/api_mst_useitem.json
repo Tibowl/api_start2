@@ -303,7 +303,7 @@
     "api_category": 21,
     "api_description": ["", ""],
     "api_id": 44,
-    "api_name": "",
+    "api_name": "家具コイン",
     "api_price": 0,
     "api_usetype": 6
 }, {
@@ -364,7 +364,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["最大保有艦娘数＋10(最大200)。最大保有アイテム数＋40(最大900)。", ""],
+    "api_description": ["最大保有艦娘数＋10(最大210)。最大保有アイテム数＋40(最大940)。", ""],
     "api_id": 53,
     "api_name": "母港拡張",
     "api_price": 0,
