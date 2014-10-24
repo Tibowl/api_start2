@@ -27,10 +27,10 @@
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
 }, {
-    "api_drawing_count": 0,
-    "api_id": 318,
-    "api_original_ship_id": 184,
-    "api_sortno": 190,
+    "api_drawing_count": 1,
+    "api_id": 411,
+    "api_original_ship_id": 26,
+    "api_sortno": 211,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
 }, {
@@ -39,6 +39,13 @@
     "api_original_ship_id": 404,
     "api_sortno": 206,
     "api_upgrade_level": 1,
+    "api_upgrade_type": 1
+}, {
+    "api_drawing_count": 0,
+    "api_id": 318,
+    "api_original_ship_id": 184,
+    "api_sortno": 190,
+    "api_upgrade_level": 2,
     "api_upgrade_type": 1
 }, {
     "api_drawing_count": 0,
@@ -53,6 +60,20 @@
     "api_original_ship_id": 171,
     "api_sortno": 172,
     "api_upgrade_level": 1,
+    "api_upgrade_type": 1
+}, {
+    "api_drawing_count": 1,
+    "api_id": 188,
+    "api_original_ship_id": 71,
+    "api_sortno": 186,
+    "api_upgrade_level": 2,
+    "api_upgrade_type": 1
+}, {
+    "api_drawing_count": 1,
+    "api_id": 173,
+    "api_original_ship_id": 171,
+    "api_sortno": 173,
+    "api_upgrade_level": 2,
     "api_upgrade_type": 1
 }, {
     "api_drawing_count": 0,
@@ -83,24 +104,24 @@
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
 }, {
+    "api_drawing_count": 0,
+    "api_id": 26,
+    "api_original_ship_id": 26,
+    "api_sortno": 26,
+    "api_upgrade_level": 0,
+    "api_upgrade_type": 1
+}, {
     "api_drawing_count": 1,
     "api_id": 178,
     "api_original_ship_id": 171,
-    "api_sortno": 176,
+    "api_sortno": 178,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
 }, {
-    "api_drawing_count": 1,
-    "api_id": 188,
-    "api_original_ship_id": 71,
-    "api_sortno": 186,
-    "api_upgrade_level": 2,
-    "api_upgrade_type": 1
-}, {
-    "api_drawing_count": 1,
-    "api_id": 173,
-    "api_original_ship_id": 171,
-    "api_sortno": 173,
-    "api_upgrade_level": 2,
+    "api_drawing_count": 0,
+    "api_id": 286,
+    "api_original_ship_id": 26,
+    "api_sortno": 386,
+    "api_upgrade_level": 1,
     "api_upgrade_type": 1
 }]

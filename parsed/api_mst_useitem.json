@@ -21,9 +21,9 @@
     "api_usetype": 3
 }, {
     "api_category": 4,
-    "api_description": ["※", ""],
+    "api_description": ["装備を改修する為の資材、「改修工廠」で使用します。", ""],
     "api_id": 4,
-    "api_name": "※",
+    "api_name": "改修資材",
     "api_price": 0,
     "api_usetype": 3
 }, {
@@ -392,7 +392,7 @@
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["暁の水平線に勝利を刻んだ提督に贈られる「証」。資源、または複数集めて改装設計図と交換することも可能です。", ""],
+    "api_description": ["暁の水平線に勝利を刻んだ提督に贈られる「証」。資源や改修資材、または複数集めて改装設計図と交換することも可能です。", ""],
     "api_id": 57,
     "api_name": "勲章",
     "api_price": 0,

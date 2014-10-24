@@ -2284,7 +2284,7 @@
     }],
     "api_mst_item_shop": {
         "api_cabinet_1": [1, 2, 3, 4, 15, 5, 7, 6, 11, 14, 10, -1],
-        "api_cabinet_2": [16, 17, 20, 19, 8, 9, 18, -1, 23, -1]
+        "api_cabinet_2": [16, 17, 20, 19, 8, 9, 18, 22, 23, -1]
     },
     "api_mst_maparea": [{
         "api_id": 1,
@@ -5881,10 +5881,10 @@
         "api_price": 500,
         "api_type": 0
     }, {
-        "api_description": "※",
+        "api_description": "明石さんの「改修工廠」で、装備を改修します。<br>(改修資材10)",
         "api_id": 22,
-        "api_item": [0, 0, 0, 0, 0, 0, 0, 3],
-        "api_name": "※",
+        "api_item": [0, 0, 0, 0, 0, 0, 0, 10],
+        "api_name": "改修資材パック10",
         "api_price": 700,
         "api_type": 0
     }, {
@@ -8178,14 +8178,14 @@
         "api_id": 82,
         "api_leng": 3,
         "api_luck": [30, 79],
-        "api_maxeq": [11, 11, 11, 11, 0],
+        "api_maxeq": [11, 11, 11, 14, 0],
         "api_name": "伊勢改",
         "api_powup": [4, 0, 3, 4],
         "api_raig": [0, 0],
         "api_slot_num": 4,
         "api_soku": 5,
         "api_sortno": 102,
-        "api_souk": [74, 89],
+        "api_souk": [74, 92],
         "api_stype": 10,
         "api_taik": [77, 89],
         "api_tyku": [45, 89],
@@ -8346,14 +8346,14 @@
         "api_id": 88,
         "api_leng": 3,
         "api_luck": [30, 79],
-        "api_maxeq": [11, 11, 11, 11, 0],
+        "api_maxeq": [11, 11, 11, 14, 0],
         "api_name": "日向改",
         "api_powup": [4, 0, 3, 4],
         "api_raig": [0, 0],
         "api_slot_num": 4,
         "api_soku": 5,
         "api_sortno": 103,
-        "api_souk": [74, 87],
+        "api_souk": [74, 92],
         "api_stype": 10,
         "api_taik": [77, 89],
         "api_tyku": [45, 89],
@@ -13497,7 +13497,7 @@
         "api_houg": [90, 99],
         "api_id": 275,
         "api_leng": 3,
-        "api_luck": [30, 99],
+        "api_luck": [32, 99],
         "api_maxeq": [3, 3, 3, 3, 0],
         "api_name": "長門改",
         "api_powup": [5, 0, 2, 5],
@@ -13505,7 +13505,7 @@
         "api_slot_num": 4,
         "api_soku": 5,
         "api_sortno": 375,
-        "api_souk": [85, 95],
+        "api_souk": [85, 98],
         "api_stype": 9,
         "api_taik": [90, 98],
         "api_tyku": [33, 99],
@@ -13525,7 +13525,7 @@
         "api_houg": [90, 99],
         "api_id": 276,
         "api_leng": 3,
-        "api_luck": [5, 59],
+        "api_luck": [6, 59],
         "api_maxeq": [3, 3, 3, 3, 0],
         "api_name": "陸奥改",
         "api_powup": [5, 0, 2, 5],
@@ -13533,7 +13533,7 @@
         "api_slot_num": 4,
         "api_soku": 5,
         "api_sortno": 376,
-        "api_souk": [85, 95],
+        "api_souk": [85, 98],
         "api_stype": 9,
         "api_taik": [90, 98],
         "api_tyku": [33, 99],
@@ -13792,10 +13792,10 @@
         "api_voicef": 1,
         "api_yomi": "ほうしょう"
     }, {
-        "api_afterbull": 0,
-        "api_afterfuel": 0,
-        "api_afterlv": 0,
-        "api_aftershipid": "0",
+        "api_afterbull": 2400,
+        "api_afterfuel": 3500,
+        "api_afterlv": 80,
+        "api_aftershipid": "411",
         "api_backs": 5,
         "api_broken": [10, 15, 35, 3],
         "api_buildtime": 260,
@@ -13817,7 +13817,7 @@
         "api_stype": 10,
         "api_taik": [75, 89],
         "api_tyku": [40, 89],
-        "api_voicef": 0,
+        "api_voicef": 1,
         "api_yomi": "ふそう"
     }, {
         "api_afterbull": 0,
@@ -15247,6 +15247,34 @@
         "api_tyku": [9, 39],
         "api_voicef": 1,
         "api_yomi": "きよしも"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 6,
+        "api_broken": [12, 15, 38, 5],
+        "api_buildtime": 260,
+        "api_bull_max": 140,
+        "api_fuel_max": 105,
+        "api_getmes": "扶桑型超弩級戦艦、姉の扶桑です。<br>妹の山城ともども、よろしくお願い致します。",
+        "api_houg": [80, 99],
+        "api_id": 411,
+        "api_leng": 3,
+        "api_luck": [13, 69],
+        "api_maxeq": [4, 4, 9, 23, 0],
+        "api_name": "扶桑改二",
+        "api_powup": [5, 0, 3, 4],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 5,
+        "api_sortno": 211,
+        "api_souk": [72, 90],
+        "api_stype": 10,
+        "api_taik": [77, 94],
+        "api_tyku": [44, 88],
+        "api_voicef": 1,
+        "api_yomi": "ふそう"
     }, {
         "api_afterbull": 0,
         "api_afterfuel": 0,
@@ -19561,7 +19589,7 @@
         "api_map_d": [-46, 30],
         "api_map_n": [-14, 33],
         "api_sortno": 4,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [234, 106],
         "api_wedb": [94, 109]
     }, {
@@ -19721,7 +19749,7 @@
         "api_map_d": [-47, 66],
         "api_map_n": [-34, 55],
         "api_sortno": 85,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [320, 71],
         "api_wedb": [143, 174]
     }, {
@@ -19761,7 +19789,7 @@
         "api_map_d": [-33, 125],
         "api_map_n": [19, 107],
         "api_sortno": 87,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [186, 22],
         "api_wedb": [155, 167]
     }, {
@@ -22721,7 +22749,7 @@
         "api_map_d": [-47, 66],
         "api_map_n": [-34, 55],
         "api_sortno": 348,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [320, 71],
         "api_wedb": [143, 174]
     }, {
@@ -22761,7 +22789,7 @@
         "api_map_d": [-33, 125],
         "api_map_n": [19, 107],
         "api_sortno": 350,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [186, 22],
         "api_wedb": [155, 167]
     }, {
@@ -24503,6 +24531,26 @@
         "api_sortno": 210,
         "api_version": "1",
         "api_weda": [256, 48],
+        "api_wedb": [120, 112]
+    }, {
+        "api_battle_d": [-72, 96],
+        "api_battle_n": [0, 96],
+        "api_boko_d": [-64, 136],
+        "api_boko_n": [-16, 104],
+        "api_ensyue_n": [-32, 0],
+        "api_ensyuf_d": [-64, 120],
+        "api_ensyuf_n": [-8, 92],
+        "api_filename": "gmnsxwkdssmj",
+        "api_id": 411,
+        "api_kaisyu_d": [32, -16],
+        "api_kaisyu_n": [24, -8],
+        "api_kaizo_d": [-112, 56],
+        "api_kaizo_n": [-40, 60],
+        "api_map_d": [-104, 128],
+        "api_map_n": [-40, 88],
+        "api_sortno": 211,
+        "api_version": "1",
+        "api_weda": [232, 32],
         "api_wedb": [120, 112]
     }, {
         "api_battle_d": [82, 151],
@@ -26374,10 +26422,10 @@
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
-        "api_drawing_count": 0,
-        "api_id": 318,
-        "api_original_ship_id": 184,
-        "api_sortno": 190,
+        "api_drawing_count": 1,
+        "api_id": 411,
+        "api_original_ship_id": 26,
+        "api_sortno": 211,
         "api_upgrade_level": 2,
         "api_upgrade_type": 1
     }, {
@@ -26386,6 +26434,13 @@
         "api_original_ship_id": 404,
         "api_sortno": 206,
         "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 318,
+        "api_original_ship_id": 184,
+        "api_sortno": 190,
+        "api_upgrade_level": 2,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
@@ -26400,6 +26455,20 @@
         "api_original_ship_id": 171,
         "api_sortno": 172,
         "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 188,
+        "api_original_ship_id": 71,
+        "api_sortno": 186,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 173,
+        "api_original_ship_id": 171,
+        "api_sortno": 173,
+        "api_upgrade_level": 2,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
@@ -26430,25 +26499,25 @@
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
+        "api_drawing_count": 0,
+        "api_id": 26,
+        "api_original_ship_id": 26,
+        "api_sortno": 26,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
         "api_drawing_count": 1,
         "api_id": 178,
         "api_original_ship_id": 171,
-        "api_sortno": 176,
+        "api_sortno": 178,
         "api_upgrade_level": 3,
         "api_upgrade_type": 1
     }, {
-        "api_drawing_count": 1,
-        "api_id": 188,
-        "api_original_ship_id": 71,
-        "api_sortno": 186,
-        "api_upgrade_level": 2,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 173,
-        "api_original_ship_id": 171,
-        "api_sortno": 173,
-        "api_upgrade_level": 2,
+        "api_drawing_count": 0,
+        "api_id": 286,
+        "api_original_ship_id": 26,
+        "api_sortno": 386,
+        "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }],
     "api_mst_slotitem": [{
@@ -26537,9 +26606,9 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 2, 1, 0],
-        "api_houg": 1,
+        "api_houg": 2,
         "api_houk": 0,
-        "api_houm": 0,
+        "api_houm": 1,
         "api_id": 4,
         "api_info": "巡洋艦の主砲や戦艦の副砲として独自開発された中距離砲です。<br>やや旧式化していますが、列強の15cm砲とほぼ同等の射程と威力を持っています。<br>対艦対地専門で、対空射撃はできません。",
         "api_leng": 2,
@@ -26564,9 +26633,9 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 2, 5, 0],
-        "api_houg": 5,
+        "api_houg": 7,
         "api_houk": 0,
-        "api_houm": 0,
+        "api_houm": 1,
         "api_id": 5,
         "api_info": "条約下で保有数に制限のあった重巡を、火力を増強した強力な軽巡で補うために開発されました。<br>初の三連装砲でしたが、射程・発射速度・運用性全てに高い評価を得ることになりました。<br>後に有名な「大和」型戦艦の副砲としても採用されています。<br>対空戦にも効果を発揮する傑作砲です。",
         "api_leng": 2,
@@ -26583,7 +26652,7 @@
         "api_souk": 0,
         "api_taik": 0,
         "api_tais": 0,
-        "api_tyku": 3,
+        "api_tyku": 4,
         "api_type": [1, 1, 2, 2],
         "api_usebull": "0"
     }, {
@@ -26591,7 +26660,7 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 3, 4, 0],
-        "api_houg": 7,
+        "api_houg": 8,
         "api_houk": 0,
         "api_houm": 0,
         "api_id": 6,
@@ -26618,7 +26687,7 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 10, 15, 0],
-        "api_houg": 14,
+        "api_houg": 15,
         "api_houk": 0,
         "api_houm": 0,
         "api_id": 7,
@@ -26726,7 +26795,7 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 2, 2, 0],
-        "api_houg": 1,
+        "api_houg": 2,
         "api_houk": 0,
         "api_houm": 1,
         "api_id": 11,
@@ -27779,7 +27848,7 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 3, 4, 0],
-        "api_houg": 9,
+        "api_houg": 10,
         "api_houk": 0,
         "api_houm": 0,
         "api_id": 50,
@@ -28184,9 +28253,9 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 2, 3, 0],
-        "api_houg": 3,
+        "api_houg": 4,
         "api_houk": 0,
-        "api_houm": 2,
+        "api_houm": 3,
         "api_id": 65,
         "api_info": "新型軽巡のために開発された新型の両用砲です。<br>対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的ですが対空戦闘も可能です。阿賀野型軽巡シリーズに装備されました。",
         "api_leng": 2,
@@ -28213,7 +28282,7 @@
         "api_broken": [0, 1, 2, 0],
         "api_houg": 1,
         "api_houk": 0,
-        "api_houm": 1,
+        "api_houm": 2,
         "api_id": 66,
         "api_info": "新開発の長8cm高角砲です。<br>秋月型に装備された長10cm高角砲の小型軽量化を目指した対空用副砲バージョンです。微妙な出来という評価もありますが、後期の建造艦艇への装備が期待されていました。",
         "api_leng": 1,
@@ -28481,7 +28550,7 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 11, 18, 0],
-        "api_houg": 15,
+        "api_houg": 16,
         "api_houk": 0,
         "api_houm": 1,
         "api_id": 76,
@@ -28527,7 +28596,7 @@
         "api_souk": 0,
         "api_taik": 0,
         "api_tais": 0,
-        "api_tyku": 1,
+        "api_tyku": 2,
         "api_type": [1, 2, 4, 4],
         "api_usebull": "0"
     }, {
@@ -28859,7 +28928,7 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 3, 4, 0],
-        "api_houg": 8,
+        "api_houg": 9,
         "api_houk": 0,
         "api_houm": 1,
         "api_id": 90,
@@ -29237,7 +29306,7 @@
         "api_bakk": 0,
         "api_baku": 0,
         "api_broken": [0, 10, 15, 0],
-        "api_houg": 14,
+        "api_houg": 15,
         "api_houk": 1,
         "api_houm": 1,
         "api_id": 104,
@@ -29636,6 +29705,33 @@
         "api_tais": 2,
         "api_tyku": 0,
         "api_type": [5, 7, 10, 10],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 2, 2, 0],
+        "api_houg": 3,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_id": 119,
+        "api_info": "巡洋艦等の主砲として開発された中距離砲の連装型です。<br>練習巡洋艦「香取」や軽巡洋艦「夕張」などに搭載されました。対艦対地用の兵装です。",
+        "api_leng": 2,
+        "api_luck": 0,
+        "api_name": "14cm連装砲",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 1,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 119,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [1, 1, 2, 2],
         "api_usebull": "0"
     }, {
         "api_atap": 0,
@@ -31720,6 +31816,11 @@
         "api_sortno": 118,
         "api_version": "1"
     }, {
+        "api_filename": "119",
+        "api_id": 119,
+        "api_sortno": 119,
+        "api_version": "1"
+    }, {
         "api_filename": "501",
         "api_id": 501,
         "api_sortno": 0,
@@ -32854,9 +32955,9 @@
         "api_usetype": 3
     }, {
         "api_category": 4,
-        "api_description": ["※", ""],
+        "api_description": ["装備を改修する為の資材、「改修工廠」で使用します。", ""],
         "api_id": 4,
-        "api_name": "※",
+        "api_name": "改修資材",
         "api_price": 0,
         "api_usetype": 3
     }, {
@@ -33225,7 +33326,7 @@
         "api_usetype": 4
     }, {
         "api_category": 0,
-        "api_description": ["暁の水平線に勝利を刻んだ提督に贈られる「証」。資源、または複数集めて改装設計図と交換することも可能です。", ""],
+        "api_description": ["暁の水平線に勝利を刻んだ提督に贈られる「証」。資源や改修資材、または複数集めて改装設計図と交換することも可能です。", ""],
         "api_id": 57,
         "api_name": "勲章",
         "api_price": 0,

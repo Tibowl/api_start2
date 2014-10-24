@@ -146,10 +146,10 @@
     "api_price": 500,
     "api_type": 0
 }, {
-    "api_description": "※",
+    "api_description": "明石さんの「改修工廠」で、装備を改修します。<br>(改修資材10)",
     "api_id": 22,
-    "api_item": [0, 0, 0, 0, 0, 0, 0, 3],
-    "api_name": "※",
+    "api_item": [0, 0, 0, 0, 0, 0, 0, 10],
+    "api_name": "改修資材パック10",
     "api_price": 700,
     "api_type": 0
 }, {
