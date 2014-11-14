@@ -138,4 +138,8 @@
     "api_id": 35,
     "api_name": "航空要員",
     "api_show_flg": 0
+}, {
+    "api_id": 36,
+    "api_name": "高射装置",
+    "api_show_flg": 0
 }]

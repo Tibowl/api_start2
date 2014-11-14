@@ -434,6 +434,28 @@ Ar196改: Rare: 2
 14cm連装砲: Acc: 2
 14cm連装砲: Rare: 1
 14cm連装砲: Range: 2
+91式高射装置: AA: 2
+91式高射装置: Evas: 1
+91式高射装置: Rare: 1
+94式高射装置: AA: 3
+94式高射装置: Evas: 1
+94式高射装置: Rare: 2
+10cm連装高角砲+高射装置: FP: 3
+10cm連装高角砲+高射装置: AA: 10
+10cm連装高角砲+高射装置: Acc: 1
+10cm連装高角砲+高射装置: Evas: 1
+10cm連装高角砲+高射装置: Rare: 3
+10cm連装高角砲+高射装置: Range: 1
+SKC34 20.3cm連装砲: FP: 10
+SKC34 20.3cm連装砲: AA: 2
+SKC34 20.3cm連装砲: Acc: 3
+SKC34 20.3cm連装砲: Rare: 3
+SKC34 20.3cm連装砲: Range: 2
+FuMO25 レーダー: FP: 3
+FuMO25 レーダー: AA: 7
+FuMO25 レーダー: LoS: 9
+FuMO25 レーダー: Acc: 10
+FuMO25 レーダー: Rare: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

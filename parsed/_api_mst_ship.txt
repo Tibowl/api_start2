@@ -1223,20 +1223,20 @@ Z3: Torp: 24,60
 Z3: AA: 12,42
 Z3: luck: 6,39
 Z3: speed: 10
-なし: HP: 0,0
-なし: Armor: 0,0
-なし: FP: 0,0
-なし: Torp: 0,0
-なし: AA: 0,0
-なし: luck: 0,0
-なし: speed: 0
-なし: HP: 0,0
-なし: Armor: 0,0
-なし: FP: 0,0
-なし: Torp: 0,0
-なし: AA: 0,0
-なし: luck: 0,0
-なし: speed: 0
+Prinz Eugen: HP: 50,72
+Prinz Eugen: Armor: 38,64
+Prinz Eugen: FP: 38,56
+Prinz Eugen: Torp: 32,64
+Prinz Eugen: AA: 16,44
+Prinz Eugen: luck: 30,79
+Prinz Eugen: speed: 10
+Prinz Eugen改: HP: 63,79
+Prinz Eugen改: Armor: 48,82
+Prinz Eugen改: FP: 48,75
+Prinz Eugen改: Torp: 40,84
+Prinz Eugen改: AA: 18,60
+Prinz Eugen改: luck: 40,89
+Prinz Eugen改: speed: 10
 Bismarck drei: HP: 96,99
 Bismarck drei: Armor: 82,95
 Bismarck drei: FP: 74,99
@@ -2245,6 +2245,34 @@ Z3改: speed: 10
 初春改二: AA: 23,73
 初春改二: luck: 16,59
 初春改二: speed: 10
+朝雲改: HP: 31,59
+朝雲改: Armor: 14,49
+朝雲改: FP: 12,49
+朝雲改: Torp: 28,79
+朝雲改: AA: 16,49
+朝雲改: luck: 12,59
+朝雲改: speed: 10
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+野分改: HP: 32,49
+野分改: Armor: 14,49
+野分改: FP: 12,48
+野分改: Torp: 28,79
+野分改: AA: 16,49
+野分改: luck: 13,59
+野分改: speed: 10
+秋月改: HP: 37,57
+秋月改: Armor: 16,53
+秋月改: FP: 24,57
+秋月改: Torp: 24,54
+秋月改: AA: 80,116
+秋月改: luck: 12,69
+秋月改: speed: 10
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
 伊168改: FP: 3,11
@@ -2308,13 +2336,13 @@ Z3改: speed: 10
 雲龍改: AA: 32,78
 雲龍改: luck: 12,59
 雲龍改: speed: 10
-なし: HP: 0,0
-なし: Armor: 0,0
-なし: FP: 0,0
-なし: Torp: 0,0
-なし: AA: 0,0
-なし: luck: 0,0
-なし: speed: 0
+潮改二: HP: 33,53
+潮改二: Armor: 15,55
+潮改二: FP: 10,50
+潮改二: Torp: 25,80
+潮改二: AA: 24,74
+潮改二: luck: 32,80
+潮改二: speed: 10
 隼鷹改二: HP: 55,82
 隼鷹改二: Armor: 31,62
 隼鷹改二: FP: 0,40
@@ -2343,6 +2371,76 @@ Z3改: speed: 10
 扶桑改二: AA: 44,88
 扶桑改二: luck: 13,69
 扶桑改二: speed: 5
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+朝雲: HP: 16,33
+朝雲: Armor: 6,19
+朝雲: FP: 10,29
+朝雲: Torp: 24,69
+朝雲: AA: 9,39
+朝雲: luck: 8,49
+朝雲: speed: 10
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+野分: HP: 16,34
+野分: Armor: 6,19
+野分: FP: 10,29
+野分: Torp: 24,69
+野分: AA: 12,44
+野分: luck: 14,49
+野分: speed: 10
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+秋月: HP: 20,40
+秋月: Armor: 9,27
+秋月: FP: 16,48
+秋月: Torp: 16,48
+秋月: AA: 70,104
+秋月: luck: 10,59
+秋月: speed: 10
 駆逐イ級: HP: 20,20
 駆逐イ級: Armor: 5,5
 駆逐イ級: FP: 5,5
@@ -2987,3 +3085,59 @@ Z3改: speed: 10
 軽巡ツ級: AA: 96,96
 軽巡ツ級: luck: 66,66
 軽巡ツ級: speed: 10
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+重巡ネ級: HP: 80,80
+重巡ネ級: Armor: 82,82
+重巡ネ級: FP: 73,73
+重巡ネ級: Torp: 66,66
+重巡ネ級: AA: 72,72
+重巡ネ級: luck: 60,60
+重巡ネ級: speed: 10
+重巡ネ級: HP: 88,88
+重巡ネ級: Armor: 89,89
+重巡ネ級: FP: 79,79
+重巡ネ級: Torp: 74,74
+重巡ネ級: AA: 79,79
+重巡ネ級: luck: 70,70
+重巡ネ級: speed: 10
+なし: HP: 0,0
+なし: Armor: 0,0
+なし: FP: 0,0
+なし: Torp: 0,0
+なし: AA: 0,0
+なし: luck: 0,0
+なし: speed: 0
+駆逐棲姫: HP: 150,150
+駆逐棲姫: Armor: 100,100
+駆逐棲姫: FP: 59,59
+駆逐棲姫: Torp: 90,90
+駆逐棲姫: AA: 60,60
+駆逐棲姫: luck: 70,70
+駆逐棲姫: speed: 10
+駆逐棲姫: HP: 190,190
+駆逐棲姫: Armor: 115,115
+駆逐棲姫: FP: 69,69
+駆逐棲姫: Torp: 90,90
+駆逐棲姫: AA: 60,60
+駆逐棲姫: luck: 80,80
+駆逐棲姫: speed: 10
+空母水鬼: HP: 370,370
+空母水鬼: Armor: 170,170
+空母水鬼: FP: 140,140
+空母水鬼: Torp: 0,0
+空母水鬼: AA: 110,110
+空母水鬼: luck: 70,70
+空母水鬼: speed: 10
+空母水鬼: HP: 390,390
+空母水鬼: Armor: 190,190
+空母水鬼: FP: 190,190
+空母水鬼: Torp: 0,0
+空母水鬼: AA: 140,140
+空母水鬼: luck: 70,70
+空母水鬼: speed: 10
