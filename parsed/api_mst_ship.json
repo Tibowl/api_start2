@@ -5540,7 +5540,7 @@
     "api_stype": 2,
     "api_taik": [30, 49],
     "api_tyku": [15, 49],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "ふぶき"
 }, {
     "api_afterbull": 0,
@@ -5568,7 +5568,7 @@
     "api_stype": 2,
     "api_taik": [30, 49],
     "api_tyku": [15, 49],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "しらゆき"
 }, {
     "api_afterbull": 0,
@@ -5596,7 +5596,7 @@
     "api_stype": 2,
     "api_taik": [30, 49],
     "api_tyku": [15, 49],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "はつゆき"
 }, {
     "api_afterbull": 0,
@@ -5624,7 +5624,7 @@
     "api_stype": 2,
     "api_taik": [30, 49],
     "api_tyku": [15, 49],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "みゆき"
 }, {
     "api_afterbull": 0,

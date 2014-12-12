@@ -411,4 +411,11 @@
     "api_name": "給糧艦「伊良湖」",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["特別な時期だけ発見が可能となる丁寧に包装された「プレゼント箱」。開封時に希望の中味を選択することが可能です。", ""],
+    "api_id": 60,
+    "api_name": "プレゼント箱",
+    "api_price": 0,
+    "api_usetype": 4
 }]
