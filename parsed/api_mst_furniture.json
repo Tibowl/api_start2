@@ -734,7 +734,7 @@
     "api_no": 2,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "青カーテンの窓",
     "api_type": 2
@@ -744,7 +744,7 @@
     "api_no": 3,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府新年飾り",
     "api_type": 2
@@ -1114,7 +1114,7 @@
     "api_no": 10,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「夜戦」掛け軸",
     "api_type": 3
@@ -1134,7 +1134,7 @@
     "api_no": 12,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「謹賀新年」掛け軸",
     "api_type": 3
@@ -1414,7 +1414,7 @@
     "api_no": 9,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府のツリー",
     "api_type": 4
@@ -1474,7 +1474,7 @@
     "api_no": 15,
     "api_price": 70000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「長門」模型と桐箪笥",
     "api_type": 4
@@ -1754,7 +1754,7 @@
     "api_no": 12,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "駆逐艦娘のツリー",
     "api_type": 5
@@ -1964,7 +1964,7 @@
     "api_no": 33,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "布団と枕",
     "api_type": 5
@@ -1994,7 +1994,7 @@
     "api_no": 36,
     "api_price": 3000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "七面鳥のご馳走",
     "api_type": 5
@@ -2224,7 +2224,7 @@
     "api_no": 37,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 4,
     "api_title": "冬の飾り付け",
     "api_type": 3
@@ -2234,8 +2234,58 @@
     "api_no": 44,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 4,
     "api_title": "白と青のツリー",
     "api_type": 5
+}, {
+    "api_description": "年末年始も多忙を極める、<br>そんな提督と艦娘のために<br>特別に用意された、鎮守府<br>の中で初詣を完了できる画<br>期的な大規模家具セット！",
+    "api_id": 225,
+    "api_no": 45,
+    "api_price": 30000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "鎮守府初詣セット",
+    "api_type": 5
+}, {
+    "api_description": "<br>",
+    "api_id": 226,
+    "api_no": 38,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 11,
+    "api_title": "新春掛け軸二〇一五",
+    "api_type": 3
+}, {
+    "api_description": "新年を迎えるために艦娘が<br>用意してくれたしめ飾り。<br>これさえ飾れば、鎮守府の<br>新年の用意はバッチリ！<br>良いお年を！",
+    "api_id": 227,
+    "api_no": 39,
+    "api_price": 800,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "しめ飾り",
+    "api_type": 3
+}, {
+    "api_description": "良い年を迎えるには、なん<br>といってもこれです！艦娘<br>と提督で仲良く年越し蕎麦<br>を食べて、良いお年を！<br>天ぷらも美味しいです！",
+    "api_id": 228,
+    "api_no": 46,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 11,
+    "api_title": "年越し蕎麦",
+    "api_type": 5
+}, {
+    "api_description": "<br>",
+    "api_id": 229,
+    "api_no": 35,
+    "api_price": 5000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 11,
+    "api_title": "門松",
+    "api_type": 4
 }]
