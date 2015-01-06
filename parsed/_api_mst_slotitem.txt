@@ -456,6 +456,11 @@ FuMO25 レーダー: AA: 7
 FuMO25 レーダー: LoS: 9
 FuMO25 レーダー: Acc: 10
 FuMO25 レーダー: Rare: 4
+61cm三連装(酸素)魚雷: Torp: 8
+61cm三連装(酸素)魚雷: Armor: 1
+61cm三連装(酸素)魚雷: Evas: 1
+61cm三連装(酸素)魚雷: Rare: 2
+61cm三連装(酸素)魚雷: Range: 1
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

@@ -744,7 +744,7 @@
     "api_no": 3,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府新年飾り",
     "api_type": 2
@@ -754,7 +754,7 @@
     "api_no": 4,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "破魔矢の窓",
     "api_type": 2
@@ -1044,7 +1044,7 @@
     "api_no": 3,
     "api_price": 500,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ステンドグラス",
     "api_type": 3
@@ -1114,7 +1114,7 @@
     "api_no": 10,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「夜戦」掛け軸",
     "api_type": 3
@@ -1134,7 +1134,7 @@
     "api_no": 12,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「謹賀新年」掛け軸",
     "api_type": 3
@@ -1854,7 +1854,7 @@
     "api_no": 22,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "提督の麻雀卓",
     "api_type": 5
@@ -2264,7 +2264,7 @@
     "api_no": 39,
     "api_price": 800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "しめ飾り",
     "api_type": 3
@@ -2274,7 +2274,7 @@
     "api_no": 46,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 11,
     "api_title": "年越し蕎麦",
     "api_type": 5
