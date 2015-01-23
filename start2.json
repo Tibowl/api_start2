@@ -15,6 +15,12 @@
         "api_id": 108,
         "api_name": "迎春の鎮守府"
     }, {
+        "api_id": 109,
+        "api_name": "第五戦隊の出撃"
+    }, {
+        "api_id": 110,
+        "api_name": "節分の鎮守府"
+    }, {
         "api_id": 205,
         "api_name": "秋月の空"
     }, {
@@ -45,7 +51,7 @@
             "api_string_value": ""
         },
         "api_boko_max_ships": {
-            "api_int_value": 220,
+            "api_int_value": 230,
             "api_string_value": ""
         }
     },
@@ -480,14 +486,14 @@
         "api_title": "昭和レトロな壁紙",
         "api_type": 1
     }, {
-        "api_description": "シックな色合いと柄使いが大正ロマンを思わせる壁紙。",
+        "api_description": "チョコレートをモチーフに<br>鎮守府の艦娘たちがデザイ<br>ンした壁紙です。鎮守府内<br>にチョコレートの甘い香り<br>が漂いますネ！",
         "api_id": 44,
         "api_no": 6,
-        "api_price": 0,
-        "api_rarity": 0,
-        "api_saleflg": 0,
+        "api_price": 550,
+        "api_rarity": 2,
+        "api_saleflg": 1,
         "api_season": 0,
-        "api_title": "大正ロマンな壁紙",
+        "api_title": "チョコレートの壁紙",
         "api_type": 1
     }, {
         "api_description": "カジュアルな若い感性の壁紙。鮮やかな色彩のストライプには提督は渋い顔ですが、気にしません！",
@@ -500,14 +506,14 @@
         "api_title": "ポップな壁紙",
         "api_type": 1
     }, {
-        "api_description": "青×黄が爽やかポップで可愛い印象です！",
+        "api_description": "お菓子作りにぴったりの壁<br>紙を！そんな艦娘の声から<br>生まれた、ポップで優しい<br>雰囲気のガーリーな壁紙。<br>お菓子作りも捗ります！",
         "api_id": 46,
         "api_no": 8,
-        "api_price": 0,
-        "api_rarity": 0,
-        "api_saleflg": 0,
+        "api_price": 700,
+        "api_rarity": 2,
+        "api_saleflg": 1,
         "api_season": 0,
-        "api_title": "爽やかポップな壁紙",
+        "api_title": "お菓子作りの壁紙",
         "api_type": 1
     }, {
         "api_description": "もっと落ち着いた和の心の<br>壁紙が欲しい…という提督<br>の要請から生まれた、高級<br>和風壁紙。違いのわかる、<br>大人の提督に人気です。",
@@ -675,7 +681,7 @@
         "api_no": 25,
         "api_price": 750,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "冬のモダンアート壁紙",
         "api_type": 1
@@ -745,7 +751,7 @@
         "api_no": 32,
         "api_price": 50000,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "龍の壁紙",
         "api_type": 1
@@ -785,7 +791,7 @@
         "api_no": 2,
         "api_price": 100,
         "api_rarity": 1,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_season": 0,
         "api_title": "青カーテンの窓",
         "api_type": 2
@@ -1005,7 +1011,7 @@
         "api_no": 24,
         "api_price": 400,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "昔ながらのすりガラス",
         "api_type": 2
@@ -1015,7 +1021,7 @@
         "api_no": 25,
         "api_price": 1300,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "艦娘による冬の窓",
         "api_type": 2
@@ -1225,7 +1231,7 @@
         "api_no": 16,
         "api_price": 3000,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "「第六駆逐隊」掛け軸",
         "api_type": 3
@@ -1415,8 +1421,8 @@
         "api_no": 4,
         "api_price": 1300,
         "api_rarity": 3,
-        "api_saleflg": 0,
-        "api_season": 0,
+        "api_saleflg": 1,
+        "api_season": 12,
         "api_title": "節分「豆まき」セット",
         "api_type": 4
     }, {
@@ -1515,7 +1521,7 @@
         "api_no": 14,
         "api_price": 7000,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "「赤城」模型と桐箪笥",
         "api_type": 4
@@ -1525,7 +1531,7 @@
         "api_no": 15,
         "api_price": 70000,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "「長門」模型と桐箪笥",
         "api_type": 4
@@ -1835,8 +1841,8 @@
         "api_no": 15,
         "api_price": 2000,
         "api_rarity": 4,
-        "api_saleflg": 0,
-        "api_season": 0,
+        "api_saleflg": 1,
+        "api_season": 12,
         "api_title": "大人の節分セット",
         "api_type": 5
     }, {
@@ -1855,7 +1861,7 @@
         "api_no": 17,
         "api_price": 3500,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "早く出しすぎた炬燵",
         "api_type": 5
@@ -2125,7 +2131,7 @@
         "api_no": 40,
         "api_price": 25000,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "原稿机",
         "api_type": 5
@@ -2295,7 +2301,7 @@
         "api_no": 45,
         "api_price": 30000,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "鎮守府初詣セット",
         "api_type": 5
@@ -2338,6 +2344,56 @@
         "api_saleflg": 0,
         "api_season": 11,
         "api_title": "門松",
+        "api_type": 4
+    }, {
+        "api_description": "夜の鎮守府は大人の時間。<br>お酒好きの艦娘たちが、集<br>まってそれぞれお気に入り<br>のお酒を片手に、ガールズ<br>トークに花を咲かせます。",
+        "api_id": 230,
+        "api_no": 35,
+        "api_price": 32000,
+        "api_rarity": 5,
+        "api_saleflg": 1,
+        "api_season": 0,
+        "api_title": "鎮守府カウンターバー",
+        "api_type": 2
+    }, {
+        "api_description": "振り返れば、こんなところ<br>まで…提督の皆さん、あり<br>がとうございました！記念<br>の掛け軸を書いた艦娘も今<br>から一杯やるみたいです！",
+        "api_id": 231,
+        "api_no": 40,
+        "api_price": 0,
+        "api_rarity": 4,
+        "api_saleflg": 1,
+        "api_season": 14,
+        "api_title": "「250万の感謝」掛け軸",
+        "api_type": 3
+    }, {
+        "api_description": "腕に自信のある艦娘たちは<br>オフの日は手作りのお菓子<br>作りにチャレンジします！<br>春先は、ボールに溶かした<br>チョコが…楽しみかも？",
+        "api_id": 232,
+        "api_no": 47,
+        "api_price": 1800,
+        "api_rarity": 3,
+        "api_saleflg": 1,
+        "api_season": 0,
+        "api_title": "チョコレートキッチン",
+        "api_type": 5
+    }, {
+        "api_description": "ウイスキーやスコッチ、そ<br>してワインなどが好きな大<br>人の艦娘が酒保で入手した<br>大切なお酒をキープしてま<br>す。カウンター横にぜひ！",
+        "api_id": 233,
+        "api_no": 48,
+        "api_price": 20000,
+        "api_rarity": 4,
+        "api_saleflg": 1,
+        "api_season": 0,
+        "api_title": "洋酒＆ワイン棚",
+        "api_type": 5
+    }, {
+        "api_description": "日本酒や和製ウイスキーな<br>どが好きな大人の艦娘たち<br>垂涎のお酒棚です。鎮守府<br>カウンターバーと一緒に配<br>置して、夜の鎮守府に！",
+        "api_id": 234,
+        "api_no": 36,
+        "api_price": 20000,
+        "api_rarity": 4,
+        "api_saleflg": 1,
+        "api_season": 0,
+        "api_title": "日本酒＆ウィスキー棚",
         "api_type": 4
     }],
     "api_mst_furnituregraph": [{
@@ -2387,6 +2443,12 @@
         "api_id": 222,
         "api_no": 34,
         "api_type": 4,
+        "api_version": "1"
+    }, {
+        "api_filename": "036",
+        "api_id": 230,
+        "api_no": 35,
+        "api_type": 2,
         "api_version": "1"
     }],
     "api_mst_item_shop": {
@@ -5946,7 +6008,7 @@
         "api_price": 300,
         "api_type": 0
     }, {
-        "api_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計220隻まで！ 装備枠も自動的に+40増加します。",
+        "api_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計230隻まで！ 装備枠も自動的に+40増加します。",
         "api_id": 16,
         "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
         "api_name": "母港拡張",
@@ -11355,29 +11417,29 @@
         "api_afterfuel": 0,
         "api_afterlv": 0,
         "api_aftershipid": "0",
-        "api_backs": 0,
-        "api_broken": [0, 0, 0, 0],
-        "api_buildtime": 0,
-        "api_bull_max": 0,
-        "api_fuel_max": 0,
-        "api_getmes": "",
-        "api_houg": [0, 0],
+        "api_backs": 6,
+        "api_broken": [4, 7, 20, 2],
+        "api_buildtime": 80,
+        "api_bull_max": 75,
+        "api_fuel_max": 45,
+        "api_getmes": "貴様が司令官か。<br>私は那智。よろしくお願いする。",
+        "api_houg": [50, 80],
         "api_id": 192,
-        "api_leng": 0,
-        "api_luck": [0, 0],
-        "api_maxeq": [0, 0, 0, 0, 0],
-        "api_name": "なし",
-        "api_powup": [0, 0, 0, 0],
-        "api_raig": [0, 0],
-        "api_slot_num": 0,
-        "api_soku": 0,
-        "api_sortno": 0,
-        "api_souk": [0, 0],
-        "api_stype": 2,
-        "api_taik": [0, 0],
-        "api_tyku": [0, 0],
-        "api_voicef": 0,
-        "api_yomi": "なし"
+        "api_leng": 2,
+        "api_luck": [18, 70],
+        "api_maxeq": [2, 2, 4, 4, 0],
+        "api_name": "那智改二",
+        "api_powup": [3, 1, 2, 2],
+        "api_raig": [34, 84],
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sortno": 192,
+        "api_souk": [48, 78],
+        "api_stype": 5,
+        "api_taik": [56, 71],
+        "api_tyku": [33, 83],
+        "api_voicef": 1,
+        "api_yomi": "なち"
     }, {
         "api_afterbull": 0,
         "api_afterfuel": 0,
@@ -12639,10 +12701,10 @@
         "api_voicef": 1,
         "api_yomi": "わかば"
     }, {
-        "api_afterbull": 0,
-        "api_afterfuel": 0,
-        "api_afterlv": 0,
-        "api_aftershipid": "0",
+        "api_afterbull": 230,
+        "api_afterfuel": 220,
+        "api_afterlv": 70,
+        "api_aftershipid": "419",
         "api_backs": 4,
         "api_broken": [1, 2, 10, 0],
         "api_buildtime": 20,
@@ -12664,7 +12726,7 @@
         "api_stype": 2,
         "api_taik": [30, 51],
         "api_tyku": [15, 49],
-        "api_voicef": 0,
+        "api_voicef": 1,
         "api_yomi": "はつしも"
     }, {
         "api_afterbull": 0,
@@ -13339,10 +13401,10 @@
         "api_voicef": 3,
         "api_yomi": "みょうこう"
     }, {
-        "api_afterbull": 0,
-        "api_afterfuel": 0,
-        "api_afterlv": 0,
-        "api_aftershipid": "0",
+        "api_afterbull": 900,
+        "api_afterfuel": 800,
+        "api_afterlv": 65,
+        "api_aftershipid": "192",
         "api_backs": 4,
         "api_broken": [4, 7, 20, 2],
         "api_buildtime": 80,
@@ -15695,29 +15757,29 @@
         "api_afterfuel": 0,
         "api_afterlv": 0,
         "api_aftershipid": "0",
-        "api_backs": 0,
-        "api_broken": [0, 0, 0, 0],
-        "api_buildtime": 0,
-        "api_bull_max": 0,
-        "api_fuel_max": 0,
-        "api_getmes": "",
-        "api_houg": [0, 0],
+        "api_backs": 6,
+        "api_broken": [1, 2, 10, 0],
+        "api_buildtime": 22,
+        "api_bull_max": 20,
+        "api_fuel_max": 15,
+        "api_getmes": "初春型四番艦、初霜です。<br>皆さん、よろしくお願いします！",
+        "api_houg": [12, 50],
         "api_id": 419,
-        "api_leng": 0,
-        "api_luck": [0, 0],
+        "api_leng": 1,
+        "api_luck": [53, 100],
         "api_maxeq": [0, 0, 0, 0, 0],
-        "api_name": "なし",
-        "api_powup": [0, 0, 0, 0],
-        "api_raig": [0, 0],
-        "api_slot_num": 0,
-        "api_soku": 0,
-        "api_sortno": 0,
-        "api_souk": [0, 0],
+        "api_name": "初霜改二",
+        "api_powup": [2, 2, 1, 1],
+        "api_raig": [28, 84],
+        "api_slot_num": 3,
+        "api_soku": 10,
+        "api_sortno": 219,
+        "api_souk": [14, 51],
         "api_stype": 2,
-        "api_taik": [0, 0],
-        "api_tyku": [0, 0],
-        "api_voicef": 0,
-        "api_yomi": "なし"
+        "api_taik": [31, 52],
+        "api_tyku": [34, 79],
+        "api_voicef": 1,
+        "api_yomi": "はつしも"
     }, {
         "api_afterbull": 0,
         "api_afterfuel": 0,
@@ -19068,7 +19130,7 @@
         "api_map_d": [-13, 15],
         "api_map_n": [29, 24],
         "api_sortno": 31,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [112, 108],
         "api_wedb": [145, 153]
     }, {
@@ -19088,7 +19150,7 @@
         "api_map_d": [18, 49],
         "api_map_n": [34, 68],
         "api_sortno": 32,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [106, 63],
         "api_wedb": [139, 114]
     }, {
@@ -19808,7 +19870,7 @@
         "api_map_d": [-85, 25],
         "api_map_n": [-23, 40],
         "api_sortno": 75,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [218, 123],
         "api_wedb": [131, 133]
     }, {
@@ -19828,7 +19890,7 @@
         "api_map_d": [-22, -41],
         "api_map_n": [18, -48],
         "api_sortno": 76,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [128, 189],
         "api_wedb": [132, 127]
     }, {
@@ -19848,7 +19910,7 @@
         "api_map_d": [12, 37],
         "api_map_n": [39, 2],
         "api_sortno": 77,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [153, 136],
         "api_wedb": [124, 151]
     }, {
@@ -19868,7 +19930,7 @@
         "api_map_d": [17, 45],
         "api_map_n": [-39, 41],
         "api_sortno": 78,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [304, 85],
         "api_wedb": [148, 151]
     }, {
@@ -19888,7 +19950,7 @@
         "api_map_d": [-119, 121],
         "api_map_n": [-100, 4],
         "api_sortno": 79,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [283, 140],
         "api_wedb": [129, 137]
     }, {
@@ -19908,7 +19970,7 @@
         "api_map_d": [49, 30],
         "api_map_n": [61, 32],
         "api_sortno": 80,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [120, 107],
         "api_wedb": [130, 146]
     }, {
@@ -19928,7 +19990,7 @@
         "api_map_d": [13, 63],
         "api_map_n": [46, 70],
         "api_sortno": 81,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [135, 63],
         "api_wedb": [118, 143]
     }, {
@@ -19948,7 +20010,7 @@
         "api_map_d": [26, 47],
         "api_map_n": [70, 39],
         "api_sortno": 82,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [106, 98],
         "api_wedb": [110, 135]
     }, {
@@ -21368,7 +21430,7 @@
         "api_map_d": [-47, 10],
         "api_map_n": [-29, 53],
         "api_sortno": 112,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [173, 43],
         "api_wedb": [123, 151]
     }, {
@@ -21388,7 +21450,7 @@
         "api_map_d": [-47, 10],
         "api_map_n": [-29, 53],
         "api_sortno": 113,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [173, 43],
         "api_wedb": [123, 151]
     }, {
@@ -21928,7 +21990,7 @@
         "api_map_d": [60, 32],
         "api_map_n": [32, 112],
         "api_sortno": 144,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [148, 6],
         "api_wedb": [115, 133]
     }, {
@@ -21948,7 +22010,7 @@
         "api_map_d": [64, 0],
         "api_map_n": [80, 32],
         "api_sortno": 145,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [122, 84],
         "api_wedb": [137, 140]
     }, {
@@ -22408,7 +22470,7 @@
         "api_map_d": [-16, 64],
         "api_map_n": [32, 96],
         "api_sortno": 168,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [160, 32],
         "api_wedb": [144, 144]
     }, {
@@ -22428,7 +22490,7 @@
         "api_map_d": [64, 112],
         "api_map_n": [64, 112],
         "api_sortno": 169,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [144, -16],
         "api_wedb": [144, 128]
     }, {
@@ -22448,7 +22510,7 @@
         "api_map_d": [64, 112],
         "api_map_n": [32, 96],
         "api_sortno": 170,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [176, 56],
         "api_wedb": [112, 112]
     }, {
@@ -22568,7 +22630,7 @@
         "api_map_d": [-8, 112],
         "api_map_n": [-96, 112],
         "api_sortno": 176,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [296, 24],
         "api_wedb": [128, 112]
     }, {
@@ -22588,7 +22650,7 @@
         "api_map_d": [-8, 112],
         "api_map_n": [-96, 112],
         "api_sortno": 177,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [296, 24],
         "api_wedb": [128, 112]
     }, {
@@ -22872,25 +22934,25 @@
         "api_weda": [157, 22],
         "api_wedb": [119, 134]
     }, {
-        "api_battle_d": [0, 0],
-        "api_battle_n": [0, 0],
-        "api_boko_d": [0, 0],
-        "api_boko_n": [0, 0],
-        "api_ensyue_n": [0, 0],
-        "api_ensyuf_d": [0, 0],
-        "api_ensyuf_n": [0, 0],
+        "api_battle_d": [16, 128],
+        "api_battle_n": [-112, 112],
+        "api_boko_d": [24, 144],
+        "api_boko_n": [-96, 120],
+        "api_ensyue_n": [-144, 0],
+        "api_ensyuf_d": [16, 128],
+        "api_ensyuf_n": [-96, 112],
         "api_filename": "bpegnatlfibc",
         "api_id": 192,
-        "api_kaisyu_d": [0, 0],
-        "api_kaisyu_n": [0, 0],
-        "api_kaizo_d": [0, 0],
-        "api_kaizo_n": [0, 0],
-        "api_map_d": [0, 0],
-        "api_map_n": [0, 0],
-        "api_sortno": 0,
+        "api_kaisyu_d": [32, 8],
+        "api_kaisyu_n": [16, 8],
+        "api_kaizo_d": [-32, 48],
+        "api_kaizo_n": [-136, 64],
+        "api_map_d": [0, 128],
+        "api_map_n": [-128, 120],
+        "api_sortno": 192,
         "api_version": "1",
-        "api_weda": [0, 0],
-        "api_wedb": [0, 0]
+        "api_weda": [320, 8],
+        "api_wedb": [128, 120]
     }, {
         "api_battle_d": [8, 112],
         "api_battle_n": [0, 112],
@@ -23748,7 +23810,7 @@
         "api_map_d": [-85, 25],
         "api_map_n": [-23, 40],
         "api_sortno": 338,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [218, 123],
         "api_wedb": [131, 133]
     }, {
@@ -23768,7 +23830,7 @@
         "api_map_d": [-22, -41],
         "api_map_n": [18, -48],
         "api_sortno": 339,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [128, 189],
         "api_wedb": [132, 127]
     }, {
@@ -23788,7 +23850,7 @@
         "api_map_d": [12, 37],
         "api_map_n": [39, 2],
         "api_sortno": 340,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [153, 136],
         "api_wedb": [124, 151]
     }, {
@@ -23808,7 +23870,7 @@
         "api_map_d": [17, 45],
         "api_map_n": [-39, 41],
         "api_sortno": 341,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [304, 85],
         "api_wedb": [148, 151]
     }, {
@@ -23828,7 +23890,7 @@
         "api_map_d": [48, 0],
         "api_map_n": [32, 88],
         "api_sortno": 342,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [164, 18],
         "api_wedb": [129, 138]
     }, {
@@ -23848,7 +23910,7 @@
         "api_map_d": [49, 30],
         "api_map_n": [61, 32],
         "api_sortno": 343,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [120, 107],
         "api_wedb": [130, 146]
     }, {
@@ -23868,7 +23930,7 @@
         "api_map_d": [16, 32],
         "api_map_n": [48, 72],
         "api_sortno": 344,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [91, 40],
         "api_wedb": [123, 133]
     }, {
@@ -23888,7 +23950,7 @@
         "api_map_d": [26, 47],
         "api_map_n": [70, 39],
         "api_sortno": 345,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [106, 98],
         "api_wedb": [110, 135]
     }, {
@@ -24068,7 +24130,7 @@
         "api_map_d": [-13, 15],
         "api_map_n": [29, 24],
         "api_sortno": 354,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [112, 108],
         "api_wedb": [145, 153]
     }, {
@@ -24088,7 +24150,7 @@
         "api_map_d": [18, 49],
         "api_map_n": [34, 68],
         "api_sortno": 355,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [106, 63],
         "api_wedb": [139, 114]
     }, {
@@ -25188,7 +25250,7 @@
         "api_map_d": [64, 112],
         "api_map_n": [32, 96],
         "api_sortno": 408,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [176, 56],
         "api_wedb": [112, 112]
     }, {
@@ -25208,7 +25270,7 @@
         "api_map_d": [64, 112],
         "api_map_n": [64, 112],
         "api_sortno": 409,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [144, -16],
         "api_wedb": [144, 128]
     }, {
@@ -25288,7 +25350,7 @@
         "api_map_d": [-16, 64],
         "api_map_n": [32, 96],
         "api_sortno": 412,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [160, 32],
         "api_wedb": [144, 144]
     }, {
@@ -25468,7 +25530,7 @@
         "api_map_d": [-64, 40],
         "api_map_n": [-32, 32],
         "api_sortno": 204,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [256, 104],
         "api_wedb": [112, 88]
     }, {
@@ -25528,7 +25590,7 @@
         "api_map_d": [80, 144],
         "api_map_n": [56, 144],
         "api_sortno": 421,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [128, -8],
         "api_wedb": [120, 112]
     }, {
@@ -25908,7 +25970,7 @@
         "api_map_d": [80, 144],
         "api_map_n": [56, 144],
         "api_sortno": 215,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [128, -8],
         "api_wedb": [120, 112]
     }, {
@@ -25972,25 +26034,25 @@
         "api_weda": [0, 0],
         "api_wedb": [0, 0]
     }, {
-        "api_battle_d": [0, 0],
-        "api_battle_n": [0, 0],
-        "api_boko_d": [0, 0],
-        "api_boko_n": [0, 0],
-        "api_ensyue_n": [0, 0],
-        "api_ensyuf_d": [0, 0],
-        "api_ensyuf_n": [0, 0],
+        "api_battle_d": [64, 16],
+        "api_battle_n": [64, 40],
+        "api_boko_d": [36, 36],
+        "api_boko_n": [72, 56],
+        "api_ensyue_n": [48, 0],
+        "api_ensyuf_d": [48, 8],
+        "api_ensyuf_n": [64, 32],
         "api_filename": "ufgydlyjdaxb",
         "api_id": 419,
-        "api_kaisyu_d": [0, 0],
-        "api_kaisyu_n": [0, 0],
-        "api_kaizo_d": [0, 0],
-        "api_kaizo_n": [0, 0],
-        "api_map_d": [0, 0],
-        "api_map_n": [0, 0],
-        "api_sortno": 0,
+        "api_kaisyu_d": [40, -32],
+        "api_kaisyu_n": [28, -20],
+        "api_kaizo_d": [40, -40],
+        "api_kaizo_n": [40, 0],
+        "api_map_d": [32, 32],
+        "api_map_n": [64, 40],
+        "api_sortno": 219,
         "api_version": "1",
-        "api_weda": [0, 0],
-        "api_wedb": [0, 0]
+        "api_weda": [128, 96],
+        "api_wedb": [160, 128]
     }, {
         "api_battle_d": [0, 0],
         "api_battle_n": [0, 0],
@@ -28373,11 +28435,39 @@
         "api_wedb": [128, 104]
     }],
     "api_mst_shipupgrade": [{
+        "api_drawing_count": 0,
+        "api_id": 273,
+        "api_original_ship_id": 71,
+        "api_sortno": 373,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 404,
+        "api_original_ship_id": 404,
+        "api_sortno": 201,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
         "api_drawing_count": 1,
-        "api_id": 173,
+        "api_id": 178,
         "api_original_ship_id": 171,
-        "api_sortno": 173,
-        "api_upgrade_level": 2,
+        "api_sortno": 178,
+        "api_upgrade_level": 3,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 185,
+        "api_original_ship_id": 184,
+        "api_sortno": 185,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 71,
+        "api_original_ship_id": 71,
+        "api_sortno": 63,
+        "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 1,
@@ -28395,23 +28485,23 @@
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 1,
-        "api_id": 412,
-        "api_original_ship_id": 27,
-        "api_sortno": 212,
+        "api_id": 173,
+        "api_original_ship_id": 171,
+        "api_sortno": 173,
         "api_upgrade_level": 2,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
-        "api_id": 171,
-        "api_original_ship_id": 171,
-        "api_sortno": 171,
-        "api_upgrade_level": 0,
+        "api_id": 274,
+        "api_original_ship_id": 72,
+        "api_sortno": 374,
+        "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
-        "api_id": 26,
-        "api_original_ship_id": 26,
-        "api_sortno": 26,
+        "api_id": 72,
+        "api_original_ship_id": 72,
+        "api_sortno": 64,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
@@ -28436,17 +28526,24 @@
         "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }, {
-        "api_drawing_count": 0,
-        "api_id": 274,
-        "api_original_ship_id": 72,
-        "api_sortno": 374,
-        "api_upgrade_level": 1,
+        "api_drawing_count": 1,
+        "api_id": 412,
+        "api_original_ship_id": 27,
+        "api_sortno": 212,
+        "api_upgrade_level": 2,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
-        "api_id": 72,
-        "api_original_ship_id": 72,
-        "api_sortno": 64,
+        "api_id": 171,
+        "api_original_ship_id": 171,
+        "api_sortno": 171,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 26,
+        "api_original_ship_id": 26,
+        "api_sortno": 26,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
@@ -28482,41 +28579,6 @@
         "api_id": 27,
         "api_original_ship_id": 27,
         "api_sortno": 27,
-        "api_upgrade_level": 0,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 178,
-        "api_original_ship_id": 171,
-        "api_sortno": 178,
-        "api_upgrade_level": 3,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 185,
-        "api_original_ship_id": 184,
-        "api_sortno": 185,
-        "api_upgrade_level": 1,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 0,
-        "api_id": 273,
-        "api_original_ship_id": 71,
-        "api_sortno": 373,
-        "api_upgrade_level": 1,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 0,
-        "api_id": 404,
-        "api_original_ship_id": 404,
-        "api_sortno": 201,
-        "api_upgrade_level": 0,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 0,
-        "api_id": 71,
-        "api_original_ship_id": 71,
-        "api_sortno": 63,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }],
@@ -29490,7 +29552,7 @@
         "api_taik": 0,
         "api_tais": 0,
         "api_tyku": 0,
-        "api_type": [4, 6, 19, 13],
+        "api_type": [4, 25, 19, 13],
         "api_usebull": "0"
     }, {
         "api_atap": 0,
@@ -31650,7 +31712,7 @@
         "api_taik": 0,
         "api_tais": 0,
         "api_tyku": 0,
-        "api_type": [4, 6, 19, 13],
+        "api_type": [4, 25, 19, 13],
         "api_usebull": "0"
     }, {
         "api_atap": 0,
@@ -32865,7 +32927,7 @@
         "api_taik": 0,
         "api_tais": 0,
         "api_tyku": 0,
-        "api_type": [4, 6, 19, 13],
+        "api_type": [4, 25, 19, 13],
         "api_usebull": "0"
     }, {
         "api_atap": 0,
@@ -35514,7 +35576,7 @@
         "api_usetype": 0
     }, {
         "api_category": 0,
-        "api_description": ["最大保有艦娘数＋10(最大220)。最大保有アイテム数＋40(最大980)。", ""],
+        "api_description": ["最大保有艦娘数＋10(最大230)。最大保有アイテム数＋40(最大1020)。", ""],
         "api_id": 53,
         "api_name": "母港拡張",
         "api_price": 0,

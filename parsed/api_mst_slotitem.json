@@ -968,7 +968,7 @@
     "api_taik": 0,
     "api_tais": 0,
     "api_tyku": 0,
-    "api_type": [4, 6, 19, 13],
+    "api_type": [4, 25, 19, 13],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -3128,7 +3128,7 @@
     "api_taik": 0,
     "api_tais": 0,
     "api_tyku": 0,
-    "api_type": [4, 6, 19, 13],
+    "api_type": [4, 25, 19, 13],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -4343,7 +4343,7 @@
     "api_taik": 0,
     "api_tais": 0,
     "api_tyku": 0,
-    "api_type": [4, 6, 19, 13],
+    "api_type": [4, 25, 19, 13],
     "api_usebull": "0"
 }, {
     "api_atap": 0,

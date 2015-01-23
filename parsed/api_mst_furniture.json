@@ -429,14 +429,14 @@
     "api_title": "昭和レトロな壁紙",
     "api_type": 1
 }, {
-    "api_description": "シックな色合いと柄使いが大正ロマンを思わせる壁紙。",
+    "api_description": "チョコレートをモチーフに<br>鎮守府の艦娘たちがデザイ<br>ンした壁紙です。鎮守府内<br>にチョコレートの甘い香り<br>が漂いますネ！",
     "api_id": 44,
     "api_no": 6,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 550,
+    "api_rarity": 2,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "大正ロマンな壁紙",
+    "api_title": "チョコレートの壁紙",
     "api_type": 1
 }, {
     "api_description": "カジュアルな若い感性の壁紙。鮮やかな色彩のストライプには提督は渋い顔ですが、気にしません！",
@@ -449,14 +449,14 @@
     "api_title": "ポップな壁紙",
     "api_type": 1
 }, {
-    "api_description": "青×黄が爽やかポップで可愛い印象です！",
+    "api_description": "お菓子作りにぴったりの壁<br>紙を！そんな艦娘の声から<br>生まれた、ポップで優しい<br>雰囲気のガーリーな壁紙。<br>お菓子作りも捗ります！",
     "api_id": 46,
     "api_no": 8,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 700,
+    "api_rarity": 2,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "爽やかポップな壁紙",
+    "api_title": "お菓子作りの壁紙",
     "api_type": 1
 }, {
     "api_description": "もっと落ち着いた和の心の<br>壁紙が欲しい…という提督<br>の要請から生まれた、高級<br>和風壁紙。違いのわかる、<br>大人の提督に人気です。",
@@ -624,7 +624,7 @@
     "api_no": 25,
     "api_price": 750,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "冬のモダンアート壁紙",
     "api_type": 1
@@ -694,7 +694,7 @@
     "api_no": 32,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "龍の壁紙",
     "api_type": 1
@@ -734,7 +734,7 @@
     "api_no": 2,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "青カーテンの窓",
     "api_type": 2
@@ -954,7 +954,7 @@
     "api_no": 24,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "昔ながらのすりガラス",
     "api_type": 2
@@ -964,7 +964,7 @@
     "api_no": 25,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "艦娘による冬の窓",
     "api_type": 2
@@ -1174,7 +1174,7 @@
     "api_no": 16,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3
@@ -1364,8 +1364,8 @@
     "api_no": 4,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
-    "api_season": 0,
+    "api_saleflg": 1,
+    "api_season": 12,
     "api_title": "節分「豆まき」セット",
     "api_type": 4
 }, {
@@ -1464,7 +1464,7 @@
     "api_no": 14,
     "api_price": 7000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「赤城」模型と桐箪笥",
     "api_type": 4
@@ -1474,7 +1474,7 @@
     "api_no": 15,
     "api_price": 70000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「長門」模型と桐箪笥",
     "api_type": 4
@@ -1784,8 +1784,8 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
-    "api_season": 0,
+    "api_saleflg": 1,
+    "api_season": 12,
     "api_title": "大人の節分セット",
     "api_type": 5
 }, {
@@ -1804,7 +1804,7 @@
     "api_no": 17,
     "api_price": 3500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "早く出しすぎた炬燵",
     "api_type": 5
@@ -2074,7 +2074,7 @@
     "api_no": 40,
     "api_price": 25000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "原稿机",
     "api_type": 5
@@ -2244,7 +2244,7 @@
     "api_no": 45,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府初詣セット",
     "api_type": 5
@@ -2287,5 +2287,55 @@
     "api_saleflg": 0,
     "api_season": 11,
     "api_title": "門松",
+    "api_type": 4
+}, {
+    "api_description": "夜の鎮守府は大人の時間。<br>お酒好きの艦娘たちが、集<br>まってそれぞれお気に入り<br>のお酒を片手に、ガールズ<br>トークに花を咲かせます。",
+    "api_id": 230,
+    "api_no": 35,
+    "api_price": 32000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "鎮守府カウンターバー",
+    "api_type": 2
+}, {
+    "api_description": "振り返れば、こんなところ<br>まで…提督の皆さん、あり<br>がとうございました！記念<br>の掛け軸を書いた艦娘も今<br>から一杯やるみたいです！",
+    "api_id": 231,
+    "api_no": 40,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 14,
+    "api_title": "「250万の感謝」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "腕に自信のある艦娘たちは<br>オフの日は手作りのお菓子<br>作りにチャレンジします！<br>春先は、ボールに溶かした<br>チョコが…楽しみかも？",
+    "api_id": 232,
+    "api_no": 47,
+    "api_price": 1800,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "チョコレートキッチン",
+    "api_type": 5
+}, {
+    "api_description": "ウイスキーやスコッチ、そ<br>してワインなどが好きな大<br>人の艦娘が酒保で入手した<br>大切なお酒をキープしてま<br>す。カウンター横にぜひ！",
+    "api_id": 233,
+    "api_no": 48,
+    "api_price": 20000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "洋酒＆ワイン棚",
+    "api_type": 5
+}, {
+    "api_description": "日本酒や和製ウイスキーな<br>どが好きな大人の艦娘たち<br>垂涎のお酒棚です。鎮守府<br>カウンターバーと一緒に配<br>置して、夜の鎮守府に！",
+    "api_id": 234,
+    "api_no": 36,
+    "api_price": 20000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "日本酒＆ウィスキー棚",
     "api_type": 4
 }]
