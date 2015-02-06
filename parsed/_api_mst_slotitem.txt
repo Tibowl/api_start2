@@ -461,6 +461,21 @@ FuMO25 レーダー: Rare: 4
 61cm三連装(酸素)魚雷: Evas: 1
 61cm三連装(酸素)魚雷: Rare: 2
 61cm三連装(酸素)魚雷: Range: 1
+WG42 (Wurfgerät 42): FP: 1
+WG42 (Wurfgerät 42): Armor: -1
+WG42 (Wurfgerät 42): Rare: 4
+WG42 (Wurfgerät 42): Range: 1
+試製FaT仕様九五式酸素魚雷改: Torp: 14
+試製FaT仕様九五式酸素魚雷改: Acc: 7
+試製FaT仕様九五式酸素魚雷改: Evas: 2
+試製FaT仕様九五式酸素魚雷改: Rare: 5
+試製FaT仕様九五式酸素魚雷改: Range: 1
+試製51cm連装砲: FP: 30
+試製51cm連装砲: AA: 5
+試製51cm連装砲: Acc: 1
+試製51cm連装砲: Evas: -1
+試製51cm連装砲: Rare: 5
+試製51cm連装砲: Range: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
@@ -630,3 +645,8 @@ FuMO25 レーダー: Rare: 4
 5inch連装両用莢砲: Acc: 3
 5inch連装両用莢砲: Rare: 3
 5inch連装両用莢砲: Range: 2
+20inch連装砲: FP: 27
+20inch連装砲: AA: 4
+20inch連装砲: Acc: 3
+20inch連装砲: Rare: 4
+20inch連装砲: Range: 3

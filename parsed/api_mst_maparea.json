@@ -22,4 +22,8 @@
     "api_id": 6,
     "api_name": "中部海域",
     "api_type": 0
+}, {
+    "api_id": 29,
+    "api_name": "迎撃！トラック泊地強襲",
+    "api_type": 1
 }]

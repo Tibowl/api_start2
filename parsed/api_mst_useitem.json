@@ -418,4 +418,11 @@
     "api_name": "プレゼント箱",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["難易度の高い作戦を、精鋭の艦娘たちと共に攻略した提督のみに贈られる勝利の証。それが、「甲種勲章」。資材等に交換することも可能です。", ""],
+    "api_id": 61,
+    "api_name": "甲種勲章",
+    "api_price": 0,
+    "api_usetype": 4
 }]
