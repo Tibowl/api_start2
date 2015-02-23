@@ -476,6 +476,11 @@ WG42 (Wurfgerät 42): Range: 1
 試製51cm連装砲: Evas: -1
 試製51cm連装砲: Rare: 5
 試製51cm連装砲: Range: 4
+熟練見張員: AA: 1
+熟練見張員: LoS: 2
+熟練見張員: Acc: 2
+熟練見張員: Evas: 3
+熟練見張員: Rare: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

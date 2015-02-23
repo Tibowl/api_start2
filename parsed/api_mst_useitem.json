@@ -425,4 +425,11 @@
     "api_name": "甲種勲章",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["桃の節句の時期だけ発見が可能となる美味しい「菱餅」です。展開時に希望の中味を選択することが可能です。", ""],
+    "api_id": 62,
+    "api_name": "菱餅",
+    "api_price": 0,
+    "api_usetype": 4
 }]

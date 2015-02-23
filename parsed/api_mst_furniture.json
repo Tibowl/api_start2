@@ -394,7 +394,7 @@
     "api_no": 2,
     "api_price": 300,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "和のシンプル壁紙",
     "api_type": 1
@@ -414,7 +414,7 @@
     "api_no": 4,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "春仕様の壁紙",
     "api_type": 1
@@ -434,7 +434,7 @@
     "api_no": 6,
     "api_price": 550,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "チョコレートの壁紙",
     "api_type": 1
@@ -514,7 +514,7 @@
     "api_no": 14,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "白い冬の壁紙",
     "api_type": 1
@@ -639,14 +639,14 @@
     "api_title": "和モダンアート壁紙",
     "api_type": 1
 }, {
-    "api_description": "夏の浴衣を連想させる情緒ある落ち着いた壁紙。",
+    "api_description": "桃の節句は女の子の季節。<br>そんな早春に相応しい甘い<br>雰囲気の壁紙です。雛祭り<br>にも優しくフィット。桃香<br>の漂う提督室作りに！",
     "api_id": 65,
     "api_no": 27,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
-    "api_season": 0,
-    "api_title": "奥ゆかしい壁紙",
+    "api_price": 330,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 16,
+    "api_title": "桃の節句の壁紙",
     "api_type": 1
 }, {
     "api_description": "落ち着いた色合いが和室にぴったり！",
@@ -674,7 +674,7 @@
     "api_no": 30,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "コンクリート壁",
     "api_type": 1
@@ -684,7 +684,7 @@
     "api_no": 31,
     "api_price": 250,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ピンクコンクリ壁",
     "api_type": 1
@@ -694,7 +694,7 @@
     "api_no": 32,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "龍の壁紙",
     "api_type": 1
@@ -754,7 +754,7 @@
     "api_no": 4,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "破魔矢の窓",
     "api_type": 2
@@ -774,7 +774,7 @@
     "api_no": 6,
     "api_price": 1980,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "晩秋の高級和窓",
     "api_type": 2
@@ -809,14 +809,14 @@
     "api_title": "白いカーテンの小窓",
     "api_type": 2
 }, {
-    "api_description": "ピンクのレースカーテンが可愛い、ガーリーな小窓。",
+    "api_description": "桃の節句の季節を艦娘たち<br>と愉しむための特注品の窓<br>です。家具職人の熱い家具<br>魂とこの季節を彩る小物や<br>味覚が配置されています。",
     "api_id": 82,
     "api_no": 10,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
-    "api_season": 0,
-    "api_title": "ガーリーな小窓",
+    "api_price": 3300,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 16,
+    "api_title": "桃の節句の窓",
     "api_type": 2
 }, {
     "api_description": "ミントグリーンのカーテンと窓際に置かれたグリーンが爽やかな気持ちにしてくれる小窓。",
@@ -824,7 +824,7 @@
     "api_no": 11,
     "api_price": 300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "爽やかな窓",
     "api_type": 2
@@ -954,7 +954,7 @@
     "api_no": 24,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "昔ながらのすりガラス",
     "api_type": 2
@@ -974,7 +974,7 @@
     "api_no": 26,
     "api_price": 2220,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "冬のステンドグラス",
     "api_type": 2
@@ -1384,7 +1384,7 @@
     "api_no": 6,
     "api_price": 0,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 15,
     "api_title": "チョコケーキと紅茶セット",
     "api_type": 4
@@ -1394,8 +1394,8 @@
     "api_no": 7,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 0,
-    "api_season": 0,
+    "api_saleflg": 1,
+    "api_season": 16,
     "api_title": "「長門」「陸奥」の雛人形",
     "api_type": 4
 }, {
@@ -1784,7 +1784,7 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "大人の節分セット",
     "api_type": 5
@@ -1884,7 +1884,7 @@
     "api_no": 25,
     "api_price": 9000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "金剛の紅茶セット",
     "api_type": 5
@@ -1954,7 +1954,7 @@
     "api_no": 32,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "板チョコ型の机",
     "api_type": 5
@@ -1964,7 +1964,7 @@
     "api_no": 33,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "布団と枕",
     "api_type": 5
@@ -2004,8 +2004,8 @@
     "api_no": 37,
     "api_price": 3300,
     "api_rarity": 5,
-    "api_saleflg": 0,
-    "api_season": 0,
+    "api_saleflg": 1,
+    "api_season": 16,
     "api_title": "雛人形豪華四段飾り",
     "api_type": 5
 }, {
@@ -2314,7 +2314,7 @@
     "api_no": 47,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 15,
     "api_title": "チョコレートキッチン",
     "api_type": 5

@@ -150,4 +150,8 @@
     "api_id": 38,
     "api_name": "大口径主砲（II）",
     "api_show_flg": 0
+}, {
+    "api_id": 39,
+    "api_name": "水上艦要員",
+    "api_show_flg": 0
 }]
