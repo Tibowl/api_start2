@@ -481,6 +481,15 @@ WG42 (Wurfgerät 42): Range: 1
 熟練見張員: Acc: 2
 熟練見張員: Evas: 3
 熟練見張員: Rare: 3
+12.7cm高角砲+高射装置: FP: 1
+12.7cm高角砲+高射装置: AA: 8
+12.7cm高角砲+高射装置: Acc: 1
+12.7cm高角砲+高射装置: Evas: 1
+12.7cm高角砲+高射装置: Rare: 3
+12.7cm高角砲+高射装置: Range: 1
+25mm三連装機銃 集中配備: AA: 9
+25mm三連装機銃 集中配備: Evas: 1
+25mm三連装機銃 集中配備: Rare: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
