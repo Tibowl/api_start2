@@ -154,4 +154,8 @@
     "api_id": 39,
     "api_name": "水上艦要員",
     "api_show_flg": 0
+}, {
+    "api_id": 40,
+    "api_name": "大型ソナー",
+    "api_show_flg": 0
 }]
