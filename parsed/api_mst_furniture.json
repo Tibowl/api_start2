@@ -129,14 +129,14 @@
     "api_title": "青の小花柄のカーペット",
     "api_type": 0
 }, {
-    "api_description": "ブラウンに小花柄がカントリー調で馴染みやすい印象のカーペット。",
+    "api_description": "春、桜の季節。そんな桜の<br>季節を満開で味わうための<br>床です。匠の技と心意気を<br>感じる逸品です。鎮守府内<br>でのお花見もいいですね！",
     "api_id": 14,
     "api_no": 13,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 20000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "茶色の小花柄のカーペット",
+    "api_title": "桜の床",
     "api_type": 0
 }, {
     "api_description": "紫でシックながらも小花柄で可愛らしいカーペット。<br>和風にまとめても奥ゆかしい印象に。",
@@ -164,7 +164,7 @@
     "api_no": 16,
     "api_price": 1200,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ピンクの床",
     "api_type": 0
@@ -229,24 +229,24 @@
     "api_title": "雪原の床",
     "api_type": 0
 }, {
-    "api_description": "無垢でまっさらな白い床。",
+    "api_description": "春色満開の床です。比較的<br>リーズナブルな価格で春色<br>気分を目一杯執務室の中に<br>導入できます。ぜひ、春の<br>鎮守府模様替えにどうぞ！",
     "api_id": 24,
     "api_no": 23,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 1500,
+    "api_rarity": 4,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "真っ白の床",
+    "api_title": "春色の床",
     "api_type": 0
 }, {
-    "api_description": "ダークで荘厳な印象の黒の床。",
+    "api_description": "やはり和の床は畳！そんな<br>畳派を自認する提督に贈る<br>真新しい天然い草を使った<br>青畳です。基本にして最高<br>の執務室を新しい畳で！",
     "api_id": 25,
     "api_no": 24,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 500,
+    "api_rarity": 3,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "真っ黒の床",
+    "api_title": "青畳",
     "api_type": 0
 }, {
     "api_description": "情熱の赤い床。",
@@ -334,7 +334,7 @@
     "api_no": 33,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ラクガキ床",
     "api_type": 0
@@ -364,7 +364,7 @@
     "api_no": 36,
     "api_price": 700,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "い草の畳",
     "api_type": 0
@@ -604,7 +604,7 @@
     "api_no": 23,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ピンクドット壁紙",
     "api_type": 1
@@ -684,7 +684,7 @@
     "api_no": 31,
     "api_price": 250,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ピンクコンクリ壁",
     "api_type": 1
@@ -694,7 +694,7 @@
     "api_no": 32,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "龍の壁紙",
     "api_type": 1
@@ -1114,7 +1114,7 @@
     "api_no": 10,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「夜戦」掛け軸",
     "api_type": 3
@@ -1504,7 +1504,7 @@
     "api_no": 18,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ハンガーラック",
     "api_type": 4
@@ -1554,7 +1554,7 @@
     "api_no": 23,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "模様替えお掃除セット",
     "api_type": 4
@@ -1574,7 +1574,7 @@
     "api_no": 25,
     "api_price": 4500,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "診療台セット",
     "api_type": 4
@@ -1854,7 +1854,7 @@
     "api_no": 22,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "提督の麻雀卓",
     "api_type": 5
@@ -1884,7 +1884,7 @@
     "api_no": 25,
     "api_price": 9000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "金剛の紅茶セット",
     "api_type": 5
@@ -1984,7 +1984,7 @@
     "api_no": 35,
     "api_price": 8000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5
@@ -2347,5 +2347,65 @@
     "api_saleflg": 1,
     "api_season": 13,
     "api_title": "武蔵の掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "春らしい色彩の和の雰囲気<br>が漂う新色の壁紙です。<br>鎮守府を春色に演出して、<br>艦娘と春を迎えましょう！",
+    "api_id": 236,
+    "api_no": 34,
+    "api_price": 1700,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "春色の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "鎮守府カウンタバーに最適<br>なバー仕様の壁です。<br>落ち着いた雰囲気の、大人<br>の時間と空間を演出できる<br>シックな壁です。",
+    "api_id": 237,
+    "api_no": 35,
+    "api_price": 30000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "バー仕様の壁",
+    "api_type": 1
+}, {
+    "api_description": "和の色である梅紫で構成さ<br>れた新色の壁紙です。少し<br>落ち着いた雰囲気の色合い<br>が、大人の艦娘にも人気み<br>たいです。",
+    "api_id": 238,
+    "api_no": 36,
+    "api_price": 700,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "梅紫の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "提督の熱いリクエストから<br>実現した、まさかの脱衣所<br>です。各種温泉風呂と絶妙<br>なマッチング！あれ、秘書<br>艦によって棚に変化が…！",
+    "api_id": 239,
+    "api_no": 37,
+    "api_price": 2300,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "脱衣所",
+    "api_type": 4
+}, {
+    "api_description": "提督の熱いリクエストから<br>実装された、ハイエンドな<br>室内風呂家具、それが温泉<br>岩風呂。季節折々の花など<br>が風流さを醸成します。",
+    "api_id": 240,
+    "api_no": 49,
+    "api_price": 9500,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "温泉岩風呂",
+    "api_type": 5
+}, {
+    "api_description": "提督の熱いリクエストで新<br>たに実装された富嶽タイル<br>画です。温泉等との相性は<br>いうことありません。価格<br>もギリギリに抑えました！",
+    "api_id": 241,
+    "api_no": 42,
+    "api_price": 1980,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "富嶽タイル画",
     "api_type": 3
 }]
