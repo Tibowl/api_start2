@@ -432,4 +432,11 @@
     "api_name": "菱餅",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["「任務」同時受託可能数を拡張することができる司令部要員です。使用すると、同時受託可能任務数が＋１拡張されます。", ""],
+    "api_id": 63,
+    "api_name": "司令部要員",
+    "api_price": 0,
+    "api_usetype": 4
 }]

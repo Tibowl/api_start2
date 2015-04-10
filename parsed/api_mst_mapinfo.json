@@ -59,6 +59,18 @@
     "api_required_defeat_count": 4,
     "api_sally_flag": [1, 0]
 }, {
+    "api_id": 16,
+    "api_infotext": "対潜及び防空能力に優れた艦艇<br>を基幹戦力とした艦隊を編成、<br>輸送船団航路の護衛にあたれ！",
+    "api_item": [31, 32, 33, 34],
+    "api_level": 5,
+    "api_maparea_id": 1,
+    "api_max_maphp": null,
+    "api_name": "鎮守府近海航路",
+    "api_no": 6,
+    "api_opetext": "輸送船団護衛作戦",
+    "api_required_defeat_count": 7,
+    "api_sally_flag": [1, 0]
+}, {
     "api_id": 21,
     "api_infotext": "カムラン半島付近に<br>遊弋する敵艦隊を捕捉、<br>これを迎撃せよ！",
     "api_item": [33, 2, 0, 0],

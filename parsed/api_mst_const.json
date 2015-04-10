@@ -6,5 +6,9 @@
     "api_boko_max_ships": {
         "api_int_value": 240,
         "api_string_value": ""
+    },
+    "api_parallel_quest_max": {
+        "api_int_value": 10,
+        "api_string_value": ""
     }
 }

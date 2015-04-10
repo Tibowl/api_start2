@@ -655,7 +655,7 @@
     "api_map_d": [-215, -12],
     "api_map_n": [-168, -14],
     "api_sortno": 15,
-    "api_version": "7",
+    "api_version": "8",
     "api_weda": [411, 147],
     "api_wedb": [122, 117]
 }, {
@@ -4035,7 +4035,7 @@
     "api_map_d": [-215, -12],
     "api_map_n": [-168, -14],
     "api_sortno": 305,
-    "api_version": "7",
+    "api_version": "8",
     "api_weda": [411, 147],
     "api_wedb": [122, 117]
 }, {
@@ -7219,25 +7219,25 @@
     "api_weda": [128, 96],
     "api_wedb": [160, 128]
 }, {
-    "api_battle_d": [0, 0],
-    "api_battle_n": [0, 0],
-    "api_boko_d": [0, 0],
-    "api_boko_n": [0, 0],
-    "api_ensyue_n": [0, 0],
-    "api_ensyuf_d": [0, 0],
-    "api_ensyuf_n": [0, 0],
+    "api_battle_d": [64, 56],
+    "api_battle_n": [56, 32],
+    "api_boko_d": [136, 72],
+    "api_boko_n": [136, 48],
+    "api_ensyue_n": [48, 0],
+    "api_ensyuf_d": [112, 32],
+    "api_ensyuf_n": [112, 8],
     "api_filename": "ugxgvgtjsxud",
     "api_id": 420,
-    "api_kaisyu_d": [0, 0],
-    "api_kaisyu_n": [0, 0],
-    "api_kaizo_d": [0, 0],
-    "api_kaizo_n": [0, 0],
-    "api_map_d": [0, 0],
-    "api_map_n": [0, 0],
-    "api_sortno": 0,
+    "api_kaisyu_d": [64, 8],
+    "api_kaisyu_n": [48, 0],
+    "api_kaizo_d": [64, 24],
+    "api_kaizo_n": [64, 16],
+    "api_map_d": [48, 48],
+    "api_map_n": [48, 24],
+    "api_sortno": 220,
     "api_version": "1",
-    "api_weda": [0, 0],
-    "api_wedb": [0, 0]
+    "api_weda": [120, 112],
+    "api_wedb": [120, 104]
 }, {
     "api_battle_d": [80, 128],
     "api_battle_n": [48, 112],
@@ -8535,7 +8535,7 @@
     "api_map_d": [0, 0],
     "api_map_n": [0, 0],
     "api_sortno": 0,
-    "api_version": "1",
+    "api_version": "2",
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
@@ -8555,7 +8555,7 @@
     "api_map_d": [0, 0],
     "api_map_n": [0, 0],
     "api_sortno": 0,
-    "api_version": "1",
+    "api_version": "2",
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
@@ -8575,7 +8575,7 @@
     "api_map_d": [0, 0],
     "api_map_n": [0, 0],
     "api_sortno": 0,
-    "api_version": "1",
+    "api_version": "2",
     "api_weda": [0, 0],
     "api_wedb": [0, 0]
 }, {
