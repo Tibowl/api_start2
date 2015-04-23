@@ -495,6 +495,12 @@ WG42 (Wurfgerät 42): Range: 1
 零式水中聴音機: Acc: 1
 零式水中聴音機: Evas: 1
 零式水中聴音機: Rare: 3
+381mm/50 三連装砲: FP: 20
+381mm/50 三連装砲: AA: 2
+381mm/50 三連装砲: Acc: -3
+381mm/50 三連装砲: Evas: -1
+381mm/50 三連装砲: Rare: 4
+381mm/50 三連装砲: Range: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

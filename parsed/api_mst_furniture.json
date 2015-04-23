@@ -2408,4 +2408,14 @@
     "api_season": 0,
     "api_title": "富嶽タイル画",
     "api_type": 3
+}, {
+    "api_description": "提督のおかげで迎えること<br>ができた「祝二周年」を記<br>念して制作された掛け軸。<br>三年目も、頑張ってまいり<br>ましょう～！",
+    "api_id": 242,
+    "api_no": 43,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "「二周年記念」掛け軸",
+    "api_type": 3
 }]
