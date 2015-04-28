@@ -501,6 +501,30 @@ WG42 (Wurfgerät 42): Range: 1
 381mm/50 三連装砲: Evas: -1
 381mm/50 三連装砲: Rare: 4
 381mm/50 三連装砲: Range: 4
+OTO 152mm三連装速射砲: FP: 8
+OTO 152mm三連装速射砲: AA: 2
+OTO 152mm三連装速射砲: Armor: 1
+OTO 152mm三連装速射砲: Acc: 1
+OTO 152mm三連装速射砲: Rare: 3
+OTO 152mm三連装速射砲: Range: 2
+90mm単装高角砲: FP: 1
+90mm単装高角砲: AA: 8
+90mm単装高角砲: Acc: 1
+90mm単装高角砲: Rare: 3
+90mm単装高角砲: Range: 1
+プリエーゼ式水中防御隔壁: Armor: 7
+プリエーゼ式水中防御隔壁: Evas: -1
+プリエーゼ式水中防御隔壁: Rare: 3
+381mm/50 三連装砲改: FP: 21
+381mm/50 三連装砲改: AA: 4
+381mm/50 三連装砲改: Acc: -1
+381mm/50 三連装砲改: Evas: -1
+381mm/50 三連装砲改: Rare: 5
+381mm/50 三連装砲改: Range: 4
+二式大艇: LoS: 12
+二式大艇: ASW: 1
+二式大艇: Acc: 1
+二式大艇: Rare: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

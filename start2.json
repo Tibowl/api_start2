@@ -2569,8 +2569,8 @@
         "api_version": "1"
     }],
     "api_mst_item_shop": {
-        "api_cabinet_1": [1, 2, 3, 4, 15, 5, 7, 6, 11, 14, 10, -1],
-        "api_cabinet_2": [16, 17, 20, 19, 8, 9, 18, 22, 23, -1]
+        "api_cabinet_1": [1, 2, 3, 4, 15, 5, 7, 6, 11, 14, 10, 13],
+        "api_cabinet_2": [16, 17, 20, 19, 8, 9, 18, 22, 23, -1, -1, -1]
     },
     "api_mst_maparea": [{
         "api_id": 1,
@@ -2596,6 +2596,10 @@
         "api_id": 6,
         "api_name": "中部海域",
         "api_type": 0
+    }, {
+        "api_id": 30,
+        "api_name": "発令！第十一号作戦",
+        "api_type": 1
     }],
     "api_mst_mapbgm": [{
         "api_boss_bgm": [2, 2],
@@ -2759,6 +2763,42 @@
         "api_map_bgm": [29, 9],
         "api_maparea_id": 6,
         "api_no": 2
+    }, {
+        "api_boss_bgm": [39, 39],
+        "api_id": 301,
+        "api_map_bgm": [38, 38],
+        "api_maparea_id": 30,
+        "api_no": 1
+    }, {
+        "api_boss_bgm": [39, 39],
+        "api_id": 302,
+        "api_map_bgm": [38, 38],
+        "api_maparea_id": 30,
+        "api_no": 2
+    }, {
+        "api_boss_bgm": [39, 39],
+        "api_id": 303,
+        "api_map_bgm": [38, 38],
+        "api_maparea_id": 30,
+        "api_no": 3
+    }, {
+        "api_boss_bgm": [39, 39],
+        "api_id": 304,
+        "api_map_bgm": [38, 38],
+        "api_maparea_id": 30,
+        "api_no": 4
+    }, {
+        "api_boss_bgm": [41, 41],
+        "api_id": 305,
+        "api_map_bgm": [40, 40],
+        "api_maparea_id": 30,
+        "api_no": 5
+    }, {
+        "api_boss_bgm": [41, 41],
+        "api_id": 306,
+        "api_map_bgm": [40, 40],
+        "api_maparea_id": 30,
+        "api_no": 6
     }],
     "api_mst_mapcell": [{
         "api_color_no": 0,
@@ -5392,6 +5432,692 @@
         "api_maparea_id": 1,
         "api_mapinfo_no": 6,
         "api_no": 17
+    }, {
+        "api_color_no": 0,
+        "api_id": 1457,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 0
+    }, {
+        "api_color_no": 4,
+        "api_id": 1458,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 1
+    }, {
+        "api_color_no": 4,
+        "api_id": 1459,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 1460,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 3
+    }, {
+        "api_color_no": 4,
+        "api_id": 1461,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 1462,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 5
+    }, {
+        "api_color_no": 4,
+        "api_id": 1463,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 6
+    }, {
+        "api_color_no": 4,
+        "api_id": 1464,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 7
+    }, {
+        "api_color_no": 5,
+        "api_id": 1465,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 8
+    }, {
+        "api_color_no": 5,
+        "api_id": 1466,
+        "api_map_no": 301,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 1,
+        "api_no": 9
+    }, {
+        "api_color_no": 0,
+        "api_id": 1467,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 0
+    }, {
+        "api_color_no": 4,
+        "api_id": 1468,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 1
+    }, {
+        "api_color_no": 4,
+        "api_id": 1469,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 1470,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 3
+    }, {
+        "api_color_no": 4,
+        "api_id": 1471,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 1472,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 5
+    }, {
+        "api_color_no": 4,
+        "api_id": 1473,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 6
+    }, {
+        "api_color_no": 4,
+        "api_id": 1474,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 7
+    }, {
+        "api_color_no": 3,
+        "api_id": 1475,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 8
+    }, {
+        "api_color_no": 4,
+        "api_id": 1476,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 9
+    }, {
+        "api_color_no": 4,
+        "api_id": 1477,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 10
+    }, {
+        "api_color_no": 5,
+        "api_id": 1478,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 11
+    }, {
+        "api_color_no": 4,
+        "api_id": 1479,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 12
+    }, {
+        "api_color_no": 4,
+        "api_id": 1480,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 13
+    }, {
+        "api_color_no": 4,
+        "api_id": 1481,
+        "api_map_no": 302,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 2,
+        "api_no": 14
+    }, {
+        "api_color_no": 0,
+        "api_id": 1482,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 0
+    }, {
+        "api_color_no": 4,
+        "api_id": 1483,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 1
+    }, {
+        "api_color_no": 4,
+        "api_id": 1484,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 1485,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 3
+    }, {
+        "api_color_no": 4,
+        "api_id": 1486,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 1487,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 5
+    }, {
+        "api_color_no": 4,
+        "api_id": 1488,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 6
+    }, {
+        "api_color_no": 4,
+        "api_id": 1489,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 7
+    }, {
+        "api_color_no": 4,
+        "api_id": 1490,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 8
+    }, {
+        "api_color_no": 4,
+        "api_id": 1491,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 9
+    }, {
+        "api_color_no": 5,
+        "api_id": 1492,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 10
+    }, {
+        "api_color_no": 4,
+        "api_id": 1493,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 11
+    }, {
+        "api_color_no": 4,
+        "api_id": 1494,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 12
+    }, {
+        "api_color_no": 5,
+        "api_id": 1495,
+        "api_map_no": 303,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 3,
+        "api_no": 13
+    }, {
+        "api_color_no": 0,
+        "api_id": 1496,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 0
+    }, {
+        "api_color_no": 4,
+        "api_id": 1497,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 1
+    }, {
+        "api_color_no": 4,
+        "api_id": 1498,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 1499,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 3
+    }, {
+        "api_color_no": 4,
+        "api_id": 1500,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 1501,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 5
+    }, {
+        "api_color_no": 4,
+        "api_id": 1502,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 6
+    }, {
+        "api_color_no": 4,
+        "api_id": 1503,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 7
+    }, {
+        "api_color_no": 4,
+        "api_id": 1504,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 8
+    }, {
+        "api_color_no": 7,
+        "api_id": 1505,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 9
+    }, {
+        "api_color_no": 2,
+        "api_id": 1506,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 10
+    }, {
+        "api_color_no": 4,
+        "api_id": 1507,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 11
+    }, {
+        "api_color_no": 4,
+        "api_id": 1508,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 12
+    }, {
+        "api_color_no": 5,
+        "api_id": 1509,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 13
+    }, {
+        "api_color_no": 4,
+        "api_id": 1510,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 14
+    }, {
+        "api_color_no": 2,
+        "api_id": 1511,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 15
+    }, {
+        "api_color_no": 5,
+        "api_id": 1512,
+        "api_map_no": 304,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 4,
+        "api_no": 16
+    }, {
+        "api_color_no": 0,
+        "api_id": 1513,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 0
+    }, {
+        "api_color_no": 4,
+        "api_id": 1514,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 1
+    }, {
+        "api_color_no": 3,
+        "api_id": 1515,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 1516,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 3
+    }, {
+        "api_color_no": 4,
+        "api_id": 1517,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 1518,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 5
+    }, {
+        "api_color_no": 7,
+        "api_id": 1519,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 6
+    }, {
+        "api_color_no": 2,
+        "api_id": 1520,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 7
+    }, {
+        "api_color_no": 4,
+        "api_id": 1521,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 8
+    }, {
+        "api_color_no": 4,
+        "api_id": 1522,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 9
+    }, {
+        "api_color_no": 2,
+        "api_id": 1523,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 10
+    }, {
+        "api_color_no": 3,
+        "api_id": 1524,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 11
+    }, {
+        "api_color_no": 4,
+        "api_id": 1525,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 12
+    }, {
+        "api_color_no": 4,
+        "api_id": 1526,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 13
+    }, {
+        "api_color_no": 5,
+        "api_id": 1527,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 14
+    }, {
+        "api_color_no": 4,
+        "api_id": 1528,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 15
+    }, {
+        "api_color_no": 7,
+        "api_id": 1529,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 16
+    }, {
+        "api_color_no": 4,
+        "api_id": 1530,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 17
+    }, {
+        "api_color_no": 4,
+        "api_id": 1531,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 18
+    }, {
+        "api_color_no": 4,
+        "api_id": 1532,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 19
+    }, {
+        "api_color_no": 5,
+        "api_id": 1533,
+        "api_map_no": 305,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 5,
+        "api_no": 20
+    }, {
+        "api_color_no": 0,
+        "api_id": 1534,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 0
+    }, {
+        "api_color_no": 3,
+        "api_id": 1535,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 1
+    }, {
+        "api_color_no": 4,
+        "api_id": 1536,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 2
+    }, {
+        "api_color_no": 4,
+        "api_id": 1537,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 3
+    }, {
+        "api_color_no": 4,
+        "api_id": 1538,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 4
+    }, {
+        "api_color_no": 4,
+        "api_id": 1539,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 5
+    }, {
+        "api_color_no": 4,
+        "api_id": 1540,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 6
+    }, {
+        "api_color_no": 4,
+        "api_id": 1541,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 7
+    }, {
+        "api_color_no": 4,
+        "api_id": 1542,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 8
+    }, {
+        "api_color_no": 4,
+        "api_id": 1543,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 9
+    }, {
+        "api_color_no": 4,
+        "api_id": 1544,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 10
+    }, {
+        "api_color_no": 4,
+        "api_id": 1545,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 11
+    }, {
+        "api_color_no": 4,
+        "api_id": 1546,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 12
+    }, {
+        "api_color_no": 4,
+        "api_id": 1547,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 13
+    }, {
+        "api_color_no": 4,
+        "api_id": 1548,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 14
+    }, {
+        "api_color_no": 5,
+        "api_id": 1549,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 15
+    }, {
+        "api_color_no": 4,
+        "api_id": 1550,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 16
+    }, {
+        "api_color_no": 4,
+        "api_id": 1551,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 17
+    }, {
+        "api_color_no": 4,
+        "api_id": 1552,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 18
+    }, {
+        "api_color_no": 4,
+        "api_id": 1553,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 19
+    }, {
+        "api_color_no": 4,
+        "api_id": 1554,
+        "api_map_no": 306,
+        "api_maparea_id": 30,
+        "api_mapinfo_no": 6,
+        "api_no": 20
     }],
     "api_mst_mapinfo": [{
         "api_id": 11,
@@ -5717,6 +6443,78 @@
         "api_opetext": "MS諸島防衛戦",
         "api_required_defeat_count": 3,
         "api_sally_flag": [1, 0]
+    }, {
+        "api_id": 301,
+        "api_infotext": "第十一号作戦が発令された！主<br>作戦に先立ち、軽巡と駆逐艦で<br>編成された水雷戦隊による作戦<br>海域の威力偵察を実施せよ！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 7,
+        "api_maparea_id": 30,
+        "api_max_maphp": 300,
+        "api_name": "カレー洋",
+        "api_no": 1,
+        "api_opetext": "発動準備、第十一号作戦！",
+        "api_required_defeat_count": null,
+        "api_sally_flag": [1, 0]
+    }, {
+        "api_id": 302,
+        "api_infotext": "先の偵察活動により作戦海域の<br>敵情は判明した。主力連合艦隊<br>を同方面に進出させ、カレー洋<br>海域の制海権を握れ！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 8,
+        "api_maparea_id": 30,
+        "api_max_maphp": 300,
+        "api_name": "カレー洋リランカ島沖",
+        "api_no": 2,
+        "api_opetext": "第二次カレー洋作戦",
+        "api_required_defeat_count": null,
+        "api_sally_flag": [0, 3]
+    }, {
+        "api_id": 303,
+        "api_infotext": "第十一号作戦の支作戦として、<br>ベーグル湾の通商破壊戦を展開<br>する。巡洋艦などを基幹とした<br>艦隊で敵海上補給路を叩け！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 9,
+        "api_maparea_id": 30,
+        "api_max_maphp": 300,
+        "api_name": "ベーグル湾",
+        "api_no": 3,
+        "api_opetext": "ベーグル湾通商破壊戦",
+        "api_required_defeat_count": null,
+        "api_sally_flag": [1, 0]
+    }, {
+        "api_id": 304,
+        "api_infotext": "いよいよ主目標であるリランカ<br>島攻略作戦を実施する。精強な<br>連合艦隊を出撃、同島周辺の敵<br>を排除し、攻略を成功させよ！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 12,
+        "api_maparea_id": 30,
+        "api_max_maphp": 300,
+        "api_name": "カレー洋リランカ島沖",
+        "api_no": 4,
+        "api_opetext": "決戦！リランカ島攻略作戦",
+        "api_required_defeat_count": null,
+        "api_sally_flag": [0, 3]
+    }, {
+        "api_id": 305,
+        "api_infotext": "敵秘匿艦隊泊地が発見された！<br>精鋭の小艦隊で同泊地に殴り込<br>みによる強襲をかけ、本方面の<br>敵艦隊の動きを封殺せよ！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 13,
+        "api_maparea_id": 30,
+        "api_max_maphp": 300,
+        "api_name": "アンズ環礁沖",
+        "api_no": 5,
+        "api_opetext": "アンズ環礁泊地攻撃作戦",
+        "api_required_defeat_count": null,
+        "api_sally_flag": [1, 0]
+    }, {
+        "api_id": 306,
+        "api_infotext": "いよいよ作戦最終段階に入る。<br>カレー洋からステビア海方面に<br>進出、同方面の敵艦隊を撃破、<br>海上打通連絡作戦を完遂せよ！",
+        "api_item": [0, 0, 0, 0],
+        "api_level": 14,
+        "api_maparea_id": 30,
+        "api_max_maphp": 300,
+        "api_name": "ステビア海",
+        "api_no": 6,
+        "api_opetext": "打通作戦！ステビア海を越えて",
+        "api_required_defeat_count": null,
+        "api_sally_flag": [0, 3]
     }],
     "api_mst_mission": [{
         "api_details": "鎮守府近海を航海し、艦隊の練度を高めよう！",
@@ -6174,6 +6972,30 @@
         "api_use_fuel": 0.9,
         "api_win_item1": [1, 2],
         "api_win_item2": [11, 1]
+    }, {
+        "api_details": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
+        "api_difficulty": 1,
+        "api_id": 149,
+        "api_maparea_id": 30,
+        "api_name": "前衛支援任務",
+        "api_return_flag": 0,
+        "api_time": 15,
+        "api_use_bull": 0.8,
+        "api_use_fuel": 0.5,
+        "api_win_item1": [0, 0],
+        "api_win_item2": [0, 0]
+    }, {
+        "api_details": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
+        "api_difficulty": 1,
+        "api_id": 150,
+        "api_maparea_id": 30,
+        "api_name": "艦隊決戦支援任務",
+        "api_return_flag": 0,
+        "api_time": 30,
+        "api_use_bull": 0.8,
+        "api_use_fuel": 0.5,
+        "api_win_item1": [0, 0],
+        "api_win_item2": [0, 0]
     }],
     "api_mst_payitem": [{
         "api_description": "補給のお供！燃料パック<br>(燃料を200回復させます)",
@@ -15466,33 +16288,33 @@
         "api_voicef": 1,
         "api_yomi": "あまぎ"
     }, {
-        "api_afterbull": 0,
-        "api_afterfuel": 0,
-        "api_afterlv": 0,
-        "api_aftershipid": "0",
-        "api_backs": 0,
-        "api_broken": [0, 0, 0, 0],
-        "api_buildtime": 0,
-        "api_bull_max": 0,
-        "api_fuel_max": 0,
-        "api_getmes": "",
-        "api_houg": [0, 0],
+        "api_afterbull": 1000,
+        "api_afterfuel": 750,
+        "api_afterlv": 50,
+        "api_aftershipid": "430",
+        "api_backs": 6,
+        "api_broken": [7, 9, 26, 5],
+        "api_buildtime": 210,
+        "api_bull_max": 45,
+        "api_fuel_max": 50,
+        "api_getmes": "雲龍型航空母艦、三番艦、葛城よ！<br>え？　水上防空砲台ですって？<br>ち、違うわよ！　提督、何いってんの！",
+        "api_houg": [0, 25],
         "api_id": 332,
-        "api_leng": 0,
-        "api_luck": [0, 0],
-        "api_maxeq": [0, 0, 0, 0, 0],
-        "api_name": "なし",
-        "api_powup": [0, 0, 0, 0],
+        "api_leng": 1,
+        "api_luck": [20, 69],
+        "api_maxeq": [18, 24, 3, 6, 0],
+        "api_name": "葛城",
+        "api_powup": [0, 0, 3, 3],
         "api_raig": [0, 0],
-        "api_slot_num": 0,
-        "api_soku": 0,
-        "api_sortno": 0,
-        "api_souk": [0, 0],
-        "api_stype": 2,
-        "api_taik": [0, 0],
-        "api_tyku": [0, 0],
-        "api_voicef": 0,
-        "api_yomi": "なし"
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sortno": 203,
+        "api_souk": [27, 52],
+        "api_stype": 11,
+        "api_taik": [48, 79],
+        "api_tyku": [27, 72],
+        "api_voicef": 1,
+        "api_yomi": "かつらぎ"
     }, {
         "api_afterbull": 0,
         "api_afterfuel": 0,
@@ -15829,6 +16651,34 @@
         "api_tyku": [22, 62],
         "api_voicef": 1,
         "api_yomi": "あさしも"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 5,
+        "api_broken": [1, 2, 10, 0],
+        "api_buildtime": 24,
+        "api_bull_max": 20,
+        "api_fuel_max": 15,
+        "api_getmes": "夕雲型駆逐艦、六番艦の高波です。<br>あ、あの…頑張ります！ホントかもです！",
+        "api_houg": [12, 50],
+        "api_id": 345,
+        "api_leng": 1,
+        "api_luck": [10, 57],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "高波改",
+        "api_powup": [1, 1, 1, 1],
+        "api_raig": [28, 80],
+        "api_slot_num": 3,
+        "api_soku": 10,
+        "api_sortno": 425,
+        "api_souk": [14, 49],
+        "api_stype": 2,
+        "api_taik": [32, 49],
+        "api_tyku": [16, 50],
+        "api_voicef": 3,
+        "api_yomi": "たかなみ"
     }, {
         "api_afterbull": 0,
         "api_afterfuel": 0,
@@ -16558,33 +17408,33 @@
         "api_voicef": 0,
         "api_yomi": "なし"
     }, {
-        "api_afterbull": 0,
-        "api_afterfuel": 0,
-        "api_afterlv": 0,
-        "api_aftershipid": "0",
-        "api_backs": 0,
-        "api_broken": [0, 0, 0, 0],
-        "api_buildtime": 0,
-        "api_bull_max": 0,
-        "api_fuel_max": 0,
-        "api_getmes": "",
-        "api_houg": [0, 0],
+        "api_afterbull": 130,
+        "api_afterfuel": 110,
+        "api_afterlv": 30,
+        "api_aftershipid": "345",
+        "api_backs": 4,
+        "api_broken": [1, 1, 6, 0],
+        "api_buildtime": 24,
+        "api_bull_max": 20,
+        "api_fuel_max": 15,
+        "api_getmes": "夕雲型駆逐艦、六番艦の高波です。<br>あ、あの…頑張ります！ホントかもです！",
+        "api_houg": [10, 30],
         "api_id": 424,
-        "api_leng": 0,
-        "api_luck": [0, 0],
+        "api_leng": 1,
+        "api_luck": [8, 44],
         "api_maxeq": [0, 0, 0, 0, 0],
-        "api_name": "なし",
-        "api_powup": [0, 0, 0, 0],
-        "api_raig": [0, 0],
-        "api_slot_num": 0,
-        "api_soku": 0,
-        "api_sortno": 0,
-        "api_souk": [0, 0],
+        "api_name": "高波",
+        "api_powup": [0, 1, 0, 1],
+        "api_raig": [24, 69],
+        "api_slot_num": 2,
+        "api_soku": 10,
+        "api_sortno": 224,
+        "api_souk": [6, 19],
         "api_stype": 2,
-        "api_taik": [0, 0],
-        "api_tyku": [0, 0],
-        "api_voicef": 0,
-        "api_yomi": "なし"
+        "api_taik": [16, 34],
+        "api_tyku": [9, 39],
+        "api_voicef": 1,
+        "api_yomi": "たかなみ"
     }, {
         "api_afterbull": 170,
         "api_afterfuel": 150,
@@ -16730,29 +17580,29 @@
         "api_afterfuel": 0,
         "api_afterlv": 0,
         "api_aftershipid": "0",
-        "api_backs": 0,
-        "api_broken": [0, 0, 0, 0],
-        "api_buildtime": 0,
-        "api_bull_max": 0,
-        "api_fuel_max": 0,
-        "api_getmes": "",
-        "api_houg": [0, 0],
+        "api_backs": 7,
+        "api_broken": [7, 13, 30, 10],
+        "api_buildtime": 210,
+        "api_bull_max": 55,
+        "api_fuel_max": 50,
+        "api_getmes": "雲龍型航空母艦、三番艦、葛城よ！<br>え？　水上防空砲台ですって？<br>ち、違うわよ！　提督、何いってんの！",
+        "api_houg": [0, 45],
         "api_id": 430,
-        "api_leng": 0,
-        "api_luck": [0, 0],
-        "api_maxeq": [0, 0, 0, 0, 0],
-        "api_name": "なし",
-        "api_powup": [0, 0, 0, 0],
+        "api_leng": 1,
+        "api_luck": [30, 79],
+        "api_maxeq": [18, 21, 27, 3, 0],
+        "api_name": "葛城改",
+        "api_powup": [0, 0, 4, 3],
         "api_raig": [0, 0],
-        "api_slot_num": 0,
-        "api_soku": 0,
-        "api_sortno": 0,
-        "api_souk": [0, 0],
-        "api_stype": 2,
-        "api_taik": [0, 0],
-        "api_tyku": [0, 0],
-        "api_voicef": 0,
-        "api_yomi": "なし"
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sortno": 230,
+        "api_souk": [36, 78],
+        "api_stype": 11,
+        "api_taik": [60, 84],
+        "api_tyku": [32, 78],
+        "api_voicef": 3,
+        "api_yomi": "かつらぎ"
     }, {
         "api_afterbull": 270,
         "api_afterfuel": 170,
@@ -16921,6 +17771,398 @@
         "api_tyku": [0, 0],
         "api_voicef": 3,
         "api_yomi": "ゆー511・ろ500"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 437,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 438,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 439,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 440,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 1500,
+        "api_afterfuel": 900,
+        "api_afterlv": 35,
+        "api_aftershipid": "446",
+        "api_backs": 6,
+        "api_broken": [10, 18, 37, 6],
+        "api_buildtime": 300,
+        "api_bull_max": 150,
+        "api_fuel_max": 130,
+        "api_getmes": "ヴィットリオ・ヴェネト級戦艦２番艦、リットリオです。<br>火力と速度には自信があるの。よろしくお願いしますね。",
+        "api_houg": [78, 97],
+        "api_id": 441,
+        "api_leng": 4,
+        "api_luck": [20, 69],
+        "api_maxeq": [3, 3, 3, 3, 0],
+        "api_name": "Littorio",
+        "api_powup": [3, 0, 1, 3],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sortno": 241,
+        "api_souk": [72, 86],
+        "api_stype": 8,
+        "api_taik": [88, 94],
+        "api_tyku": [40, 72],
+        "api_voicef": 1,
+        "api_yomi": "リットリオ・イタリア"
+    }, {
+        "api_afterbull": 1500,
+        "api_afterfuel": 900,
+        "api_afterlv": 35,
+        "api_aftershipid": "447",
+        "api_backs": 6,
+        "api_broken": [10, 18, 37, 6],
+        "api_buildtime": 300,
+        "api_bull_max": 150,
+        "api_fuel_max": 130,
+        "api_getmes": "ヴィットリオ・ヴェネト級戦艦４番艦、ローマです、よろしく。<br>何？あまりジロジロ見ないでくださいね。",
+        "api_houg": [79, 98],
+        "api_id": 442,
+        "api_leng": 4,
+        "api_luck": [6, 39],
+        "api_maxeq": [3, 3, 3, 3, 0],
+        "api_name": "Roma",
+        "api_powup": [3, 0, 1, 3],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sortno": 242,
+        "api_souk": [71, 85],
+        "api_stype": 8,
+        "api_taik": [88, 94],
+        "api_tyku": [44, 74],
+        "api_voicef": 1,
+        "api_yomi": "ローマ"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 443,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 444,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 700,
+        "api_afterfuel": 350,
+        "api_afterlv": 35,
+        "api_aftershipid": "450",
+        "api_backs": 7,
+        "api_broken": [3, 1, 7, 4],
+        "api_buildtime": 70,
+        "api_bull_max": 10,
+        "api_fuel_max": 50,
+        "api_getmes": "水上機母艦、秋津洲よ！<br>この大艇ちゃんと一緒に覚えてよね！",
+        "api_houg": [6, 18],
+        "api_id": 445,
+        "api_leng": 1,
+        "api_luck": [12, 59],
+        "api_maxeq": [1, 1, 0, 0, 0],
+        "api_name": "秋津洲",
+        "api_powup": [0, 0, 1, 1],
+        "api_raig": [0, 0],
+        "api_slot_num": 2,
+        "api_soku": 5,
+        "api_sortno": 245,
+        "api_souk": [9, 25],
+        "api_stype": 16,
+        "api_taik": [32, 44],
+        "api_tyku": [12, 36],
+        "api_voicef": 1,
+        "api_yomi": "あきつしま"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 7,
+        "api_broken": [18, 28, 39, 7],
+        "api_buildtime": 300,
+        "api_bull_max": 170,
+        "api_fuel_max": 140,
+        "api_getmes": "ヴィットリオ・ヴェネト級戦艦二番艦、リットリオ改め、イタリアです。<br>よろしくお願いしますね。",
+        "api_houg": [81, 102],
+        "api_id": 446,
+        "api_leng": 4,
+        "api_luck": [30, 79],
+        "api_maxeq": [3, 3, 3, 3, 0],
+        "api_name": "Italia",
+        "api_powup": [5, 0, 2, 3],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sortno": 246,
+        "api_souk": [77, 92],
+        "api_stype": 8,
+        "api_taik": [92, 98],
+        "api_tyku": [44, 90],
+        "api_voicef": 3,
+        "api_yomi": "リットリオ・イタリア"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 7,
+        "api_broken": [18, 28, 39, 7],
+        "api_buildtime": 300,
+        "api_bull_max": 170,
+        "api_fuel_max": 140,
+        "api_getmes": "ヴィットリオ・ヴェネト級戦艦４番艦、ローマです、よろしく。<br>何？あまりジロジロ見ないでくださいね。",
+        "api_houg": [82, 105],
+        "api_id": 447,
+        "api_leng": 4,
+        "api_luck": [8, 57],
+        "api_maxeq": [3, 3, 3, 3, 0],
+        "api_name": "Roma改",
+        "api_powup": [5, 0, 2, 3],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 10,
+        "api_sortno": 247,
+        "api_souk": [76, 90],
+        "api_stype": 8,
+        "api_taik": [92, 98],
+        "api_tyku": [46, 94],
+        "api_voicef": 3,
+        "api_yomi": "ローマ"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 448,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [0, 0],
+        "api_id": 449,
+        "api_leng": 0,
+        "api_luck": [0, 0],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "なし",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 0,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [0, 0],
+        "api_stype": 2,
+        "api_taik": [0, 0],
+        "api_tyku": [0, 0],
+        "api_voicef": 0,
+        "api_yomi": "なし"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 8,
+        "api_broken": [3, 1, 7, 6],
+        "api_buildtime": 70,
+        "api_bull_max": 15,
+        "api_fuel_max": 60,
+        "api_getmes": "水上機母艦、秋津洲よ！<br>この大艇ちゃんと一緒に覚えてよね！",
+        "api_houg": [8, 28],
+        "api_id": 450,
+        "api_leng": 1,
+        "api_luck": [14, 72],
+        "api_maxeq": [1, 1, 1, 0, 0],
+        "api_name": "秋津洲改",
+        "api_powup": [0, 0, 2, 1],
+        "api_raig": [0, 0],
+        "api_slot_num": 3,
+        "api_soku": 5,
+        "api_sortno": 250,
+        "api_souk": [13, 42],
+        "api_stype": 16,
+        "api_taik": [36, 48],
+        "api_tyku": [16, 44],
+        "api_voicef": 3,
+        "api_yomi": "あきつしま"
     }, {
         "api_afterbull": 0,
         "api_afterfuel": 0,
@@ -19838,6 +21080,230 @@
         "api_afterfuel": 0,
         "api_afterlv": 0,
         "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [120, 120],
+        "api_id": 605,
+        "api_leng": 3,
+        "api_luck": [60, 60],
+        "api_maxeq": [0, 0, 90, 90, 0],
+        "api_name": "港湾水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [120, 120],
+        "api_stype": 10,
+        "api_taik": [450, 450],
+        "api_tyku": [100, 100],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [130, 130],
+        "api_id": 606,
+        "api_leng": 3,
+        "api_luck": [65, 65],
+        "api_maxeq": [0, 0, 108, 108, 0],
+        "api_name": "港湾水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [140, 140],
+        "api_stype": 10,
+        "api_taik": [450, 450],
+        "api_tyku": [120, 120],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [140, 140],
+        "api_id": 607,
+        "api_leng": 3,
+        "api_luck": [70, 70],
+        "api_maxeq": [0, 0, 108, 108, 0],
+        "api_name": "港湾水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [140, 140],
+        "api_stype": 10,
+        "api_taik": [500, 500],
+        "api_tyku": [140, 140],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [160, 160],
+        "api_id": 608,
+        "api_leng": 3,
+        "api_luck": [75, 75],
+        "api_maxeq": [0, 0, 130, 130, 0],
+        "api_name": "港湾水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [160, 160],
+        "api_stype": 10,
+        "api_taik": [500, 500],
+        "api_tyku": [160, 160],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [120, 120],
+        "api_id": 609,
+        "api_leng": 3,
+        "api_luck": [70, 70],
+        "api_maxeq": [0, 0, 0, 120, 0],
+        "api_name": "泊地水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [200, 200],
+        "api_stype": 10,
+        "api_taik": [330, 330],
+        "api_tyku": [80, 80],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [130, 130],
+        "api_id": 610,
+        "api_leng": 3,
+        "api_luck": [75, 75],
+        "api_maxeq": [0, 0, 0, 140, 0],
+        "api_name": "泊地水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [220, 220],
+        "api_stype": 10,
+        "api_taik": [330, 330],
+        "api_tyku": [90, 90],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [140, 140],
+        "api_id": 611,
+        "api_leng": 3,
+        "api_luck": [80, 80],
+        "api_maxeq": [0, 0, 0, 160, 0],
+        "api_name": "泊地水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [220, 220],
+        "api_stype": 10,
+        "api_taik": [430, 430],
+        "api_tyku": [100, 100],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 0,
+        "api_broken": [0, 0, 0, 0],
+        "api_buildtime": 0,
+        "api_bull_max": 0,
+        "api_fuel_max": 0,
+        "api_getmes": "",
+        "api_houg": [150, 150],
+        "api_id": 612,
+        "api_leng": 3,
+        "api_luck": [85, 85],
+        "api_maxeq": [0, 0, 0, 180, 0],
+        "api_name": "泊地水鬼",
+        "api_powup": [0, 0, 0, 0],
+        "api_raig": [0, 0],
+        "api_slot_num": 4,
+        "api_soku": 0,
+        "api_sortno": 0,
+        "api_souk": [240, 240],
+        "api_stype": 10,
+        "api_taik": [430, 430],
+        "api_tyku": [110, 110],
+        "api_voicef": 0,
+        "api_yomi": ""
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
         "api_backs": 2,
         "api_broken": [2, 2, 10, 0],
         "api_buildtime": 60,
@@ -20327,7 +21793,7 @@
         "api_map_d": [-13, 15],
         "api_map_n": [29, 24],
         "api_sortno": 31,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [112, 108],
         "api_wedb": [145, 153]
     }, {
@@ -20347,7 +21813,7 @@
         "api_map_d": [18, 49],
         "api_map_n": [34, 68],
         "api_sortno": 32,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [106, 63],
         "api_wedb": [139, 114]
     }, {
@@ -20427,7 +21893,7 @@
         "api_map_d": [-37, -57],
         "api_map_n": [15, 43],
         "api_sortno": 35,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [134, 91],
         "api_wedb": [134, 153]
     }, {
@@ -20447,7 +21913,7 @@
         "api_map_d": [-37, -13],
         "api_map_n": [-10, 90],
         "api_sortno": 37,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [151, 41],
         "api_wedb": [142, 149]
     }, {
@@ -20487,7 +21953,7 @@
         "api_map_d": [-49, 50],
         "api_map_n": [-22, 48],
         "api_sortno": 11,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [234, 80],
         "api_wedb": [133, 125]
     }, {
@@ -20507,7 +21973,7 @@
         "api_map_d": [-13, 83],
         "api_map_n": [-3, 79],
         "api_sortno": 12,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [221, 49],
         "api_wedb": [125, 134]
     }, {
@@ -20527,7 +21993,7 @@
         "api_map_d": [36, 65],
         "api_map_n": [50, 71],
         "api_sortno": 14,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [120, 60],
         "api_wedb": [136, 136]
     }, {
@@ -20567,7 +22033,7 @@
         "api_map_d": [-4, 86],
         "api_map_n": [37, 78],
         "api_sortno": 17,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [146, 52],
         "api_wedb": [140, 130]
     }, {
@@ -20587,7 +22053,7 @@
         "api_map_d": [2, 85],
         "api_map_n": [37, 87],
         "api_sortno": 18,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [152, 46],
         "api_wedb": [134, 136]
     }, {
@@ -20647,7 +22113,7 @@
         "api_map_d": [-83, 52],
         "api_map_n": [-22, 70],
         "api_sortno": 91,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [221, 65],
         "api_wedb": [145, 147]
     }, {
@@ -20667,7 +22133,7 @@
         "api_map_d": [-99, 97],
         "api_map_n": [-38, 106],
         "api_sortno": 92,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [242, 38],
         "api_wedb": [163, 119]
     }, {
@@ -20687,7 +22153,7 @@
         "api_map_d": [-13, 84],
         "api_map_n": [26, 87],
         "api_sortno": 93,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [143, 51],
         "api_wedb": [155, 130]
     }, {
@@ -20707,7 +22173,7 @@
         "api_map_d": [34, 50],
         "api_map_n": [-20, 24],
         "api_sortno": 5,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [176, 84],
         "api_wedb": [163, 156]
     }, {
@@ -20767,7 +22233,7 @@
         "api_map_d": [19, 95],
         "api_map_n": [78, 92],
         "api_sortno": 45,
-        "api_version": "5",
+        "api_version": "7",
         "api_weda": [134, 35],
         "api_wedb": [114, 137]
     }, {
@@ -20787,7 +22253,7 @@
         "api_map_d": [4, -12],
         "api_map_n": [39, -21],
         "api_sortno": 19,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [138, 150],
         "api_wedb": [92, 108]
     }, {
@@ -20807,7 +22273,7 @@
         "api_map_d": [-83, 9],
         "api_map_n": [-24, 11],
         "api_sortno": 20,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [196, 124],
         "api_wedb": [97, 112]
     }, {
@@ -20827,7 +22293,7 @@
         "api_map_d": [-250, 5],
         "api_map_n": [-205, 13],
         "api_sortno": 26,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [417, 131],
         "api_wedb": [99, 106]
     }, {
@@ -20847,7 +22313,7 @@
         "api_map_d": [-181, 46],
         "api_map_n": [-77, 37],
         "api_sortno": 27,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [352, 95],
         "api_wedb": [107, 109]
     }, {
@@ -20867,7 +22333,7 @@
         "api_map_d": [11, -99],
         "api_map_n": [-91, 95],
         "api_sortno": 33,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [311, 31],
         "api_wedb": [142, 155]
     }, {
@@ -20887,7 +22353,7 @@
         "api_map_d": [1, 94],
         "api_map_n": [58, -14],
         "api_sortno": 34,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [139, 149],
         "api_wedb": [140, 143]
     }, {
@@ -20907,7 +22373,7 @@
         "api_map_d": [-32, 72],
         "api_map_n": [-49, 79],
         "api_sortno": 36,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [171, 41],
         "api_wedb": [141, 157]
     }, {
@@ -20927,7 +22393,7 @@
         "api_map_d": [-33, 83],
         "api_map_n": [-56, 107],
         "api_sortno": 38,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [250, 18],
         "api_wedb": [134, 157]
     }, {
@@ -20947,7 +22413,7 @@
         "api_map_d": [13, 58],
         "api_map_n": [40, 48],
         "api_sortno": 13,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [144, 83],
         "api_wedb": [122, 124]
     }, {
@@ -20967,7 +22433,7 @@
         "api_map_d": [-215, -12],
         "api_map_n": [-168, -14],
         "api_sortno": 15,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [411, 147],
         "api_wedb": [122, 117]
     }, {
@@ -21067,7 +22533,7 @@
         "api_map_d": [-85, 25],
         "api_map_n": [-23, 40],
         "api_sortno": 75,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [218, 123],
         "api_wedb": [131, 133]
     }, {
@@ -21087,7 +22553,7 @@
         "api_map_d": [-22, -41],
         "api_map_n": [18, -48],
         "api_sortno": 76,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [128, 189],
         "api_wedb": [132, 127]
     }, {
@@ -21127,7 +22593,7 @@
         "api_map_d": [17, 45],
         "api_map_n": [-39, 41],
         "api_sortno": 78,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [304, 85],
         "api_wedb": [148, 151]
     }, {
@@ -21147,7 +22613,7 @@
         "api_map_d": [-119, 121],
         "api_map_n": [-100, 4],
         "api_sortno": 79,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [283, 140],
         "api_wedb": [129, 137]
     }, {
@@ -21167,7 +22633,7 @@
         "api_map_d": [49, 30],
         "api_map_n": [61, 32],
         "api_sortno": 80,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [120, 107],
         "api_wedb": [130, 146]
     }, {
@@ -21187,7 +22653,7 @@
         "api_map_d": [13, 63],
         "api_map_n": [46, 70],
         "api_sortno": 81,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [135, 63],
         "api_wedb": [118, 143]
     }, {
@@ -21207,7 +22673,7 @@
         "api_map_d": [26, 47],
         "api_map_n": [70, 39],
         "api_sortno": 82,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [106, 98],
         "api_wedb": [110, 135]
     }, {
@@ -21227,7 +22693,7 @@
         "api_map_d": [-56, 109],
         "api_map_n": [-11, 101],
         "api_sortno": 83,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [236, 29],
         "api_wedb": [122, 147]
     }, {
@@ -21247,7 +22713,7 @@
         "api_map_d": [-41, 95],
         "api_map_n": [3, 88],
         "api_sortno": 84,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [196, 41],
         "api_wedb": [118, 141]
     }, {
@@ -21447,7 +22913,7 @@
         "api_map_d": [4, -12],
         "api_map_n": [39, -21],
         "api_sortno": 97,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [138, 150],
         "api_wedb": [92, 108]
     }, {
@@ -21467,7 +22933,7 @@
         "api_map_d": [-83, 9],
         "api_map_n": [-24, 11],
         "api_sortno": 98,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [196, 124],
         "api_wedb": [97, 112]
     }, {
@@ -21487,7 +22953,7 @@
         "api_map_d": [-46, 84],
         "api_map_n": [-13, 84],
         "api_sortno": 52,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [197, 40],
         "api_wedb": [131, 143]
     }, {
@@ -21507,7 +22973,7 @@
         "api_map_d": [-65, 61],
         "api_map_n": [-23, 63],
         "api_sortno": 53,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [191, 70],
         "api_wedb": [140, 136]
     }, {
@@ -21547,7 +23013,7 @@
         "api_map_d": [-75, 57],
         "api_map_n": [32, 108],
         "api_sortno": 55,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [164, 24],
         "api_wedb": [94, 93]
     }, {
@@ -21567,7 +23033,7 @@
         "api_map_d": [-33, -1],
         "api_map_n": [73, 76],
         "api_sortno": 56,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [98, 48],
         "api_wedb": [110, 108]
     }, {
@@ -21587,7 +23053,7 @@
         "api_map_d": [-21, 65],
         "api_map_n": [15, 62],
         "api_sortno": 57,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [200, 63],
         "api_wedb": [93, 103]
     }, {
@@ -21607,7 +23073,7 @@
         "api_map_d": [-21, 64],
         "api_map_n": [54, 102],
         "api_sortno": 58,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [149, 40],
         "api_wedb": [106, 114]
     }, {
@@ -21667,7 +23133,7 @@
         "api_map_d": [9, 42],
         "api_map_n": [30, 39],
         "api_sortno": 61,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [104, 92],
         "api_wedb": [145, 147]
     }, {
@@ -21687,7 +23153,7 @@
         "api_map_d": [-60, 18],
         "api_map_n": [-21, 32],
         "api_sortno": 62,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [266, 111],
         "api_wedb": [126, 128]
     }, {
@@ -21787,7 +23253,7 @@
         "api_map_d": [-67, 43],
         "api_map_n": [67, -18],
         "api_sortno": 94,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [85, 154],
         "api_wedb": [97, 117]
     }, {
@@ -21807,7 +23273,7 @@
         "api_map_d": [-90, 83],
         "api_map_n": [-18, 92],
         "api_sortno": 65,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [211, 40],
         "api_wedb": [109, 119]
     }, {
@@ -21827,7 +23293,7 @@
         "api_map_d": [-16, 72],
         "api_map_n": [38, 70],
         "api_sortno": 30,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [245, 51],
         "api_wedb": [111, 134]
     }, {
@@ -21847,7 +23313,7 @@
         "api_map_d": [-66, 85],
         "api_map_n": [-24, 79],
         "api_sortno": 3,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [253, 59],
         "api_wedb": [101, 100]
     }, {
@@ -21867,7 +23333,7 @@
         "api_map_d": [-67, 46],
         "api_map_n": [-4, 72],
         "api_sortno": 21,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [174, 51],
         "api_wedb": [99, 130]
     }, {
@@ -21887,7 +23353,7 @@
         "api_map_d": [28, 56],
         "api_map_n": [68, 65],
         "api_sortno": 23,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [75, 76],
         "api_wedb": [136, 140]
     }, {
@@ -21947,7 +23413,7 @@
         "api_map_d": [-83, 95],
         "api_map_n": [-51, 75],
         "api_sortno": 102,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [253, 59],
         "api_wedb": [101, 100]
     }, {
@@ -21967,7 +23433,7 @@
         "api_map_d": [-35, 64],
         "api_map_n": [8, 68],
         "api_sortno": 6,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [198, 65],
         "api_wedb": [95, 100]
     }, {
@@ -22007,7 +23473,7 @@
         "api_map_d": [22, 128],
         "api_map_n": [59, 127],
         "api_sortno": 24,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [134, 4],
         "api_wedb": [127, 148]
     }, {
@@ -22027,7 +23493,7 @@
         "api_map_d": [-35, 94],
         "api_map_n": [-19, 105],
         "api_sortno": 22,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [233, 33],
         "api_wedb": [104, 122]
     }, {
@@ -22047,7 +23513,7 @@
         "api_map_d": [-46, 30],
         "api_map_n": [-14, 33],
         "api_sortno": 4,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [234, 106],
         "api_wedb": [94, 109]
     }, {
@@ -22067,7 +23533,7 @@
         "api_map_d": [-48, 82],
         "api_map_n": [-33, 84],
         "api_sortno": 103,
-        "api_version": "10",
+        "api_version": "11",
         "api_weda": [232, 59],
         "api_wedb": [96, 107]
     }, {
@@ -22107,7 +23573,7 @@
         "api_map_d": [-11, 61],
         "api_map_n": [3, 59],
         "api_sortno": 8,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [231, 75],
         "api_wedb": [94, 105]
     }, {
@@ -22127,7 +23593,7 @@
         "api_map_d": [-122, -43],
         "api_map_n": [-60, -35],
         "api_sortno": 9,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [292, 182],
         "api_wedb": [94, 98]
     }, {
@@ -22147,7 +23613,7 @@
         "api_map_d": [-92, 84],
         "api_map_n": [-82, 81],
         "api_sortno": 66,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [253, 54],
         "api_wedb": [83, 120]
     }, {
@@ -22507,7 +23973,7 @@
         "api_map_d": [-47, 10],
         "api_map_n": [-29, 53],
         "api_sortno": 106,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [195, 66],
         "api_wedb": [106, 123]
     }, {
@@ -22527,7 +23993,7 @@
         "api_map_d": [3, 8],
         "api_map_n": [-42, 47],
         "api_sortno": 107,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [210, 64],
         "api_wedb": [103, 126]
     }, {
@@ -22547,7 +24013,7 @@
         "api_map_d": [11, 21],
         "api_map_n": [-48, 49],
         "api_sortno": 108,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [210, 64],
         "api_wedb": [103, 126]
     }, {
@@ -22567,7 +24033,7 @@
         "api_map_d": [27, -22],
         "api_map_n": [-16, 64],
         "api_sortno": 109,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [130, 73],
         "api_wedb": [143, 148]
     }, {
@@ -22587,7 +24053,7 @@
         "api_map_d": [-111, 7],
         "api_map_n": [-29, 80],
         "api_sortno": 110,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [255, 55],
         "api_wedb": [130, 142]
     }, {
@@ -22607,7 +24073,7 @@
         "api_map_d": [-43, 54],
         "api_map_n": [27, 62],
         "api_sortno": 111,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [217, 83],
         "api_wedb": [106, 131]
     }, {
@@ -22627,7 +24093,7 @@
         "api_map_d": [-47, 10],
         "api_map_n": [-29, 53],
         "api_sortno": 112,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [173, 43],
         "api_wedb": [123, 151]
     }, {
@@ -22647,7 +24113,7 @@
         "api_map_d": [-47, 10],
         "api_map_n": [-29, 53],
         "api_sortno": 113,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [173, 43],
         "api_wedb": [123, 151]
     }, {
@@ -22667,7 +24133,7 @@
         "api_map_d": [4, -12],
         "api_map_n": [39, -21],
         "api_sortno": 114,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [151, 144],
         "api_wedb": [94, 114]
     }, {
@@ -22687,7 +24153,7 @@
         "api_map_d": [-83, -159],
         "api_map_n": [-24, -159],
         "api_sortno": 115,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [199, 318],
         "api_wedb": [98, 107]
     }, {
@@ -22747,7 +24213,7 @@
         "api_map_d": [0, 84],
         "api_map_n": [30, 84],
         "api_sortno": 119,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [140, 43],
         "api_wedb": [136, 139]
     }, {
@@ -22787,7 +24253,7 @@
         "api_map_d": [-49, 50],
         "api_map_n": [-22, 48],
         "api_sortno": 124,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [168, 40],
         "api_wedb": [128, 129]
     }, {
@@ -22807,7 +24273,7 @@
         "api_map_d": [-49, 50],
         "api_map_n": [-22, 48],
         "api_sortno": 125,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [166, 56],
         "api_wedb": [122, 134]
     }, {
@@ -22887,7 +24353,7 @@
         "api_map_d": [-49, 50],
         "api_map_n": [-22, 48],
         "api_sortno": 129,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [213, 37],
         "api_wedb": [119, 137]
     }, {
@@ -22907,7 +24373,7 @@
         "api_map_d": [-49, -150],
         "api_map_n": [0, 32],
         "api_sortno": 130,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [163, 105],
         "api_wedb": [116, 125]
     }, {
@@ -23187,7 +24653,7 @@
         "api_map_d": [60, 32],
         "api_map_n": [32, 112],
         "api_sortno": 144,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [148, 6],
         "api_wedb": [115, 133]
     }, {
@@ -23207,7 +24673,7 @@
         "api_map_d": [64, 0],
         "api_map_n": [80, 32],
         "api_sortno": 145,
-        "api_version": "10",
+        "api_version": "12",
         "api_weda": [122, 84],
         "api_wedb": [137, 140]
     }, {
@@ -23287,7 +24753,7 @@
         "api_map_d": [96, 96],
         "api_map_n": [64, 96],
         "api_sortno": 149,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [125, 35],
         "api_wedb": [98, 104]
     }, {
@@ -23307,7 +24773,7 @@
         "api_map_d": [0, 64],
         "api_map_n": [-112, 72],
         "api_sortno": 150,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [333, 60],
         "api_wedb": [108, 120]
     }, {
@@ -23327,7 +24793,7 @@
         "api_map_d": [32, 144],
         "api_map_n": [0, 128],
         "api_sortno": 151,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [160, -8],
         "api_wedb": [160, 112]
     }, {
@@ -23347,7 +24813,7 @@
         "api_map_d": [48, 96],
         "api_map_n": [0, 128],
         "api_sortno": 152,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [264, 16],
         "api_wedb": [112, 104]
     }, {
@@ -23387,7 +24853,7 @@
         "api_map_d": [80, 96],
         "api_map_n": [64, 112],
         "api_sortno": 154,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [128, 24],
         "api_wedb": [144, 104]
     }, {
@@ -23447,7 +24913,7 @@
         "api_map_d": [64, 128],
         "api_map_n": [16, 112],
         "api_sortno": 157,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [160, 8],
         "api_wedb": [144, 96]
     }, {
@@ -23587,7 +25053,7 @@
         "api_map_d": [-8, 48],
         "api_map_n": [32, 48],
         "api_sortno": 164,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [149, 72],
         "api_wedb": [160, 151]
     }, {
@@ -23607,7 +25073,7 @@
         "api_map_d": [48, 48],
         "api_map_n": [48, 48],
         "api_sortno": 165,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [149, 72],
         "api_wedb": [174, 160]
     }, {
@@ -23707,7 +25173,7 @@
         "api_map_d": [64, 112],
         "api_map_n": [32, 96],
         "api_sortno": 170,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [176, 56],
         "api_wedb": [112, 112]
     }, {
@@ -23827,7 +25293,7 @@
         "api_map_d": [-8, 112],
         "api_map_n": [-96, 112],
         "api_sortno": 176,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [296, 24],
         "api_wedb": [128, 112]
     }, {
@@ -23847,7 +25313,7 @@
         "api_map_d": [-8, 112],
         "api_map_n": [-96, 112],
         "api_sortno": 177,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [296, 24],
         "api_wedb": [128, 112]
     }, {
@@ -23947,7 +25413,7 @@
         "api_map_d": [-80, 96],
         "api_map_n": [-48, 64],
         "api_sortno": 182,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [224, 72],
         "api_wedb": [128, 128]
     }, {
@@ -24027,7 +25493,7 @@
         "api_map_d": [128, 144],
         "api_map_n": [176, 128],
         "api_sortno": 186,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [0, 0],
         "api_wedb": [128, 120]
     }, {
@@ -24047,7 +25513,7 @@
         "api_map_d": [-56, 128],
         "api_map_n": [-64, 128],
         "api_sortno": 187,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [240, 0],
         "api_wedb": [144, 128]
     }, {
@@ -24107,7 +25573,7 @@
         "api_map_d": [29, 24],
         "api_map_n": [29, 24],
         "api_sortno": 118,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [198, 78],
         "api_wedb": [129, 127]
     }, {
@@ -24147,7 +25613,7 @@
         "api_map_d": [0, 128],
         "api_map_n": [-128, 120],
         "api_sortno": 192,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [320, 8],
         "api_wedb": [128, 120]
     }, {
@@ -24167,7 +25633,7 @@
         "api_map_d": [-48, 128],
         "api_map_n": [-64, 128],
         "api_sortno": 193,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [288, 0],
         "api_wedb": [144, 112]
     }, {
@@ -24187,7 +25653,7 @@
         "api_map_d": [144, 128],
         "api_map_n": [-48, 128],
         "api_sortno": 194,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [224, 0],
         "api_wedb": [144, 144]
     }, {
@@ -24207,7 +25673,7 @@
         "api_map_d": [40, 64],
         "api_map_n": [40, 64],
         "api_sortno": 195,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [152, 64],
         "api_wedb": [144, 128]
     }, {
@@ -24227,7 +25693,7 @@
         "api_map_d": [-96, -128],
         "api_map_n": [-96, -128],
         "api_sortno": 196,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [320, 272],
         "api_wedb": [128, 128]
     }, {
@@ -24247,7 +25713,7 @@
         "api_map_d": [-104, -112],
         "api_map_n": [-96, -112],
         "api_sortno": 197,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [336, 240],
         "api_wedb": [104, 96]
     }, {
@@ -24267,7 +25733,7 @@
         "api_map_d": [-49, 50],
         "api_map_n": [-22, 48],
         "api_sortno": 301,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [234, 80],
         "api_wedb": [133, 125]
     }, {
@@ -24287,7 +25753,7 @@
         "api_map_d": [-13, 83],
         "api_map_n": [-3, 79],
         "api_sortno": 302,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [221, 49],
         "api_wedb": [125, 134]
     }, {
@@ -24307,7 +25773,7 @@
         "api_map_d": [13, 58],
         "api_map_n": [40, 48],
         "api_sortno": 303,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [144, 83],
         "api_wedb": [122, 124]
     }, {
@@ -24327,7 +25793,7 @@
         "api_map_d": [36, 65],
         "api_map_n": [50, 71],
         "api_sortno": 304,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [120, 60],
         "api_wedb": [136, 136]
     }, {
@@ -24387,7 +25853,7 @@
         "api_map_d": [-4, 86],
         "api_map_n": [37, 78],
         "api_sortno": 307,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [146, 52],
         "api_wedb": [140, 130]
     }, {
@@ -24407,7 +25873,7 @@
         "api_map_d": [2, 85],
         "api_map_n": [37, 87],
         "api_sortno": 308,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [152, 46],
         "api_wedb": [134, 136]
     }, {
@@ -24427,7 +25893,7 @@
         "api_map_d": [-67, 46],
         "api_map_n": [-4, 72],
         "api_sortno": 309,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [174, 51],
         "api_wedb": [99, 130]
     }, {
@@ -24447,7 +25913,7 @@
         "api_map_d": [-35, 94],
         "api_map_n": [-19, 105],
         "api_sortno": 310,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [233, 33],
         "api_wedb": [104, 122]
     }, {
@@ -24467,7 +25933,7 @@
         "api_map_d": [28, 56],
         "api_map_n": [68, 65],
         "api_sortno": 311,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [75, 76],
         "api_wedb": [136, 140]
     }, {
@@ -24487,7 +25953,7 @@
         "api_map_d": [22, 128],
         "api_map_n": [59, 127],
         "api_sortno": 312,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [134, 4],
         "api_wedb": [127, 148]
     }, {
@@ -24647,7 +26113,7 @@
         "api_map_d": [19, 95],
         "api_map_n": [78, 92],
         "api_sortno": 320,
-        "api_version": "5",
+        "api_version": "7",
         "api_weda": [134, 35],
         "api_wedb": [114, 137]
     }, {
@@ -24747,7 +26213,7 @@
         "api_map_d": [-83, 52],
         "api_map_n": [-22, 70],
         "api_sortno": 325,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [221, 65],
         "api_wedb": [145, 147]
     }, {
@@ -24767,7 +26233,7 @@
         "api_map_d": [-99, 97],
         "api_map_n": [-38, 106],
         "api_sortno": 326,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [242, 38],
         "api_wedb": [163, 119]
     }, {
@@ -24787,7 +26253,7 @@
         "api_map_d": [-13, 84],
         "api_map_n": [26, 87],
         "api_sortno": 327,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [143, 51],
         "api_wedb": [155, 130]
     }, {
@@ -24807,7 +26273,7 @@
         "api_map_d": [34, 50],
         "api_map_n": [-20, 24],
         "api_sortno": 328,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [176, 84],
         "api_wedb": [163, 156]
     }, {
@@ -25007,7 +26473,7 @@
         "api_map_d": [-85, 25],
         "api_map_n": [-23, 40],
         "api_sortno": 338,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [218, 123],
         "api_wedb": [131, 133]
     }, {
@@ -25027,7 +26493,7 @@
         "api_map_d": [-22, -41],
         "api_map_n": [18, -48],
         "api_sortno": 339,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [128, 189],
         "api_wedb": [132, 127]
     }, {
@@ -25067,7 +26533,7 @@
         "api_map_d": [17, 45],
         "api_map_n": [-39, 41],
         "api_sortno": 341,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [304, 85],
         "api_wedb": [148, 151]
     }, {
@@ -25087,7 +26553,7 @@
         "api_map_d": [48, 0],
         "api_map_n": [32, 88],
         "api_sortno": 342,
-        "api_version": "9",
+        "api_version": "11",
         "api_weda": [164, 18],
         "api_wedb": [129, 138]
     }, {
@@ -25107,7 +26573,7 @@
         "api_map_d": [49, 30],
         "api_map_n": [61, 32],
         "api_sortno": 343,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [120, 107],
         "api_wedb": [130, 146]
     }, {
@@ -25127,7 +26593,7 @@
         "api_map_d": [16, 32],
         "api_map_n": [48, 72],
         "api_sortno": 344,
-        "api_version": "9",
+        "api_version": "11",
         "api_weda": [91, 40],
         "api_wedb": [123, 133]
     }, {
@@ -25147,7 +26613,7 @@
         "api_map_d": [26, 47],
         "api_map_n": [70, 39],
         "api_sortno": 345,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [106, 98],
         "api_wedb": [110, 135]
     }, {
@@ -25167,7 +26633,7 @@
         "api_map_d": [-56, 109],
         "api_map_n": [-11, 101],
         "api_sortno": 346,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [236, 29],
         "api_wedb": [122, 147]
     }, {
@@ -25187,7 +26653,7 @@
         "api_map_d": [-41, 95],
         "api_map_n": [3, 88],
         "api_sortno": 347,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [196, 41],
         "api_wedb": [118, 141]
     }, {
@@ -25327,7 +26793,7 @@
         "api_map_d": [-13, 15],
         "api_map_n": [29, 24],
         "api_sortno": 354,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [112, 108],
         "api_wedb": [145, 153]
     }, {
@@ -25347,7 +26813,7 @@
         "api_map_d": [18, 49],
         "api_map_n": [34, 68],
         "api_sortno": 355,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [106, 63],
         "api_wedb": [139, 114]
     }, {
@@ -25367,7 +26833,7 @@
         "api_map_d": [11, -99],
         "api_map_n": [-91, 95],
         "api_sortno": 356,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [311, 31],
         "api_wedb": [142, 155]
     }, {
@@ -25387,7 +26853,7 @@
         "api_map_d": [1, 94],
         "api_map_n": [58, -14],
         "api_sortno": 357,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [139, 149],
         "api_wedb": [140, 143]
     }, {
@@ -25407,7 +26873,7 @@
         "api_map_d": [-37, -57],
         "api_map_n": [15, 43],
         "api_sortno": 358,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [134, 91],
         "api_wedb": [134, 153]
     }, {
@@ -25427,7 +26893,7 @@
         "api_map_d": [-32, 72],
         "api_map_n": [-49, 79],
         "api_sortno": 359,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [171, 41],
         "api_wedb": [141, 157]
     }, {
@@ -25447,7 +26913,7 @@
         "api_map_d": [-37, -13],
         "api_map_n": [-10, 90],
         "api_sortno": 360,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [151, 41],
         "api_wedb": [142, 149]
     }, {
@@ -25467,7 +26933,7 @@
         "api_map_d": [-33, 83],
         "api_map_n": [-56, 107],
         "api_sortno": 361,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [250, 18],
         "api_wedb": [134, 157]
     }, {
@@ -25487,7 +26953,7 @@
         "api_map_d": [-46, 84],
         "api_map_n": [-13, 84],
         "api_sortno": 362,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [197, 40],
         "api_wedb": [131, 143]
     }, {
@@ -25507,7 +26973,7 @@
         "api_map_d": [-65, 61],
         "api_map_n": [-23, 63],
         "api_sortno": 363,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [191, 70],
         "api_wedb": [140, 136]
     }, {
@@ -25547,7 +27013,7 @@
         "api_map_d": [-75, 57],
         "api_map_n": [32, 108],
         "api_sortno": 365,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [164, 24],
         "api_wedb": [94, 93]
     }, {
@@ -25567,7 +27033,7 @@
         "api_map_d": [-33, -1],
         "api_map_n": [73, 76],
         "api_sortno": 366,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [98, 48],
         "api_wedb": [110, 108]
     }, {
@@ -25587,7 +27053,7 @@
         "api_map_d": [-21, 65],
         "api_map_n": [15, 62],
         "api_sortno": 367,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [200, 63],
         "api_wedb": [93, 103]
     }, {
@@ -25607,7 +27073,7 @@
         "api_map_d": [-21, 64],
         "api_map_n": [54, 102],
         "api_sortno": 368,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [149, 40],
         "api_wedb": [106, 114]
     }, {
@@ -25667,7 +27133,7 @@
         "api_map_d": [9, 42],
         "api_map_n": [30, 39],
         "api_sortno": 371,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [104, 92],
         "api_wedb": [145, 147]
     }, {
@@ -25687,7 +27153,7 @@
         "api_map_d": [-60, 18],
         "api_map_n": [-21, 32],
         "api_sortno": 372,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [266, 111],
         "api_wedb": [126, 128]
     }, {
@@ -25787,7 +27253,7 @@
         "api_map_d": [-35, 64],
         "api_map_n": [8, 68],
         "api_sortno": 377,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [198, 65],
         "api_wedb": [95, 100]
     }, {
@@ -25827,7 +27293,7 @@
         "api_map_d": [-11, 61],
         "api_map_n": [3, 59],
         "api_sortno": 379,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [231, 75],
         "api_wedb": [94, 105]
     }, {
@@ -25847,7 +27313,7 @@
         "api_map_d": [-122, -43],
         "api_map_n": [-60, -35],
         "api_sortno": 380,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [292, 182],
         "api_wedb": [94, 98]
     }, {
@@ -25867,7 +27333,7 @@
         "api_map_d": [112, 112],
         "api_map_n": [-40, 128],
         "api_sortno": 381,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [296, -16],
         "api_wedb": [104, 80]
     }, {
@@ -25887,7 +27353,7 @@
         "api_map_d": [-67, 43],
         "api_map_n": [67, -18],
         "api_sortno": 382,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [85, 154],
         "api_wedb": [97, 117]
     }, {
@@ -25907,7 +27373,7 @@
         "api_map_d": [16, 112],
         "api_map_n": [0, 92],
         "api_sortno": 383,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [212, 48],
         "api_wedb": [112, 104]
     }, {
@@ -25927,7 +27393,7 @@
         "api_map_d": [-92, 84],
         "api_map_n": [-82, 81],
         "api_sortno": 384,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [253, 54],
         "api_wedb": [83, 120]
     }, {
@@ -25967,7 +27433,7 @@
         "api_map_d": [10, 6],
         "api_map_n": [-56, -19],
         "api_sortno": 386,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [291, 124],
         "api_wedb": [98, 109]
     }, {
@@ -25987,7 +27453,7 @@
         "api_map_d": [-67, 59],
         "api_map_n": [-107, 39],
         "api_sortno": 387,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [293, 49],
         "api_wedb": [113, 125]
     }, {
@@ -26007,7 +27473,7 @@
         "api_map_d": [-47, 10],
         "api_map_n": [-29, 53],
         "api_sortno": 388,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [195, 66],
         "api_wedb": [106, 123]
     }, {
@@ -26027,7 +27493,7 @@
         "api_map_d": [27, -22],
         "api_map_n": [-16, 64],
         "api_sortno": 389,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [130, 73],
         "api_wedb": [143, 148]
     }, {
@@ -26047,7 +27513,7 @@
         "api_map_d": [-111, 7],
         "api_map_n": [-29, 80],
         "api_sortno": 390,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [255, 55],
         "api_wedb": [130, 142]
     }, {
@@ -26107,7 +27573,7 @@
         "api_map_d": [-43, 54],
         "api_map_n": [27, 62],
         "api_sortno": 393,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [217, 83],
         "api_wedb": [106, 131]
     }, {
@@ -26127,7 +27593,7 @@
         "api_map_d": [0, 84],
         "api_map_n": [30, 84],
         "api_sortno": 394,
-        "api_version": "5",
+        "api_version": "4",
         "api_weda": [140, 43],
         "api_wedb": [136, 139]
     }, {
@@ -26207,7 +27673,7 @@
         "api_map_d": [29, 24],
         "api_map_n": [29, 24],
         "api_sortno": 396,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [205, 80],
         "api_wedb": [113, 118]
     }, {
@@ -26367,7 +27833,7 @@
         "api_map_d": [-8, 48],
         "api_map_n": [32, 48],
         "api_sortno": 404,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [167, 76],
         "api_wedb": [119, 125]
     }, {
@@ -26387,7 +27853,7 @@
         "api_map_d": [0, 32],
         "api_map_n": [48, 48],
         "api_sortno": 405,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [146, 100],
         "api_wedb": [119, 120]
     }, {
@@ -26447,7 +27913,7 @@
         "api_map_d": [64, 112],
         "api_map_n": [32, 96],
         "api_sortno": 408,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [176, 56],
         "api_wedb": [112, 112]
     }, {
@@ -26587,7 +28053,7 @@
         "api_map_d": [48, 128],
         "api_map_n": [0, 128],
         "api_sortno": 191,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [192, 0],
         "api_wedb": [128, 112]
     }, {
@@ -26647,7 +28113,7 @@
         "api_map_d": [128, 144],
         "api_map_n": [176, 128],
         "api_sortno": 415,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [0, 0],
         "api_wedb": [128, 120]
     }, {
@@ -26727,7 +28193,7 @@
         "api_map_d": [-64, 40],
         "api_map_n": [-32, 32],
         "api_sortno": 204,
-        "api_version": "9",
+        "api_version": "10",
         "api_weda": [256, 104],
         "api_wedb": [112, 88]
     }, {
@@ -26747,7 +28213,7 @@
         "api_map_d": [-16, 112],
         "api_map_n": [0, 112],
         "api_sortno": 419,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [256, 16],
         "api_wedb": [120, 112]
     }, {
@@ -26767,7 +28233,7 @@
         "api_map_d": [64, 96],
         "api_map_n": [88, 48],
         "api_sortno": 420,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [112, 88],
         "api_wedb": [112, 128]
     }, {
@@ -26787,7 +28253,7 @@
         "api_map_d": [80, 144],
         "api_map_n": [56, 144],
         "api_sortno": 421,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [128, -8],
         "api_wedb": [120, 112]
     }, {
@@ -26807,7 +28273,7 @@
         "api_map_d": [80, 120],
         "api_map_n": [48, 112],
         "api_sortno": 422,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [184, 24],
         "api_wedb": [112, 112]
     }, {
@@ -26827,29 +28293,29 @@
         "api_map_d": [8, 80],
         "api_map_n": [48, 112],
         "api_sortno": 202,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [160, 24],
         "api_wedb": [112, 112]
     }, {
-        "api_battle_d": [0, 0],
-        "api_battle_n": [0, 0],
-        "api_boko_d": [0, 0],
-        "api_boko_n": [0, 0],
-        "api_ensyue_n": [0, 0],
-        "api_ensyuf_d": [0, 0],
-        "api_ensyuf_n": [0, 0],
+        "api_battle_d": [64, 128],
+        "api_battle_n": [40, 72],
+        "api_boko_d": [64, 144],
+        "api_boko_n": [64, 88],
+        "api_ensyue_n": [32, 0],
+        "api_ensyuf_d": [40, 120],
+        "api_ensyuf_n": [48, 56],
         "api_filename": "fgyvwqymkekn",
         "api_id": 332,
-        "api_kaisyu_d": [0, 0],
-        "api_kaisyu_n": [0, 0],
-        "api_kaizo_d": [0, 0],
-        "api_kaizo_n": [0, 0],
-        "api_map_d": [0, 0],
-        "api_map_n": [0, 0],
-        "api_sortno": 0,
+        "api_kaisyu_d": [24, -8],
+        "api_kaisyu_n": [20, -8],
+        "api_kaizo_d": [16, 88],
+        "api_kaizo_n": [0, 8],
+        "api_map_d": [32, 128],
+        "api_map_n": [40, 80],
+        "api_sortno": 203,
         "api_version": "1",
-        "api_weda": [0, 0],
-        "api_wedb": [0, 0]
+        "api_weda": [147, 79],
+        "api_wedb": [125, 127]
     }, {
         "api_battle_d": [0, 0],
         "api_battle_n": [0, 0],
@@ -26887,7 +28353,7 @@
         "api_map_d": [-80, 144],
         "api_map_n": [64, 96],
         "api_sortno": 504,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [144, 40],
         "api_wedb": [144, 136]
     }, {
@@ -27067,7 +28533,7 @@
         "api_map_d": [80, 96],
         "api_map_n": [64, 112],
         "api_sortno": 423,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [128, 24],
         "api_wedb": [144, 104]
     }, {
@@ -27087,9 +28553,29 @@
         "api_map_d": [112, 96],
         "api_map_n": [-32, 112],
         "api_sortno": 424,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [256, 36],
         "api_wedb": [128, 128]
+    }, {
+        "api_battle_d": [96, 120],
+        "api_battle_n": [112, 112],
+        "api_boko_d": [128, 124],
+        "api_boko_n": [160, 112],
+        "api_ensyue_n": [104, 0],
+        "api_ensyuf_d": [112, 104],
+        "api_ensyuf_n": [128, 96],
+        "api_filename": "ydsbnsiogwij",
+        "api_id": 345,
+        "api_kaisyu_d": [48, 8],
+        "api_kaisyu_n": [48, 4],
+        "api_kaizo_d": [48, 64],
+        "api_kaizo_n": [96, 80],
+        "api_map_d": [80, 112],
+        "api_map_n": [96, 104],
+        "api_sortno": 425,
+        "api_version": "1",
+        "api_weda": [80, 32],
+        "api_wedb": [136, 134]
     }, {
         "api_battle_d": [16, -48],
         "api_battle_n": [16, -48],
@@ -27307,7 +28793,7 @@
         "api_map_d": [0, 112],
         "api_map_n": [-24, 72],
         "api_sortno": 208,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [176, 64],
         "api_wedb": [128, 104]
     }, {
@@ -27367,7 +28853,7 @@
         "api_map_d": [-104, 128],
         "api_map_n": [-40, 88],
         "api_sortno": 211,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [232, 32],
         "api_wedb": [120, 112]
     }, {
@@ -27387,7 +28873,7 @@
         "api_map_d": [-104, 128],
         "api_map_n": [-96, 64],
         "api_sortno": 212,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [320, 64],
         "api_wedb": [128, 112]
     }, {
@@ -27407,7 +28893,7 @@
         "api_map_d": [-16, 112],
         "api_map_n": [0, 112],
         "api_sortno": 213,
-        "api_version": "8",
+        "api_version": "10",
         "api_weda": [256, 16],
         "api_wedb": [120, 112]
     }, {
@@ -27427,7 +28913,7 @@
         "api_map_d": [64, 96],
         "api_map_n": [88, 48],
         "api_sortno": 214,
-        "api_version": "4",
+        "api_version": "9",
         "api_weda": [112, 88],
         "api_wedb": [112, 128]
     }, {
@@ -27447,7 +28933,7 @@
         "api_map_d": [80, 144],
         "api_map_n": [56, 144],
         "api_sortno": 215,
-        "api_version": "8",
+        "api_version": "9",
         "api_weda": [128, -8],
         "api_wedb": [120, 112]
     }, {
@@ -27467,7 +28953,7 @@
         "api_map_d": [40, 152],
         "api_map_n": [-8, 128],
         "api_sortno": 216,
-        "api_version": "7",
+        "api_version": "8",
         "api_weda": [208, -8],
         "api_wedb": [96, 104]
     }, {
@@ -27527,7 +29013,7 @@
         "api_map_d": [32, 32],
         "api_map_n": [64, 40],
         "api_sortno": 219,
-        "api_version": "4",
+        "api_version": "5",
         "api_weda": [128, 96],
         "api_wedb": [160, 128]
     }, {
@@ -27547,7 +29033,7 @@
         "api_map_d": [48, 48],
         "api_map_n": [48, 24],
         "api_sortno": 220,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [120, 112],
         "api_wedb": [120, 104]
     }, {
@@ -27567,7 +29053,7 @@
         "api_map_d": [80, 120],
         "api_map_n": [48, 112],
         "api_sortno": 221,
-        "api_version": "6",
+        "api_version": "7",
         "api_weda": [184, 24],
         "api_wedb": [112, 112]
     }, {
@@ -27611,25 +29097,25 @@
         "api_weda": [0, 0],
         "api_wedb": [0, 0]
     }, {
-        "api_battle_d": [0, 0],
-        "api_battle_n": [0, 0],
-        "api_boko_d": [0, 0],
-        "api_boko_n": [0, 0],
-        "api_ensyue_n": [0, 0],
-        "api_ensyuf_d": [0, 0],
-        "api_ensyuf_n": [0, 0],
+        "api_battle_d": [96, 120],
+        "api_battle_n": [112, 112],
+        "api_boko_d": [128, 124],
+        "api_boko_n": [160, 112],
+        "api_ensyue_n": [104, 0],
+        "api_ensyuf_d": [112, 104],
+        "api_ensyuf_n": [128, 96],
         "api_filename": "hvxoppojkyge",
         "api_id": 424,
-        "api_kaisyu_d": [0, 0],
-        "api_kaisyu_n": [0, 0],
-        "api_kaizo_d": [0, 0],
-        "api_kaizo_n": [0, 0],
-        "api_map_d": [0, 0],
-        "api_map_n": [0, 0],
-        "api_sortno": 0,
+        "api_kaisyu_d": [48, 8],
+        "api_kaisyu_n": [48, 4],
+        "api_kaizo_d": [48, 64],
+        "api_kaizo_n": [96, 80],
+        "api_map_d": [80, 112],
+        "api_map_n": [96, 104],
+        "api_sortno": 224,
         "api_version": "1",
-        "api_weda": [0, 0],
-        "api_wedb": [0, 0]
+        "api_weda": [80, 32],
+        "api_wedb": [136, 134]
     }, {
         "api_battle_d": [128, 104],
         "api_battle_n": [0, 112],
@@ -27647,7 +29133,7 @@
         "api_map_d": [112, 96],
         "api_map_n": [-32, 112],
         "api_sortno": 225,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [256, 36],
         "api_wedb": [128, 128]
     }, {
@@ -27667,7 +29153,7 @@
         "api_map_d": [80, 8],
         "api_map_n": [80, 8],
         "api_sortno": 226,
-        "api_version": "5",
+        "api_version": "6",
         "api_weda": [96, 120],
         "api_wedb": [136, 136]
     }, {
@@ -27687,7 +29173,7 @@
         "api_map_d": [-16, 144],
         "api_map_n": [-64, 144],
         "api_sortno": 227,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [288, -4],
         "api_wedb": [144, 120]
     }, {
@@ -27707,7 +29193,7 @@
         "api_map_d": [32, 144],
         "api_map_n": [0, 88],
         "api_sortno": 228,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [200, 16],
         "api_wedb": [160, 152]
     }, {
@@ -27727,29 +29213,29 @@
         "api_map_d": [40, 120],
         "api_map_n": [40, 104],
         "api_sortno": 229,
-        "api_version": "3",
+        "api_version": "4",
         "api_weda": [160, 24],
         "api_wedb": [112, 128]
     }, {
-        "api_battle_d": [0, 0],
-        "api_battle_n": [0, 0],
-        "api_boko_d": [0, 0],
-        "api_boko_n": [0, 0],
-        "api_ensyue_n": [0, 0],
-        "api_ensyuf_d": [0, 0],
-        "api_ensyuf_n": [0, 0],
+        "api_battle_d": [-64, 144],
+        "api_battle_n": [0, 72],
+        "api_boko_d": [-72, 152],
+        "api_boko_n": [-24, 104],
+        "api_ensyue_n": [-16, 0],
+        "api_ensyuf_d": [-24, 120],
+        "api_ensyuf_n": [0, 56],
         "api_filename": "bohmlbbvqtfs",
         "api_id": 430,
-        "api_kaisyu_d": [0, 0],
-        "api_kaisyu_n": [0, 0],
-        "api_kaizo_d": [0, 0],
-        "api_kaizo_n": [0, 0],
-        "api_map_d": [0, 0],
-        "api_map_n": [0, 0],
-        "api_sortno": 0,
+        "api_kaisyu_d": [8, -8],
+        "api_kaisyu_n": [8, -8],
+        "api_kaizo_d": [-96, 80],
+        "api_kaizo_n": [-48, 48],
+        "api_map_d": [-96, 144],
+        "api_map_n": [-48, 80],
+        "api_sortno": 230,
         "api_version": "1",
-        "api_weda": [0, 0],
-        "api_wedb": [0, 0]
+        "api_weda": [211, 69],
+        "api_wedb": [137, 123]
     }, {
         "api_battle_d": [-40, 160],
         "api_battle_n": [80, 96],
@@ -27767,7 +29253,7 @@
         "api_map_d": [-80, 144],
         "api_map_n": [64, 96],
         "api_sortno": 231,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [144, 40],
         "api_wedb": [144, 136]
     }, {
@@ -27827,7 +29313,7 @@
         "api_map_d": [152, 88],
         "api_map_n": [96, 104],
         "api_sortno": 234,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [96, 24],
         "api_wedb": [128, 120]
     }, {
@@ -27847,7 +29333,7 @@
         "api_map_d": [32, 144],
         "api_map_n": [0, 128],
         "api_sortno": 235,
-        "api_version": "1",
+        "api_version": "2",
         "api_weda": [176, 4],
         "api_wedb": [144, 128]
     }, {
@@ -27867,9 +29353,289 @@
         "api_map_d": [80, 144],
         "api_map_n": [56, 144],
         "api_sortno": 236,
-        "api_version": "2",
+        "api_version": "3",
         "api_weda": [144, -12],
         "api_wedb": [128, 112]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "gzerqivthcrd",
+        "api_id": 437,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "wmebertagnxm",
+        "api_id": 438,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "lnltescodihe",
+        "api_id": 439,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "tgknyzwyexxt",
+        "api_id": 440,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [-16, 144],
+        "api_battle_n": [8, 128],
+        "api_boko_d": [12, 152],
+        "api_boko_n": [24, 140],
+        "api_ensyue_n": [-8, 0],
+        "api_ensyuf_d": [0, 120],
+        "api_ensyuf_n": [16, 112],
+        "api_filename": "hkhkiqkleprp",
+        "api_id": 441,
+        "api_kaisyu_d": [24, -4],
+        "api_kaisyu_n": [24, -12],
+        "api_kaizo_d": [-48, 88],
+        "api_kaizo_n": [-24, 64],
+        "api_map_d": [-8, 144],
+        "api_map_n": [-8, 136],
+        "api_sortno": 241,
+        "api_version": "1",
+        "api_weda": [219, 9],
+        "api_wedb": [116, 121]
+    }, {
+        "api_battle_d": [-48, 112],
+        "api_battle_n": [-40, 136],
+        "api_boko_d": [-16, 128],
+        "api_boko_n": [8, 144],
+        "api_ensyue_n": [-48, 0],
+        "api_ensyuf_d": [-16, 104],
+        "api_ensyuf_n": [-16, 128],
+        "api_filename": "gyywcqqfnjkc",
+        "api_id": 442,
+        "api_kaisyu_d": [28, -12],
+        "api_kaisyu_n": [16, -8],
+        "api_kaizo_d": [-80, 64],
+        "api_kaizo_n": [-64, 88],
+        "api_map_d": [-64, 128],
+        "api_map_n": [-48, 136],
+        "api_sortno": 242,
+        "api_version": "1",
+        "api_weda": [264, 0],
+        "api_wedb": [131, 120]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "nsutzbtifaji",
+        "api_id": 443,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "beymvxmvhoct",
+        "api_id": 444,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [112, 64],
+        "api_battle_n": [96, 80],
+        "api_boko_d": [104, 64],
+        "api_boko_n": [80, 80],
+        "api_ensyue_n": [48, 0],
+        "api_ensyuf_d": [96, 32],
+        "api_ensyuf_n": [64, 48],
+        "api_filename": "oswtwcbzgbfm",
+        "api_id": 445,
+        "api_kaisyu_d": [36, -8],
+        "api_kaisyu_n": [8, -12],
+        "api_kaizo_d": [80, 8],
+        "api_kaizo_n": [32, 40],
+        "api_map_d": [80, 64],
+        "api_map_n": [56, 64],
+        "api_sortno": 245,
+        "api_version": "1",
+        "api_weda": [127, 87],
+        "api_wedb": [141, 121]
+    }, {
+        "api_battle_d": [-16, 144],
+        "api_battle_n": [8, 128],
+        "api_boko_d": [12, 152],
+        "api_boko_n": [24, 140],
+        "api_ensyue_n": [-8, 0],
+        "api_ensyuf_d": [0, 120],
+        "api_ensyuf_n": [16, 112],
+        "api_filename": "feyfhhruhjse",
+        "api_id": 446,
+        "api_kaisyu_d": [24, -4],
+        "api_kaisyu_n": [24, -12],
+        "api_kaizo_d": [-48, 88],
+        "api_kaizo_n": [-24, 64],
+        "api_map_d": [-8, 144],
+        "api_map_n": [-8, 136],
+        "api_sortno": 246,
+        "api_version": "1",
+        "api_weda": [230, 9],
+        "api_wedb": [118, 121]
+    }, {
+        "api_battle_d": [-48, 112],
+        "api_battle_n": [-72, 136],
+        "api_boko_d": [-16, 128],
+        "api_boko_n": [-24, 144],
+        "api_ensyue_n": [-8, 0],
+        "api_ensyuf_d": [-16, 104],
+        "api_ensyuf_n": [-48, 128],
+        "api_filename": "yfpnftpuwkrx",
+        "api_id": 447,
+        "api_kaisyu_d": [28, -12],
+        "api_kaisyu_n": [16, -8],
+        "api_kaizo_d": [-80, 64],
+        "api_kaizo_n": [-96, 88],
+        "api_map_d": [-64, 128],
+        "api_map_n": [-80, 136],
+        "api_sortno": 247,
+        "api_version": "1",
+        "api_weda": [290, 0],
+        "api_wedb": [130, 120]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "spmuptretooz",
+        "api_id": 448,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [0, 0],
+        "api_battle_n": [0, 0],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "zbwwxnwyxhps",
+        "api_id": 449,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [112, 64],
+        "api_battle_n": [96, 80],
+        "api_boko_d": [104, 64],
+        "api_boko_n": [80, 80],
+        "api_ensyue_n": [48, 0],
+        "api_ensyuf_d": [96, 32],
+        "api_ensyuf_n": [64, 48],
+        "api_filename": "wwqmolrsxfvz",
+        "api_id": 450,
+        "api_kaisyu_d": [36, -8],
+        "api_kaisyu_n": [8, -12],
+        "api_kaizo_d": [80, 8],
+        "api_kaizo_n": [32, 40],
+        "api_map_d": [80, 64],
+        "api_map_n": [56, 64],
+        "api_sortno": 250,
+        "api_version": "1",
+        "api_weda": [127, 87],
+        "api_wedb": [141, 121]
     }, {
         "api_battle_d": [82, 151],
         "api_battle_n": [82, 151],
@@ -29951,6 +31717,166 @@
         "api_weda": [0, 0],
         "api_wedb": [0, 0]
     }, {
+        "api_battle_d": [-64, 24],
+        "api_battle_n": [-64, 24],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "jnwpsrxekmbn",
+        "api_id": 605,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [-64, 24],
+        "api_battle_n": [-64, 24],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "clqoqbjfvidf",
+        "api_id": 606,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [-64, 24],
+        "api_battle_n": [-64, 24],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "ysteufhuvuuk",
+        "api_id": 607,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [-64, 24],
+        "api_battle_n": [-64, 24],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "octsmbzvtknp",
+        "api_id": 608,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [32, 96],
+        "api_battle_n": [32, 96],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "qvjxstjsucxx",
+        "api_id": 609,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [32, 96],
+        "api_battle_n": [32, 96],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "vjgqyiisflxo",
+        "api_id": 610,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [32, 64],
+        "api_battle_n": [32, 64],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "yqbbctkwbtgd",
+        "api_id": 611,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
+        "api_battle_d": [32, 64],
+        "api_battle_n": [32, 64],
+        "api_boko_d": [0, 0],
+        "api_boko_n": [0, 0],
+        "api_ensyue_n": [0, 0],
+        "api_ensyuf_d": [0, 0],
+        "api_ensyuf_n": [0, 0],
+        "api_filename": "iinthvbcxohn",
+        "api_id": 612,
+        "api_kaisyu_d": [0, 0],
+        "api_kaisyu_n": [0, 0],
+        "api_kaizo_d": [0, 0],
+        "api_kaizo_n": [0, 0],
+        "api_map_d": [0, 0],
+        "api_map_n": [0, 0],
+        "api_sortno": 0,
+        "api_version": "1",
+        "api_weda": [0, 0],
+        "api_wedb": [0, 0]
+    }, {
         "api_battle_d": [80, 72],
         "api_battle_n": [64, 80],
         "api_boko_d": [72, 120],
@@ -30292,38 +32218,31 @@
         "api_wedb": [144, 128]
     }],
     "api_mst_shipupgrade": [{
-        "api_drawing_count": 1,
-        "api_id": 188,
-        "api_original_ship_id": 71,
-        "api_sortno": 186,
-        "api_upgrade_level": 2,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 173,
-        "api_original_ship_id": 171,
-        "api_sortno": 173,
-        "api_upgrade_level": 2,
-        "api_upgrade_type": 1
-    }, {
         "api_drawing_count": 0,
-        "api_id": 286,
-        "api_original_ship_id": 26,
-        "api_sortno": 386,
-        "api_upgrade_level": 1,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 0,
-        "api_id": 69,
-        "api_original_ship_id": 69,
-        "api_sortno": 62,
+        "api_id": 404,
+        "api_original_ship_id": 404,
+        "api_sortno": 201,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
+        "api_drawing_count": 1,
+        "api_id": 185,
+        "api_original_ship_id": 184,
+        "api_sortno": 185,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 178,
+        "api_original_ship_id": 171,
+        "api_sortno": 178,
+        "api_upgrade_level": 3,
+        "api_upgrade_type": 1
+    }, {
         "api_drawing_count": 0,
-        "api_id": 287,
-        "api_original_ship_id": 27,
-        "api_sortno": 287,
+        "api_id": 272,
+        "api_original_ship_id": 69,
+        "api_sortno": 372,
         "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }, {
@@ -30362,6 +32281,13 @@
         "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }, {
+        "api_drawing_count": 1,
+        "api_id": 447,
+        "api_original_ship_id": 442,
+        "api_sortno": 247,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
         "api_drawing_count": 0,
         "api_id": 171,
         "api_original_ship_id": 171,
@@ -30376,24 +32302,59 @@
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
-        "api_drawing_count": 1,
-        "api_id": 178,
-        "api_original_ship_id": 171,
-        "api_sortno": 178,
-        "api_upgrade_level": 3,
+        "api_drawing_count": 0,
+        "api_id": 286,
+        "api_original_ship_id": 26,
+        "api_sortno": 386,
+        "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
-        "api_id": 272,
+        "api_id": 69,
         "api_original_ship_id": 69,
-        "api_sortno": 372,
+        "api_sortno": 62,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 287,
+        "api_original_ship_id": 27,
+        "api_sortno": 287,
         "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 188,
+        "api_original_ship_id": 71,
+        "api_sortno": 186,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 173,
+        "api_original_ship_id": 171,
+        "api_sortno": 173,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 441,
+        "api_original_ship_id": 441,
+        "api_sortno": 241,
+        "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 0,
         "api_id": 273,
         "api_original_ship_id": 71,
         "api_sortno": 373,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 446,
+        "api_original_ship_id": 441,
+        "api_sortno": 246,
         "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }, {
@@ -30404,31 +32365,10 @@
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
-        "api_drawing_count": 1,
-        "api_id": 411,
-        "api_original_ship_id": 26,
-        "api_sortno": 211,
-        "api_upgrade_level": 2,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 427,
-        "api_original_ship_id": 69,
-        "api_sortno": 227,
-        "api_upgrade_level": 2,
-        "api_upgrade_type": 1
-    }, {
-        "api_drawing_count": 1,
-        "api_id": 406,
-        "api_original_ship_id": 404,
-        "api_sortno": 206,
-        "api_upgrade_level": 1,
-        "api_upgrade_type": 1
-    }, {
         "api_drawing_count": 0,
-        "api_id": 27,
-        "api_original_ship_id": 27,
-        "api_sortno": 27,
+        "api_id": 332,
+        "api_original_ship_id": 332,
+        "api_sortno": 203,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
@@ -30460,17 +32400,45 @@
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
+        "api_drawing_count": 1,
+        "api_id": 411,
+        "api_original_ship_id": 26,
+        "api_sortno": 211,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 427,
+        "api_original_ship_id": 69,
+        "api_sortno": 227,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
         "api_drawing_count": 0,
-        "api_id": 404,
-        "api_original_ship_id": 404,
-        "api_sortno": 201,
+        "api_id": 442,
+        "api_original_ship_id": 442,
+        "api_sortno": 242,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
         "api_drawing_count": 1,
-        "api_id": 185,
-        "api_original_ship_id": 184,
-        "api_sortno": 185,
+        "api_id": 406,
+        "api_original_ship_id": 404,
+        "api_sortno": 206,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 0,
+        "api_id": 27,
+        "api_original_ship_id": 27,
+        "api_sortno": 27,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
+        "api_drawing_count": 1,
+        "api_id": 430,
+        "api_original_ship_id": 332,
+        "api_sortno": 230,
         "api_upgrade_level": 1,
         "api_upgrade_type": 1
     }],
@@ -34069,6 +36037,141 @@
         "api_atap": 0,
         "api_bakk": 0,
         "api_baku": 0,
+        "api_broken": [0, 2, 5, 0],
+        "api_houg": 8,
+        "api_houk": 0,
+        "api_houm": 1,
+        "api_id": 134,
+        "api_info": "パスタの国が生んだ、伝統と信頼の高性能中口径の三連装速射砲です。<br>砲の旋回や俯仰、砲弾の揚弾及び装填は主に電力で稼働する最新型です。新型高速戦艦の副砲にも採用されました。",
+        "api_leng": 2,
+        "api_luck": 0,
+        "api_name": "OTO 152mm三連装速射砲",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 3,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 134,
+        "api_souk": 1,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 2,
+        "api_type": [1, 2, 4, 4],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 1, 3, 0],
+        "api_houg": 1,
+        "api_houk": 0,
+        "api_houm": 1,
+        "api_id": 135,
+        "api_info": "パスタの国が生んだ、新型高速戦艦向けに開発された最新鋭の高角砲です。<br>単砲身ではありますが、発射速度も速く、バランスのよい優れた中距離対空火器です。",
+        "api_leng": 1,
+        "api_luck": 0,
+        "api_name": "90mm単装高角砲",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 3,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 135,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 8,
+        "api_type": [1, 2, 4, 16],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 0, 24, 4],
+        "api_houg": 0,
+        "api_houk": -1,
+        "api_houm": 0,
+        "api_id": 136,
+        "api_info": "シリンダータイプの隔壁による、艦幅も重量も増やさずに水中防御を向上させる大型艦艇の防御隔壁です。タラントでの戦訓から評価が分かれますが、一定の防御効果は期待できるといわれています。<br>(戦艦・巡洋戦艦・航空戦艦・正規空母(含む装甲空母)用)",
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "プリエーゼ式水中防御隔壁",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 3,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 136,
+        "api_souk": 7,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [6, 17, 28, 23],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 16, 22, 1],
+        "api_houg": 21,
+        "api_houk": -1,
+        "api_houm": -1,
+        "api_id": 137,
+        "api_info": "パスタの国が生んだ三連装型の戦艦主砲です。<br>高射速の50口径、中近距離戦闘での火力は同クラス最強です。また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。砲の耐久性や命中率に課題を残していましたが、改修によってその命中精度などが向上しています。",
+        "api_leng": 4,
+        "api_luck": 0,
+        "api_name": "381mm/50 三連装砲改",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 5,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 137,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 4,
+        "api_type": [1, 1, 3, 3],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [9, 2, 0, 26],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 1,
+        "api_id": 138,
+        "api_info": "四発の大型飛行艇「二式大型飛行艇」、通称「二式大艇」です。<br>巨大な翼と船のような構造を持つ機体で、長距離偵察や司令部要員の移動等に用いられました。同時代の世界水準を大きく超えた傑作機で、今の時代もその後継は空に海に活躍しています。",
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "二式大艇",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 4,
+        "api_sakb": 0,
+        "api_saku": 12,
+        "api_soku": 0,
+        "api_sortno": 138,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 1,
+        "api_tyku": 0,
+        "api_type": [17, 33, 41, 33],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
         "api_broken": [0, 0, 0, 0],
         "api_houg": 1,
         "api_houk": 0,
@@ -35603,6 +37706,10 @@
         "api_id": 40,
         "api_name": "大型ソナー",
         "api_show_flg": 0
+    }, {
+        "api_id": 41,
+        "api_name": "大型飛行艇",
+        "api_show_flg": 0
     }],
     "api_mst_slotitemgraph": [{
         "api_filename": "1",
@@ -36270,6 +38377,31 @@
         "api_sortno": 133,
         "api_version": "1"
     }, {
+        "api_filename": "134",
+        "api_id": 134,
+        "api_sortno": 134,
+        "api_version": "1"
+    }, {
+        "api_filename": "135",
+        "api_id": 135,
+        "api_sortno": 135,
+        "api_version": "1"
+    }, {
+        "api_filename": "136",
+        "api_id": 136,
+        "api_sortno": 136,
+        "api_version": "1"
+    }, {
+        "api_filename": "137",
+        "api_id": 137,
+        "api_sortno": 137,
+        "api_version": "1"
+    }, {
+        "api_filename": "138",
+        "api_id": 138,
+        "api_sortno": 138,
+        "api_version": "1"
+    }, {
         "api_filename": "501",
         "api_id": 501,
         "api_sortno": 0,
@@ -36566,7 +38698,8 @@
             "37": 0,
             "38": 0,
             "39": 0,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 1,
         "api_kcnt": 2,
@@ -36614,7 +38747,8 @@
             "37": 1,
             "38": 0,
             "39": 1,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 2,
         "api_kcnt": 3,
@@ -36662,7 +38796,8 @@
             "37": 1,
             "38": 0,
             "39": 1,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 3,
         "api_kcnt": 3,
@@ -36710,7 +38845,8 @@
             "37": 0,
             "38": 0,
             "39": 1,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 4,
         "api_kcnt": 3,
@@ -36758,7 +38894,8 @@
             "37": 0,
             "38": 0,
             "39": 1,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 5,
         "api_kcnt": 4,
@@ -36806,7 +38943,8 @@
             "37": 1,
             "38": 0,
             "39": 1,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 6,
         "api_kcnt": 4,
@@ -36854,7 +38992,8 @@
             "37": 0,
             "38": 0,
             "39": 0,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 7,
         "api_kcnt": 4,
@@ -36902,7 +39041,8 @@
             "37": 0,
             "38": 0,
             "39": 1,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 8,
         "api_kcnt": 4,
@@ -36950,7 +39090,8 @@
             "37": 0,
             "38": 0,
             "39": 1,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 9,
         "api_kcnt": 5,
@@ -36998,7 +39139,8 @@
             "37": 1,
             "38": 0,
             "39": 1,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 10,
         "api_kcnt": 5,
@@ -37046,7 +39188,8 @@
             "37": 0,
             "38": 0,
             "39": 0,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 11,
         "api_kcnt": 5,
@@ -37094,7 +39237,8 @@
             "37": 0,
             "38": 0,
             "39": 0,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 12,
         "api_kcnt": 5,
@@ -37142,7 +39286,8 @@
             "37": 1,
             "38": 0,
             "39": 0,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 13,
         "api_kcnt": 3,
@@ -37190,7 +39335,8 @@
             "37": 1,
             "38": 0,
             "39": 0,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 14,
         "api_kcnt": 5,
@@ -37238,7 +39384,8 @@
             "37": 0,
             "38": 0,
             "39": 0,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 15,
         "api_kcnt": 2,
@@ -37286,7 +39433,8 @@
             "37": 1,
             "38": 0,
             "39": 1,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 16,
         "api_kcnt": 3,
@@ -37334,7 +39482,8 @@
             "37": 1,
             "38": 0,
             "39": 0,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 17,
         "api_kcnt": 5,
@@ -37382,7 +39531,8 @@
             "37": 0,
             "38": 0,
             "39": 0,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 18,
         "api_kcnt": 5,
@@ -37430,7 +39580,8 @@
             "37": 0,
             "38": 0,
             "39": 0,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 19,
         "api_kcnt": 5,
@@ -37478,7 +39629,8 @@
             "37": 1,
             "38": 0,
             "39": 1,
-            "40": 1
+            "40": 1,
+            "41": 0
         },
         "api_id": 20,
         "api_kcnt": 5,
@@ -37526,7 +39678,8 @@
             "37": 0,
             "38": 0,
             "39": 1,
-            "40": 0
+            "40": 0,
+            "41": 0
         },
         "api_id": 21,
         "api_kcnt": 3,

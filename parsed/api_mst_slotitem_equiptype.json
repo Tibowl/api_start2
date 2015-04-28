@@ -158,4 +158,8 @@
     "api_id": 40,
     "api_name": "大型ソナー",
     "api_show_flg": 0
+}, {
+    "api_id": 41,
+    "api_name": "大型飛行艇",
+    "api_show_flg": 0
 }]

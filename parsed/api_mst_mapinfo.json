@@ -322,4 +322,76 @@
     "api_opetext": "MS諸島防衛戦",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0]
+}, {
+    "api_id": 301,
+    "api_infotext": "第十一号作戦が発令された！主<br>作戦に先立ち、軽巡と駆逐艦で<br>編成された水雷戦隊による作戦<br>海域の威力偵察を実施せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 30,
+    "api_max_maphp": 300,
+    "api_name": "カレー洋",
+    "api_no": 1,
+    "api_opetext": "発動準備、第十一号作戦！",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 302,
+    "api_infotext": "先の偵察活動により作戦海域の<br>敵情は判明した。主力連合艦隊<br>を同方面に進出させ、カレー洋<br>海域の制海権を握れ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 30,
+    "api_max_maphp": 300,
+    "api_name": "カレー洋リランカ島沖",
+    "api_no": 2,
+    "api_opetext": "第二次カレー洋作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 3]
+}, {
+    "api_id": 303,
+    "api_infotext": "第十一号作戦の支作戦として、<br>ベーグル湾の通商破壊戦を展開<br>する。巡洋艦などを基幹とした<br>艦隊で敵海上補給路を叩け！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 30,
+    "api_max_maphp": 300,
+    "api_name": "ベーグル湾",
+    "api_no": 3,
+    "api_opetext": "ベーグル湾通商破壊戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 304,
+    "api_infotext": "いよいよ主目標であるリランカ<br>島攻略作戦を実施する。精強な<br>連合艦隊を出撃、同島周辺の敵<br>を排除し、攻略を成功させよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 12,
+    "api_maparea_id": 30,
+    "api_max_maphp": 300,
+    "api_name": "カレー洋リランカ島沖",
+    "api_no": 4,
+    "api_opetext": "決戦！リランカ島攻略作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 3]
+}, {
+    "api_id": 305,
+    "api_infotext": "敵秘匿艦隊泊地が発見された！<br>精鋭の小艦隊で同泊地に殴り込<br>みによる強襲をかけ、本方面の<br>敵艦隊の動きを封殺せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 13,
+    "api_maparea_id": 30,
+    "api_max_maphp": 300,
+    "api_name": "アンズ環礁沖",
+    "api_no": 5,
+    "api_opetext": "アンズ環礁泊地攻撃作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 306,
+    "api_infotext": "いよいよ作戦最終段階に入る。<br>カレー洋からステビア海方面に<br>進出、同方面の敵艦隊を撃破、<br>海上打通連絡作戦を完遂せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 30,
+    "api_max_maphp": 300,
+    "api_name": "ステビア海",
+    "api_no": 6,
+    "api_opetext": "打通作戦！ステビア海を越えて",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 3]
 }]
