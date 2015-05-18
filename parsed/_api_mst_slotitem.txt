@@ -525,6 +525,11 @@ OTO 152mm三連装速射砲: Range: 2
 二式大艇: ASW: 1
 二式大艇: Acc: 1
 二式大艇: Rare: 4
+15.2cm連装砲改: FP: 5
+15.2cm連装砲改: AA: 3
+15.2cm連装砲改: Acc: 4
+15.2cm連装砲改: Rare: 3
+15.2cm連装砲改: Range: 2
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

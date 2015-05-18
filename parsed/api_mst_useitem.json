@@ -364,7 +364,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["最大保有艦娘数＋10(最大240)。最大保有アイテム数＋40(最大1060)。", ""],
+    "api_description": ["最大保有艦娘数＋10(最大250)。最大保有アイテム数＋40(最大1100)。", ""],
     "api_id": 53,
     "api_name": "母港拡張",
     "api_price": 0,

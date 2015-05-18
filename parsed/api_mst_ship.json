@@ -1956,7 +1956,7 @@
     "api_stype": 5,
     "api_taik": [41, 59],
     "api_tyku": [20, 59],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "もがみ"
 }, {
     "api_afterbull": 450,
@@ -2040,7 +2040,7 @@
     "api_stype": 6,
     "api_taik": [50, 67],
     "api_tyku": [20, 59],
-    "api_voicef": 0,
+    "api_voicef": 3,
     "api_yomi": "もがみ"
 }, {
     "api_afterbull": 210,
