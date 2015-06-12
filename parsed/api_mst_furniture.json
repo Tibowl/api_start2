@@ -835,7 +835,7 @@
     "api_price": 2000,
     "api_rarity": 3,
     "api_saleflg": 1,
-    "api_season": 0,
+    "api_season": 18,
     "api_title": "てるてる坊主の窓",
     "api_type": 2
 }, {
@@ -2295,7 +2295,7 @@
     "api_price": 32000,
     "api_rarity": 5,
     "api_saleflg": 1,
-    "api_season": 0,
+    "api_season": 19,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2
 }, {

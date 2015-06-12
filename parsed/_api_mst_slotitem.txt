@@ -533,6 +533,9 @@ OTO 152mm三連装速射砲: Range: 2
 96式150cm探照灯: AA: 1
 96式150cm探照灯: LoS: 3
 96式150cm探照灯: Rare: 3
+32号対水上電探改: LoS: 11
+32号対水上電探改: Acc: 9
+32号対水上電探改: Rare: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
@@ -707,3 +710,8 @@ OTO 152mm三連装速射砲: Range: 2
 20inch連装砲: Acc: 3
 20inch連装砲: Rare: 4
 20inch連装砲: Range: 3
+15inch要塞砲: FP: 13
+15inch要塞砲: Armor: 3
+15inch要塞砲: Acc: 4
+15inch要塞砲: Rare: 2
+15inch要塞砲: Range: 3

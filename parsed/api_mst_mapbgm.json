@@ -119,6 +119,12 @@
     "api_maparea_id": 4,
     "api_no": 4
 }, {
+    "api_boss_bgm": [40, 39],
+    "api_id": 45,
+    "api_map_bgm": [30, 40],
+    "api_maparea_id": 4,
+    "api_no": 5
+}, {
     "api_boss_bgm": [3, 3],
     "api_id": 51,
     "api_map_bgm": [13, 2],

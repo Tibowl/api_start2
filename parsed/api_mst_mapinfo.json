@@ -239,6 +239,18 @@
     "api_required_defeat_count": 4,
     "api_sally_flag": [1, 0]
 }, {
+    "api_id": 45,
+    "api_infotext": "我が艦隊により大打撃を受けた<br>敵東洋艦隊がリランカ島の港湾<br>に再集結しつつある。遊撃部隊<br>を編成し、敵増援を撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 4,
+    "api_max_maphp": null,
+    "api_name": "カレー洋リランカ島沖",
+    "api_no": 5,
+    "api_opetext": "深海東洋艦隊漸減作戦",
+    "api_required_defeat_count": 5,
+    "api_sally_flag": [1, 0]
+}, {
     "api_id": 51,
     "api_infotext": "練度の高い水上打撃部隊を編成し、南方海域への進出を図れ！",
     "api_item": [33, 31, 0, 0],
