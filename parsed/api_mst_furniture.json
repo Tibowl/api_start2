@@ -34,7 +34,7 @@
     "api_no": 3,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "新緑のフローリング",
     "api_type": 0
@@ -54,7 +54,7 @@
     "api_no": 5,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "砂浜の床",
     "api_type": 0
@@ -414,7 +414,7 @@
     "api_no": 4,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "春仕様の壁紙",
     "api_type": 1
@@ -584,7 +584,7 @@
     "api_no": 21,
     "api_price": 1900,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "緑の和壁紙",
     "api_type": 1
@@ -594,7 +594,7 @@
     "api_no": 22,
     "api_price": 900,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "新緑の壁紙",
     "api_type": 1
@@ -604,7 +604,7 @@
     "api_no": 23,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ピンクドット壁紙",
     "api_type": 1
@@ -694,7 +694,7 @@
     "api_no": 32,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "龍の壁紙",
     "api_type": 1
@@ -724,7 +724,7 @@
     "api_no": 1,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "緑カーテンの窓",
     "api_type": 2
@@ -734,7 +734,7 @@
     "api_no": 2,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "青カーテンの窓",
     "api_type": 2
@@ -794,7 +794,7 @@
     "api_no": 8,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "広く開いた大窓",
     "api_type": 2
@@ -834,7 +834,7 @@
     "api_no": 12,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 18,
     "api_title": "てるてる坊主の窓",
     "api_type": 2
@@ -884,7 +884,7 @@
     "api_no": 17,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "防空加工窓",
     "api_type": 2
@@ -1164,7 +1164,7 @@
     "api_no": 15,
     "api_price": 2400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「なのです」掛け軸",
     "api_type": 3
@@ -1174,7 +1174,7 @@
     "api_no": 16,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3
@@ -1564,7 +1564,7 @@
     "api_no": 24,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "しょうぶ和箪笥",
     "api_type": 4
@@ -1734,7 +1734,7 @@
     "api_no": 10,
     "api_price": 40000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "教室セット「教卓」",
     "api_type": 5
@@ -1854,7 +1854,7 @@
     "api_no": 22,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督の麻雀卓",
     "api_type": 5
@@ -2084,7 +2084,7 @@
     "api_no": 30,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "七夕飾りの窓",
     "api_type": 2
@@ -2094,7 +2094,7 @@
     "api_no": 31,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "蚊取り線香の窓",
     "api_type": 2
@@ -2104,7 +2104,7 @@
     "api_no": 32,
     "api_price": 5000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府風鈴",
     "api_type": 2
@@ -2114,7 +2114,7 @@
     "api_no": 31,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "夏先取りセット",
     "api_type": 4
@@ -2154,7 +2154,7 @@
     "api_no": 41,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ビニールプール",
     "api_type": 5
@@ -2424,7 +2424,7 @@
     "api_no": 37,
     "api_price": 600,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "梅雨の壁紙",
     "api_type": 1
@@ -2434,7 +2434,7 @@
     "api_no": 36,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 17,
     "api_title": "梅雨の緑カーテン窓",
     "api_type": 2
@@ -2468,4 +2468,24 @@
     "api_season": 0,
     "api_title": "「300万の感謝」掛け軸",
     "api_type": 3
+}, {
+    "api_description": "ジメジメする日には水風呂<br>でさっぱり汗を流したい！<br>そんなアグレッシブな艦娘<br>の希望を叶える特注施設…<br>堂々の完成です！",
+    "api_id": 248,
+    "api_no": 51,
+    "api_price": 7500,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "水風呂",
+    "api_type": 5
+}, {
+    "api_description": "鬼灯と書いて「ホオズキ」<br>と読む……。初夏の鎮守府<br>にぴったりの、ホオズキの<br>実ではなく花を配した和風<br>の爽やかな季節窓です。",
+    "api_id": 249,
+    "api_no": 37,
+    "api_price": 1880,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "鬼灯の花の窓",
+    "api_type": 2
 }]

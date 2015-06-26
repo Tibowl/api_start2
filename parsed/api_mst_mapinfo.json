@@ -334,4 +334,16 @@
     "api_opetext": "MS諸島防衛戦",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0]
+}, {
+    "api_id": 63,
+    "api_infotext": "飛行艇または水上偵察機を装備<br>した水上機母艦・軽巡・駆逐艦<br>による艦隊を同方面へ進出、航<br>空偵察「Ｋ作戦」を実施せよ！",
+    "api_item": [34, 32, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 6,
+    "api_max_maphp": null,
+    "api_name": "グアノ環礁沖海域",
+    "api_no": 3,
+    "api_opetext": "K作戦",
+    "api_required_defeat_count": 4,
+    "api_sally_flag": [1, 0]
 }]

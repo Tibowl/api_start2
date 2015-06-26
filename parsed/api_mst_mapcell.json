@@ -2770,4 +2770,102 @@
     "api_maparea_id": 4,
     "api_mapinfo_no": 5,
     "api_no": 19
+}, {
+    "api_color_no": 0,
+    "api_id": 397,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 0
+}, {
+    "api_color_no": 4,
+    "api_id": 398,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 1
+}, {
+    "api_color_no": 4,
+    "api_id": 399,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 2
+}, {
+    "api_color_no": 4,
+    "api_id": 400,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 3
+}, {
+    "api_color_no": 4,
+    "api_id": 401,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 4
+}, {
+    "api_color_no": 4,
+    "api_id": 402,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 5
+}, {
+    "api_color_no": 4,
+    "api_id": 403,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 6
+}, {
+    "api_color_no": 9,
+    "api_id": 404,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 7
+}, {
+    "api_color_no": 9,
+    "api_id": 405,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 8
+}, {
+    "api_color_no": 4,
+    "api_id": 406,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 9
+}, {
+    "api_color_no": 5,
+    "api_id": 407,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 10
+}, {
+    "api_color_no": 4,
+    "api_id": 408,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 11
+}, {
+    "api_color_no": 9,
+    "api_id": 409,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 12
+}, {
+    "api_color_no": 4,
+    "api_id": 410,
+    "api_map_no": 63,
+    "api_maparea_id": 6,
+    "api_mapinfo_no": 3,
+    "api_no": 13
 }]
