@@ -214,7 +214,7 @@
     "api_no": 21,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "真っ白なフワフワ絨毯",
     "api_type": 0
@@ -694,7 +694,7 @@
     "api_no": 32,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "龍の壁紙",
     "api_type": 1
@@ -844,7 +844,7 @@
     "api_no": 13,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "紫陽花の窓",
     "api_type": 2
@@ -1294,7 +1294,7 @@
     "api_no": 28,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "戦艦映画ポスター",
     "api_type": 3
@@ -1584,7 +1584,7 @@
     "api_no": 26,
     "api_price": 30000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "教室セット「机」",
     "api_type": 4
@@ -2084,7 +2084,7 @@
     "api_no": 30,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "七夕飾りの窓",
     "api_type": 2
@@ -2124,7 +2124,7 @@
     "api_no": 32,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "リゾートセット",
     "api_type": 4
@@ -2144,7 +2144,7 @@
     "api_no": 33,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "花火の窓",
     "api_type": 2
@@ -2444,7 +2444,7 @@
     "api_no": 50,
     "api_price": 22000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "紫陽花鉢の提督机",
     "api_type": 5
@@ -2454,7 +2454,7 @@
     "api_no": 38,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "レインコート＆傘掛け",
     "api_type": 4
@@ -2488,4 +2488,64 @@
     "api_season": 0,
     "api_title": "鬼灯の花の窓",
     "api_type": 2
+}, {
+    "api_description": "夏だ！海だ！海といえば、<br>浜茶屋です！夏の浜辺が大<br>好きな艦娘たちの熱い要望<br>によって実現した、鎮守府<br>内浜茶屋施設…完成です！",
+    "api_id": 250,
+    "api_no": 52,
+    "api_price": 4000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 2,
+    "api_title": "鎮守府浜茶屋",
+    "api_type": 5
+}, {
+    "api_description": "夏真っ盛り！夏といえば、<br>ビールです！ジョッキ一杯<br>に注がれたキンキンに冷え<br>たこの一杯……この一杯の<br>ために今日の出撃です！",
+    "api_id": 251,
+    "api_no": 38,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 2,
+    "api_title": "浜茶屋の窓",
+    "api_type": 2
+}, {
+    "api_description": "夏の風物詩といえば…かき<br>氷！自然の氷を切り出した<br>昔ながらの製法で、シャリ<br>シャリのかき氷を美味しく<br>作って召し上がれ！",
+    "api_id": 252,
+    "api_no": 39,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "業務用かき氷器",
+    "api_type": 4
+}, {
+    "api_description": "夏の砂浜に独特の存在感を<br>放つ浜茶屋。鎮守府内に設<br>営される仮説浜茶屋の壁板<br>です。ちょっと薄い板です<br>が、落書き等は禁止です！",
+    "api_id": 253,
+    "api_no": 38,
+    "api_price": 900,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "浜茶屋の仮設壁板",
+    "api_type": 1
+}, {
+    "api_description": "かき氷を愛する艦娘有志の<br>手による、艦隊氷旗です。<br>これを掲げれば、どんな暑<br>い日でも、気持ちよく過ご<br>せるはず…かも！",
+    "api_id": 254,
+    "api_no": 45,
+    "api_price": 500,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "艦隊氷旗",
+    "api_type": 3
+}, {
+    "api_description": "砂浜とフィットした鎮守府<br>浜茶屋の仮説床です。これ<br>さえあれば、夏の提督執務<br>室もナチュラルな浜茶屋に<br>大変貌！よし、これだ！",
+    "api_id": 255,
+    "api_no": 37,
+    "api_price": 1800,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "浜茶屋の床",
+    "api_type": 0
 }]

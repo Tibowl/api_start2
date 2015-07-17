@@ -35,6 +35,9 @@
     "api_id": 115,
     "api_name": "雨とお酒と艦娘"
 }, {
+    "api_id": 116,
+    "api_name": "浜辺の艦娘"
+}, {
     "api_id": 205,
     "api_name": "秋月の空"
 }, {
@@ -79,4 +82,22 @@
 }, {
     "api_id": 219,
     "api_name": "雨とお酒と艦娘"
+}, {
+    "api_id": 220,
+    "api_name": "暁の水平線に"
+}, {
+    "api_id": 221,
+    "api_name": "鎮守府の朝"
+}, {
+    "api_id": 222,
+    "api_name": "華の二水戦"
+}, {
+    "api_id": 223,
+    "api_name": "提督との絆"
+}, {
+    "api_id": 224,
+    "api_name": "浜辺の艦娘"
+}, {
+    "api_id": 225,
+    "api_name": "加賀岬"
 }]
