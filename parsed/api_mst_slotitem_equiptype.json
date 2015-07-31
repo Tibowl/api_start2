@@ -166,4 +166,8 @@
     "api_id": 42,
     "api_name": "大型探照灯",
     "api_show_flg": 0
+}, {
+    "api_id": 43,
+    "api_name": "大型電探（II）",
+    "api_show_flg": 0
 }]
