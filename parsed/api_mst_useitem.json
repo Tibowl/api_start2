@@ -439,4 +439,32 @@
     "api_name": "司令部要員",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["艦娘(練度30以上必要)を補強増設改修できます。同改修により補強増設装備スロットが艦娘に増設されます。(1回分)", ""],
+    "api_id": 64,
+    "api_name": "補強増設",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["本格的な大型航空母艦を、より強力に改装するための、特殊な航空艤装です。ある型の正規空母の改二改装に使用します。", ""],
+    "api_id": 65,
+    "api_name": "試製甲板カタパルト",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["腹が減ってはなんとやら……！この戦闘糧食を装備して、合戦前にしっかりと腹ごしらえを！(発動すると消滅します)", ""],
+    "api_id": 66,
+    "api_name": "戦闘糧食",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["戦闘航海中の洋上で燃料弾薬を艦隊補給することが可能です。艦隊決戦のサポートにどうぞ！（発動すると消滅します）", ""],
+    "api_id": 67,
+    "api_name": "洋上補給",
+    "api_price": 0,
+    "api_usetype": 0
 }]

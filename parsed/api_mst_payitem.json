@@ -159,4 +159,25 @@
     "api_name": "給糧艦「伊良湖」5",
     "api_price": 1000,
     "api_type": 0
+}, {
+    "api_description": "激しい戦闘のお供に心尽くしの「戦闘糧食」をどうぞ！(3回分)",
+    "api_id": 24,
+    "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
+    "api_name": "戦闘糧食",
+    "api_price": 300,
+    "api_type": 0
+}, {
+    "api_description": "使用には「給油艦/補給艦」の運用が必要です。(2回分)",
+    "api_id": 25,
+    "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
+    "api_name": "洋上補給",
+    "api_price": 300,
+    "api_type": 0
+}, {
+    "api_description": "練度30以上の艦娘を補強増設改修できます。(1回分)",
+    "api_id": 26,
+    "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
+    "api_name": "補強増設",
+    "api_price": 500,
+    "api_type": 0
 }]

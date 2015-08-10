@@ -1174,7 +1174,7 @@
     "api_no": 16,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3
@@ -2548,4 +2548,14 @@
     "api_season": 0,
     "api_title": "浜茶屋の床",
     "api_type": 0
+}, {
+    "api_description": "観艦式挙行を祝って用意さ<br>れた掛け軸です。横浜特設<br>泊地で行われた観艦式でも<br>使用された逸品です。ぜひ<br>提督執務室でも観艦式を！",
+    "api_id": 256,
+    "api_no": 46,
+    "api_price": 880,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「観艦式」掛け軸",
+    "api_type": 3
 }]

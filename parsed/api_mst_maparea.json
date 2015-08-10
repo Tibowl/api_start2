@@ -22,4 +22,8 @@
     "api_id": 6,
     "api_name": "中部海域",
     "api_type": 0
+}, {
+    "api_id": 31,
+    "api_name": "反撃！第二次SN作戦",
+    "api_type": 1
 }]

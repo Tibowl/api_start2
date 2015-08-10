@@ -168,6 +168,14 @@
     "api_show_flg": 0
 }, {
     "api_id": 43,
+    "api_name": "戦闘糧食",
+    "api_show_flg": 0
+}, {
+    "api_id": 44,
+    "api_name": "補給物資",
+    "api_show_flg": 0
+}, {
+    "api_id": 93,
     "api_name": "大型電探（II）",
     "api_show_flg": 0
 }]
