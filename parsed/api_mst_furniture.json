@@ -54,7 +54,7 @@
     "api_no": 5,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "砂浜の床",
     "api_type": 0
@@ -164,7 +164,7 @@
     "api_no": 16,
     "api_price": 1200,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ピンクの床",
     "api_type": 0
@@ -214,7 +214,7 @@
     "api_no": 21,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "真っ白なフワフワ絨毯",
     "api_type": 0
@@ -484,7 +484,7 @@
     "api_no": 11,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "秋仕様の壁紙",
     "api_type": 1
@@ -574,7 +574,7 @@
     "api_no": 20,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "折鶴の壁紙",
     "api_type": 1
@@ -584,7 +584,7 @@
     "api_no": 21,
     "api_price": 1900,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "緑の和壁紙",
     "api_type": 1
@@ -604,7 +604,7 @@
     "api_no": 23,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ピンクドット壁紙",
     "api_type": 1
@@ -704,7 +704,7 @@
     "api_no": 33,
     "api_price": 20000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "紅葉の壁紙",
     "api_type": 1
@@ -874,7 +874,7 @@
     "api_no": 16,
     "api_price": 1200,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "お月見窓",
     "api_type": 2
@@ -924,7 +924,7 @@
     "api_no": 21,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "豪華なお月見窓",
     "api_type": 2
@@ -1424,7 +1424,7 @@
     "api_no": 10,
     "api_price": 450,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "メルヘンシェルフ",
     "api_type": 4
@@ -1584,7 +1584,7 @@
     "api_no": 26,
     "api_price": 30000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "教室セット「机」",
     "api_type": 4
@@ -1599,14 +1599,14 @@
     "api_title": "「武蔵」模型と桐箪笥",
     "api_type": 4
 }, {
-    "api_description": "ちょっと臆病なだるまくん。<br>でも負けない！くじけない！七転八起！",
+    "api_description": "超弩級の家具コイン長者に<br>贈る最高級桐箪笥。上部に<br>は加賀型航空母艦「加賀」<br>の精密模型が鎮座する流石<br>に気分が高揚する桐箪笥。",
     "api_id": 161,
     "api_no": 28,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
-    "api_season": 0,
-    "api_title": "泣き虫だるま",
+    "api_price": 77000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 20,
+    "api_title": "「加賀」模型と桐箪笥",
     "api_type": 4
 }, {
     "api_description": "必勝祈願に「だるま」はいかがですか？両方入った黒目で艦隊の武運長久をお祈りします！",
@@ -2094,7 +2094,7 @@
     "api_no": 31,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "蚊取り線香の窓",
     "api_type": 2
@@ -2104,7 +2104,7 @@
     "api_no": 32,
     "api_price": 5000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府風鈴",
     "api_type": 2
@@ -2114,7 +2114,7 @@
     "api_no": 31,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "夏先取りセット",
     "api_type": 4
@@ -2124,7 +2124,7 @@
     "api_no": 32,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "リゾートセット",
     "api_type": 4
@@ -2154,7 +2154,7 @@
     "api_no": 41,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ビニールプール",
     "api_type": 5
@@ -2164,7 +2164,7 @@
     "api_no": 42,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 3,
     "api_title": "秋刀魚の食卓",
     "api_type": 5
@@ -2184,7 +2184,7 @@
     "api_no": 34,
     "api_price": 27000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 3,
     "api_title": "秋の気配な窓",
     "api_type": 2
@@ -2474,7 +2474,7 @@
     "api_no": 51,
     "api_price": 7500,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "水風呂",
     "api_type": 5
@@ -2484,7 +2484,7 @@
     "api_no": 37,
     "api_price": 1880,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鬼灯の花の窓",
     "api_type": 2
@@ -2494,7 +2494,7 @@
     "api_no": 52,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 2,
     "api_title": "鎮守府浜茶屋",
     "api_type": 5
@@ -2514,7 +2514,7 @@
     "api_no": 39,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "業務用かき氷器",
     "api_type": 4
@@ -2524,7 +2524,7 @@
     "api_no": 38,
     "api_price": 900,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "浜茶屋の仮設壁板",
     "api_type": 1
@@ -2534,7 +2534,7 @@
     "api_no": 45,
     "api_price": 500,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "艦隊氷旗",
     "api_type": 3
@@ -2544,7 +2544,7 @@
     "api_no": 37,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "浜茶屋の床",
     "api_type": 0
@@ -2554,8 +2554,48 @@
     "api_no": 46,
     "api_price": 880,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「観艦式」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "艦娘総出で準備する鎮守府<br>秋祭り。焼きそばソースの<br>香ばしい匂いも嬉しい縁日<br>屋台です。りんご飴や焼き<br>とうもろこしも外せない！",
+    "api_id": 257,
+    "api_no": 53,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 21,
+    "api_title": "鎮守府秋祭りの屋台",
+    "api_type": 5
+}, {
+    "api_description": "鎮守府秋祭りの重要コンテ<br>ンツ、それがこの縁日射的<br>です。練度の高い艦娘がど<br>んどん景品を落としてしま<br>うので運営コストが大変！",
+    "api_id": 258,
+    "api_no": 54,
+    "api_price": 30000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 21,
+    "api_title": "鎮守府秋祭りの射的",
+    "api_type": 5
+}, {
+    "api_description": "最前線に臨む要衝、ラバウ<br>ル基地。海の翼の集う重要<br>基地と同泊地で苦闘の日々<br>を戦い抜いた提督達に贈る<br>掛け軸！ラバウルで朝食を",
+    "api_id": 259,
+    "api_no": 47,
+    "api_price": 0,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「ラバウル基地」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "文字通りの最前線で戦って<br>いるブイン基地所属の提督<br>達のための逸品。艦載機を<br>モチーフに搭乗員妖精一同<br>による力強い文字が躍る！",
+    "api_id": 260,
+    "api_no": 48,
+    "api_price": 0,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「ブイン基地」掛け軸",
     "api_type": 3
 }]

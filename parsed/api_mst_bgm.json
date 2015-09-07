@@ -38,6 +38,12 @@
     "api_id": 116,
     "api_name": "浜辺の艦娘"
 }, {
+    "api_id": 117,
+    "api_name": "加賀岬改(母港ver)"
+}, {
+    "api_id": 118,
+    "api_name": "鎮守府の秋祭り"
+}, {
     "api_id": 205,
     "api_name": "秋月の空"
 }, {
@@ -100,4 +106,10 @@
 }, {
     "api_id": 225,
     "api_name": "加賀岬"
+}, {
+    "api_id": 226,
+    "api_name": "加賀岬改(母港ver)"
+}, {
+    "api_id": 227,
+    "api_name": "鎮守府の秋祭り"
 }]

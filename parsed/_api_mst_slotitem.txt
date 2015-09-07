@@ -562,6 +562,12 @@ OTO 152mm三連装速射砲: Range: 2
 120mm連装砲: AA: 2
 120mm連装砲: Acc: 1
 120mm連装砲: Rare: 2
+120mm連装砲: Range: 1
+試製南山: AA: 1
+試製南山: Dive: 11
+試製南山: LoS: 2
+試製南山: ASW: 4
+試製南山: Rare: 5
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

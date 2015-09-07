@@ -1,6 +1,6 @@
 {
     "api_dpflag_quest": {
-        "api_int_value": 1,
+        "api_int_value": 0,
         "api_string_value": ""
     },
     "api_boko_max_ships": {
