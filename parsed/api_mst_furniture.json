@@ -724,7 +724,7 @@
     "api_no": 1,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "緑カーテンの窓",
     "api_type": 2
@@ -734,7 +734,7 @@
     "api_no": 2,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "青カーテンの窓",
     "api_type": 2
@@ -884,7 +884,7 @@
     "api_no": 17,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "防空加工窓",
     "api_type": 2
@@ -1044,7 +1044,7 @@
     "api_no": 3,
     "api_price": 500,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ステンドグラス",
     "api_type": 3
@@ -1114,7 +1114,7 @@
     "api_no": 10,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「夜戦」掛け軸",
     "api_type": 3
@@ -2324,7 +2324,7 @@
     "api_no": 48,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "洋酒＆ワイン棚",
     "api_type": 5
@@ -2504,7 +2504,7 @@
     "api_no": 38,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 2,
     "api_title": "浜茶屋の窓",
     "api_type": 2
@@ -2584,7 +2584,7 @@
     "api_no": 47,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「ラバウル基地」掛け軸",
     "api_type": 3
@@ -2594,8 +2594,28 @@
     "api_no": 48,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「ブイン基地」掛け軸",
     "api_type": 3
+}, {
+    "api_description": "第六駆逐隊のある駆逐艦が<br>航海の安全と大漁を祈って<br>司令官のために作った大漁<br>旗です。手作りなので僚艦<br>もお手伝いしたのです！",
+    "api_id": 261,
+    "api_no": 49,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "艦隊大漁旗",
+    "api_type": 3
+}, {
+    "api_description": "旬の秋刀魚を塩焼にしても<br>お刺身にしても美味しい！<br>蒲焼の缶詰にして、海の上<br>で頂くのもいいですね！<br>秋の味覚、頂きます！",
+    "api_id": 262,
+    "api_no": 55,
+    "api_price": 3800,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "鎮守府秋刀魚祭り",
+    "api_type": 5
 }]
