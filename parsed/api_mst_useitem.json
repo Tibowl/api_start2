@@ -336,7 +336,7 @@
     "api_usetype": 6
 }, {
     "api_category": 0,
-    "api_description": ["入渠ドックまたは工廠ドックを１個開放できるキー。", ""],
+    "api_description": ["入渠ドックまたは工廠ドックを１つ開放できるキー。さらに、艦隊編成記録枠を１つ拡張することも可能です。", ""],
     "api_id": 49,
     "api_name": "ドック開放キー",
     "api_price": 0,
@@ -364,7 +364,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["最大保有艦娘数＋10(最大260)。最大保有アイテム数＋40(最大1140)。", ""],
+    "api_description": ["最大保有艦娘数＋10(最大270)。最大保有アイテム数＋40(最大1180)。", ""],
     "api_id": 53,
     "api_name": "母港拡張",
     "api_price": 0,
@@ -479,6 +479,13 @@
     "api_description": ["旬の秋刀魚「蒲焼」缶詰です。単品はもちろん、おにぎり等と一緒に食すとより美味しい！(発動すると消滅します)", ""],
     "api_id": 69,
     "api_name": "秋刀魚の缶詰",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["精鋭の航空部隊を新規編成するために必要な、熟練した技術を持つ、航空機搭乗員です。　　(※部隊編成時に消滅します)", ""],
+    "api_id": 70,
+    "api_name": "熟練搭乗員",
     "api_price": 0,
     "api_usetype": 0
 }]
