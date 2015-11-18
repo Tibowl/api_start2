@@ -22,4 +22,8 @@
     "api_id": 6,
     "api_name": "中部海域",
     "api_type": 0
+}, {
+    "api_id": 32,
+    "api_name": "突入！海上輸送作戦",
+    "api_type": 1
 }]

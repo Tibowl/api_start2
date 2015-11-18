@@ -346,4 +346,64 @@
     "api_opetext": "K作戦",
     "api_required_defeat_count": 4,
     "api_sally_flag": [1, 0]
+}, {
+    "api_id": 321,
+    "api_infotext": "海上輸送作戦が発動された！こ<br>れに先立ち、我が主力連合艦隊<br>を以て、作戦海域の前路掃討を<br>実施する！艦隊、抜錨せよ！",
+    "api_item": [32, 0, 0, 0],
+    "api_level": 6,
+    "api_maparea_id": 32,
+    "api_max_maphp": 300,
+    "api_name": "ショートランド泊地沖",
+    "api_no": 1,
+    "api_opetext": "輸送作戦！前路掃討",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 3]
+}, {
+    "api_id": 322,
+    "api_infotext": "いよいよ海上輸送作戦を実施す<br>る。精強な我が水雷戦隊を以て<br>コロネハイカラ島への海上輸送<br>作戦を実施せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 32,
+    "api_max_maphp": 300,
+    "api_name": "コロネハイカラ島沖",
+    "api_no": 2,
+    "api_opetext": "コロネハイカラ沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 323,
+    "api_infotext": "水雷戦隊による強行輸送に続き<br>大規模な海上輸送部隊を投入、<br>多くの輸送物資の揚陸を図る。<br>大規模海上輸送部隊、抜錨！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 32,
+    "api_max_maphp": 300,
+    "api_name": "コロネハイカラ島東方沖",
+    "api_no": 3,
+    "api_opetext": "抜錨！海上輸送部隊",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 4]
+}, {
+    "api_id": 324,
+    "api_infotext": "別方面作戦を実施する。大規模<br>な別働艦隊を西方海域に派遣、<br>同海域の敵増援戦力を漸減する<br>と共に友軍艦との接触を図れ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 12,
+    "api_maparea_id": 32,
+    "api_max_maphp": 300,
+    "api_name": "西方海域戦線 ステビア海",
+    "api_no": 4,
+    "api_opetext": "西方戦線！機動部隊派遣",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7]
+}, {
+    "api_id": 325,
+    "api_infotext": "コロネハイカラ島への輸送作戦<br>を完遂する！水雷戦隊を基幹と<br>した少数精鋭の艦隊で、敵待ち<br>伏せを食い破れ！艦隊、出撃！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 32,
+    "api_max_maphp": 300,
+    "api_name": "バニラ湾沖",
+    "api_no": 5,
+    "api_opetext": "乗り越えろ！バニラ湾夜戦！",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }]

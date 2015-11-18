@@ -2329,6 +2329,34 @@ Libeccio改: speed: 10
 速吸改: AA: 20,48
 速吸改: luck: 8,44
 速吸改: speed: 5
+Graf Zeppelin改: HP: 78,92
+Graf Zeppelin改: Armor: 42,80
+Graf Zeppelin改: FP: 15,50
+Graf Zeppelin改: Torp: 0,0
+Graf Zeppelin改: AA: 44,80
+Graf Zeppelin改: luck: 7,47
+Graf Zeppelin改: speed: 10
+嵐改: HP: 32,49
+嵐改: Armor: 14,49
+嵐改: FP: 12,49
+嵐改: Torp: 28,79
+嵐改: AA: 16,49
+嵐改: luck: 12,63
+嵐改: speed: 10
+萩風改: HP: 32,49
+萩風改: Armor: 14,49
+萩風改: FP: 13,50
+萩風改: Torp: 28,79
+萩風改: AA: 16,49
+萩風改: luck: 12,63
+萩風改: speed: 10
+鹿島改: HP: 40,54
+鹿島改: Armor: 15,39
+鹿島改: FP: 14,37
+鹿島改: Torp: 13,39
+鹿島改: AA: 22,62
+鹿島改: luck: 20,79
+鹿島改: speed: 5
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
 伊168改: FP: 3,11
@@ -2553,6 +2581,13 @@ U-511: Torp: 22,58
 U-511: AA: 0,0
 U-511: luck: 30,63
 U-511: speed: 5
+Graf Zeppelin: HP: 70,89
+Graf Zeppelin: Armor: 29,57
+Graf Zeppelin: FP: 10,40
+Graf Zeppelin: Torp: 0,0
+Graf Zeppelin: AA: 40,70
+Graf Zeppelin: luck: 4,39
+Graf Zeppelin: speed: 10
 睦月改二: HP: 27,43
 睦月改二: Armor: 12,43
 睦月改二: FP: 10,45
@@ -2644,6 +2679,20 @@ Roma改: speed: 10
 風雲: AA: 10,40
 風雲: luck: 13,54
 風雲: speed: 10
+嵐: HP: 16,34
+嵐: Armor: 6,19
+嵐: FP: 10,29
+嵐: Torp: 24,69
+嵐: AA: 9,39
+嵐: luck: 11,49
+嵐: speed: 10
+萩風: HP: 16,34
+萩風: Armor: 6,19
+萩風: FP: 11,30
+萩風: Torp: 24,69
+萩風: AA: 9,39
+萩風: luck: 11,49
+萩風: speed: 10
 海風: HP: 16,32
 海風: Armor: 6,19
 海風: FP: 10,29
@@ -2679,6 +2728,13 @@ Roma改: speed: 10
 瑞鶴改二: AA: 54,90
 瑞鶴改二: luck: 50,99
 瑞鶴改二: speed: 10
+鹿島: HP: 36,48
+鹿島: Armor: 9,27
+鹿島: FP: 13,27
+鹿島: Torp: 11,24
+鹿島: AA: 15,46
+鹿島: luck: 20,69
+鹿島: speed: 5
 翔鶴改二甲: HP: 78,94
 翔鶴改二甲: Armor: 49,83
 翔鶴改二甲: FP: 0,70
@@ -2823,3 +2879,16 @@ Roma改: speed: 10
 離島棲鬼: speed: 0
 離島棲鬼: speed: 0
 離島棲鬼: speed: 0
+PT小鬼群: speed: 10
+PT小鬼群: speed: 10
+PT小鬼群: speed: 10
+PT小鬼群: speed: 10
+軽巡棲姫: speed: 10
+軽巡棲姫: speed: 10
+軽巡棲姫: speed: 10
+潜水棲姫: speed: 5
+潜水棲姫: speed: 5
+潜水棲姫: speed: 5
+駆逐水鬼: speed: 10
+駆逐水鬼: speed: 10
+駆逐水鬼: speed: 10

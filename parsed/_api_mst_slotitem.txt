@@ -609,6 +609,20 @@ OTO 152mm三連装速射砲: Range: 2
 零式艦戦53型(岩本隊): Acc: 2
 零式艦戦53型(岩本隊): Evas: 4
 零式艦戦53型(岩本隊): Rare: 5
+Bf109T改: FP: 1
+Bf109T改: AA: 8
+Bf109T改: Evas: 4
+Bf109T改: Rare: 3
+Fw190T改: FP: 2
+Fw190T改: AA: 10
+Fw190T改: Evas: 2
+Fw190T改: Rare: 4
+10.5cm連装砲: FP: 3
+10.5cm連装砲: AA: 6
+10.5cm連装砲: Acc: 2
+10.5cm連装砲: Evas: 1
+10.5cm連装砲: Rare: 3
+10.5cm連装砲: Range: 1
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
@@ -747,6 +761,7 @@ OTO 152mm三連装速射砲: Range: 2
 深海烏賊魚雷: Torp: 18
 深海烏賊魚雷: Acc: 5
 深海烏賊魚雷: Rare: 4
+深海烏賊魚雷: Range: 1
 深海爆雷投射機: ASW: 7
 深海爆雷投射機: Rare: 2
 深海ソナー: ASW: 9
@@ -826,3 +841,6 @@ OTO 152mm三連装速射砲: Range: 2
 深海FCS+CIC: Acc: 5
 深海FCS+CIC: Evas: 3
 深海FCS+CIC: Rare: 3
+深海探照灯: FP: 2
+深海探照灯: LoS: 2
+深海探照灯: Rare: 1
