@@ -1732,7 +1732,7 @@
     "api_stype": 5,
     "api_taik": [45, 60],
     "api_tyku": [18, 66],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "たかお"
 }, {
     "api_afterbull": 450,
@@ -1760,7 +1760,7 @@
     "api_stype": 5,
     "api_taik": [45, 60],
     "api_tyku": [18, 56],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "あたご"
 }, {
     "api_afterbull": 300,
@@ -4028,7 +4028,7 @@
     "api_stype": 9,
     "api_taik": [97, 108],
     "api_tyku": [60, 99],
-    "api_voicef": 3,
+    "api_voicef": 7,
     "api_yomi": "むさし"
 }, {
     "api_afterbull": 0,
@@ -7332,7 +7332,7 @@
     "api_stype": 5,
     "api_taik": [57, 69],
     "api_tyku": [20, 69],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "たかお"
 }, {
     "api_afterbull": 0,
@@ -7360,7 +7360,7 @@
     "api_stype": 5,
     "api_taik": [57, 69],
     "api_tyku": [20, 69],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "あたご"
 }, {
     "api_afterbull": 1150,
@@ -8284,7 +8284,7 @@
     "api_stype": 3,
     "api_taik": [45, 62],
     "api_tyku": [20, 72],
-    "api_voicef": 3,
+    "api_voicef": 7,
     "api_yomi": "あがの"
 }, {
     "api_afterbull": 0,
@@ -8312,7 +8312,7 @@
     "api_stype": 3,
     "api_taik": [45, 62],
     "api_tyku": [20, 72],
-    "api_voicef": 3,
+    "api_voicef": 7,
     "api_yomi": "のしろ"
 }, {
     "api_afterbull": 0,
@@ -8340,7 +8340,7 @@
     "api_stype": 3,
     "api_taik": [47, 63],
     "api_tyku": [22, 74],
-    "api_voicef": 3,
+    "api_voicef": 7,
     "api_yomi": "やはぎ"
 }, {
     "api_afterbull": 0,
@@ -8536,7 +8536,7 @@
     "api_stype": 3,
     "api_taik": [46, 62],
     "api_tyku": [19, 73],
-    "api_voicef": 3,
+    "api_voicef": 7,
     "api_yomi": "さかわ"
 }, {
     "api_afterbull": 0,
@@ -10608,7 +10608,7 @@
     "api_stype": 8,
     "api_taik": [92, 98],
     "api_tyku": [44, 90],
-    "api_voicef": 3,
+    "api_voicef": 7,
     "api_yomi": "リットリオ・イタリア"
 }, {
     "api_afterbull": 0,
