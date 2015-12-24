@@ -2781,7 +2781,7 @@
         "api_no": 51,
         "api_price": 0,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "夜のお詫び掛け軸(壱)",
         "api_type": 3
@@ -2791,7 +2791,7 @@
         "api_no": 52,
         "api_price": 0,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_season": 0,
         "api_title": "夜のお詫び掛け軸(弐)",
         "api_type": 3
@@ -2805,6 +2805,36 @@
         "api_season": 22,
         "api_title": "七面鳥のディナー",
         "api_type": 5
+    }, {
+        "api_description": "ある給糧艦が提督と一緒に<br>手作りした年越しの準備。<br>艦隊に所属する全ての艦娘<br>への航海の安全と武運長久<br>の祈りが込められた逸品。",
+        "api_id": 268,
+        "api_no": 53,
+        "api_price": 0,
+        "api_rarity": 5,
+        "api_saleflg": 0,
+        "api_season": 0,
+        "api_title": "艦隊安全お飾り",
+        "api_type": 3
+    }, {
+        "api_description": "歴戦の提督の集う海の戦略<br>中枢拠点、「呉鎮守府」。<br>長い期間、この戦略要港で<br>艦娘と共に頑張った提督達<br>に贈る魂と感謝の掛け軸。",
+        "api_id": 269,
+        "api_no": 54,
+        "api_price": 0,
+        "api_rarity": 2,
+        "api_saleflg": 1,
+        "api_season": 0,
+        "api_title": "「呉鎮守府」掛け軸",
+        "api_type": 3
+    }, {
+        "api_description": "時に内地の最前線基地とな<br>る拠点「佐世保鎮守府」。<br>長い期間、この佐鎮で艦娘<br>と苦楽を共にした提督達に<br>贈る、魂と感謝の掛け軸。",
+        "api_id": 270,
+        "api_no": 55,
+        "api_price": 0,
+        "api_rarity": 2,
+        "api_saleflg": 1,
+        "api_season": 0,
+        "api_title": "「佐世保鎮守府」掛け軸",
+        "api_type": 3
     }],
     "api_mst_furnituregraph": [{
         "api_filename": "006",
@@ -2871,7 +2901,7 @@
         "api_id": 230,
         "api_no": 35,
         "api_type": 2,
-        "api_version": "7"
+        "api_version": "8"
     }, {
         "api_filename": "042",
         "api_id": 235,
@@ -40895,5 +40925,19 @@
         "api_name": "熟練搭乗員",
         "api_price": 0,
         "api_usetype": 0
+    }, {
+        "api_category": 0,
+        "api_description": ["新開発の燃焼噴射推進器です。日本初の実用ジェットエンジンとして戦力化が期待されます。(※後日改装任務で使用可能)", ""],
+        "api_id": 71,
+        "api_name": "ネ式エンジン",
+        "api_price": 0,
+        "api_usetype": 0
+    }, {
+        "api_category": 0,
+        "api_description": ["ある給糧艦が、新年の艦隊艦娘と提督の安全を祈って準備するお飾りの材料。３２個使用して艦隊安全お飾りを制作可能。", ""],
+        "api_id": 72,
+        "api_name": "お飾り材料",
+        "api_price": 0,
+        "api_usetype": 4
     }]
 }
