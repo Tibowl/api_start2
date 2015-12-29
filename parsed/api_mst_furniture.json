@@ -1414,7 +1414,7 @@
     "api_no": 9,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府のツリー",
     "api_type": 4
@@ -2074,7 +2074,7 @@
     "api_no": 40,
     "api_price": 25000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "原稿机",
     "api_type": 5
@@ -2234,7 +2234,7 @@
     "api_no": 44,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 4,
     "api_title": "白と青のツリー",
     "api_type": 5
@@ -2244,7 +2244,7 @@
     "api_no": 45,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府初詣セット",
     "api_type": 5
@@ -2264,7 +2264,7 @@
     "api_no": 39,
     "api_price": 800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "しめ飾り",
     "api_type": 3
@@ -2274,7 +2274,7 @@
     "api_no": 46,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 11,
     "api_title": "年越し蕎麦",
     "api_type": 5
@@ -2284,7 +2284,7 @@
     "api_no": 35,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 11,
     "api_title": "門松",
     "api_type": 4
@@ -2634,7 +2634,7 @@
     "api_no": 50,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「トラック泊地」掛け軸",
     "api_type": 3
@@ -2664,7 +2664,7 @@
     "api_no": 56,
     "api_price": 3000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 22,
     "api_title": "七面鳥のディナー",
     "api_type": 5
@@ -2698,4 +2698,14 @@
     "api_season": 0,
     "api_title": "「佐世保鎮守府」掛け軸",
     "api_type": 3
+}, {
+    "api_description": "いつも頑張ってくれる艦娘<br>を労うために、年末年始は<br>ご馳走したい！この日のた<br>めに貯めた家具コインを大<br>奮発して提督室に出前を！",
+    "api_id": 271,
+    "api_no": 57,
+    "api_price": 20160,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "年末年始の提督大奮発",
+    "api_type": 5
 }]
