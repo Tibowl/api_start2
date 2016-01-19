@@ -624,7 +624,7 @@
     "api_no": 25,
     "api_price": 750,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "冬のモダンアート壁紙",
     "api_type": 1
@@ -664,7 +664,7 @@
     "api_no": 29,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "新春の壁紙",
     "api_type": 1
@@ -964,7 +964,7 @@
     "api_no": 25,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "艦娘による冬の窓",
     "api_type": 2
@@ -1364,7 +1364,7 @@
     "api_no": 4,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 12,
     "api_title": "節分「豆まき」セット",
     "api_type": 4
@@ -1784,7 +1784,7 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 12,
     "api_title": "大人の節分セット",
     "api_type": 5
@@ -1964,7 +1964,7 @@
     "api_no": 33,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "布団と枕",
     "api_type": 5
@@ -2244,7 +2244,7 @@
     "api_no": 45,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府初詣セット",
     "api_type": 5
@@ -2264,7 +2264,7 @@
     "api_no": 39,
     "api_price": 800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "しめ飾り",
     "api_type": 3
@@ -2274,7 +2274,7 @@
     "api_no": 46,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 11,
     "api_title": "年越し蕎麦",
     "api_type": 5
@@ -2284,7 +2284,7 @@
     "api_no": 35,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 11,
     "api_title": "門松",
     "api_type": 4
@@ -2404,7 +2404,7 @@
     "api_no": 42,
     "api_price": 1980,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "富嶽タイル画",
     "api_type": 3
@@ -2684,7 +2684,7 @@
     "api_no": 54,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「呉鎮守府」掛け軸",
     "api_type": 3
@@ -2694,7 +2694,7 @@
     "api_no": 55,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「佐世保鎮守府」掛け軸",
     "api_type": 3
@@ -2704,8 +2704,48 @@
     "api_no": 57,
     "api_price": 20160,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "年末年始の提督大奮発",
     "api_type": 5
+}, {
+    "api_description": "睦月一月に作られた新しい<br>鎮守府の窓です。女の子ら<br>しい可愛らしいデザインの<br>木製の窓は、駆逐艦の艦娘<br>たちにも人気です。",
+    "api_id": 272,
+    "api_no": 39,
+    "api_price": 1700,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "睦月の窓",
+    "api_type": 2
+}, {
+    "api_description": "落ち着いた緑色のテーブル<br>クロスと同色の椅子が可愛<br>い提督机です。艦娘の誰か<br>が季節の花を花瓶にさして<br>くれました。",
+    "api_id": 273,
+    "api_no": 58,
+    "api_price": 2000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "睦月の机",
+    "api_type": 5
+}, {
+    "api_description": "家具職人がその持てる技と<br>気合いを総動員して作った<br>最高級のステンドグラス。<br>超絶家具コイン長者向けで<br>すが、家具職人支援も可！",
+    "api_id": 274,
+    "api_no": 56,
+    "api_price": 130000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "航空母艦ステンドグラス",
+    "api_type": 3
+}, {
+    "api_description": "職人が技と気合いで作り上<br>げた飛行する瑞雲も眩しい<br>航空戦艦ステンドグラス。<br>超絶家具コイン長者向けで<br>すが、家具職人支援も可！",
+    "api_id": 275,
+    "api_no": 57,
+    "api_price": 135000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "航空戦艦ステンドグラス",
+    "api_type": 3
 }]
