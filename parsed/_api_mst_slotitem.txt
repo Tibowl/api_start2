@@ -623,6 +623,12 @@ Fw190T改: Rare: 4
 10.5cm連装砲: Evas: 1
 10.5cm連装砲: Rare: 3
 10.5cm連装砲: Range: 1
+16inch三連装砲 Mk.7: FP: 24
+16inch三連装砲 Mk.7: AA: 3
+16inch三連装砲 Mk.7: Armor: 1
+16inch三連装砲 Mk.7: Acc: 4
+16inch三連装砲 Mk.7: Rare: 5
+16inch三連装砲 Mk.7: Range: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
