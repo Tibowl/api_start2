@@ -629,6 +629,18 @@ Fw190T改: Rare: 4
 16inch三連装砲 Mk.7: Acc: 4
 16inch三連装砲 Mk.7: Rare: 5
 16inch三連装砲 Mk.7: Range: 3
+203mm/53 連装砲: FP: 9
+203mm/53 連装砲: AA: 1
+203mm/53 連装砲: Acc: -2
+203mm/53 連装砲: Rare: 3
+203mm/53 連装砲: Range: 3
+Ro.43水偵: FP: 1
+Ro.43水偵: AA: 1
+Ro.43水偵: LoS: 4
+Ro.43水偵: ASW: 2
+Ro.43水偵: Acc: 2
+Ro.43水偵: Evas: 1
+Ro.43水偵: Rare: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
@@ -850,3 +862,25 @@ Fw190T改: Rare: 4
 深海探照灯: FP: 2
 深海探照灯: LoS: 2
 深海探照灯: Rare: 1
+深海解放陸爆: AA: 3
+深海解放陸爆: Dive: 11
+深海解放陸爆: LoS: 3
+深海解放陸爆: ASW: 5
+深海解放陸爆: Acc: 1
+深海解放陸爆: Rare: 2
+深海解放陸爆Ace: AA: 5
+深海解放陸爆Ace: Dive: 16
+深海解放陸爆Ace: LoS: 4
+深海解放陸爆Ace: ASW: 7
+深海解放陸爆Ace: Acc: 2
+深海解放陸爆Ace: Rare: 3
+8inch長射程連装砲: FP: 8
+8inch長射程連装砲: AA: 1
+8inch長射程連装砲: Acc: -1
+8inch長射程連装砲: Rare: 4
+8inch長射程連装砲: Range: 3
+深海水上偵察観測機: AA: 2
+深海水上偵察観測機: LoS: 5
+深海水上偵察観測機: ASW: 2
+深海水上偵察観測機: Acc: 5
+深海水上偵察観測機: Rare: 3

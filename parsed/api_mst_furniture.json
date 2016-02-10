@@ -434,7 +434,7 @@
     "api_no": 6,
     "api_price": 550,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "チョコレートの壁紙",
     "api_type": 1
@@ -474,7 +474,7 @@
     "api_no": 10,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "家具職人の壁紙",
     "api_type": 1
@@ -1364,7 +1364,7 @@
     "api_no": 4,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "節分「豆まき」セット",
     "api_type": 4
@@ -1384,7 +1384,7 @@
     "api_no": 6,
     "api_price": 0,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 15,
     "api_title": "チョコケーキと紅茶セット",
     "api_type": 4
@@ -1784,7 +1784,7 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "大人の節分セット",
     "api_type": 5
@@ -1804,7 +1804,7 @@
     "api_no": 17,
     "api_price": 3500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "早く出しすぎた炬燵",
     "api_type": 5
@@ -1954,7 +1954,7 @@
     "api_no": 32,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "板チョコ型の机",
     "api_type": 5
@@ -2314,7 +2314,7 @@
     "api_no": 47,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 15,
     "api_title": "チョコレートキッチン",
     "api_type": 5
