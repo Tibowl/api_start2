@@ -641,6 +641,12 @@ Ro.43水偵: ASW: 2
 Ro.43水偵: Acc: 2
 Ro.43水偵: Evas: 1
 Ro.43水偵: Rare: 3
+Ro.44水上戦闘機: AA: 2
+Ro.44水上戦闘機: LoS: 2
+Ro.44水上戦闘機: ASW: 1
+Ro.44水上戦闘機: Acc: 1
+Ro.44水上戦闘機: Evas: 2
+Ro.44水上戦闘機: Rare: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

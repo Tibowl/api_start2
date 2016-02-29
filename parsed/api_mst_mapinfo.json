@@ -346,40 +346,4 @@
     "api_opetext": "K作戦",
     "api_required_defeat_count": 4,
     "api_sally_flag": [1, 0]
-}, {
-    "api_id": 331,
-    "api_infotext": "敵深海勢力がオートロ島に上陸<br>を開始した！艦隊を作戦根拠地<br>カンパン湾に艦隊を集結させ、<br>反撃「礼号作戦」を準備せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 6,
-    "api_maparea_id": 33,
-    "api_max_maphp": 300,
-    "api_name": "カンパン湾沖",
-    "api_no": 1,
-    "api_opetext": "「礼号作戦」準備",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0]
-}, {
-    "api_id": 332,
-    "api_infotext": "オートロ島に上陸した敵は飛行<br>場を設営し、物資を集積しつつ<br>ある。「礼号作戦」部隊、同地<br>に突入！敵集積地を粉砕せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 9,
-    "api_maparea_id": 33,
-    "api_max_maphp": 300,
-    "api_name": "オートロ島マーマレード沖",
-    "api_no": 2,
-    "api_opetext": "突入！「礼号作戦」",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0]
-}, {
-    "api_id": 333,
-    "api_infotext": "敵深海棲艦隊が、幌筵泊地及び<br>北海道方面に侵攻を開始した！<br>「捷四号作戦」発動！迎撃態勢<br>を固め、敵を迎撃、撃滅せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 14,
-    "api_maparea_id": 33,
-    "api_max_maphp": 300,
-    "api_name": "北海道北東沖",
-    "api_no": 3,
-    "api_opetext": "「捷四号作戦」",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [0, 7]
 }]
