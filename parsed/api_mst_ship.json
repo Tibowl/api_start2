@@ -12360,4 +12360,60 @@
     "api_soku": 10,
     "api_stype": 5,
     "api_yomi": ""
+}, {
+    "api_id": 665,
+    "api_name": "砲台小鬼",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 9,
+    "api_yomi": ""
+}, {
+    "api_id": 666,
+    "api_name": "砲台小鬼",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 9,
+    "api_yomi": ""
+}, {
+    "api_id": 667,
+    "api_name": "砲台小鬼",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 9,
+    "api_yomi": ""
+}, {
+    "api_id": 668,
+    "api_name": "離島棲姫",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 11,
+    "api_yomi": ""
+}, {
+    "api_id": 669,
+    "api_name": "離島棲姫",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 11,
+    "api_yomi": ""
+}, {
+    "api_id": 670,
+    "api_name": "離島棲姫",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 11,
+    "api_yomi": ""
+}, {
+    "api_id": 671,
+    "api_name": "離島棲姫",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_id": 672,
+    "api_name": "離島棲姫",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_stype": 9,
+    "api_yomi": ""
 }]

@@ -2970,3 +2970,11 @@ PT小鬼群: speed: 10
 重巡棲姫: speed: 10
 重巡棲姫: speed: 10
 重巡棲姫: speed: 10
+砲台小鬼: speed: 0
+砲台小鬼: speed: 0
+砲台小鬼: speed: 0
+離島棲姫: speed: 0
+離島棲姫: speed: 0
+離島棲姫: speed: 0
+離島棲姫: speed: 0
+離島棲姫: speed: 0
