@@ -179,6 +179,10 @@
     "api_name": "水上戦闘機",
     "api_show_flg": 0
 }, {
+    "api_id": 46,
+    "api_name": "特型内火艇",
+    "api_show_flg": 0
+}, {
     "api_id": 93,
     "api_name": "大型電探（II）",
     "api_show_flg": 0

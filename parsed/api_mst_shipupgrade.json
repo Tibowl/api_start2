@@ -56,6 +56,15 @@
     "api_catapult_count": 0,
     "api_current_ship_id": 0,
     "api_drawing_count": 0,
+    "api_id": 96,
+    "api_original_ship_id": 96,
+    "api_sortno": 86,
+    "api_upgrade_level": 0,
+    "api_upgrade_type": 1
+}, {
+    "api_catapult_count": 0,
+    "api_current_ship_id": 0,
+    "api_drawing_count": 0,
     "api_id": 110,
     "api_original_ship_id": 110,
     "api_sortno": 106,
@@ -162,12 +171,30 @@
     "api_upgrade_type": 1
 }, {
     "api_catapult_count": 0,
+    "api_current_ship_id": 249,
+    "api_drawing_count": 1,
+    "api_id": 199,
+    "api_original_ship_id": 96,
+    "api_sortno": 199,
+    "api_upgrade_level": 2,
+    "api_upgrade_type": 1
+}, {
+    "api_catapult_count": 0,
     "api_current_ship_id": 290,
     "api_drawing_count": 1,
     "api_id": 200,
     "api_original_ship_id": 114,
     "api_sortno": 200,
     "api_upgrade_level": 2,
+    "api_upgrade_type": 1
+}, {
+    "api_catapult_count": 0,
+    "api_current_ship_id": 96,
+    "api_drawing_count": 0,
+    "api_id": 249,
+    "api_original_ship_id": 96,
+    "api_sortno": 1349,
+    "api_upgrade_level": 1,
     "api_upgrade_type": 1
 }, {
     "api_catapult_count": 0,

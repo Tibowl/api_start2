@@ -214,7 +214,7 @@
     "api_no": 21,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "真っ白なフワフワ絨毯",
     "api_type": 0
@@ -644,7 +644,7 @@
     "api_no": 27,
     "api_price": 330,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "桃の節句の壁紙",
     "api_type": 1
@@ -764,7 +764,7 @@
     "api_no": 5,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ちょっとゴージャスな窓",
     "api_type": 2
@@ -814,7 +814,7 @@
     "api_no": 10,
     "api_price": 3300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "桃の節句の窓",
     "api_type": 2
@@ -824,7 +824,7 @@
     "api_no": 11,
     "api_price": 300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "爽やかな窓",
     "api_type": 2
@@ -1944,7 +1944,7 @@
     "api_no": 31,
     "api_price": 4000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "シングルベッド",
     "api_type": 5
@@ -2014,7 +2014,7 @@
     "api_no": 38,
     "api_price": 0,
     "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "なし",
     "api_type": 5
@@ -2744,7 +2744,7 @@
     "api_no": 57,
     "api_price": 135000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "航空戦艦ステンドグラス",
     "api_type": 3
@@ -2774,7 +2774,7 @@
     "api_no": 59,
     "api_price": 150000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督のクッキーキッチン",
     "api_type": 5
@@ -2787,5 +2787,65 @@
     "api_saleflg": 1,
     "api_season": 23,
     "api_title": "提督の作る食卓",
+    "api_type": 5
+}, {
+    "api_description": "「春の艦祭り」開催を記念<br>して撮られた、乙型駆逐艦<br>姉妹のポートレイトです。<br>提督の皆さん、今年の春も<br>よろしくお願い致します！",
+    "api_id": 280,
+    "api_no": 59,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "「春の乙型姉妹」パネル",
+    "api_type": 3
+}, {
+    "api_description": "春のうららか気分にマッチ<br>するデザインの床板です。<br>この季節はまかせてほしい<br>ぴょん！という駆逐艦娘が<br>デザインしました。",
+    "api_id": 281,
+    "api_no": 38,
+    "api_price": 400,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "卯月の床",
+    "api_type": 0
+}, {
+    "api_description": "春といえばこのデザインが<br>正解だぴょん！という駆逐<br>艦娘が制作総指揮した四月<br>にぴったりの壁紙です。月<br>と兎と桜がモチーフ。",
+    "api_id": 282,
+    "api_no": 39,
+    "api_price": 1400,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "卯月の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "卯月四月のため家具職人が<br>気合いを込めて制作した、<br>鎮守府の特注窓です。窓の<br>外には舞い落ちる桜も見え<br>る趣き深い春の家具です。",
+    "api_id": 283,
+    "api_no": 40,
+    "api_price": 4000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "卯月の窓",
+    "api_type": 2
+}, {
+    "api_description": "うっそぴょーん！と明るく<br>笑う睦月型駆逐艦の手によ<br>る春の特別な掛け軸です。<br>家具コイン長者向けですが<br>ダイナミック職人支援可！",
+    "api_id": 284,
+    "api_no": 60,
+    "api_price": 104000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "卯月の掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "紫とピンクのテーブルクロ<br>スと同色の椅子が可愛い、<br>ある睦月型駆逐艦娘がまと<br>めあげた特注提督机です。<br>謎ぬいぐるみも標準装備！",
+    "api_id": 285,
+    "api_no": 61,
+    "api_price": 3400,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "卯月の机",
     "api_type": 5
 }]

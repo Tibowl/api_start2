@@ -653,6 +653,8 @@ Ro.44水上戦闘機: Rare: 3
 二式水戦改: Acc: 1
 二式水戦改: Evas: 2
 二式水戦改: Rare: 2
+大発動艇(八九式中戦車&陸戦隊): Rare: 2
+特二式内火艇: Rare: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
