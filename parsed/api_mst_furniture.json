@@ -2848,4 +2848,14 @@
     "api_season": 0,
     "api_title": "卯月の机",
     "api_type": 5
+}, {
+    "api_description": "提督のおかげで迎えること<br>ができた「祝三周年」を記<br>念してある高速戦艦によっ<br>て制作された掛け軸。四年<br>目も頑張っていくデース！",
+    "api_id": 286,
+    "api_no": 61,
+    "api_price": 0,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "「三周年記念」掛け軸",
+    "api_type": 3
 }]

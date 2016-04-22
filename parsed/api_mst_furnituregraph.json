@@ -159,7 +159,7 @@
     "api_id": 283,
     "api_no": 40,
     "api_type": 2,
-    "api_version": "1"
+    "api_version": "2"
 }, {
     "api_filename": "061",
     "api_id": 284,
@@ -171,5 +171,11 @@
     "api_id": 285,
     "api_no": 61,
     "api_type": 5,
+    "api_version": "1"
+}, {
+    "api_filename": "062",
+    "api_id": 286,
+    "api_no": 61,
+    "api_type": 3,
     "api_version": "1"
 }]

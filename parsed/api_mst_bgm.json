@@ -48,13 +48,16 @@
     "api_name": "聖夜の母港"
 }, {
     "api_id": 120,
-    "api_name": "睦月型駆逐艦の戦い"
+    "api_name": "索敵機、発艦始め！"
 }, {
     "api_id": 121,
     "api_name": "提督と艦娘の食卓"
 }, {
     "api_id": 122,
     "api_name": "-"
+}, {
+    "api_id": 123,
+    "api_name": "邂逅"
 }, {
     "api_id": 205,
     "api_name": "秋月の空"
