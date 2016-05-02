@@ -358,4 +358,88 @@
     "api_opetext": "離島再攻略作戦",
     "api_required_defeat_count": 5,
     "api_sally_flag": [1, 0]
+}, {
+    "api_id": 341,
+    "api_infotext": "北太平洋前線の環礁に、戦略的<br>に重要な飛行場設営適地が発見<br>された。艦隊は同海域に進出、<br>環礁周辺の制海権を確保せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 34,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋前線海域",
+    "api_no": 1,
+    "api_opetext": "前線制海権を確保せよ!",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7]
+}, {
+    "api_id": 342,
+    "api_infotext": "連合艦隊の活躍により、飛行場<br>適地周辺の敵艦隊は撤退した。<br>上陸用舟艇を搭載した輸送部隊<br>により、設営隊の揚陸を図れ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 34,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋前線海域",
+    "api_no": 2,
+    "api_opetext": "設営隊を揚陸せよ!",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 343,
+    "api_infotext": "上陸部隊により敵の陸上戦力の<br>無力化に成功した。この機を逃<br>さず飛行場適地に資材を輸送、<br>前線航空基地の設営を急げ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 34,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋前線海域",
+    "api_no": 3,
+    "api_opetext": "前線飛行場を設営せよ!",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 4]
+}, {
+    "api_id": 344,
+    "api_infotext": "遂に北太平洋上の戦略要地に、<br>広大な飛行場を擁する前線航空<br>基地が完成した。基地航空隊と<br>協力して同戦域を防衛せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 10,
+    "api_maparea_id": 34,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋前線海域",
+    "api_no": 4,
+    "api_opetext": "発進! 基地航空隊",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7]
+}, {
+    "api_id": 345,
+    "api_infotext": "基地航空隊兵力を南方ラバウル<br>基地へ展開する！基地航空隊と<br>協力して同地の敵艦と飛行場を<br>叩け！基地防空にも留意せよ！",
+    "api_item": [31, 32, 0, 0],
+    "api_level": 13,
+    "api_maparea_id": 34,
+    "api_max_maphp": 300,
+    "api_name": "南方ラバウル基地戦域",
+    "api_no": 5,
+    "api_opetext": "ラバウル航空撃滅戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 346,
+    "api_infotext": "北太平洋前線基地の完成により<br>永らく制圧されていた友軍泊地<br>への救援奪還作戦が可能となっ<br>た。機動部隊抜錨！出撃せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 12,
+    "api_maparea_id": 34,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋深海中枢泊地沖",
+    "api_no": 6,
+    "api_opetext": "友軍泊地奪還作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 1]
+}, {
+    "api_id": 347,
+    "api_infotext": "敵戦力が集結する泊地への攻撃<br>は、奪還こそ叶わなかったもの<br>の大きな成果を収めた。友軍を<br>救援せよ！連合艦隊、抜錨！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 34,
+    "api_max_maphp": 300,
+    "api_name": "北太平洋戦域",
+    "api_no": 7,
+    "api_opetext": "波濤を越えて",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7]
 }]

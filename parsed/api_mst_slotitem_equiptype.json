@@ -183,6 +183,14 @@
     "api_name": "特型内火艇",
     "api_show_flg": 0
 }, {
+    "api_id": 47,
+    "api_name": "陸上攻撃機",
+    "api_show_flg": 0
+}, {
+    "api_id": 48,
+    "api_name": "局地戦闘機",
+    "api_show_flg": 0
+}, {
     "api_id": 93,
     "api_name": "大型電探（II）",
     "api_show_flg": 0

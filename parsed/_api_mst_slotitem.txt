@@ -52,33 +52,53 @@
 九七式艦攻: LoS: 1
 九七式艦攻: ASW: 4
 九七式艦攻: T.Acc: 16
+九七式艦攻: Cost: 5
+九七式艦攻: Dist: 4
 天山: Torp: 7
 天山: LoS: 1
 天山: ASW: 3
 天山: T.Acc: 24
 天山: Rare: 1
+天山: Cost: 6
+天山: Dist: 5
 流星: Torp: 10
 流星: LoS: 1
 流星: ASW: 4
 流星: T.Acc: 56
 流星: Rare: 2
+流星: Cost: 7
+流星: Dist: 6
 九六式艦戦: AA: 2
+九六式艦戦: Cost: 3
+九六式艦戦: Dist: 3
 零式艦戦21型: AA: 5
+零式艦戦21型: Cost: 4
+零式艦戦21型: Dist: 7
 零式艦戦52型: AA: 6
 零式艦戦52型: Rare: 1
+零式艦戦52型: Cost: 5
+零式艦戦52型: Dist: 6
 烈風: AA: 10
 烈風: Rare: 3
+烈風: Cost: 7
+烈風: Dist: 5
 九九式艦爆: Dive: 5
 九九式艦爆: ASW: 3
+九九式艦爆: Cost: 4
+九九式艦爆: Dist: 4
 彗星: Dive: 8
 彗星: ASW: 3
 彗星: Rare: 1
+彗星: Cost: 5
+彗星: Dist: 4
 零式水上偵察機: AA: 1
 零式水上偵察機: Dive: 1
 零式水上偵察機: LoS: 5
 零式水上偵察機: ASW: 2
 零式水上偵察機: Acc: 1
 零式水上偵察機: T.Acc: 10
+零式水上偵察機: Cost: 5
+零式水上偵察機: Dist: 7
 瑞雲: AA: 2
 瑞雲: Dive: 4
 瑞雲: LoS: 6
@@ -86,215 +106,345 @@
 瑞雲: Acc: 1
 瑞雲: T.Acc: 13
 瑞雲: Rare: 1
+瑞雲: Cost: 6
+瑞雲: Dist: 5
 13号対空電探: AA: 2
 13号対空電探: LoS: 3
 13号対空電探: Acc: 1
 13号対空電探: T.Acc: 3
 13号対空電探: Rare: 1
+13号対空電探: Cost: 6
+13号対空電探: Dist: 5
 22号対水上電探: LoS: 5
 22号対水上電探: Acc: 3
 22号対水上電探: T.Acc: 10
 22号対水上電探: Rare: 1
+22号対水上電探: Cost: 6
+22号対水上電探: Dist: 5
 33号対水上電探: LoS: 7
 33号対水上電探: Acc: 5
 33号対水上電探: T.Acc: 12
 33号対水上電探: Rare: 2
+33号対水上電探: Cost: 6
+33号対水上電探: Dist: 5
 21号対空電探: AA: 4
 21号対空電探: LoS: 4
 21号対空電探: Acc: 2
 21号対空電探: T.Acc: 3
 21号対空電探: Rare: 2
+21号対空電探: Cost: 6
+21号対空電探: Dist: 5
 32号対水上電探: LoS: 10
 32号対水上電探: Acc: 8
 32号対水上電探: T.Acc: 15
 32号対水上電探: Rare: 3
+32号対水上電探: Cost: 6
+32号対水上電探: Dist: 5
 14号対空電探: AA: 6
 14号対空電探: LoS: 5
 14号対空電探: Acc: 4
 14号対空電探: T.Acc: 3
 14号対空電探: Rare: 4
+14号対空電探: Cost: 6
+14号対空電探: Dist: 5
 改良型艦本式タービン: Evas: 6
+改良型艦本式タービン: Cost: 6
+改良型艦本式タービン: Dist: 5
 強化型艦本式缶: Evas: 10
 強化型艦本式缶: Rare: 1
+強化型艦本式缶: Cost: 6
+強化型艦本式缶: Dist: 5
 三式弾: AA: 5
+三式弾: Cost: 6
+三式弾: Dist: 5
 九一式徹甲弾: FP: 8
 九一式徹甲弾: Acc: 1
 九一式徹甲弾: Rare: 1
+九一式徹甲弾: Cost: 6
+九一式徹甲弾: Dist: 5
 7.7mm機銃: AA: 2
 7.7mm機銃: Evas: 1
+7.7mm機銃: Cost: 6
+7.7mm機銃: Dist: 5
 12.7mm単装機銃: AA: 3
 12.7mm単装機銃: Evas: 1
+12.7mm単装機銃: Cost: 6
+12.7mm単装機銃: Dist: 5
 25mm連装機銃: AA: 5
 25mm連装機銃: Evas: 1
+25mm連装機銃: Cost: 6
+25mm連装機銃: Dist: 5
 25mm三連装機銃: AA: 6
 25mm三連装機銃: Evas: 1
 25mm三連装機銃: Rare: 1
+25mm三連装機銃: Cost: 6
+25mm三連装機銃: Dist: 5
 甲標的: Torp: 12
 甲標的: Rare: 1
+甲標的: Cost: 6
+甲標的: Dist: 5
+応急修理要員: Cost: 6
+応急修理要員: Dist: 5
 応急修理女神: Rare: 2
+応急修理女神: Cost: 6
+応急修理女神: Dist: 5
 九四式爆雷投射機: ASW: 5
+九四式爆雷投射機: Cost: 6
+九四式爆雷投射機: Dist: 5
 三式爆雷投射機: ASW: 8
 三式爆雷投射機: Rare: 2
+三式爆雷投射機: Cost: 6
+三式爆雷投射機: Dist: 5
 九三式水中聴音機: ASW: 6
 九三式水中聴音機: Acc: 1
+九三式水中聴音機: Cost: 6
+九三式水中聴音機: Dist: 5
 三式水中探信儀: ASW: 10
 三式水中探信儀: Acc: 2
 三式水中探信儀: Rare: 2
+三式水中探信儀: Cost: 6
+三式水中探信儀: Dist: 5
 12.7cm単装高角砲: FP: 1
 12.7cm単装高角砲: AA: 3
 12.7cm単装高角砲: Range: 1
+12.7cm単装高角砲: Cost: 6
+12.7cm単装高角砲: Dist: 5
 25mm単装機銃: AA: 4
 25mm単装機銃: Evas: 1
 25mm単装機銃: Rare: 1
+25mm単装機銃: Cost: 6
+25mm単装機銃: Dist: 5
 20.3cm(3号)連装砲: FP: 10
 20.3cm(3号)連装砲: AA: 4
 20.3cm(3号)連装砲: Rare: 1
 20.3cm(3号)連装砲: Range: 2
+20.3cm(3号)連装砲: Cost: 6
+20.3cm(3号)連装砲: Dist: 5
 12cm30連装噴進砲: AA: 8
 12cm30連装噴進砲: Rare: 2
+12cm30連装噴進砲: Cost: 6
+12cm30連装噴進砲: Dist: 5
 流星改: Torp: 13
 流星改: LoS: 2
 流星改: ASW: 3
 流星改: Rare: 3
+流星改: Cost: 8
+流星改: Dist: 6
 烈風改: AA: 12
 烈風改: Rare: 4
+烈風改: Cost: 8
+烈風改: Dist: 5
 彩雲: LoS: 9
 彩雲: Acc: 2
 彩雲: Rare: 2
+彩雲: Cost: 9
+彩雲: Dist: 8
 紫電改二: AA: 9
 紫電改二: Evas: 3
 紫電改二: Rare: 2
+紫電改二: Cost: 6
+紫電改二: Dist: 3
 震電改: AA: 15
 震電改: Rare: 5
+震電改: Cost: 9
+震電改: Dist: 2
 彗星一二型甲: Dive: 10
 彗星一二型甲: LoS: 1
 彗星一二型甲: ASW: 3
 彗星一二型甲: Rare: 2
+彗星一二型甲: Cost: 6
+彗星一二型甲: Dist: 5
 61cm五連装(酸素)魚雷: Torp: 12
 61cm五連装(酸素)魚雷: Acc: 1
 61cm五連装(酸素)魚雷: Rare: 2
 61cm五連装(酸素)魚雷: Range: 1
+61cm五連装(酸素)魚雷: Cost: 6
+61cm五連装(酸素)魚雷: Dist: 5
 零式水上観測機: AA: 2
 零式水上観測機: Dive: 1
 零式水上観測機: LoS: 6
 零式水上観測機: ASW: 4
 零式水上観測機: Acc: 2
 零式水上観測機: Rare: 1
+零式水上観測機: Cost: 6
+零式水上観測機: Dist: 3
 零式艦戦62型(爆戦): AA: 4
 零式艦戦62型(爆戦): Dive: 4
 零式艦戦62型(爆戦): ASW: 3
 零式艦戦62型(爆戦): Rare: 2
+零式艦戦62型(爆戦): Cost: 5
+零式艦戦62型(爆戦): Dist: 4
 二式艦上偵察機: AA: 1
 二式艦上偵察機: LoS: 7
 二式艦上偵察機: Acc: 3
 二式艦上偵察機: Rare: 1
+二式艦上偵察機: Cost: 6
+二式艦上偵察機: Dist: 5
 試製晴嵐: Dive: 11
 試製晴嵐: LoS: 6
 試製晴嵐: ASW: 6
 試製晴嵐: Acc: 1
 試製晴嵐: Rare: 4
+試製晴嵐: Cost: 10
+試製晴嵐: Dist: 4
 12.7cm連装砲B型改二: FP: 3
 12.7cm連装砲B型改二: AA: 2
 12.7cm連装砲B型改二: Rare: 1
 12.7cm連装砲B型改二: Range: 1
+12.7cm連装砲B型改二: Cost: 10
+12.7cm連装砲B型改二: Dist: 4
 Ju87C改: Dive: 9
 Ju87C改: ASW: 5
 Ju87C改: Acc: 1
 Ju87C改: Rare: 3
+Ju87C改: Cost: 6
+Ju87C改: Dist: 4
 15.2cm連装砲: FP: 4
 15.2cm連装砲: AA: 3
 15.2cm連装砲: Acc: 3
 15.2cm連装砲: Rare: 2
 15.2cm連装砲: Range: 2
+15.2cm連装砲: Cost: 6
+15.2cm連装砲: Dist: 4
 8cm高角砲: FP: 1
 8cm高角砲: AA: 6
 8cm高角砲: Acc: 2
 8cm高角砲: Rare: 3
 8cm高角砲: Range: 1
+8cm高角砲: Cost: 6
+8cm高角砲: Dist: 4
 53cm艦首(酸素)魚雷: Torp: 15
 53cm艦首(酸素)魚雷: Acc: 2
 53cm艦首(酸素)魚雷: Rare: 1
 53cm艦首(酸素)魚雷: Range: 1
+53cm艦首(酸素)魚雷: Cost: 6
+53cm艦首(酸素)魚雷: Dist: 4
+大発動艇: Cost: 6
+大発動艇: Dist: 4
 カ号観測機: ASW: 9
 カ号観測機: Acc: 1
 カ号観測機: Rare: 3
+カ号観測機: Cost: 6
+カ号観測機: Dist: 4
 三式指揮連絡機(対潜): LoS: 1
 三式指揮連絡機(対潜): ASW: 7
 三式指揮連絡機(対潜): Acc: 2
 三式指揮連絡機(対潜): Rare: 1
+三式指揮連絡機(対潜): Cost: 6
+三式指揮連絡機(対潜): Dist: 4
 10cm連装高角砲(砲架): FP: 1
 10cm連装高角砲(砲架): AA: 7
 10cm連装高角砲(砲架): Acc: 1
 10cm連装高角砲(砲架): Rare: 3
 10cm連装高角砲(砲架): Range: 1
+10cm連装高角砲(砲架): Cost: 6
+10cm連装高角砲(砲架): Dist: 4
 増設バルジ(中型艦): Armor: 7
 増設バルジ(中型艦): Evas: -2
 増設バルジ(中型艦): Rare: 2
+増設バルジ(中型艦): Cost: 6
+増設バルジ(中型艦): Dist: 4
 増設バルジ(大型艦): Armor: 9
 増設バルジ(大型艦): Evas: -3
 増設バルジ(大型艦): Rare: 2
+増設バルジ(大型艦): Cost: 6
+増設バルジ(大型艦): Dist: 4
 探照灯: LoS: 2
+探照灯: Cost: 6
+探照灯: Dist: 4
+ドラム缶(輸送用): Cost: 6
+ドラム缶(輸送用): Dist: 4
 38cm連装砲: FP: 16
 38cm連装砲: AA: 1
 38cm連装砲: Acc: 1
 38cm連装砲: Range: 3
+38cm連装砲: Cost: 6
+38cm連装砲: Dist: 4
 15cm連装副砲: FP: 4
 15cm連装副砲: AA: 2
 15cm連装副砲: Acc: 2
 15cm連装副砲: Range: 2
+15cm連装副砲: Cost: 6
+15cm連装副砲: Dist: 4
 12.7cm単装砲: FP: 2
 12.7cm単装砲: Acc: 1
 12.7cm単装砲: Range: 1
+12.7cm単装砲: Cost: 6
+12.7cm単装砲: Dist: 4
 瑞雲(六三四空): AA: 2
 瑞雲(六三四空): Dive: 6
 瑞雲(六三四空): LoS: 6
 瑞雲(六三四空): ASW: 5
 瑞雲(六三四空): Acc: 1
 瑞雲(六三四空): Rare: 2
+瑞雲(六三四空): Cost: 6
+瑞雲(六三四空): Dist: 5
 瑞雲12型: AA: 3
 瑞雲12型: Dive: 7
 瑞雲12型: LoS: 6
 瑞雲12型: ASW: 5
 瑞雲12型: Acc: 1
 瑞雲12型: Rare: 3
+瑞雲12型: Cost: 7
+瑞雲12型: Dist: 5
 瑞雲12型(六三四空): AA: 3
 瑞雲12型(六三四空): Dive: 9
 瑞雲12型(六三四空): LoS: 7
 瑞雲12型(六三四空): ASW: 6
 瑞雲12型(六三四空): Acc: 1
 瑞雲12型(六三四空): Rare: 4
+瑞雲12型(六三四空): Cost: 7
+瑞雲12型(六三四空): Dist: 5
 九七式艦攻(九三一空): Torp: 6
 九七式艦攻(九三一空): LoS: 2
 九七式艦攻(九三一空): ASW: 7
 九七式艦攻(九三一空): Rare: 2
+九七式艦攻(九三一空): Cost: 5
+九七式艦攻(九三一空): Dist: 4
 天山(九三一空): Torp: 9
 天山(九三一空): LoS: 2
 天山(九三一空): ASW: 8
 天山(九三一空): Rare: 3
+天山(九三一空): Cost: 6
+天山(九三一空): Dist: 5
 2cm 四連装FlaK 38: AA: 7
 2cm 四連装FlaK 38: Acc: 1
 2cm 四連装FlaK 38: Rare: 3
+2cm 四連装FlaK 38: Cost: 6
+2cm 四連装FlaK 38: Dist: 5
 3.7cm FlaK M42: FP: 1
 3.7cm FlaK M42: AA: 8
 3.7cm FlaK M42: Acc: 1
 3.7cm FlaK M42: Rare: 3
+3.7cm FlaK M42: Cost: 6
+3.7cm FlaK M42: Dist: 5
 艦艇修理施設: Rare: 3
+艦艇修理施設: Cost: 6
+艦艇修理施設: Dist: 5
 新型高温高圧缶: Evas: 13
 新型高温高圧缶: Rare: 3
+新型高温高圧缶: Cost: 6
+新型高温高圧缶: Dist: 5
 22号対水上電探改四: LoS: 5
 22号対水上電探改四: ASW: 2
 22号対水上電探改四: Acc: 8
 22号対水上電探改四: Rare: 3
+22号対水上電探改四: Cost: 6
+22号対水上電探改四: Dist: 5
 21号対空電探改: AA: 5
 21号対空電探改: LoS: 6
 21号対空電探改: Acc: 3
 21号対空電探改: Evas: 1
 21号対空電探改: Rare: 3
+21号対空電探改: Cost: 6
+21号対空電探改: Dist: 5
 20.3cm(2号)連装砲: FP: 9
 20.3cm(2号)連装砲: AA: 3
 20.3cm(2号)連装砲: Acc: 1
 20.3cm(2号)連装砲: Rare: 1
 20.3cm(2号)連装砲: Range: 2
+20.3cm(2号)連装砲: Cost: 6
+20.3cm(2号)連装砲: Dist: 5
 12.7cm連装高角砲(後期型): FP: 2
 12.7cm連装高角砲(後期型): AA: 5
 12.7cm連装高角砲(後期型): ASW: 1
@@ -302,241 +452,343 @@ Ju87C改: Rare: 3
 12.7cm連装高角砲(後期型): Evas: 1
 12.7cm連装高角砲(後期型): Rare: 1
 12.7cm連装高角砲(後期型): Range: 1
+12.7cm連装高角砲(後期型): Cost: 6
+12.7cm連装高角砲(後期型): Dist: 5
 毘式40mm連装機銃: AA: 6
 毘式40mm連装機銃: Evas: 1
+毘式40mm連装機銃: Cost: 6
+毘式40mm連装機銃: Dist: 5
 九七式艦攻(友永隊): Torp: 11
 九七式艦攻(友永隊): AA: 1
 九七式艦攻(友永隊): LoS: 4
 九七式艦攻(友永隊): ASW: 5
 九七式艦攻(友永隊): Acc: 3
 九七式艦攻(友永隊): Rare: 4
+九七式艦攻(友永隊): Cost: 5
+九七式艦攻(友永隊): Dist: 4
 天山一二型(友永隊): Torp: 14
 天山一二型(友永隊): AA: 1
 天山一二型(友永隊): LoS: 5
 天山一二型(友永隊): ASW: 6
 天山一二型(友永隊): Acc: 3
 天山一二型(友永隊): Rare: 5
+天山一二型(友永隊): Cost: 6
+天山一二型(友永隊): Dist: 5
 潜水艦53cm艦首魚雷(8門): Torp: 16
 潜水艦53cm艦首魚雷(8門): Acc: 3
 潜水艦53cm艦首魚雷(8門): Rare: 2
 潜水艦53cm艦首魚雷(8門): Range: 1
+潜水艦53cm艦首魚雷(8門): Cost: 6
+潜水艦53cm艦首魚雷(8門): Dist: 5
 零式艦戦21型(熟練): AA: 8
 零式艦戦21型(熟練): LoS: 1
 零式艦戦21型(熟練): Acc: 2
 零式艦戦21型(熟練): Evas: 2
 零式艦戦21型(熟練): Rare: 3
+零式艦戦21型(熟練): Cost: 4
+零式艦戦21型(熟練): Dist: 7
 九九式艦爆(熟練): AA: 1
 九九式艦爆(熟練): Dive: 7
 九九式艦爆(熟練): LoS: 2
 九九式艦爆(熟練): ASW: 4
 九九式艦爆(熟練): Acc: 2
 九九式艦爆(熟練): Rare: 3
+九九式艦爆(熟練): Cost: 4
+九九式艦爆(熟練): Dist: 4
 九七式艦攻(熟練): Torp: 8
 九七式艦攻(熟練): LoS: 2
 九七式艦攻(熟練): ASW: 5
 九七式艦攻(熟練): Acc: 2
 九七式艦攻(熟練): Rare: 3
+九七式艦攻(熟練): Cost: 5
+九七式艦攻(熟練): Dist: 4
 九九式艦爆(江草隊): Dive: 10
 九九式艦爆(江草隊): LoS: 3
 九九式艦爆(江草隊): ASW: 5
 九九式艦爆(江草隊): Acc: 4
 九九式艦爆(江草隊): Rare: 4
+九九式艦爆(江草隊): Cost: 4
+九九式艦爆(江草隊): Dist: 4
 彗星(江草隊): AA: 1
 彗星(江草隊): Dive: 13
 彗星(江草隊): LoS: 4
 彗星(江草隊): ASW: 5
 彗星(江草隊): Acc: 4
 彗星(江草隊): Rare: 5
+彗星(江草隊): Cost: 5
+彗星(江草隊): Dist: 5
 照明弾: Rare: 1
+照明弾: Cost: 5
+照明弾: Dist: 5
 九八式水上偵察機(夜偵): LoS: 3
 九八式水上偵察機(夜偵): ASW: 1
 九八式水上偵察機(夜偵): Acc: 1
 九八式水上偵察機(夜偵): Rare: 3
+九八式水上偵察機(夜偵): Cost: 8
+九八式水上偵察機(夜偵): Dist: 6
 試製35.6cm三連装砲: FP: 18
 試製35.6cm三連装砲: AA: 5
 試製35.6cm三連装砲: Acc: 2
 試製35.6cm三連装砲: Rare: 4
 試製35.6cm三連装砲: Range: 3
+試製35.6cm三連装砲: Cost: 8
+試製35.6cm三連装砲: Dist: 6
 35.6cm連装砲(ダズル迷彩): FP: 15
 35.6cm連装砲(ダズル迷彩): AA: 5
 35.6cm連装砲(ダズル迷彩): Acc: 1
 35.6cm連装砲(ダズル迷彩): Evas: 1
 35.6cm連装砲(ダズル迷彩): Rare: 3
 35.6cm連装砲(ダズル迷彩): Range: 3
+35.6cm連装砲(ダズル迷彩): Cost: 8
+35.6cm連装砲(ダズル迷彩): Dist: 6
 試製41cm三連装砲: FP: 22
 試製41cm三連装砲: AA: 5
 試製41cm三連装砲: Acc: 2
 試製41cm三連装砲: Rare: 4
 試製41cm三連装砲: Range: 3
+試製41cm三連装砲: Cost: 8
+試製41cm三連装砲: Dist: 6
 13号対空電探改: AA: 4
 13号対空電探改: LoS: 4
 13号対空電探改: Acc: 2
 13号対空電探改: Evas: 1
 13号対空電探改: Rare: 3
+13号対空電探改: Cost: 8
+13号対空電探改: Dist: 6
 艦隊司令部施設: AA: 1
 艦隊司令部施設: LoS: 1
 艦隊司令部施設: Acc: 1
 艦隊司令部施設: Evas: 1
 艦隊司令部施設: Rare: 5
+艦隊司令部施設: Cost: 8
+艦隊司令部施設: Dist: 6
 熟練艦載機整備員: FP: 10
 熟練艦載機整備員: AA: 1
 熟練艦載機整備員: LoS: 1
 熟練艦載機整備員: Acc: 1
 熟練艦載機整備員: Rare: 3
 熟練艦載機整備員: Range: 3
+熟練艦載機整備員: Cost: 8
+熟練艦載機整備員: Dist: 6
 零戦52型丙(六〇一空): AA: 9
 零戦52型丙(六〇一空): Acc: 1
 零戦52型丙(六〇一空): Evas: 1
 零戦52型丙(六〇一空): Rare: 3
+零戦52型丙(六〇一空): Cost: 5
+零戦52型丙(六〇一空): Dist: 6
 烈風(六〇一空): AA: 11
 烈風(六〇一空): Acc: 1
 烈風(六〇一空): Evas: 2
 烈風(六〇一空): Rare: 4
+烈風(六〇一空): Cost: 7
+烈風(六〇一空): Dist: 5
 彗星(六〇一空): Dive: 11
 彗星(六〇一空): LoS: 1
 彗星(六〇一空): ASW: 4
 彗星(六〇一空): Acc: 1
 彗星(六〇一空): Rare: 3
+彗星(六〇一空): Cost: 5
+彗星(六〇一空): Dist: 5
 天山(六〇一空): Torp: 10
 天山(六〇一空): LoS: 2
 天山(六〇一空): ASW: 4
 天山(六〇一空): Acc: 1
 天山(六〇一空): Rare: 3
+天山(六〇一空): Cost: 6
+天山(六〇一空): Dist: 5
 流星(六〇一空): Torp: 13
 流星(六〇一空): LoS: 3
 流星(六〇一空): ASW: 5
 流星(六〇一空): Acc: 1
 流星(六〇一空): Rare: 4
+流星(六〇一空): Cost: 7
+流星(六〇一空): Dist: 6
 38cm連装砲改: FP: 17
 38cm連装砲改: AA: 2
 38cm連装砲改: Acc: 3
 38cm連装砲改: Rare: 2
 38cm連装砲改: Range: 3
+38cm連装砲改: Cost: 7
+38cm連装砲改: Dist: 6
 Ar196改: AA: 1
 Ar196改: Dive: 1
 Ar196改: LoS: 5
 Ar196改: ASW: 5
 Ar196改: Acc: 2
 Ar196改: Rare: 2
+Ar196改: Cost: 5
+Ar196改: Dist: 3
 一式徹甲弾: FP: 9
 一式徹甲弾: Acc: 2
 一式徹甲弾: Rare: 3
+一式徹甲弾: Cost: 5
+一式徹甲弾: Dist: 3
 試製46cm連装砲: FP: 23
 試製46cm連装砲: AA: 4
 試製46cm連装砲: Acc: 1
 試製46cm連装砲: Rare: 4
 試製46cm連装砲: Range: 4
+試製46cm連装砲: Cost: 5
+試製46cm連装砲: Dist: 3
 紫雲: Dive: 1
 紫雲: LoS: 8
 紫雲: ASW: 2
 紫雲: Acc: 1
 紫雲: Rare: 4
+紫雲: Cost: 9
+紫雲: Dist: 4
 14cm連装砲: FP: 3
 14cm連装砲: Acc: 2
 14cm連装砲: Rare: 1
 14cm連装砲: Range: 2
+14cm連装砲: Cost: 9
+14cm連装砲: Dist: 4
 91式高射装置: AA: 2
 91式高射装置: Evas: 1
 91式高射装置: Rare: 1
+91式高射装置: Cost: 9
+91式高射装置: Dist: 4
 94式高射装置: AA: 3
 94式高射装置: Evas: 1
 94式高射装置: Rare: 2
+94式高射装置: Cost: 9
+94式高射装置: Dist: 4
 10cm連装高角砲+高射装置: FP: 3
 10cm連装高角砲+高射装置: AA: 10
 10cm連装高角砲+高射装置: Acc: 1
 10cm連装高角砲+高射装置: Evas: 1
 10cm連装高角砲+高射装置: Rare: 3
 10cm連装高角砲+高射装置: Range: 1
+10cm連装高角砲+高射装置: Cost: 9
+10cm連装高角砲+高射装置: Dist: 4
 SKC34 20.3cm連装砲: FP: 10
 SKC34 20.3cm連装砲: AA: 2
 SKC34 20.3cm連装砲: Acc: 3
 SKC34 20.3cm連装砲: Rare: 3
 SKC34 20.3cm連装砲: Range: 2
+SKC34 20.3cm連装砲: Cost: 9
+SKC34 20.3cm連装砲: Dist: 4
 FuMO25 レーダー: FP: 3
 FuMO25 レーダー: AA: 7
 FuMO25 レーダー: LoS: 9
 FuMO25 レーダー: Acc: 10
 FuMO25 レーダー: Rare: 4
+FuMO25 レーダー: Cost: 9
+FuMO25 レーダー: Dist: 4
 61cm三連装(酸素)魚雷: Torp: 8
 61cm三連装(酸素)魚雷: Armor: 1
 61cm三連装(酸素)魚雷: Evas: 1
 61cm三連装(酸素)魚雷: Rare: 2
 61cm三連装(酸素)魚雷: Range: 1
+61cm三連装(酸素)魚雷: Cost: 9
+61cm三連装(酸素)魚雷: Dist: 4
 WG42 (Wurfgerät 42): FP: 1
 WG42 (Wurfgerät 42): Armor: -1
 WG42 (Wurfgerät 42): Rare: 4
 WG42 (Wurfgerät 42): Range: 1
+WG42 (Wurfgerät 42): Cost: 9
+WG42 (Wurfgerät 42): Dist: 4
 試製FaT仕様九五式酸素魚雷改: Torp: 14
 試製FaT仕様九五式酸素魚雷改: Acc: 7
 試製FaT仕様九五式酸素魚雷改: Evas: 2
 試製FaT仕様九五式酸素魚雷改: Rare: 5
 試製FaT仕様九五式酸素魚雷改: Range: 1
+試製FaT仕様九五式酸素魚雷改: Cost: 9
+試製FaT仕様九五式酸素魚雷改: Dist: 4
 試製51cm連装砲: FP: 30
 試製51cm連装砲: AA: 5
 試製51cm連装砲: Acc: 1
 試製51cm連装砲: Evas: -1
 試製51cm連装砲: Rare: 5
 試製51cm連装砲: Range: 4
+試製51cm連装砲: Cost: 9
+試製51cm連装砲: Dist: 4
 熟練見張員: AA: 1
 熟練見張員: LoS: 2
 熟練見張員: Acc: 2
 熟練見張員: Evas: 3
 熟練見張員: Rare: 3
+熟練見張員: Cost: 9
+熟練見張員: Dist: 4
 12.7cm高角砲+高射装置: FP: 1
 12.7cm高角砲+高射装置: AA: 8
 12.7cm高角砲+高射装置: Acc: 1
 12.7cm高角砲+高射装置: Evas: 1
 12.7cm高角砲+高射装置: Rare: 3
 12.7cm高角砲+高射装置: Range: 1
+12.7cm高角砲+高射装置: Cost: 9
+12.7cm高角砲+高射装置: Dist: 4
 25mm三連装機銃 集中配備: AA: 9
 25mm三連装機銃 集中配備: Evas: 1
 25mm三連装機銃 集中配備: Rare: 3
+25mm三連装機銃 集中配備: Cost: 9
+25mm三連装機銃 集中配備: Dist: 4
 零式水中聴音機: LoS: 1
 零式水中聴音機: ASW: 11
 零式水中聴音機: Acc: 1
 零式水中聴音機: Evas: 1
 零式水中聴音機: Rare: 3
+零式水中聴音機: Cost: 9
+零式水中聴音機: Dist: 4
 381mm/50 三連装砲: FP: 20
 381mm/50 三連装砲: AA: 2
 381mm/50 三連装砲: Acc: -3
 381mm/50 三連装砲: Evas: -1
 381mm/50 三連装砲: Rare: 4
 381mm/50 三連装砲: Range: 4
+381mm/50 三連装砲: Cost: 9
+381mm/50 三連装砲: Dist: 4
 OTO 152mm三連装速射砲: FP: 8
 OTO 152mm三連装速射砲: AA: 2
 OTO 152mm三連装速射砲: Armor: 1
 OTO 152mm三連装速射砲: Acc: 1
 OTO 152mm三連装速射砲: Rare: 3
 OTO 152mm三連装速射砲: Range: 2
+OTO 152mm三連装速射砲: Cost: 9
+OTO 152mm三連装速射砲: Dist: 4
 90mm単装高角砲: FP: 1
 90mm単装高角砲: AA: 8
 90mm単装高角砲: Acc: 1
 90mm単装高角砲: Rare: 3
 90mm単装高角砲: Range: 1
+90mm単装高角砲: Cost: 9
+90mm単装高角砲: Dist: 4
 プリエーゼ式水中防御隔壁: Armor: 7
 プリエーゼ式水中防御隔壁: Evas: -1
 プリエーゼ式水中防御隔壁: Rare: 3
+プリエーゼ式水中防御隔壁: Cost: 9
+プリエーゼ式水中防御隔壁: Dist: 4
 381mm/50 三連装砲改: FP: 21
 381mm/50 三連装砲改: AA: 4
 381mm/50 三連装砲改: Acc: -1
 381mm/50 三連装砲改: Evas: -1
 381mm/50 三連装砲改: Rare: 5
 381mm/50 三連装砲改: Range: 4
+381mm/50 三連装砲改: Cost: 9
+381mm/50 三連装砲改: Dist: 4
 二式大艇: LoS: 12
 二式大艇: ASW: 1
 二式大艇: Acc: 1
 二式大艇: Rare: 4
+二式大艇: Cost: 25
+二式大艇: Dist: 20
 15.2cm連装砲改: FP: 5
 15.2cm連装砲改: AA: 3
 15.2cm連装砲改: Acc: 4
 15.2cm連装砲改: Rare: 3
 15.2cm連装砲改: Range: 2
+15.2cm連装砲改: Cost: 25
+15.2cm連装砲改: Dist: 20
 96式150cm探照灯: AA: 1
 96式150cm探照灯: LoS: 3
 96式150cm探照灯: Rare: 3
+96式150cm探照灯: Cost: 25
+96式150cm探照灯: Dist: 20
 32号対水上電探改: LoS: 11
 32号対水上電探改: Acc: 9
 32号対水上電探改: Rare: 4
+32号対水上電探改: Cost: 25
+32号対水上電探改: Dist: 20
 15m二重測距儀+21号電探改二: FP: 1
 15m二重測距儀+21号電探改二: AA: 8
 15m二重測距儀+21号電探改二: Armor: 1
@@ -544,49 +796,73 @@ OTO 152mm三連装速射砲: Range: 2
 15m二重測距儀+21号電探改二: Acc: 9
 15m二重測距儀+21号電探改二: Evas: 1
 15m二重測距儀+21号電探改二: Rare: 4
+15m二重測距儀+21号電探改二: Cost: 25
+15m二重測距儀+21号電探改二: Dist: 20
 九七式艦攻(村田隊): Torp: 12
 九七式艦攻(村田隊): AA: 1
 九七式艦攻(村田隊): LoS: 4
 九七式艦攻(村田隊): ASW: 5
 九七式艦攻(村田隊): Acc: 2
 九七式艦攻(村田隊): Rare: 4
+九七式艦攻(村田隊): Cost: 5
+九七式艦攻(村田隊): Dist: 4
 天山一二型(村田隊): Torp: 15
 天山一二型(村田隊): AA: 1
 天山一二型(村田隊): LoS: 4
 天山一二型(村田隊): ASW: 6
 天山一二型(村田隊): Acc: 2
 天山一二型(村田隊): Rare: 5
+天山一二型(村田隊): Cost: 6
+天山一二型(村田隊): Dist: 5
 戦闘糧食: Rare: 1
+戦闘糧食: Cost: 6
+戦闘糧食: Dist: 5
 洋上補給: Armor: -2
 洋上補給: Rare: 2
+洋上補給: Cost: 6
+洋上補給: Dist: 5
 120mm連装砲: FP: 3
 120mm連装砲: AA: 2
 120mm連装砲: Acc: 1
 120mm連装砲: Rare: 2
 120mm連装砲: Range: 1
+120mm連装砲: Cost: 6
+120mm連装砲: Dist: 5
 試製南山: AA: 1
 試製南山: Dive: 11
 試製南山: LoS: 2
 試製南山: ASW: 4
 試製南山: Rare: 5
+試製南山: Cost: 9
+試製南山: Dist: 5
 四式水中聴音機: ASW: 12
 四式水中聴音機: Acc: 1
 四式水中聴音機: Rare: 4
+四式水中聴音機: Cost: 9
+四式水中聴音機: Dist: 5
 秋刀魚の缶詰: Rare: 2
+秋刀魚の缶詰: Cost: 9
+秋刀魚の缶詰: Dist: 5
 試製景雲(艦偵型): FP: 2
 試製景雲(艦偵型): LoS: 11
 試製景雲(艦偵型): Acc: 2
 試製景雲(艦偵型): Rare: 5
+試製景雲(艦偵型): Cost: 12
+試製景雲(艦偵型): Dist: 8
 零式艦戦52型(熟練): AA: 9
 零式艦戦52型(熟練): LoS: 1
 零式艦戦52型(熟練): Acc: 1
 零式艦戦52型(熟練): Evas: 2
 零式艦戦52型(熟練): Rare: 3
+零式艦戦52型(熟練): Cost: 5
+零式艦戦52型(熟練): Dist: 6
 零戦52型丙(付岩井小隊): AA: 10
 零戦52型丙(付岩井小隊): LoS: 1
 零戦52型丙(付岩井小隊): Acc: 1
 零戦52型丙(付岩井小隊): Evas: 2
 零戦52型丙(付岩井小隊): Rare: 4
+零戦52型丙(付岩井小隊): Cost: 5
+零戦52型丙(付岩井小隊): Dist: 6
 零戦62型(爆戦/岩井隊): AA: 7
 零戦62型(爆戦/岩井隊): Dive: 4
 零戦62型(爆戦/岩井隊): LoS: 1
@@ -594,46 +870,64 @@ OTO 152mm三連装速射砲: Range: 2
 零戦62型(爆戦/岩井隊): Acc: 1
 零戦62型(爆戦/岩井隊): Evas: 2
 零戦62型(爆戦/岩井隊): Rare: 5
+零戦62型(爆戦/岩井隊): Cost: 5
+零戦62型(爆戦/岩井隊): Dist: 5
 零戦21型(付岩本小隊): AA: 9
 零戦21型(付岩本小隊): LoS: 1
 零戦21型(付岩本小隊): Acc: 1
 零戦21型(付岩本小隊): Evas: 3
 零戦21型(付岩本小隊): Rare: 3
+零戦21型(付岩本小隊): Cost: 4
+零戦21型(付岩本小隊): Dist: 7
 零戦52型甲(付岩本小隊): AA: 11
 零戦52型甲(付岩本小隊): LoS: 1
 零戦52型甲(付岩本小隊): Acc: 1
 零戦52型甲(付岩本小隊): Evas: 3
 零戦52型甲(付岩本小隊): Rare: 4
+零戦52型甲(付岩本小隊): Cost: 5
+零戦52型甲(付岩本小隊): Dist: 6
 零式艦戦53型(岩本隊): AA: 12
 零式艦戦53型(岩本隊): LoS: 3
 零式艦戦53型(岩本隊): Acc: 2
 零式艦戦53型(岩本隊): Evas: 4
 零式艦戦53型(岩本隊): Rare: 5
+零式艦戦53型(岩本隊): Cost: 6
+零式艦戦53型(岩本隊): Dist: 6
 Bf109T改: FP: 1
 Bf109T改: AA: 8
 Bf109T改: Evas: 4
 Bf109T改: Rare: 3
+Bf109T改: Cost: 6
+Bf109T改: Dist: 2
 Fw190T改: FP: 2
 Fw190T改: AA: 10
 Fw190T改: Evas: 2
 Fw190T改: Rare: 4
+Fw190T改: Cost: 6
+Fw190T改: Dist: 3
 10.5cm連装砲: FP: 3
 10.5cm連装砲: AA: 6
 10.5cm連装砲: Acc: 2
 10.5cm連装砲: Evas: 1
 10.5cm連装砲: Rare: 3
 10.5cm連装砲: Range: 1
+10.5cm連装砲: Cost: 6
+10.5cm連装砲: Dist: 3
 16inch三連装砲 Mk.7: FP: 24
 16inch三連装砲 Mk.7: AA: 3
 16inch三連装砲 Mk.7: Armor: 1
 16inch三連装砲 Mk.7: Acc: 4
 16inch三連装砲 Mk.7: Rare: 5
 16inch三連装砲 Mk.7: Range: 3
+16inch三連装砲 Mk.7: Cost: 6
+16inch三連装砲 Mk.7: Dist: 3
 203mm/53 連装砲: FP: 9
 203mm/53 連装砲: AA: 1
 203mm/53 連装砲: Acc: -2
 203mm/53 連装砲: Rare: 3
 203mm/53 連装砲: Range: 3
+203mm/53 連装砲: Cost: 6
+203mm/53 連装砲: Dist: 3
 Ro.43水偵: FP: 1
 Ro.43水偵: AA: 1
 Ro.43水偵: LoS: 4
@@ -641,122 +935,273 @@ Ro.43水偵: ASW: 2
 Ro.43水偵: Acc: 2
 Ro.43水偵: Evas: 1
 Ro.43水偵: Rare: 3
+Ro.43水偵: Cost: 4
+Ro.43水偵: Dist: 3
 Ro.44水上戦闘機: AA: 2
 Ro.44水上戦闘機: LoS: 2
 Ro.44水上戦闘機: ASW: 1
 Ro.44水上戦闘機: Acc: 1
 Ro.44水上戦闘機: Evas: 2
 Ro.44水上戦闘機: Rare: 3
+Ro.44水上戦闘機: Cost: 4
+Ro.44水上戦闘機: Dist: 3
 二式水戦改: AA: 3
 二式水戦改: LoS: 1
 二式水戦改: ASW: 1
 二式水戦改: Acc: 1
 二式水戦改: Evas: 2
 二式水戦改: Rare: 2
+二式水戦改: Cost: 5
+二式水戦改: Dist: 4
 大発動艇(八九式中戦車&陸戦隊): Rare: 2
+大発動艇(八九式中戦車&陸戦隊): Cost: 5
+大発動艇(八九式中戦車&陸戦隊): Dist: 4
 特二式内火艇: Rare: 3
+特二式内火艇: Cost: 5
+特二式内火艇: Dist: 4
+九六式陸攻: Torp: 8
+九六式陸攻: AA: 1
+九六式陸攻: Dive: 10
+九六式陸攻: LoS: 2
+九六式陸攻: ASW: 2
+九六式陸攻: Rare: 1
+九六式陸攻: Cost: 10
+九六式陸攻: Dist: 8
+一式陸攻: Torp: 10
+一式陸攻: AA: 2
+一式陸攻: Dive: 12
+一式陸攻: LoS: 3
+一式陸攻: ASW: 2
+一式陸攻: Rare: 2
+一式陸攻: Cost: 12
+一式陸攻: Dist: 9
+一式陸攻(野中隊): Torp: 12
+一式陸攻(野中隊): AA: 3
+一式陸攻(野中隊): Dive: 13
+一式陸攻(野中隊): LoS: 4
+一式陸攻(野中隊): ASW: 2
+一式陸攻(野中隊): Acc: 1
+一式陸攻(野中隊): Rare: 4
+一式陸攻(野中隊): Cost: 12
+一式陸攻(野中隊): Dist: 9
+OS2U: AA: 1
+OS2U: Dive: 1
+OS2U: LoS: 6
+OS2U: ASW: 1
+OS2U: Acc: 2
+OS2U: Evas: 1
+OS2U: Rare: 3
+OS2U: Cost: 6
+OS2U: Dist: 3
+5inch連装砲 Mk.28 mod.2: FP: 4
+5inch連装砲 Mk.28 mod.2: AA: 9
+5inch連装砲 Mk.28 mod.2: Armor: 1
+5inch連装砲 Mk.28 mod.2: Acc: 2
+5inch連装砲 Mk.28 mod.2: Evas: 1
+5inch連装砲 Mk.28 mod.2: Rare: 4
+5inch連装砲 Mk.28 mod.2: Range: 1
+5inch連装砲 Mk.28 mod.2: Cost: 6
+5inch連装砲 Mk.28 mod.2: Dist: 3
+Bofors 40mm四連装機関砲: FP: 1
+Bofors 40mm四連装機関砲: AA: 10
+Bofors 40mm四連装機関砲: Armor: 1
+Bofors 40mm四連装機関砲: Acc: 1
+Bofors 40mm四連装機関砲: Evas: 2
+Bofors 40mm四連装機関砲: Rare: 4
+Bofors 40mm四連装機関砲: Cost: 6
+Bofors 40mm四連装機関砲: Dist: 3
+53cm連装魚雷: Torp: 3
+53cm連装魚雷: Evas: 2
+53cm連装魚雷: Rare: 1
+53cm連装魚雷: Range: 1
+53cm連装魚雷: Cost: 6
+53cm連装魚雷: Dist: 3
+雷電: AA: 6
+雷電: Acc: 5
+雷電: Evas: 2
+雷電: Rare: 4
+雷電: Cost: 6
+雷電: Dist: 2
+三式戦 飛燕: AA: 8
+三式戦 飛燕: Acc: 1
+三式戦 飛燕: Evas: 3
+三式戦 飛燕: Rare: 3
+三式戦 飛燕: Cost: 7
+三式戦 飛燕: Dist: 3
+三式戦 飛燕(飛行第244戦隊): AA: 9
+三式戦 飛燕(飛行第244戦隊): Acc: 3
+三式戦 飛燕(飛行第244戦隊): Evas: 4
+三式戦 飛燕(飛行第244戦隊): Rare: 5
+三式戦 飛燕(飛行第244戦隊): Cost: 7
+三式戦 飛燕(飛行第244戦隊): Dist: 4
+PBY-5A Catalina: LoS: 9
+PBY-5A Catalina: ASW: 2
+PBY-5A Catalina: Acc: 2
+PBY-5A Catalina: Rare: 4
+PBY-5A Catalina: Cost: 13
+PBY-5A Catalina: Dist: 10
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
+5inch単装砲: Cost: 13
+5inch単装砲: Dist: 10
 5inch連装砲: FP: 2
 5inch連装砲: Range: 1
+5inch連装砲: Cost: 13
+5inch連装砲: Dist: 10
 3inch単装高角砲: FP: 1
 3inch単装高角砲: AA: 1
 3inch単装高角砲: Rare: 2
 3inch単装高角砲: Range: 1
+3inch単装高角砲: Cost: 13
+3inch単装高角砲: Dist: 10
 5inch単装高射砲: FP: 2
 5inch単装高射砲: AA: 2
 5inch単装高射砲: Range: 2
+5inch単装高射砲: Cost: 13
+5inch単装高射砲: Dist: 10
 8inch三連装砲: FP: 8
 8inch三連装砲: AA: 2
 8inch三連装砲: Range: 2
+8inch三連装砲: Cost: 13
+8inch三連装砲: Dist: 10
 6inch連装速射砲: FP: 3
 6inch連装速射砲: AA: 3
 6inch連装速射砲: Range: 2
+6inch連装速射砲: Cost: 13
+6inch連装速射砲: Dist: 10
 14inch連装砲: FP: 10
 14inch連装砲: AA: 4
 14inch連装砲: Range: 3
+14inch連装砲: Cost: 13
+14inch連装砲: Dist: 10
 16inch連装砲: FP: 15
 16inch連装砲: AA: 4
 16inch連装砲: T.Acc: 16
 16inch連装砲: Rare: 1
 16inch連装砲: Range: 3
+16inch連装砲: Cost: 13
+16inch連装砲: Dist: 10
 16inch三連装砲: FP: 20
 16inch三連装砲: AA: 5
 16inch三連装砲: T.Acc: 10
 16inch三連装砲: Rare: 2
 16inch三連装砲: Range: 3
+16inch三連装砲: Cost: 13
+16inch三連装砲: Dist: 10
 5inch単装高射砲: FP: 1
 5inch単装高射砲: AA: 2
 5inch単装高射砲: T.Acc: 10
 5inch単装高射砲: Range: 1
+5inch単装高射砲: Cost: 13
+5inch単装高射砲: Dist: 10
 6inch単装砲: FP: 1
 6inch単装砲: T.Acc: 13
 6inch単装砲: Range: 2
+6inch単装砲: Cost: 13
+6inch単装砲: Dist: 10
 12.5inch連装副砲: FP: 7
 12.5inch連装副砲: AA: 3
 12.5inch連装副砲: T.Acc: 3
 12.5inch連装副砲: Rare: 1
 12.5inch連装副砲: Range: 2
+12.5inch連装副砲: Cost: 13
+12.5inch連装副砲: Dist: 10
 21inch魚雷前期型: Torp: 2
 21inch魚雷前期型: T.Acc: 8
 21inch魚雷前期型: Range: 1
+21inch魚雷前期型: Cost: 13
+21inch魚雷前期型: Dist: 10
 21inch魚雷後期型: Torp: 5
 21inch魚雷後期型: T.Acc: 6
 21inch魚雷後期型: Range: 1
+21inch魚雷後期型: Cost: 13
+21inch魚雷後期型: Dist: 10
 高速深海魚雷: Torp: 10
 高速深海魚雷: T.Acc: 4
 高速深海魚雷: Rare: 1
 高速深海魚雷: Range: 1
+高速深海魚雷: Cost: 13
+高速深海魚雷: Dist: 10
 深海棲艦攻: Torp: 4
 深海棲艦攻: LoS: 5
 深海棲艦攻: ASW: 2
+深海棲艦攻: Cost: 13
+深海棲艦攻: Dist: 10
 深海棲艦攻 Mark.II: Torp: 6
 深海棲艦攻 Mark.II: LoS: 5
 深海棲艦攻 Mark.II: ASW: 4
 深海棲艦攻 Mark.II: T.Acc: 2
 深海棲艦攻 Mark.II: Rare: 1
+深海棲艦攻 Mark.II: Cost: 13
+深海棲艦攻 Mark.II: Dist: 10
 深海棲艦攻 Mark.III: Torp: 11
 深海棲艦攻 Mark.III: AA: 4
 深海棲艦攻 Mark.III: LoS: 5
 深海棲艦攻 Mark.III: ASW: 7
 深海棲艦攻 Mark.III: Rare: 2
+深海棲艦攻 Mark.III: Cost: 13
+深海棲艦攻 Mark.III: Dist: 10
 深海棲艦戦: AA: 2
+深海棲艦戦: Cost: 13
+深海棲艦戦: Dist: 10
 深海棲艦戦 Mark.II: AA: 5
 深海棲艦戦 Mark.II: T.Acc: 24
+深海棲艦戦 Mark.II: Cost: 13
+深海棲艦戦 Mark.II: Dist: 10
 深海棲艦戦 Mark.III: AA: 9
 深海棲艦戦 Mark.III: Rare: 1
+深海棲艦戦 Mark.III: Cost: 13
+深海棲艦戦 Mark.III: Dist: 10
 飛び魚艦戦: AA: 13
 飛び魚艦戦: T.Acc: 7
 飛び魚艦戦: Rare: 3
+飛び魚艦戦: Cost: 13
+飛び魚艦戦: Dist: 10
 深海棲艦爆: Dive: 3
 深海棲艦爆: ASW: 1
+深海棲艦爆: Cost: 13
+深海棲艦爆: Dist: 10
 深海棲艦爆 Mark.II: Dive: 6
 深海棲艦爆 Mark.II: ASW: 2
 深海棲艦爆 Mark.II: Rare: 1
+深海棲艦爆 Mark.II: Cost: 13
+深海棲艦爆 Mark.II: Dist: 10
 深海棲艦偵察機: AA: 1
 深海棲艦偵察機: Dive: 1
 深海棲艦偵察機: LoS: 5
 深海棲艦偵察機: ASW: 1
+深海棲艦偵察機: Cost: 13
+深海棲艦偵察機: Dist: 10
 飛び魚偵察機: AA: 2
 飛び魚偵察機: Dive: 4
 飛び魚偵察機: LoS: 10
 飛び魚偵察機: ASW: 2
 飛び魚偵察機: Rare: 1
+飛び魚偵察機: Cost: 13
+飛び魚偵察機: Dist: 10
 対空レーダ― Mark.I: AA: 5
 対空レーダ― Mark.I: LoS: 5
 対空レーダ― Mark.I: Acc: 5
 対空レーダ― Mark.I: Rare: 1
+対空レーダ― Mark.I: Cost: 13
+対空レーダ― Mark.I: Dist: 10
 水上レーダ― Mark.I: LoS: 5
 水上レーダ― Mark.I: Acc: 10
 水上レーダ― Mark.I: Rare: 1
+水上レーダ― Mark.I: Cost: 13
+水上レーダ― Mark.I: Dist: 10
 水上レーダ― Mark.II: LoS: 10
 水上レーダ― Mark.II: Acc: 15
 水上レーダ― Mark.II: Rare: 2
+水上レーダ― Mark.II: Cost: 13
+水上レーダ― Mark.II: Dist: 10
 対空レーダ― Mark.II: AA: 10
 対空レーダ― Mark.II: LoS: 10
 対空レーダ― Mark.II: Acc: 5
 対空レーダ― Mark.II: T.Acc: 21
 対空レーダ― Mark.II: Rare: 2
+対空レーダ― Mark.II: Cost: 13
+対空レーダ― Mark.II: Dist: 10
 深海水上レーダー: AA: 5
 深海水上レーダー: LoS: 16
 深海水上レーダー: ASW: 5
@@ -764,6 +1209,8 @@ Ro.44水上戦闘機: Rare: 3
 深海水上レーダー: Evas: 3
 深海水上レーダー: T.Acc: 13
 深海水上レーダー: Rare: 3
+深海水上レーダー: Cost: 13
+深海水上レーダー: Dist: 10
 深海対空レーダ―: AA: 18
 深海対空レーダ―: LoS: 12
 深海対空レーダ―: ASW: 5
@@ -771,144 +1218,232 @@ Ro.44水上戦闘機: Rare: 3
 深海対空レーダ―: Evas: 2
 深海対空レーダ―: T.Acc: 13
 深海対空レーダ―: Rare: 4
+深海対空レーダ―: Cost: 13
+深海対空レーダ―: Dist: 10
 改良型深海タービン: Evas: 10
 改良型深海タービン: T.Acc: 17
+改良型深海タービン: Cost: 13
+改良型深海タービン: Dist: 10
 強化型深海缶: Evas: 15
 強化型深海缶: T.Acc: 4
 強化型深海缶: Rare: 1
+強化型深海缶: Cost: 13
+強化型深海缶: Dist: 10
 対空散弾: AA: 10
 対空散弾: T.Acc: 10
+対空散弾: Cost: 13
+対空散弾: Dist: 10
 劣化徹甲弾: FP: 15
 劣化徹甲弾: Acc: 5
 劣化徹甲弾: T.Acc: 8
 劣化徹甲弾: Rare: 1
+劣化徹甲弾: Cost: 13
+劣化徹甲弾: Dist: 10
 12.7mm機銃: AA: 2
 12.7mm機銃: T.Acc: 5
+12.7mm機銃: Cost: 13
+12.7mm機銃: Dist: 10
 20mm機銃: AA: 4
+20mm機銃: Cost: 13
+20mm機銃: Dist: 10
 40mm二連装機関砲: AA: 8
 40mm二連装機関砲: T.Acc: 3
 40mm二連装機関砲: Rare: 1
+40mm二連装機関砲: Cost: 13
+40mm二連装機関砲: Dist: 10
 40mm四連装機関砲: AA: 12
 40mm四連装機関砲: Rare: 2
+40mm四連装機関砲: Cost: 13
+40mm四連装機関砲: Dist: 10
 深海烏賊魚雷: Torp: 18
 深海烏賊魚雷: Acc: 5
 深海烏賊魚雷: Rare: 4
 深海烏賊魚雷: Range: 1
+深海烏賊魚雷: Cost: 13
+深海烏賊魚雷: Dist: 10
 深海爆雷投射機: ASW: 7
 深海爆雷投射機: Rare: 2
+深海爆雷投射機: Cost: 13
+深海爆雷投射機: Dist: 10
 深海ソナー: ASW: 9
 深海ソナー: Rare: 2
+深海ソナー: Cost: 13
+深海ソナー: Dist: 10
 深海爆雷投射機 Mk.II: ASW: 13
 深海爆雷投射機 Mk.II: Rare: 3
+深海爆雷投射機 Mk.II: Cost: 13
+深海爆雷投射機 Mk.II: Dist: 10
 深海ソナー Mk.II: ASW: 16
 深海ソナー Mk.II: Rare: 3
+深海ソナー Mk.II: Cost: 13
+深海ソナー Mk.II: Dist: 10
 飛び魚艦爆: AA: 8
 飛び魚艦爆: Dive: 10
 飛び魚艦爆: ASW: 7
 飛び魚艦爆: Rare: 3
+飛び魚艦爆: Cost: 13
+飛び魚艦爆: Dist: 10
 深海猫艦戦: AA: 10
 深海猫艦戦: Acc: 1
 深海猫艦戦: Rare: 3
+深海猫艦戦: Cost: 13
+深海猫艦戦: Dist: 10
 深海地獄艦爆: Dive: 11
 深海地獄艦爆: LoS: 3
 深海地獄艦爆: ASW: 4
 深海地獄艦爆: Acc: 3
 深海地獄艦爆: Rare: 3
+深海地獄艦爆: Cost: 13
+深海地獄艦爆: Dist: 10
 深海復讐艦攻: Torp: 13
 深海復讐艦攻: AA: 4
 深海復讐艦攻: LoS: 5
 深海復讐艦攻: ASW: 5
 深海復讐艦攻: Acc: 2
 深海復讐艦攻: Rare: 3
+深海復讐艦攻: Cost: 13
+深海復讐艦攻: Dist: 10
 5inch連装両用莢砲: FP: 2
 5inch連装両用莢砲: AA: 9
 5inch連装両用莢砲: Acc: 3
 5inch連装両用莢砲: Rare: 3
 5inch連装両用莢砲: Range: 2
+5inch連装両用莢砲: Cost: 13
+5inch連装両用莢砲: Dist: 10
 20inch連装砲: FP: 27
 20inch連装砲: AA: 4
 20inch連装砲: Acc: 3
 20inch連装砲: Rare: 4
 20inch連装砲: Range: 3
+20inch連装砲: Cost: 13
+20inch連装砲: Dist: 10
 15inch要塞砲: FP: 13
 15inch要塞砲: Armor: 3
 15inch要塞砲: Acc: 4
 15inch要塞砲: Rare: 2
 15inch要塞砲: Range: 3
+15inch要塞砲: Cost: 13
+15inch要塞砲: Dist: 10
 4inch連装両用砲+CIC: FP: 5
 4inch連装両用砲+CIC: AA: 15
 4inch連装両用砲+CIC: Acc: 5
 4inch連装両用砲+CIC: Rare: 4
 4inch連装両用砲+CIC: Range: 2
+4inch連装両用砲+CIC: Cost: 13
+4inch連装両用砲+CIC: Dist: 10
 深海水上攻撃機: AA: 4
 深海水上攻撃機: Dive: 8
 深海水上攻撃機: LoS: 6
 深海水上攻撃機: ASW: 8
 深海水上攻撃機: Acc: 1
 深海水上攻撃機: Rare: 2
+深海水上攻撃機: Cost: 13
+深海水上攻撃機: Dist: 10
 深海水上攻撃機改: AA: 9
 深海水上攻撃機改: Dive: 13
 深海水上攻撃機改: LoS: 7
 深海水上攻撃機改: ASW: 10
 深海水上攻撃機改: Acc: 3
 深海水上攻撃機改: Rare: 4
+深海水上攻撃機改: Cost: 13
+深海水上攻撃機改: Dist: 10
 深海猫艦戦改: AA: 12
 深海猫艦戦改: Acc: 2
 深海猫艦戦改: Evas: 2
 深海猫艦戦改: Rare: 4
+深海猫艦戦改: Cost: 13
+深海猫艦戦改: Dist: 10
 深海地獄艦爆改: Dive: 15
 深海地獄艦爆改: LoS: 5
 深海地獄艦爆改: ASW: 8
 深海地獄艦爆改: Acc: 4
 深海地獄艦爆改: Rare: 4
+深海地獄艦爆改: Cost: 13
+深海地獄艦爆改: Dist: 10
 深海復讐艦攻改: Torp: 16
 深海復讐艦攻改: AA: 5
 深海復讐艦攻改: LoS: 6
 深海復讐艦攻改: ASW: 9
 深海復讐艦攻改: Acc: 3
 深海復讐艦攻改: Rare: 4
+深海復讐艦攻改: Cost: 13
+深海復讐艦攻改: Dist: 10
 深海FCS+CIC: AA: 6
 深海FCS+CIC: LoS: 3
 深海FCS+CIC: ASW: 20
 深海FCS+CIC: Acc: 5
 深海FCS+CIC: Evas: 3
 深海FCS+CIC: Rare: 3
+深海FCS+CIC: Cost: 13
+深海FCS+CIC: Dist: 10
 深海探照灯: FP: 2
 深海探照灯: LoS: 2
 深海探照灯: Rare: 1
+深海探照灯: Cost: 13
+深海探照灯: Dist: 10
 深海解放陸爆: AA: 3
 深海解放陸爆: Dive: 11
 深海解放陸爆: LoS: 3
 深海解放陸爆: ASW: 5
 深海解放陸爆: Acc: 1
 深海解放陸爆: Rare: 2
+深海解放陸爆: Cost: 13
+深海解放陸爆: Dist: 10
 深海解放陸爆Ace: AA: 5
 深海解放陸爆Ace: Dive: 16
 深海解放陸爆Ace: LoS: 4
 深海解放陸爆Ace: ASW: 7
 深海解放陸爆Ace: Acc: 2
 深海解放陸爆Ace: Rare: 3
+深海解放陸爆Ace: Cost: 13
+深海解放陸爆Ace: Dist: 10
 8inch長射程連装砲: FP: 8
 8inch長射程連装砲: AA: 1
 8inch長射程連装砲: Acc: -1
 8inch長射程連装砲: Rare: 4
 8inch長射程連装砲: Range: 3
+8inch長射程連装砲: Cost: 13
+8inch長射程連装砲: Dist: 10
 深海水上偵察観測機: AA: 2
 深海水上偵察観測機: LoS: 5
 深海水上偵察観測機: ASW: 2
 深海水上偵察観測機: Acc: 5
 深海水上偵察観測機: Rare: 3
+深海水上偵察観測機: Cost: 13
+深海水上偵察観測機: Dist: 10
 5inch沿岸設置砲: FP: 3
 5inch沿岸設置砲: Armor: 2
 5inch沿岸設置砲: Acc: 3
 5inch沿岸設置砲: Rare: 2
 5inch沿岸設置砲: Range: 2
+5inch沿岸設置砲: Cost: 13
+5inch沿岸設置砲: Dist: 10
 深海猫艦戦(爆装): AA: 7
 深海猫艦戦(爆装): Dive: 8
 深海猫艦戦(爆装): ASW: 2
 深海猫艦戦(爆装): Acc: 2
 深海猫艦戦(爆装): Rare: 3
+深海猫艦戦(爆装): Cost: 13
+深海猫艦戦(爆装): Dist: 10
 沿岸設置レーダー: AA: 4
 沿岸設置レーダー: LoS: 8
 沿岸設置レーダー: Acc: 16
 沿岸設置レーダー: Rare: 3
+沿岸設置レーダー: Cost: 13
+沿岸設置レーダー: Dist: 10
+16inch三連装砲: FP: 24
+16inch三連装砲: AA: 3
+16inch三連装砲: Armor: 1
+16inch三連装砲: Acc: 4
+16inch三連装砲: Rare: 5
+16inch三連装砲: Range: 3
+16inch三連装砲: Cost: 13
+16inch三連装砲: Dist: 10
+深海偵察飛行艇: FP: 3
+深海偵察飛行艇: AA: 1
+深海偵察飛行艇: LoS: 9
+深海偵察飛行艇: ASW: 2
+深海偵察飛行艇: Acc: 8
+深海偵察飛行艇: Rare: 4
+深海偵察飛行艇: Cost: 13
+深海偵察飛行艇: Dist: 10
