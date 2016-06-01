@@ -9580,7 +9580,7 @@
     "api_afterlv": 0,
     "api_aftershipid": "0",
     "api_backs": 7,
-    "api_broken": [4, 6, 18, 4],
+    "api_broken": [4, 6, 18, 3],
     "api_buildtime": 70,
     "api_bull_max": 65,
     "api_fuel_max": 45,

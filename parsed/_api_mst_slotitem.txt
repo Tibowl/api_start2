@@ -1040,167 +1040,181 @@ PBY-5A Catalina: Acc: 2
 PBY-5A Catalina: Rare: 4
 PBY-5A Catalina: Cost: 13
 PBY-5A Catalina: Dist: 10
+試製61cm六連装(酸素)魚雷: Torp: 14
+試製61cm六連装(酸素)魚雷: Acc: 2
+試製61cm六連装(酸素)魚雷: Rare: 4
+試製61cm六連装(酸素)魚雷: Range: 1
+試製61cm六連装(酸素)魚雷: Cost: 13
+試製61cm六連装(酸素)魚雷: Dist: 10
+一式陸攻 二二型甲: Torp: 11
+一式陸攻 二二型甲: AA: 3
+一式陸攻 二二型甲: Dive: 12
+一式陸攻 二二型甲: LoS: 4
+一式陸攻 二二型甲: ASW: 2
+一式陸攻 二二型甲: Rare: 3
+一式陸攻 二二型甲: Cost: 12
+一式陸攻 二二型甲: Dist: 10
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
-5inch単装砲: Cost: 13
+5inch単装砲: Cost: 12
 5inch単装砲: Dist: 10
 5inch連装砲: FP: 2
 5inch連装砲: Range: 1
-5inch連装砲: Cost: 13
+5inch連装砲: Cost: 12
 5inch連装砲: Dist: 10
 3inch単装高角砲: FP: 1
 3inch単装高角砲: AA: 1
 3inch単装高角砲: Rare: 2
 3inch単装高角砲: Range: 1
-3inch単装高角砲: Cost: 13
+3inch単装高角砲: Cost: 12
 3inch単装高角砲: Dist: 10
 5inch単装高射砲: FP: 2
 5inch単装高射砲: AA: 2
 5inch単装高射砲: Range: 2
-5inch単装高射砲: Cost: 13
+5inch単装高射砲: Cost: 12
 5inch単装高射砲: Dist: 10
 8inch三連装砲: FP: 8
 8inch三連装砲: AA: 2
 8inch三連装砲: Range: 2
-8inch三連装砲: Cost: 13
+8inch三連装砲: Cost: 12
 8inch三連装砲: Dist: 10
 6inch連装速射砲: FP: 3
 6inch連装速射砲: AA: 3
 6inch連装速射砲: Range: 2
-6inch連装速射砲: Cost: 13
+6inch連装速射砲: Cost: 12
 6inch連装速射砲: Dist: 10
 14inch連装砲: FP: 10
 14inch連装砲: AA: 4
 14inch連装砲: Range: 3
-14inch連装砲: Cost: 13
+14inch連装砲: Cost: 12
 14inch連装砲: Dist: 10
 16inch連装砲: FP: 15
 16inch連装砲: AA: 4
 16inch連装砲: T.Acc: 16
 16inch連装砲: Rare: 1
 16inch連装砲: Range: 3
-16inch連装砲: Cost: 13
+16inch連装砲: Cost: 12
 16inch連装砲: Dist: 10
 16inch三連装砲: FP: 20
 16inch三連装砲: AA: 5
 16inch三連装砲: T.Acc: 10
 16inch三連装砲: Rare: 2
 16inch三連装砲: Range: 3
-16inch三連装砲: Cost: 13
+16inch三連装砲: Cost: 12
 16inch三連装砲: Dist: 10
 5inch単装高射砲: FP: 1
 5inch単装高射砲: AA: 2
 5inch単装高射砲: T.Acc: 10
 5inch単装高射砲: Range: 1
-5inch単装高射砲: Cost: 13
+5inch単装高射砲: Cost: 12
 5inch単装高射砲: Dist: 10
 6inch単装砲: FP: 1
 6inch単装砲: T.Acc: 13
 6inch単装砲: Range: 2
-6inch単装砲: Cost: 13
+6inch単装砲: Cost: 12
 6inch単装砲: Dist: 10
 12.5inch連装副砲: FP: 7
 12.5inch連装副砲: AA: 3
 12.5inch連装副砲: T.Acc: 3
 12.5inch連装副砲: Rare: 1
 12.5inch連装副砲: Range: 2
-12.5inch連装副砲: Cost: 13
+12.5inch連装副砲: Cost: 12
 12.5inch連装副砲: Dist: 10
 21inch魚雷前期型: Torp: 2
 21inch魚雷前期型: T.Acc: 8
 21inch魚雷前期型: Range: 1
-21inch魚雷前期型: Cost: 13
+21inch魚雷前期型: Cost: 12
 21inch魚雷前期型: Dist: 10
 21inch魚雷後期型: Torp: 5
 21inch魚雷後期型: T.Acc: 6
 21inch魚雷後期型: Range: 1
-21inch魚雷後期型: Cost: 13
+21inch魚雷後期型: Cost: 12
 21inch魚雷後期型: Dist: 10
 高速深海魚雷: Torp: 10
 高速深海魚雷: T.Acc: 4
 高速深海魚雷: Rare: 1
 高速深海魚雷: Range: 1
-高速深海魚雷: Cost: 13
+高速深海魚雷: Cost: 12
 高速深海魚雷: Dist: 10
 深海棲艦攻: Torp: 4
 深海棲艦攻: LoS: 5
 深海棲艦攻: ASW: 2
-深海棲艦攻: Cost: 13
+深海棲艦攻: Cost: 12
 深海棲艦攻: Dist: 10
 深海棲艦攻 Mark.II: Torp: 6
 深海棲艦攻 Mark.II: LoS: 5
 深海棲艦攻 Mark.II: ASW: 4
 深海棲艦攻 Mark.II: T.Acc: 2
 深海棲艦攻 Mark.II: Rare: 1
-深海棲艦攻 Mark.II: Cost: 13
+深海棲艦攻 Mark.II: Cost: 12
 深海棲艦攻 Mark.II: Dist: 10
 深海棲艦攻 Mark.III: Torp: 11
 深海棲艦攻 Mark.III: AA: 4
 深海棲艦攻 Mark.III: LoS: 5
 深海棲艦攻 Mark.III: ASW: 7
 深海棲艦攻 Mark.III: Rare: 2
-深海棲艦攻 Mark.III: Cost: 13
+深海棲艦攻 Mark.III: Cost: 12
 深海棲艦攻 Mark.III: Dist: 10
 深海棲艦戦: AA: 2
-深海棲艦戦: Cost: 13
+深海棲艦戦: Cost: 12
 深海棲艦戦: Dist: 10
 深海棲艦戦 Mark.II: AA: 5
 深海棲艦戦 Mark.II: T.Acc: 24
-深海棲艦戦 Mark.II: Cost: 13
+深海棲艦戦 Mark.II: Cost: 12
 深海棲艦戦 Mark.II: Dist: 10
 深海棲艦戦 Mark.III: AA: 9
 深海棲艦戦 Mark.III: Rare: 1
-深海棲艦戦 Mark.III: Cost: 13
+深海棲艦戦 Mark.III: Cost: 12
 深海棲艦戦 Mark.III: Dist: 10
 飛び魚艦戦: AA: 13
 飛び魚艦戦: T.Acc: 7
 飛び魚艦戦: Rare: 3
-飛び魚艦戦: Cost: 13
+飛び魚艦戦: Cost: 12
 飛び魚艦戦: Dist: 10
 深海棲艦爆: Dive: 3
 深海棲艦爆: ASW: 1
-深海棲艦爆: Cost: 13
+深海棲艦爆: Cost: 12
 深海棲艦爆: Dist: 10
 深海棲艦爆 Mark.II: Dive: 6
 深海棲艦爆 Mark.II: ASW: 2
 深海棲艦爆 Mark.II: Rare: 1
-深海棲艦爆 Mark.II: Cost: 13
+深海棲艦爆 Mark.II: Cost: 12
 深海棲艦爆 Mark.II: Dist: 10
 深海棲艦偵察機: AA: 1
 深海棲艦偵察機: Dive: 1
 深海棲艦偵察機: LoS: 5
 深海棲艦偵察機: ASW: 1
-深海棲艦偵察機: Cost: 13
+深海棲艦偵察機: Cost: 12
 深海棲艦偵察機: Dist: 10
 飛び魚偵察機: AA: 2
 飛び魚偵察機: Dive: 4
 飛び魚偵察機: LoS: 10
 飛び魚偵察機: ASW: 2
 飛び魚偵察機: Rare: 1
-飛び魚偵察機: Cost: 13
+飛び魚偵察機: Cost: 12
 飛び魚偵察機: Dist: 10
 対空レーダ― Mark.I: AA: 5
 対空レーダ― Mark.I: LoS: 5
 対空レーダ― Mark.I: Acc: 5
 対空レーダ― Mark.I: Rare: 1
-対空レーダ― Mark.I: Cost: 13
+対空レーダ― Mark.I: Cost: 12
 対空レーダ― Mark.I: Dist: 10
 水上レーダ― Mark.I: LoS: 5
 水上レーダ― Mark.I: Acc: 10
 水上レーダ― Mark.I: Rare: 1
-水上レーダ― Mark.I: Cost: 13
+水上レーダ― Mark.I: Cost: 12
 水上レーダ― Mark.I: Dist: 10
 水上レーダ― Mark.II: LoS: 10
 水上レーダ― Mark.II: Acc: 15
 水上レーダ― Mark.II: Rare: 2
-水上レーダ― Mark.II: Cost: 13
+水上レーダ― Mark.II: Cost: 12
 水上レーダ― Mark.II: Dist: 10
 対空レーダ― Mark.II: AA: 10
 対空レーダ― Mark.II: LoS: 10
 対空レーダ― Mark.II: Acc: 5
 対空レーダ― Mark.II: T.Acc: 21
 対空レーダ― Mark.II: Rare: 2
-対空レーダ― Mark.II: Cost: 13
+対空レーダ― Mark.II: Cost: 12
 対空レーダ― Mark.II: Dist: 10
 深海水上レーダー: AA: 5
 深海水上レーダー: LoS: 16
@@ -1209,7 +1223,7 @@ PBY-5A Catalina: Dist: 10
 深海水上レーダー: Evas: 3
 深海水上レーダー: T.Acc: 13
 深海水上レーダー: Rare: 3
-深海水上レーダー: Cost: 13
+深海水上レーダー: Cost: 12
 深海水上レーダー: Dist: 10
 深海対空レーダ―: AA: 18
 深海対空レーダ―: LoS: 12
@@ -1218,82 +1232,82 @@ PBY-5A Catalina: Dist: 10
 深海対空レーダ―: Evas: 2
 深海対空レーダ―: T.Acc: 13
 深海対空レーダ―: Rare: 4
-深海対空レーダ―: Cost: 13
+深海対空レーダ―: Cost: 12
 深海対空レーダ―: Dist: 10
 改良型深海タービン: Evas: 10
 改良型深海タービン: T.Acc: 17
-改良型深海タービン: Cost: 13
+改良型深海タービン: Cost: 12
 改良型深海タービン: Dist: 10
 強化型深海缶: Evas: 15
 強化型深海缶: T.Acc: 4
 強化型深海缶: Rare: 1
-強化型深海缶: Cost: 13
+強化型深海缶: Cost: 12
 強化型深海缶: Dist: 10
 対空散弾: AA: 10
 対空散弾: T.Acc: 10
-対空散弾: Cost: 13
+対空散弾: Cost: 12
 対空散弾: Dist: 10
 劣化徹甲弾: FP: 15
 劣化徹甲弾: Acc: 5
 劣化徹甲弾: T.Acc: 8
 劣化徹甲弾: Rare: 1
-劣化徹甲弾: Cost: 13
+劣化徹甲弾: Cost: 12
 劣化徹甲弾: Dist: 10
 12.7mm機銃: AA: 2
 12.7mm機銃: T.Acc: 5
-12.7mm機銃: Cost: 13
+12.7mm機銃: Cost: 12
 12.7mm機銃: Dist: 10
 20mm機銃: AA: 4
-20mm機銃: Cost: 13
+20mm機銃: Cost: 12
 20mm機銃: Dist: 10
 40mm二連装機関砲: AA: 8
 40mm二連装機関砲: T.Acc: 3
 40mm二連装機関砲: Rare: 1
-40mm二連装機関砲: Cost: 13
+40mm二連装機関砲: Cost: 12
 40mm二連装機関砲: Dist: 10
 40mm四連装機関砲: AA: 12
 40mm四連装機関砲: Rare: 2
-40mm四連装機関砲: Cost: 13
+40mm四連装機関砲: Cost: 12
 40mm四連装機関砲: Dist: 10
 深海烏賊魚雷: Torp: 18
 深海烏賊魚雷: Acc: 5
 深海烏賊魚雷: Rare: 4
 深海烏賊魚雷: Range: 1
-深海烏賊魚雷: Cost: 13
+深海烏賊魚雷: Cost: 12
 深海烏賊魚雷: Dist: 10
 深海爆雷投射機: ASW: 7
 深海爆雷投射機: Rare: 2
-深海爆雷投射機: Cost: 13
+深海爆雷投射機: Cost: 12
 深海爆雷投射機: Dist: 10
 深海ソナー: ASW: 9
 深海ソナー: Rare: 2
-深海ソナー: Cost: 13
+深海ソナー: Cost: 12
 深海ソナー: Dist: 10
 深海爆雷投射機 Mk.II: ASW: 13
 深海爆雷投射機 Mk.II: Rare: 3
-深海爆雷投射機 Mk.II: Cost: 13
+深海爆雷投射機 Mk.II: Cost: 12
 深海爆雷投射機 Mk.II: Dist: 10
 深海ソナー Mk.II: ASW: 16
 深海ソナー Mk.II: Rare: 3
-深海ソナー Mk.II: Cost: 13
+深海ソナー Mk.II: Cost: 12
 深海ソナー Mk.II: Dist: 10
 飛び魚艦爆: AA: 8
 飛び魚艦爆: Dive: 10
 飛び魚艦爆: ASW: 7
 飛び魚艦爆: Rare: 3
-飛び魚艦爆: Cost: 13
+飛び魚艦爆: Cost: 12
 飛び魚艦爆: Dist: 10
 深海猫艦戦: AA: 10
 深海猫艦戦: Acc: 1
 深海猫艦戦: Rare: 3
-深海猫艦戦: Cost: 13
+深海猫艦戦: Cost: 12
 深海猫艦戦: Dist: 10
 深海地獄艦爆: Dive: 11
 深海地獄艦爆: LoS: 3
 深海地獄艦爆: ASW: 4
 深海地獄艦爆: Acc: 3
 深海地獄艦爆: Rare: 3
-深海地獄艦爆: Cost: 13
+深海地獄艦爆: Cost: 12
 深海地獄艦爆: Dist: 10
 深海復讐艦攻: Torp: 13
 深海復讐艦攻: AA: 4
@@ -1301,35 +1315,35 @@ PBY-5A Catalina: Dist: 10
 深海復讐艦攻: ASW: 5
 深海復讐艦攻: Acc: 2
 深海復讐艦攻: Rare: 3
-深海復讐艦攻: Cost: 13
+深海復讐艦攻: Cost: 12
 深海復讐艦攻: Dist: 10
 5inch連装両用莢砲: FP: 2
 5inch連装両用莢砲: AA: 9
 5inch連装両用莢砲: Acc: 3
 5inch連装両用莢砲: Rare: 3
 5inch連装両用莢砲: Range: 2
-5inch連装両用莢砲: Cost: 13
+5inch連装両用莢砲: Cost: 12
 5inch連装両用莢砲: Dist: 10
 20inch連装砲: FP: 27
 20inch連装砲: AA: 4
 20inch連装砲: Acc: 3
 20inch連装砲: Rare: 4
 20inch連装砲: Range: 3
-20inch連装砲: Cost: 13
+20inch連装砲: Cost: 12
 20inch連装砲: Dist: 10
 15inch要塞砲: FP: 13
 15inch要塞砲: Armor: 3
 15inch要塞砲: Acc: 4
 15inch要塞砲: Rare: 2
 15inch要塞砲: Range: 3
-15inch要塞砲: Cost: 13
+15inch要塞砲: Cost: 12
 15inch要塞砲: Dist: 10
 4inch連装両用砲+CIC: FP: 5
 4inch連装両用砲+CIC: AA: 15
 4inch連装両用砲+CIC: Acc: 5
 4inch連装両用砲+CIC: Rare: 4
 4inch連装両用砲+CIC: Range: 2
-4inch連装両用砲+CIC: Cost: 13
+4inch連装両用砲+CIC: Cost: 12
 4inch連装両用砲+CIC: Dist: 10
 深海水上攻撃機: AA: 4
 深海水上攻撃機: Dive: 8
@@ -1337,7 +1351,7 @@ PBY-5A Catalina: Dist: 10
 深海水上攻撃機: ASW: 8
 深海水上攻撃機: Acc: 1
 深海水上攻撃機: Rare: 2
-深海水上攻撃機: Cost: 13
+深海水上攻撃機: Cost: 12
 深海水上攻撃機: Dist: 10
 深海水上攻撃機改: AA: 9
 深海水上攻撃機改: Dive: 13
@@ -1345,20 +1359,20 @@ PBY-5A Catalina: Dist: 10
 深海水上攻撃機改: ASW: 10
 深海水上攻撃機改: Acc: 3
 深海水上攻撃機改: Rare: 4
-深海水上攻撃機改: Cost: 13
+深海水上攻撃機改: Cost: 12
 深海水上攻撃機改: Dist: 10
 深海猫艦戦改: AA: 12
 深海猫艦戦改: Acc: 2
 深海猫艦戦改: Evas: 2
 深海猫艦戦改: Rare: 4
-深海猫艦戦改: Cost: 13
+深海猫艦戦改: Cost: 12
 深海猫艦戦改: Dist: 10
 深海地獄艦爆改: Dive: 15
 深海地獄艦爆改: LoS: 5
 深海地獄艦爆改: ASW: 8
 深海地獄艦爆改: Acc: 4
 深海地獄艦爆改: Rare: 4
-深海地獄艦爆改: Cost: 13
+深海地獄艦爆改: Cost: 12
 深海地獄艦爆改: Dist: 10
 深海復讐艦攻改: Torp: 16
 深海復讐艦攻改: AA: 5
@@ -1366,7 +1380,7 @@ PBY-5A Catalina: Dist: 10
 深海復讐艦攻改: ASW: 9
 深海復讐艦攻改: Acc: 3
 深海復讐艦攻改: Rare: 4
-深海復讐艦攻改: Cost: 13
+深海復讐艦攻改: Cost: 12
 深海復讐艦攻改: Dist: 10
 深海FCS+CIC: AA: 6
 深海FCS+CIC: LoS: 3
@@ -1374,12 +1388,12 @@ PBY-5A Catalina: Dist: 10
 深海FCS+CIC: Acc: 5
 深海FCS+CIC: Evas: 3
 深海FCS+CIC: Rare: 3
-深海FCS+CIC: Cost: 13
+深海FCS+CIC: Cost: 12
 深海FCS+CIC: Dist: 10
 深海探照灯: FP: 2
 深海探照灯: LoS: 2
 深海探照灯: Rare: 1
-深海探照灯: Cost: 13
+深海探照灯: Cost: 12
 深海探照灯: Dist: 10
 深海解放陸爆: AA: 3
 深海解放陸爆: Dive: 11
@@ -1387,7 +1401,7 @@ PBY-5A Catalina: Dist: 10
 深海解放陸爆: ASW: 5
 深海解放陸爆: Acc: 1
 深海解放陸爆: Rare: 2
-深海解放陸爆: Cost: 13
+深海解放陸爆: Cost: 12
 深海解放陸爆: Dist: 10
 深海解放陸爆Ace: AA: 5
 深海解放陸爆Ace: Dive: 16
@@ -1395,41 +1409,41 @@ PBY-5A Catalina: Dist: 10
 深海解放陸爆Ace: ASW: 7
 深海解放陸爆Ace: Acc: 2
 深海解放陸爆Ace: Rare: 3
-深海解放陸爆Ace: Cost: 13
+深海解放陸爆Ace: Cost: 12
 深海解放陸爆Ace: Dist: 10
 8inch長射程連装砲: FP: 8
 8inch長射程連装砲: AA: 1
 8inch長射程連装砲: Acc: -1
 8inch長射程連装砲: Rare: 4
 8inch長射程連装砲: Range: 3
-8inch長射程連装砲: Cost: 13
+8inch長射程連装砲: Cost: 12
 8inch長射程連装砲: Dist: 10
 深海水上偵察観測機: AA: 2
 深海水上偵察観測機: LoS: 5
 深海水上偵察観測機: ASW: 2
 深海水上偵察観測機: Acc: 5
 深海水上偵察観測機: Rare: 3
-深海水上偵察観測機: Cost: 13
+深海水上偵察観測機: Cost: 12
 深海水上偵察観測機: Dist: 10
 5inch沿岸設置砲: FP: 3
 5inch沿岸設置砲: Armor: 2
 5inch沿岸設置砲: Acc: 3
 5inch沿岸設置砲: Rare: 2
 5inch沿岸設置砲: Range: 2
-5inch沿岸設置砲: Cost: 13
+5inch沿岸設置砲: Cost: 12
 5inch沿岸設置砲: Dist: 10
 深海猫艦戦(爆装): AA: 7
 深海猫艦戦(爆装): Dive: 8
 深海猫艦戦(爆装): ASW: 2
 深海猫艦戦(爆装): Acc: 2
 深海猫艦戦(爆装): Rare: 3
-深海猫艦戦(爆装): Cost: 13
+深海猫艦戦(爆装): Cost: 12
 深海猫艦戦(爆装): Dist: 10
 沿岸設置レーダー: AA: 4
 沿岸設置レーダー: LoS: 8
 沿岸設置レーダー: Acc: 16
 沿岸設置レーダー: Rare: 3
-沿岸設置レーダー: Cost: 13
+沿岸設置レーダー: Cost: 12
 沿岸設置レーダー: Dist: 10
 16inch三連装砲: FP: 24
 16inch三連装砲: AA: 3
@@ -1437,7 +1451,7 @@ PBY-5A Catalina: Dist: 10
 16inch三連装砲: Acc: 4
 16inch三連装砲: Rare: 5
 16inch三連装砲: Range: 3
-16inch三連装砲: Cost: 13
+16inch三連装砲: Cost: 12
 16inch三連装砲: Dist: 10
 深海偵察飛行艇: FP: 3
 深海偵察飛行艇: AA: 1
@@ -1445,5 +1459,5 @@ PBY-5A Catalina: Dist: 10
 深海偵察飛行艇: ASW: 2
 深海偵察飛行艇: Acc: 8
 深海偵察飛行艇: Rare: 4
-深海偵察飛行艇: Cost: 13
+深海偵察飛行艇: Cost: 12
 深海偵察飛行艇: Dist: 10
