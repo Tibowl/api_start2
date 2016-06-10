@@ -1604,7 +1604,7 @@
     "api_no": 28,
     "api_price": 77000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 20,
     "api_title": "「加賀」模型と桐箪笥",
     "api_type": 4
@@ -1964,7 +1964,7 @@
     "api_no": 33,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "布団と枕",
     "api_type": 5
@@ -1984,7 +1984,7 @@
     "api_no": 35,
     "api_price": 8000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5
@@ -2974,8 +2974,28 @@
     "api_no": 62,
     "api_price": 0,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "反省の掛け軸",
     "api_type": 3
+}, {
+    "api_description": "梅雨のシーズンに美しく咲<br>く紫陽花の花をモチーフに<br>したステンドグラス。雨の<br>日も爽やかな気分になれる<br>提督室を演出します。",
+    "api_id": 299,
+    "api_no": 63,
+    "api_price": 1900,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "紫陽花のステンドグラス",
+    "api_type": 3
+}, {
+    "api_description": "航空巡洋艦の模型が飾られ<br>た高級桐箪笥。家具コイン<br>長者に贈られるこの逸品…<br>大丈夫、箪笥には衝突しな<br>いって！痛っ、あ、あれ？",
+    "api_id": 300,
+    "api_no": 42,
+    "api_price": 60000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「最上」模型と桐箪笥",
+    "api_type": 4
 }]
