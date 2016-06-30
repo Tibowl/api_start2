@@ -1564,7 +1564,7 @@
     "api_no": 24,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "しょうぶ和箪笥",
     "api_type": 4
@@ -2114,7 +2114,7 @@
     "api_no": 31,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "夏先取りセット",
     "api_type": 4
@@ -2474,7 +2474,7 @@
     "api_no": 51,
     "api_price": 7500,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "水風呂",
     "api_type": 5
@@ -2484,7 +2484,7 @@
     "api_no": 37,
     "api_price": 1880,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鬼灯の花の窓",
     "api_type": 2
@@ -2864,7 +2864,7 @@
     "api_no": 40,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "皐月の壁紙",
     "api_type": 1
@@ -2874,7 +2874,7 @@
     "api_no": 41,
     "api_price": 1750,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "皐月の窓",
     "api_type": 2
@@ -2884,7 +2884,7 @@
     "api_no": 62,
     "api_price": 3500,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 17,
     "api_title": "皐月の机",
     "api_type": 5
@@ -2944,7 +2944,7 @@
     "api_no": 40,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "梅雨の季節の床",
     "api_type": 0
@@ -2998,4 +2998,34 @@
     "api_season": 0,
     "api_title": "「最上」模型と桐箪笥",
     "api_type": 4
+}, {
+    "api_description": "提督執務室を少し片付けて<br>涼しげな家具を置いてみる<br>のもいいですね。涼しげな<br>金魚鉢とのんびり泳ぐ金魚<br>は艦娘達にも人気です。",
+    "api_id": 301,
+    "api_no": 43,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "涼しげな金魚鉢",
+    "api_type": 4
+}, {
+    "api_description": "木の素材を活かし、職人が<br>腕によりをかけて組み上げ<br>たオール木製の壁材です。<br>ナチュラルな高級感、通気<br>性も抜群。自然派提督に！",
+    "api_id": 302,
+    "api_no": 44,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "木製の涼しげな壁",
+    "api_type": 1
+}, {
+    "api_description": "ちょっと畳な雰囲気を味わ<br>いつつシンプルな床も好き<br>という提督のための、ハー<br>フ＆ハーフな簡易畳です。<br>お値段もリーズナブル！",
+    "api_id": 303,
+    "api_no": 42,
+    "api_price": 1500,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "床半分の簡易畳",
+    "api_type": 0
 }]
