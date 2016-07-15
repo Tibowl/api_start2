@@ -9243,7 +9243,7 @@
     "api_afterfuel": 0,
     "api_afterlv": 0,
     "api_aftershipid": "0",
-    "api_backs": 3,
+    "api_backs": 5,
     "api_broken": [1, 2, 10, 0],
     "api_buildtime": 24,
     "api_bull_max": 20,
@@ -11091,7 +11091,7 @@
     "api_afterfuel": 120,
     "api_afterlv": 30,
     "api_aftershipid": "349",
-    "api_backs": 3,
+    "api_backs": 4,
     "api_broken": [1, 1, 6, 0],
     "api_buildtime": 24,
     "api_bull_max": 20,
@@ -12948,6 +12948,76 @@
     "api_soku": 10,
     "api_stype": 2,
     "api_yomi": ""
+}, {
+    "api_id": 887,
+    "api_name": "梅雨曙",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "あけぼの"
+}, {
+    "api_id": 888,
+    "api_name": "梅雨早霜",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "はやしも"
+}, {
+    "api_id": 889,
+    "api_name": "梅雨清霜",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "きよしも"
+}, {
+    "api_id": 890,
+    "api_name": "梅雨瑞穂",
+    "api_slot_num": 2,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "みずほ"
+}, {
+    "api_id": 891,
+    "api_name": "梅雨夕立改二",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "ゆうだち"
+}, {
+    "api_id": 892,
+    "api_name": "梅雨最上",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 5,
+    "api_yomi": "もがみ"
+}, {
+    "api_id": 893,
+    "api_name": "梅雨夕張",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 3,
+    "api_yomi": "ゆうばり"
+}, {
+    "api_id": 894,
+    "api_name": "梅雨千歳",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 16,
+    "api_yomi": "ちとせ"
+}, {
+    "api_id": 895,
+    "api_name": "梅雨千代田",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 16,
+    "api_yomi": "ちよだ"
+}, {
+    "api_id": 896,
+    "api_name": "携帯白露",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "しらつゆ"
 }, {
     "api_id": 897,
     "api_name": "記念日夕雲",

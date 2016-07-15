@@ -3096,6 +3096,16 @@ PT小鬼群: speed: 10
 駆逐古姫: speed: 10
 駆逐古姫: speed: 10
 駆逐古姫: speed: 10
+梅雨曙: speed: 10
+梅雨早霜: speed: 10
+梅雨清霜: speed: 10
+梅雨瑞穂: speed: 5
+梅雨夕立改二: speed: 10
+梅雨最上: speed: 10
+梅雨夕張: speed: 10
+梅雨千歳: speed: 10
+梅雨千代田: speed: 10
+携帯白露: speed: 10
 記念日夕雲: speed: 10
 記念日長波: speed: 10
 記念日春雨改: speed: 10
