@@ -304,7 +304,7 @@
     "api_no": 30,
     "api_price": 9300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "飛行甲板",
     "api_type": 0
@@ -3088,4 +3088,14 @@
     "api_season": 0,
     "api_title": "リゾートハンモック",
     "api_type": 5
+}, {
+    "api_description": "匠の職人の卓越した技術に<br>よって、波打ち際の砂浜が<br>鎮守府内にダイナミックに<br>再現されました。これなら<br>執務中も夏気分満喫です！",
+    "api_id": 310,
+    "api_no": 44,
+    "api_price": 5500,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 24,
+    "api_title": "波打ち際の砂浜床",
+    "api_type": 0
 }]
