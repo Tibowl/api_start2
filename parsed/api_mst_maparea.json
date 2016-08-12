@@ -22,4 +22,8 @@
     "api_id": 6,
     "api_name": "中部海域",
     "api_type": 0
+}, {
+    "api_id": 35,
+    "api_name": "迎撃！第二次マレー沖海戦",
+    "api_type": 1
 }]

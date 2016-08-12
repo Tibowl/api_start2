@@ -3098,4 +3098,14 @@
     "api_season": 24,
     "api_title": "波打ち際の砂浜床",
     "api_type": 0
+}, {
+    "api_description": "どこか懐かしい夏仕様の窓<br>です。蚊取り線香と風鈴を<br>配して、ゆったりした時間<br>が流れます。艦娘が西瓜を<br>切ってきてくれました。",
+    "api_id": 311,
+    "api_no": 43,
+    "api_price": 4800,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "鎮守府夏時間の窓",
+    "api_type": 2
 }]

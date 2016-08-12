@@ -358,4 +358,52 @@
     "api_opetext": "離島再攻略作戦",
     "api_required_defeat_count": 5,
     "api_sally_flag": [1, 0]
+}, {
+    "api_id": 351,
+    "api_infotext": "敵深海棲艦の東洋艦隊への迎撃<br>作戦を展開する。まず、作戦海<br>域の対潜哨戒と前路掃討を実施<br>する！哨戒部隊、出撃せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 6,
+    "api_maparea_id": 35,
+    "api_max_maphp": 300,
+    "api_name": "南西海域 ブンタン沖",
+    "api_no": 1,
+    "api_opetext": "ブンタン沖哨戒",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 352,
+    "api_infotext": "我が防衛線を強化し、敵の侵攻<br>を阻むため、前線に陸上戦力と<br>補給物資を揚陸する。敵の妨害<br>を排し、戦力揚陸を敢行せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 35,
+    "api_max_maphp": 300,
+    "api_name": "南西海域 エンドウ沖",
+    "api_no": 2,
+    "api_opetext": "第二次エンドウ沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 353,
+    "api_infotext": "遂に敵の主力、Ｚ部隊が根拠地<br>より出撃した！我が連合艦隊は<br>ただちに出撃！基地航空隊と共<br>にこれを捕捉、撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 35,
+    "api_max_maphp": 300,
+    "api_name": "南西海域 マレー沖",
+    "api_no": 3,
+    "api_opetext": "第二次マレー沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7]
+}, {
+    "api_id": 354,
+    "api_infotext": "侵攻した敵主力艦隊を撃破した<br>ことにより、反攻作戦が可能と<br>なった。マラッカ海峡を抜け、<br>敵艦隊への反撃を開始せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 12,
+    "api_maparea_id": 35,
+    "api_max_maphp": 300,
+    "api_name": "南西海域 マラッカ海峡沖",
+    "api_no": 4,
+    "api_opetext": "マラッカ海峡沖夜戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7]
 }]
