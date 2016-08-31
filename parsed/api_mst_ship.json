@@ -2404,7 +2404,7 @@
     "api_stype": 11,
     "api_taik": [50, 79],
     "api_tyku": [26, 69],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "そうりゅう"
 }, {
     "api_afterbull": 300,
@@ -2432,7 +2432,7 @@
     "api_stype": 11,
     "api_taik": [50, 79],
     "api_tyku": [26, 69],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "ひりゅう"
 }, {
     "api_afterbull": 250,
@@ -5344,7 +5344,7 @@
     "api_stype": 11,
     "api_taik": [67, 89],
     "api_tyku": [33, 82],
-    "api_voicef": 0,
+    "api_voicef": 3,
     "api_yomi": "ひりゅう"
 }, {
     "api_afterbull": 0,
@@ -5372,7 +5372,7 @@
     "api_stype": 11,
     "api_taik": [67, 89],
     "api_tyku": [34, 84],
-    "api_voicef": 0,
+    "api_voicef": 3,
     "api_yomi": "そうりゅう"
 }, {
     "api_afterbull": 0,
@@ -7640,7 +7640,7 @@
     "api_stype": 11,
     "api_taik": [65, 89],
     "api_tyku": [30, 79],
-    "api_voicef": 0,
+    "api_voicef": 3,
     "api_yomi": "そうりゅう"
 }, {
     "api_afterbull": 1700,
@@ -7668,7 +7668,7 @@
     "api_stype": 11,
     "api_taik": [65, 89],
     "api_tyku": [30, 79],
-    "api_voicef": 0,
+    "api_voicef": 3,
     "api_yomi": "ひりゅう"
 }, {
     "api_afterbull": 600,
@@ -13277,6 +13277,132 @@
     "api_soku": 10,
     "api_stype": 5,
     "api_yomi": ""
+}, {
+    "api_id": 869,
+    "api_name": "夏2016曙",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "あけぼの"
+}, {
+    "api_id": 870,
+    "api_name": "夏2016朧",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "おぼろ"
+}, {
+    "api_id": 871,
+    "api_name": "夏2016朧改",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "おぼろ"
+}, {
+    "api_id": 872,
+    "api_name": "夏風雲",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "かざぐも"
+}, {
+    "api_id": 873,
+    "api_name": "夏沖波",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "おきなみ"
+}, {
+    "api_id": 874,
+    "api_name": "夏五十鈴",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 3,
+    "api_yomi": "いすず"
+}, {
+    "api_id": 875,
+    "api_name": "夏扶桑",
+    "api_slot_num": 4,
+    "api_soku": 5,
+    "api_stype": 9,
+    "api_yomi": "ふそう"
+}, {
+    "api_id": 876,
+    "api_name": "夏山城",
+    "api_slot_num": 4,
+    "api_soku": 5,
+    "api_stype": 9,
+    "api_yomi": "やましろ"
+}, {
+    "api_id": 877,
+    "api_name": "夏瑞穂",
+    "api_slot_num": 2,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "みずほ"
+}, {
+    "api_id": 878,
+    "api_name": "夏大和",
+    "api_slot_num": 4,
+    "api_soku": 5,
+    "api_stype": 9,
+    "api_yomi": "やまと"
+}, {
+    "api_id": 879,
+    "api_name": "夏榛名改二",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 8,
+    "api_yomi": "はるな"
+}, {
+    "api_id": 880,
+    "api_name": "夏大鯨",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 20,
+    "api_yomi": "たいげい・りゅうほう"
+}, {
+    "api_id": 881,
+    "api_name": "夏龍鳳",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 7,
+    "api_yomi": "たいげい・りゅうほう"
+}, {
+    "api_id": 882,
+    "api_name": "夏三隅",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 5,
+    "api_yomi": "みくま"
+}, {
+    "api_id": 883,
+    "api_name": "夏大淀",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 3,
+    "api_yomi": "おおよど"
+}, {
+    "api_id": 884,
+    "api_name": "夏大淀改",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 3,
+    "api_yomi": "おおよど"
+}, {
+    "api_id": 885,
+    "api_name": "夏Libeccio",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "リベッチオ"
+}, {
+    "api_id": 886,
+    "api_name": "夏Z3",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "マックス・シュルツ"
 }, {
     "api_id": 887,
     "api_name": "梅雨曙",
