@@ -1129,6 +1129,13 @@ QF 2ポンド8連装ポンポン砲: AA: 10
 QF 2ポンド8連装ポンポン砲: Rare: 3
 QF 2ポンド8連装ポンポン砲: Cost: 6
 QF 2ポンド8連装ポンポン砲: Dist: 3
+38.1cm Mk.I/N連装砲改: FP: 19
+38.1cm Mk.I/N連装砲改: AA: 3
+38.1cm Mk.I/N連装砲改: Acc: 2
+38.1cm Mk.I/N連装砲改: Rare: 4
+38.1cm Mk.I/N連装砲改: Range: 3
+38.1cm Mk.I/N連装砲改: Cost: 6
+38.1cm Mk.I/N連装砲改: Dist: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch単装砲: Cost: 6
