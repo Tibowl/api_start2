@@ -364,7 +364,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["最大保有艦娘数＋10(最大300)。最大保有アイテム数＋40(最大1300)。", ""],
+    "api_description": ["最大保有艦娘数＋10(最大310)。最大保有アイテム数＋40(最大1340)。", ""],
     "api_id": 53,
     "api_name": "母港拡張",
     "api_price": 0,
@@ -502,4 +502,11 @@
     "api_name": "お飾り材料",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["飛行場などの設営に必要です。※基地航空隊の拡張も可能　　※最大計10個まで保有可能", ""],
+    "api_id": 73,
+    "api_name": "設営隊",
+    "api_price": 0,
+    "api_usetype": 0
 }]
