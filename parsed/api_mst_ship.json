@@ -13334,6 +13334,20 @@
     "api_stype": 5,
     "api_yomi": ""
 }, {
+    "api_id": 867,
+    "api_name": "親子丼Roma",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 8,
+    "api_yomi": "ローマ"
+}, {
+    "api_id": 868,
+    "api_name": "親子丼曙",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "あけぼの"
+}, {
     "api_id": 869,
     "api_name": "夏2016曙",
     "api_slot_num": 2,

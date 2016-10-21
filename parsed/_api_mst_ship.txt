@@ -3181,6 +3181,8 @@ PT小鬼群: speed: 10
 重巡夏姫: speed: 10
 重巡夏姫: speed: 10
 重巡夏姫: speed: 10
+親子丼Roma: speed: 10
+親子丼曙: speed: 10
 夏2016曙: speed: 10
 夏2016朧: speed: 10
 夏2016朧改: speed: 10

@@ -2564,7 +2564,7 @@
     "api_no": 53,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 21,
     "api_title": "鎮守府秋祭りの屋台",
     "api_type": 5
@@ -2614,7 +2614,7 @@
     "api_no": 55,
     "api_price": 3800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府秋刀魚祭り",
     "api_type": 5
@@ -3128,4 +3128,14 @@
     "api_season": 0,
     "api_title": "すすきの窓",
     "api_type": 2
+}, {
+    "api_description": "最新鋭を自負するある軽巡<br>洋艦が、いえ、主にその妹<br>が艦隊の航海の安全と大漁<br>を祈って作った新大漁旗。<br>長女たちも寄書き済です！",
+    "api_id": 314,
+    "api_no": 64,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "一六式大漁旗",
+    "api_type": 3
 }]
