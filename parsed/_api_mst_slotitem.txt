@@ -1136,6 +1136,9 @@ QF 2ポンド8連装ポンポン砲: Dist: 3
 38.1cm Mk.I/N連装砲改: Range: 3
 38.1cm Mk.I/N連装砲改: Cost: 6
 38.1cm Mk.I/N連装砲改: Dist: 3
+特大発動艇: Rare: 2
+特大発動艇: Cost: 6
+特大発動艇: Dist: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch単装砲: Cost: 6

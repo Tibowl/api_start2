@@ -204,7 +204,7 @@
     "api_no": 20,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "真っ赤な高級絨毯",
     "api_type": 0
@@ -274,7 +274,7 @@
     "api_no": 27,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "中秋の名月敷物",
     "api_type": 0
@@ -289,14 +289,14 @@
     "api_title": "紅葉の職人床",
     "api_type": 0
 }, {
-    "api_description": "草原を思わせるような明るい黄緑の床。",
+    "api_description": "提督室の床板もちょこっと<br>座布団を置くだけで居住性<br>は格段に向上！提督が艦娘<br>のために用意した、小さい<br>けれど特別な座布団です。",
     "api_id": 30,
     "api_no": 29,
-    "api_price": 0,
-    "api_rarity": 0,
+    "api_price": 880,
+    "api_rarity": 2,
     "api_saleflg": 0,
     "api_season": 0,
-    "api_title": "黄緑の床",
+    "api_title": "艦娘座布団の床",
     "api_type": 0
 }, {
     "api_description": "鎮守府で執務しながら艦載<br>機の発着艦訓練も可能かも<br>しれない特注の飛行甲板型<br>の床。エレベーターが一体<br>どこに行くのか謎です。",
@@ -874,7 +874,7 @@
     "api_no": 16,
     "api_price": 1200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "お月見窓",
     "api_type": 2
@@ -2144,7 +2144,7 @@
     "api_no": 33,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "花火の窓",
     "api_type": 2
@@ -2164,7 +2164,7 @@
     "api_no": 42,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 3,
     "api_title": "秋刀魚の食卓",
     "api_type": 5
@@ -2324,7 +2324,7 @@
     "api_no": 48,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "洋酒＆ワイン棚",
     "api_type": 5
@@ -2394,7 +2394,7 @@
     "api_no": 49,
     "api_price": 9500,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "温泉岩風呂",
     "api_type": 5
@@ -2574,7 +2574,7 @@
     "api_no": 54,
     "api_price": 30000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 21,
     "api_title": "鎮守府秋祭りの射的",
     "api_type": 5
@@ -2614,7 +2614,7 @@
     "api_no": 55,
     "api_price": 3800,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府秋刀魚祭り",
     "api_type": 5
@@ -3138,4 +3138,54 @@
     "api_season": 0,
     "api_title": "一六式大漁旗",
     "api_type": 3
+}, {
+    "api_description": "和でシンプルにいきたい！<br>そんなわびさびの心に重き<br>を置く提督のために用意さ<br>れた提督専用座布団です。<br>座椅子付仕様で少し贅沢！",
+    "api_id": 315,
+    "api_no": 66,
+    "api_price": 1500,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "提督座布団",
+    "api_type": 5
+}, {
+    "api_description": "落ち着いた気持ちで作戦指<br>揮を執りたい提督のために<br>職人が心を込めて作りあげ<br>た提督文机です。お茶と座<br>布団もご用意しました。",
+    "api_id": 316,
+    "api_no": 67,
+    "api_price": 4000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "提督文机",
+    "api_type": 5
+}, {
+    "api_description": "寒くなってきたら囲炉裏が<br>が恋しくなりませんか？<br>炭のナチュラルな暖かさが<br>提督室を優しく包み込みま<br>す。換気には気をつけて！",
+    "api_id": 317,
+    "api_no": 68,
+    "api_price": 170000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "鎮守府囲炉裏",
+    "api_type": 5
+}, {
+    "api_description": "やはり提督室で聴く音楽は<br>あれに限る…そんなときに<br>一発で母港ＢＧМを標準に<br>戻せる便利な古いラヂオが<br>置かれたシックな窓です。",
+    "api_id": 318,
+    "api_no": 45,
+    "api_price": 2400,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "ラヂオの窓",
+    "api_type": 2
+}, {
+    "api_description": "家具コイン長者に贈る高級<br>職人が組み上げた木製窓。<br>木の優しさを感じる仕上り<br>に便利なラヂオも配置。<br>ダイナミック職人支援可！",
+    "api_id": 319,
+    "api_no": 46,
+    "api_price": 148000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "ラヂオと高級職人窓",
+    "api_type": 2
 }]

@@ -4352,7 +4352,7 @@
     "api_houg": [22, 68],
     "api_id": 160,
     "api_leng": 2,
-    "api_luck": [13, 69],
+    "api_luck": [13, 84],
     "api_maxeq": [1, 1, 1, 0, 0],
     "api_name": "那珂改二",
     "api_powup": [1, 1, 1, 2],
@@ -5304,7 +5304,7 @@
     "api_houg": [17, 72],
     "api_id": 195,
     "api_leng": 1,
-    "api_luck": [40, 77],
+    "api_luck": [40, 81],
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "綾波改二",
     "api_powup": [2, 2, 1, 1],
@@ -5932,7 +5932,7 @@
     "api_stype": 3,
     "api_taik": [43, 59],
     "api_tyku": [15, 69],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "ながら"
 }, {
     "api_afterbull": 360,
@@ -6016,7 +6016,7 @@
     "api_stype": 3,
     "api_taik": [43, 59],
     "api_tyku": [15, 59],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "なとり"
 }, {
     "api_afterbull": 480,
@@ -7895,10 +7895,10 @@
     "api_voicef": 3,
     "api_yomi": "しょうかく"
 }, {
-    "api_afterbull": 0,
-    "api_afterfuel": 0,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterbull": 350,
+    "api_afterfuel": 580,
+    "api_afterlv": 75,
+    "api_aftershipid": "487",
     "api_backs": 5,
     "api_broken": [2, 2, 10, 0],
     "api_buildtime": 75,
@@ -8692,7 +8692,7 @@
     "api_houg": [12, 48],
     "api_id": 320,
     "api_leng": 1,
-    "api_luck": [18, 77],
+    "api_luck": [18, 81],
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "磯風改",
     "api_powup": [1, 1, 1, 1],
@@ -9476,7 +9476,7 @@
     "api_houg": [25, 60],
     "api_id": 357,
     "api_leng": 1,
-    "api_luck": [8, 52],
+    "api_luck": [8, 71],
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "初月改",
     "api_powup": [1, 1, 3, 1],
@@ -10064,7 +10064,7 @@
     "api_houg": [10, 52],
     "api_id": 407,
     "api_leng": 1,
-    "api_luck": [32, 80],
+    "api_luck": [32, 83],
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "潮改二",
     "api_powup": [1, 2, 2, 1],
@@ -11927,6 +11927,34 @@
     "api_voicef": 1,
     "api_yomi": "うらなみ"
 }, {
+    "api_afterbull": 0,
+    "api_afterfuel": 0,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_backs": 7,
+    "api_broken": [2, 2, 10, 0],
+    "api_buildtime": 75,
+    "api_bull_max": 30,
+    "api_fuel_max": 25,
+    "api_getmes": "きたきたぁ！　鬼怒、いよいよ到着しましたよ！",
+    "api_houg": [15, 55],
+    "api_id": 487,
+    "api_leng": 1,
+    "api_luck": [17, 72],
+    "api_maxeq": [1, 1, 1, 0, 0],
+    "api_name": "鬼怒改二",
+    "api_powup": [1, 2, 2, 2],
+    "api_raig": [28, 82],
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_sortno": 287,
+    "api_souk": [29, 68],
+    "api_stype": 3,
+    "api_taik": [45, 61],
+    "api_tyku": [41, 83],
+    "api_voicef": 3,
+    "api_yomi": "きぬ"
+}, {
     "api_id": 501,
     "api_name": "駆逐イ級",
     "api_slot_num": 2,
@@ -13333,6 +13361,181 @@
     "api_soku": 10,
     "api_stype": 5,
     "api_yomi": ""
+}, {
+    "api_id": 842,
+    "api_name": "浴衣由良",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 3,
+    "api_yomi": "ゆら"
+}, {
+    "api_id": 843,
+    "api_name": "浴衣白露",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "しらつゆ"
+}, {
+    "api_id": 844,
+    "api_name": "浴衣秋月",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "あきづき"
+}, {
+    "api_id": 845,
+    "api_name": "浴衣陸奥",
+    "api_slot_num": 4,
+    "api_soku": 5,
+    "api_stype": 9,
+    "api_yomi": "むつ"
+}, {
+    "api_id": 846,
+    "api_name": "浴衣長波",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "ながなみ"
+}, {
+    "api_id": 847,
+    "api_name": "法被吹雪",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "ふぶき"
+}, {
+    "api_id": 848,
+    "api_name": "法被吹雪改二",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "ふぶき"
+}, {
+    "api_id": 849,
+    "api_name": "法被朝霜",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "あさしも"
+}, {
+    "api_id": 850,
+    "api_name": "法被夕雲",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "ゆうぐも"
+}, {
+    "api_id": 851,
+    "api_name": "法被扶桑",
+    "api_slot_num": 4,
+    "api_soku": 5,
+    "api_stype": 9,
+    "api_yomi": "ふそう"
+}, {
+    "api_id": 852,
+    "api_name": "秋刀魚多摩",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 3,
+    "api_yomi": "たま"
+}, {
+    "api_id": 853,
+    "api_name": "秋刀魚あきつ丸",
+    "api_slot_num": 2,
+    "api_soku": 5,
+    "api_stype": 17,
+    "api_yomi": "あきつまる"
+}, {
+    "api_id": 854,
+    "api_name": "秋刀魚時雨改二",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "しぐれ"
+}, {
+    "api_id": 855,
+    "api_name": "秋刀魚大鯨",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 20,
+    "api_yomi": "たいげい・りゅうほう"
+}, {
+    "api_id": 856,
+    "api_name": "秋刀魚龍鳳",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 7,
+    "api_yomi": "たいげい・りゅうほう"
+}, {
+    "api_id": 857,
+    "api_name": "秋刀魚Zara",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 5,
+    "api_yomi": "ザラ"
+}, {
+    "api_id": 858,
+    "api_name": "親子丼秋雲",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "あきぐも"
+}, {
+    "api_id": 859,
+    "api_name": "親子丼瑞穂",
+    "api_slot_num": 2,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "みずほ"
+}, {
+    "api_id": 860,
+    "api_name": "親子丼赤城",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 11,
+    "api_yomi": "あかぎ"
+}, {
+    "api_id": 861,
+    "api_name": "親子丼秋津洲",
+    "api_slot_num": 2,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "あきつしま"
+}, {
+    "api_id": 862,
+    "api_name": "親子丼山城",
+    "api_slot_num": 4,
+    "api_soku": 5,
+    "api_stype": 9,
+    "api_yomi": "やましろ"
+}, {
+    "api_id": 863,
+    "api_name": "親子丼夕立改二",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "ゆうだち"
+}, {
+    "api_id": 864,
+    "api_name": "買い出し金剛",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 8,
+    "api_yomi": "こんごう"
+}, {
+    "api_id": 865,
+    "api_name": "買い出し金剛改二",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 8,
+    "api_yomi": "こんごう"
+}, {
+    "api_id": 866,
+    "api_name": "買い出し天城",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 11,
+    "api_yomi": "あまぎ"
 }, {
     "api_id": 867,
     "api_name": "親子丼Roma",
