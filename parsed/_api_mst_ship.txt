@@ -2448,6 +2448,20 @@ Aquila改: speed: 10
 浦波改: AA: 16,54
 浦波改: luck: 17,67
 浦波改: speed: 10
+山風改: HP: 30,48
+山風改: Armor: 14,48
+山風改: FP: 13,51
+山風改: Torp: 28,82
+山風改: AA: 15,49
+山風改: luck: 8,59
+山風改: speed: 10
+Commandant Teste改: HP: 43,64
+Commandant Teste改: Armor: 26,56
+Commandant Teste改: FP: 32,58
+Commandant Teste改: Torp: 0,0
+Commandant Teste改: AA: 20,48
+Commandant Teste改: luck: 20,88
+Commandant Teste改: speed: 5
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
 伊168改: FP: 3,11
@@ -2847,6 +2861,13 @@ Pola: speed: 10
 親潮: AA: 9,37
 親潮: luck: 13,50
 親潮: speed: 10
+山風: HP: 16,32
+山風: Armor: 6,19
+山風: FP: 11,31
+山風: Torp: 24,69
+山風: AA: 8,38
+山風: luck: 6,39
+山風: speed: 10
 海風: HP: 16,32
 海風: Armor: 6,19
 海風: FP: 10,29
@@ -2987,6 +3008,13 @@ Pola: speed: 10
 鬼怒改二: AA: 41,83
 鬼怒改二: luck: 17,72
 鬼怒改二: speed: 10
+Commandant Teste: HP: 42,63
+Commandant Teste: Armor: 24,50
+Commandant Teste: FP: 28,48
+Commandant Teste: Torp: 0,0
+Commandant Teste: AA: 18,40
+Commandant Teste: luck: 17,79
+Commandant Teste: speed: 5
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
@@ -3188,6 +3216,14 @@ PT小鬼群: speed: 10
 重巡夏姫: speed: 10
 重巡夏姫: speed: 10
 重巡夏姫: speed: 10
+水母水姫: speed: 5
+水母水姫: speed: 5
+水母水姫: speed: 5
+深海海月姫: speed: 10
+深海海月姫: speed: 10
+深海海月姫: speed: 10
+空母ヲ級改: speed: 10
+空母ヲ級改: speed: 10
 浴衣由良: speed: 10
 浴衣白露: speed: 10
 浴衣秋月: speed: 10
