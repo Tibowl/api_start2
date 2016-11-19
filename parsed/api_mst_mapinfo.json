@@ -372,7 +372,7 @@
     "api_sally_flag": [1, 0]
 }, {
     "api_id": 361,
-    "api_infotext": "本土近海諸島の哨戒・防衛線を<br>するため、海上輸送作戦を実施<br>する。敵潜水艦等の跳梁に備え<br>周辺海域の警戒も厳とせよ！",
+    "api_infotext": "本土近海諸島の哨戒・防衛線を<br>強化するため、輸送作戦を実施<br>する。敵潜水艦等の跳梁に備え<br>周辺海域の警戒も厳とせよ！",
     "api_item": [34, 0, 0, 0],
     "api_level": 7,
     "api_maparea_id": 36,
@@ -408,7 +408,7 @@
     "api_sally_flag": [0, 7]
 }, {
     "api_id": 364,
-    "api_infotext": "※",
+    "api_infotext": "『シャングリラ』捜索及び追撃<br>のため、艦隊及び基地航空隊を<br>前線に前進配備を行う。同時に<br>同海域の戦闘哨戒も実施せよ！",
     "api_item": [32, 0, 0, 0],
     "api_level": 12,
     "api_maparea_id": 36,
@@ -420,7 +420,7 @@
     "api_sally_flag": [1, 0]
 }, {
     "api_id": 365,
-    "api_infotext": "※",
+    "api_infotext": "敵機動部隊群の出現する拠点<br>を発見した！連合艦隊抜錨！<br>環礁沖敵根拠地に向けて進撃<br>暁の水平線に勝利を刻め！",
     "api_item": [0, 0, 0, 0],
     "api_level": 14,
     "api_maparea_id": 36,

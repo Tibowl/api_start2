@@ -2455,6 +2455,13 @@ Aquila改: speed: 10
 山風改: AA: 15,49
 山風改: luck: 8,59
 山風改: speed: 10
+朝風改: HP: 23,38
+朝風改: Armor: 10,37
+朝風改: FP: 8,42
+朝風改: Torp: 14,69
+朝風改: AA: 10,52
+朝風改: luck: 14,88
+朝風改: speed: 10
 Commandant Teste改: HP: 43,64
 Commandant Teste改: Armor: 26,56
 Commandant Teste改: FP: 32,58
@@ -2707,6 +2714,13 @@ Graf Zeppelin: Torp: 0,0
 Graf Zeppelin: AA: 40,70
 Graf Zeppelin: luck: 4,39
 Graf Zeppelin: speed: 10
+Saratoga: HP: 83,93
+Saratoga: Armor: 40,63
+Saratoga: FP: 30,45
+Saratoga: Torp: 0,0
+Saratoga: AA: 36,73
+Saratoga: luck: 25,75
+Saratoga: speed: 10
 睦月改二: HP: 27,43
 睦月改二: Armor: 12,43
 睦月改二: FP: 10,45
@@ -2735,6 +2749,13 @@ Graf Zeppelin: speed: 10
 暁改二: AA: 19,59
 暁改二: luck: 15,67
 暁改二: speed: 10
+Saratoga改: HP: 88,98
+Saratoga改: Armor: 48,83
+Saratoga改: FP: 0,53
+Saratoga改: Torp: 0,0
+Saratoga改: AA: 52,93
+Saratoga改: luck: 35,85
+Saratoga改: speed: 10
 Warspite: HP: 72,87
 Warspite: Armor: 72,91
 Warspite: FP: 72,92
@@ -2966,6 +2987,13 @@ Pola: speed: 10
 神風: AA: 5,26
 神風: luck: 30,79
 神風: speed: 10
+朝風: HP: 12,23
+朝風: Armor: 5,17
+朝風: FP: 5,29
+朝風: Torp: 12,37
+朝風: AA: 6,27
+朝風: luck: 13,72
+朝風: speed: 10
 春風: HP: 12,23
 春風: Armor: 5,17
 春風: FP: 5,27
