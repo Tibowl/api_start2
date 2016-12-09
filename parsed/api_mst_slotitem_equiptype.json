@@ -191,6 +191,22 @@
     "api_name": "局地戦闘機",
     "api_show_flg": 0
 }, {
+    "api_id": 56,
+    "api_name": "噴式戦闘機",
+    "api_show_flg": 0
+}, {
+    "api_id": 57,
+    "api_name": "噴式戦闘爆撃機",
+    "api_show_flg": 0
+}, {
+    "api_id": 58,
+    "api_name": "噴式攻撃機",
+    "api_show_flg": 0
+}, {
+    "api_id": 59,
+    "api_name": "噴式偵察機",
+    "api_show_flg": 0
+}, {
     "api_id": 93,
     "api_name": "大型電探（II）",
     "api_show_flg": 0

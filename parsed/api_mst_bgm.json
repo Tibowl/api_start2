@@ -65,6 +65,12 @@
     "api_id": 125,
     "api_name": "基地航空隊"
 }, {
+    "api_id": 126,
+    "api_name": "-"
+}, {
+    "api_id": 127,
+    "api_name": "Xmas2016"
+}, {
     "api_id": 205,
     "api_name": "秋月の空"
 }, {
@@ -147,5 +153,8 @@
     "api_name": "鎮守府秋刀魚祭り改"
 }, {
     "api_id": 232,
-    "api_name": "艦娘音頭(試製先行版)"
+    "api_name": "艦娘音頭"
+}, {
+    "api_id": 233,
+    "api_name": "噴式の胎動"
 }]

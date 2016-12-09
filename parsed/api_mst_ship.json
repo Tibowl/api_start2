@@ -13642,6 +13642,13 @@
     "api_stype": 11,
     "api_yomi": "flagship"
 }, {
+    "api_id": 841,
+    "api_name": "Xmas漣改",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "さざなみ"
+}, {
     "api_id": 842,
     "api_name": "浴衣由良",
     "api_slot_num": 2,
