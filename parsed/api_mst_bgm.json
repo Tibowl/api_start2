@@ -69,7 +69,7 @@
     "api_name": "-"
 }, {
     "api_id": 127,
-    "api_name": "Xmas2016"
+    "api_name": "粉雪の降る夜"
 }, {
     "api_id": 205,
     "api_name": "秋月の空"
@@ -157,4 +157,7 @@
 }, {
     "api_id": 233,
     "api_name": "噴式の胎動"
+}, {
+    "api_id": 234,
+    "api_name": "粉雪の降る夜"
 }]

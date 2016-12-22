@@ -21,7 +21,7 @@
     "api_id": 186,
     "api_no": 22,
     "api_type": 5,
-    "api_version": "1"
+    "api_version": "2"
 }, {
     "api_filename": "036",
     "api_id": 199,
@@ -75,7 +75,7 @@
     "api_id": 230,
     "api_no": 35,
     "api_type": 2,
-    "api_version": "22"
+    "api_version": "23"
 }, {
     "api_filename": "042",
     "api_id": 235,

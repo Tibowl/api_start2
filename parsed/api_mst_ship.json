@@ -13642,6 +13642,90 @@
     "api_stype": 11,
     "api_yomi": "flagship"
 }, {
+    "api_id": 829,
+    "api_name": "Xmas鈴谷",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 5,
+    "api_yomi": "すずや"
+}, {
+    "api_id": 830,
+    "api_name": "Xmas熊野",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 5,
+    "api_yomi": "くまの"
+}, {
+    "api_id": 831,
+    "api_name": "Xmas朝雲",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "あさぐも"
+}, {
+    "api_id": 832,
+    "api_name": "Xmas山雲",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "やまぐも"
+}, {
+    "api_id": 833,
+    "api_name": "Xmas瑞穂",
+    "api_slot_num": 2,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "みずほ"
+}, {
+    "api_id": 834,
+    "api_name": "Xmas筑摩改二",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 6,
+    "api_yomi": "ちくま"
+}, {
+    "api_id": 835,
+    "api_name": "Xmas利根改二",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_stype": 6,
+    "api_yomi": "とね"
+}, {
+    "api_id": 836,
+    "api_name": "Xmasまるゆ",
+    "api_slot_num": 0,
+    "api_soku": 5,
+    "api_stype": 13,
+    "api_yomi": "まるゆ"
+}, {
+    "api_id": 837,
+    "api_name": "Xmas球磨",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 3,
+    "api_yomi": "くま"
+}, {
+    "api_id": 838,
+    "api_name": "XmasCommandant Teste",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "コマンダン・テスト"
+}, {
+    "api_id": 839,
+    "api_name": "Xmas明石改",
+    "api_slot_num": 4,
+    "api_soku": 5,
+    "api_stype": 19,
+    "api_yomi": "あかし"
+}, {
+    "api_id": 840,
+    "api_name": "Xmas明石",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 19,
+    "api_yomi": "あかし"
+}, {
     "api_id": 841,
     "api_name": "Xmas漣改",
     "api_slot_num": 3,

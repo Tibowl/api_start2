@@ -1834,7 +1834,7 @@
     "api_no": 20,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "床の間",
     "api_type": 5
@@ -2664,7 +2664,7 @@
     "api_no": 56,
     "api_price": 3000,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 22,
     "api_title": "七面鳥のディナー",
     "api_type": 5
@@ -3164,7 +3164,7 @@
     "api_no": 68,
     "api_price": 170000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府囲炉裏",
     "api_type": 5
@@ -3197,5 +3197,25 @@
     "api_saleflg": 1,
     "api_season": 25,
     "api_title": "トリコロールツリー",
+    "api_type": 5
+}, {
+    "api_description": "上質の牛肉を丹念な調理法<br>で仕上げたローストビーフ<br>をメインにしたフルコース<br>ディナーです。あの戦艦が<br>自信を持ってお薦めです！",
+    "api_id": 321,
+    "api_no": 70,
+    "api_price": 2500,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "ローストビーフディナー",
+    "api_type": 5
+}, {
+    "api_description": "ある水上機母艦が腕により<br>をかけて自慢のお米で作っ<br>た、ライスコロッケがメイ<br>ンのディナーコースです。<br>日本酒にもよくあいます。",
+    "api_id": 322,
+    "api_no": 71,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "ライスコロッケディナー",
     "api_type": 5
 }]

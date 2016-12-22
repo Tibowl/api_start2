@@ -3252,6 +3252,18 @@ PT小鬼群: speed: 10
 深海海月姫: speed: 10
 空母ヲ級改: speed: 10
 空母ヲ級改: speed: 10
+Xmas鈴谷: speed: 10
+Xmas熊野: speed: 10
+Xmas朝雲: speed: 10
+Xmas山雲: speed: 10
+Xmas瑞穂: speed: 5
+Xmas筑摩改二: speed: 10
+Xmas利根改二: speed: 10
+Xmasまるゆ: speed: 5
+Xmas球磨: speed: 10
+XmasCommandant Teste: speed: 5
+Xmas明石改: speed: 5
+Xmas明石: speed: 5
 Xmas漣改: speed: 10
 浴衣由良: speed: 10
 浴衣白露: speed: 10
