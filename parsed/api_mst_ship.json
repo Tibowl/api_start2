@@ -13642,6 +13642,13 @@
     "api_stype": 11,
     "api_yomi": "flagship"
 }, {
+    "api_id": 828,
+    "api_name": "買い物Pola",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 5,
+    "api_yomi": "ポーラ"
+}, {
     "api_id": 829,
     "api_name": "Xmas鈴谷",
     "api_slot_num": 3,

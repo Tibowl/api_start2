@@ -3252,6 +3252,7 @@ PT小鬼群: speed: 10
 深海海月姫: speed: 10
 空母ヲ級改: speed: 10
 空母ヲ級改: speed: 10
+買い物Pola: speed: 10
 Xmas鈴谷: speed: 10
 Xmas熊野: speed: 10
 Xmas朝雲: speed: 10
