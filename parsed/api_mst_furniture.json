@@ -664,7 +664,7 @@
     "api_no": 29,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "新春の壁紙",
     "api_type": 1
@@ -694,7 +694,7 @@
     "api_no": 32,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "龍の壁紙",
     "api_type": 1
@@ -754,7 +754,7 @@
     "api_no": 4,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "破魔矢の窓",
     "api_type": 2
@@ -954,7 +954,7 @@
     "api_no": 24,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "昔ながらのすりガラス",
     "api_type": 2
@@ -1134,7 +1134,7 @@
     "api_no": 12,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「謹賀新年」掛け軸",
     "api_type": 3
@@ -1164,7 +1164,7 @@
     "api_no": 15,
     "api_price": 2400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「なのです」掛け軸",
     "api_type": 3
@@ -1434,7 +1434,7 @@
     "api_no": 11,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "やかんストーブ",
     "api_type": 4
@@ -1514,7 +1514,7 @@
     "api_no": 19,
     "api_price": 600,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ドレッサー",
     "api_type": 4
@@ -1754,7 +1754,7 @@
     "api_no": 12,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "駆逐艦娘のツリー",
     "api_type": 5
@@ -2244,7 +2244,7 @@
     "api_no": 45,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府初詣セット",
     "api_type": 5
@@ -2274,7 +2274,7 @@
     "api_no": 46,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 11,
     "api_title": "年越し蕎麦",
     "api_type": 5
@@ -2994,7 +2994,7 @@
     "api_no": 42,
     "api_price": 60000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「最上」模型と桐箪笥",
     "api_type": 4
@@ -3144,7 +3144,7 @@
     "api_no": 66,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "提督座布団",
     "api_type": 5
@@ -3218,4 +3218,34 @@
     "api_season": 0,
     "api_title": "ライスコロッケディナー",
     "api_type": 5
+}, {
+    "api_description": "師走は鎮守府も大掃除の季<br>節です！一年の埃をとって<br>提督室もきれいにして新年<br>を迎えましょう！艦娘たち<br>も大忙しです！",
+    "api_id": 323,
+    "api_no": 46,
+    "api_price": 1800,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 26,
+    "api_title": "鎮守府大掃除道具",
+    "api_type": 4
+}, {
+    "api_description": "A HAPPY<br>NEW YEAR!<br>艦隊合流後初めて鎮守府の<br>お正月を体験する戦艦娘が<br>準備した新春掛け軸です。",
+    "api_id": 324,
+    "api_no": 65,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "新春掛け軸二〇一七",
+    "api_type": 3
+}, {
+    "api_description": "まだ見ないでっていってる<br>のに……といいつつ、ある<br>駆逐艦が一生懸命書いてく<br>れました！新しい「迎春」<br>掛け軸、お届けします。",
+    "api_id": 325,
+    "api_no": 66,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "「迎春」掛け軸二〇一七",
+    "api_type": 3
 }]
