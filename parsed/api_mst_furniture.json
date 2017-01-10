@@ -114,19 +114,19 @@
     "api_no": 11,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "小花柄カーペット",
     "api_type": 0
 }, {
-    "api_description": "白い床に青が爽やかな清潔感のある床。",
+    "api_description": "丸い形の暖かい絨毯です。<br>冬の季節にぴったりの和み<br>絨毯は駆逐艦娘たちにも好<br>評です。高品質かつお求め<br>やすいお値段もポイント。",
     "api_id": 13,
     "api_no": 12,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 1800,
+    "api_rarity": 3,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "青の小花柄のカーペット",
+    "api_title": "冬の丸絨毯",
     "api_type": 0
 }, {
     "api_description": "春、桜の季節。そんな桜の<br>季節を満開で味わうための<br>床です。匠の技と心意気を<br>感じる逸品です。鎮守府内<br>でのお花見もいいですね！",
@@ -154,7 +154,7 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 25,
     "api_title": "雪模様の特製絨毯",
     "api_type": 0
@@ -169,24 +169,24 @@
     "api_title": "ピンクの床",
     "api_type": 0
 }, {
-    "api_description": "マットの柄やクッションの刺繍がエスニックで凝ったデザイン。",
+    "api_description": "高品質な畳の上に、職人が<br>腕によりをかけて作りあげ<br>た新しい梅柄をあしらった<br>カーペットを配しました。<br>和洋折衷の逸品です。",
     "api_id": 18,
     "api_no": 17,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 2300,
+    "api_rarity": 4,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "エスニックなマット",
+    "api_title": "畳＆梅柄カーペット",
     "api_type": 0
 }, {
-    "api_description": "装飾的なアイテムは落ち着いたピンク系統でまとめると落ち着いたフェミニンな印象に。",
+    "api_description": "高品質の床板をある駆逐艦<br>娘たちがさらに磨き上げて<br>くれました。冬の鎮守府の<br>庭に咲いた、雪椿がそっと<br>置かれています。",
     "api_id": 19,
     "api_no": 18,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 2100,
+    "api_rarity": 4,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "フェミニンなマット",
+    "api_title": "睦月の床",
     "api_type": 0
 }, {
     "api_description": "大胆な柄が部屋の印象を明るく演出してくれます。お馬さんのぬいぐるみもポイント高し。",
@@ -204,7 +204,7 @@
     "api_no": 20,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "真っ赤な高級絨毯",
     "api_type": 0
@@ -554,7 +554,7 @@
     "api_no": 18,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "木板の壁",
     "api_type": 1
@@ -624,7 +624,7 @@
     "api_no": 25,
     "api_price": 750,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "冬のモダンアート壁紙",
     "api_type": 1
@@ -744,7 +744,7 @@
     "api_no": 3,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府新年飾り",
     "api_type": 2
@@ -1134,7 +1134,7 @@
     "api_no": 12,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「謹賀新年」掛け軸",
     "api_type": 3
@@ -1174,7 +1174,7 @@
     "api_no": 16,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3
@@ -1584,7 +1584,7 @@
     "api_no": 26,
     "api_price": 30000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "教室セット「机」",
     "api_type": 4
@@ -1734,7 +1734,7 @@
     "api_no": 10,
     "api_price": 40000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "教室セット「教卓」",
     "api_type": 5
@@ -1984,7 +1984,7 @@
     "api_no": 35,
     "api_price": 8000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5
@@ -2244,7 +2244,7 @@
     "api_no": 45,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府初詣セット",
     "api_type": 5
@@ -2264,7 +2264,7 @@
     "api_no": 39,
     "api_price": 800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "しめ飾り",
     "api_type": 3
@@ -2284,7 +2284,7 @@
     "api_no": 35,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 11,
     "api_title": "門松",
     "api_type": 4
@@ -2334,7 +2334,7 @@
     "api_no": 36,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "日本酒＆ウィスキー棚",
     "api_type": 4
@@ -2704,7 +2704,7 @@
     "api_no": 57,
     "api_price": 20160,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "年末年始の提督大奮発",
     "api_type": 5
@@ -2714,7 +2714,7 @@
     "api_no": 39,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "睦月の窓",
     "api_type": 2
@@ -2724,7 +2724,7 @@
     "api_no": 58,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "睦月の机",
     "api_type": 5
@@ -2744,7 +2744,7 @@
     "api_no": 57,
     "api_price": 135000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "航空戦艦ステンドグラス",
     "api_type": 3
@@ -3154,7 +3154,7 @@
     "api_no": 67,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督文机",
     "api_type": 5
@@ -3224,7 +3224,7 @@
     "api_no": 46,
     "api_price": 1800,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 26,
     "api_title": "鎮守府大掃除道具",
     "api_type": 4
@@ -3248,4 +3248,24 @@
     "api_season": 0,
     "api_title": "「迎春」掛け軸二〇一七",
     "api_type": 3
+}, {
+    "api_description": "白を基調とした落ち着いた<br>雰囲気の壁紙です。<br>梅柄のデザインを施しつつ<br>主張しすぎないので、多様<br>な家具にマッチします。",
+    "api_id": 326,
+    "api_no": 47,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "梅柄の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "睦月の季節にぴったりな<br>雪椿をモチーフにした意<br>匠が施された壁紙です。<br>睦月の床との相性も良い<br>感じです。",
+    "api_id": 327,
+    "api_no": 48,
+    "api_price": 1600,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "睦月の壁紙",
+    "api_type": 1
 }]
