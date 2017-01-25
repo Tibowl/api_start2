@@ -3036,6 +3036,13 @@ Pola: speed: 10
 鬼怒改二: AA: 41,83
 鬼怒改二: luck: 17,72
 鬼怒改二: speed: 10
+荒潮改二: HP: 31,54
+荒潮改二: Armor: 14,52
+荒潮改二: FP: 19,69
+荒潮改二: Torp: 33,88
+荒潮改二: AA: 22,70
+荒潮改二: luck: 17,71
+荒潮改二: speed: 10
 Commandant Teste: HP: 42,63
 Commandant Teste: Armor: 24,50
 Commandant Teste: FP: 28,48

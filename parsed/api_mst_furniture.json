@@ -454,7 +454,7 @@
     "api_no": 8,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 15,
     "api_title": "お菓子作りの壁紙",
     "api_type": 1
@@ -514,7 +514,7 @@
     "api_no": 14,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "白い冬の壁紙",
     "api_type": 1
@@ -664,7 +664,7 @@
     "api_no": 29,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "新春の壁紙",
     "api_type": 1
@@ -754,7 +754,7 @@
     "api_no": 4,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "破魔矢の窓",
     "api_type": 2
@@ -984,7 +984,7 @@
     "api_no": 27,
     "api_price": 550,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "おしゃれな格子窓",
     "api_type": 2
@@ -1314,7 +1314,7 @@
     "api_no": 30,
     "api_price": 1000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "試作艦戦ポスター",
     "api_type": 3
@@ -1364,7 +1364,7 @@
     "api_no": 4,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 12,
     "api_title": "節分「豆まき」セット",
     "api_type": 4
@@ -1534,7 +1534,7 @@
     "api_no": 21,
     "api_price": 22000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "Ｚ旗の暖炉",
     "api_type": 4
@@ -1784,7 +1784,7 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 12,
     "api_title": "大人の節分セット",
     "api_type": 5
@@ -1804,7 +1804,7 @@
     "api_no": 17,
     "api_price": 3500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "早く出しすぎた炬燵",
     "api_type": 5
@@ -2314,7 +2314,7 @@
     "api_no": 47,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 15,
     "api_title": "チョコレートキッチン",
     "api_type": 5
@@ -2394,7 +2394,7 @@
     "api_no": 49,
     "api_price": 9500,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "温泉岩風呂",
     "api_type": 5
@@ -3144,7 +3144,7 @@
     "api_no": 66,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督座布団",
     "api_type": 5
@@ -3267,5 +3267,45 @@
     "api_saleflg": 1,
     "api_season": 0,
     "api_title": "睦月の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "季節の修羅場を乗り切った<br>ある艦娘が、節分に備えて<br>あれこれ準備している原稿<br>机です。机の横には、やや<br>薄い本も常備しています。",
+    "api_id": 328,
+    "api_no": 72,
+    "api_price": 25000,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "節分の原稿机",
+    "api_type": 5
+}, {
+    "api_description": "艦隊と鎮守府の幸運を祈る<br>艦娘たちが腕によりをかけ<br>て美味しい巻き寿司を作っ<br>てくれる恵方巻キッチン！<br>ダイナミック職人支援可！",
+    "api_id": 329,
+    "api_no": 73,
+    "api_price": 150000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 12,
+    "api_title": "恵方巻のキッチン",
+    "api_type": 5
+}, {
+    "api_description": "海外生まれの艦娘が気合い<br>を入れて作ってくれた節分<br>の季節を力一杯お祝いする<br>気持ちの溢れたセッツブー<br>ン掛け軸、堂々完成です！",
+    "api_id": 330,
+    "api_no": 67,
+    "api_price": 3000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「セッツブーン」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "今年もやってきました！<br>この季節！そうです、鎮<br>守府にとっても大切な行<br>事、節分です。そのため<br>に用意された壁紙です。",
+    "api_id": 331,
+    "api_no": 49,
+    "api_price": 1200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "節分の壁紙",
     "api_type": 1
 }]
