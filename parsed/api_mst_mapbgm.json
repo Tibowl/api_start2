@@ -184,4 +184,22 @@
     "api_map_bgm": [75, 75],
     "api_maparea_id": 6,
     "api_no": 5
+}, {
+    "api_boss_bgm": [87, 87],
+    "api_id": 371,
+    "api_map_bgm": [87, 87],
+    "api_maparea_id": 37,
+    "api_no": 1
+}, {
+    "api_boss_bgm": [88, 88],
+    "api_id": 372,
+    "api_map_bgm": [87, 87],
+    "api_maparea_id": 37,
+    "api_no": 2
+}, {
+    "api_boss_bgm": [89, 89],
+    "api_id": 373,
+    "api_map_bgm": [88, 88],
+    "api_maparea_id": 37,
+    "api_no": 3
 }]

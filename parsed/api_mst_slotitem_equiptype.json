@@ -191,6 +191,14 @@
     "api_name": "局地戦闘機",
     "api_show_flg": 0
 }, {
+    "api_id": 50,
+    "api_name": "輸送機材",
+    "api_show_flg": 0
+}, {
+    "api_id": 51,
+    "api_name": "潜水艦装備",
+    "api_show_flg": 0
+}, {
     "api_id": 56,
     "api_name": "噴式戦闘機",
     "api_show_flg": 0

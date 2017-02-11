@@ -238,4 +238,16 @@
     "api_no": 72,
     "api_type": 5,
     "api_version": "1"
+}, {
+    "api_filename": "048",
+    "api_id": 333,
+    "api_no": 47,
+    "api_type": 2,
+    "api_version": "1"
+}, {
+    "api_filename": "048",
+    "api_id": 334,
+    "api_no": 47,
+    "api_type": 4,
+    "api_version": "1"
 }]

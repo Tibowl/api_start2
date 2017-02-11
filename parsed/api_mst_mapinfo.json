@@ -370,4 +370,40 @@
     "api_opetext": "空母機動部隊迎撃戦",
     "api_required_defeat_count": 6,
     "api_sally_flag": [1, 0]
+}, {
+    "api_id": 371,
+    "api_infotext": "敵大型泊地の存在が確認され<br>た！トラック基地に偵察戦力<br>を増派する「光」作戦実施準<br>備に入る。作戦部隊、抜錨！",
+    "api_item": [31, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 37,
+    "api_max_maphp": 300,
+    "api_name": "日本近海/七尾北湾/舞鶴湾",
+    "api_no": 1,
+    "api_opetext": "「光」作戦準備",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
+}, {
+    "api_id": 372,
+    "api_infotext": "「光」作戦部隊の針路上にあ<br>る小笠原諸島方面の哨戒線を<br>強化する。海上護衛部隊、出<br>撃！同方面防備を強化せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 37,
+    "api_max_maphp": 300,
+    "api_name": "小笠原諸島航路",
+    "api_no": 2,
+    "api_opetext": "小笠原諸島哨戒線強化",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7]
+}, {
+    "api_id": 373,
+    "api_infotext": "「光」作戦が発動された！<br>輸送用に分解された「彩雲」<br>をトラック基地に輸送し、同<br>方面の戦略偵察を敢行せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 11,
+    "api_maparea_id": 37,
+    "api_max_maphp": 300,
+    "api_name": "トラック泊地沖",
+    "api_no": 3,
+    "api_opetext": "発動！「光」作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0]
 }]

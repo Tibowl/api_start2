@@ -1364,7 +1364,7 @@
     "api_no": 4,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "節分「豆まき」セット",
     "api_type": 4
@@ -1384,7 +1384,7 @@
     "api_no": 6,
     "api_price": 0,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 15,
     "api_title": "チョコケーキと紅茶セット",
     "api_type": 4
@@ -1784,7 +1784,7 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "大人の節分セット",
     "api_type": 5
@@ -1844,7 +1844,7 @@
     "api_no": 21,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "艦娘専用デスク",
     "api_type": 5
@@ -1884,7 +1884,7 @@
     "api_no": 25,
     "api_price": 9000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "金剛の紅茶セット",
     "api_type": 5
@@ -1954,7 +1954,7 @@
     "api_no": 32,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "板チョコ型の机",
     "api_type": 5
@@ -2634,7 +2634,7 @@
     "api_no": 50,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「トラック泊地」掛け軸",
     "api_type": 3
@@ -2714,7 +2714,7 @@
     "api_no": 39,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "睦月の窓",
     "api_type": 2
@@ -2724,7 +2724,7 @@
     "api_no": 58,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "睦月の机",
     "api_type": 5
@@ -3284,7 +3284,7 @@
     "api_no": 73,
     "api_price": 150000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "恵方巻のキッチン",
     "api_type": 5
@@ -3294,7 +3294,7 @@
     "api_no": 67,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「セッツブーン」掛け軸",
     "api_type": 3
@@ -3304,8 +3304,38 @@
     "api_no": 49,
     "api_price": 1200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "節分の壁紙",
     "api_type": 1
+}, {
+    "api_description": "少しずつ暖かくなる如月<br>の季節をモチーフにした<br>暖色系の暖かい雰囲気を<br>持つ壁紙です。",
+    "api_id": 332,
+    "api_no": 50,
+    "api_price": 1600,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "如月の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "ある駆逐艦型の二番艦娘が<br>家具職人に頼んで製作して<br>もらった特製の可愛らしい<br>小窓です。優しい風がレー<br>スカーテンを揺らします。",
+    "api_id": 333,
+    "api_no": 47,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "如月の窓",
+    "api_type": 2
+}, {
+    "api_description": "家具コイン長者に贈る二隻<br>の潜水空母の精密な模型が<br>配置された特製桐箪笥。潜<br>特型を補完するために建造<br>された潜水空母艦隊です。",
+    "api_id": 334,
+    "api_no": 47,
+    "api_price": 51400,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "潜水空母な桐箪笥",
+    "api_type": 4
 }]

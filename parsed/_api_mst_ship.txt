@@ -2462,6 +2462,13 @@ Aquila改: speed: 10
 朝風改: AA: 10,52
 朝風改: luck: 14,88
 朝風改: speed: 10
+松風改: HP: 23,38
+松風改: Armor: 10,37
+松風改: FP: 7,39
+松風改: Torp: 14,68
+松風改: AA: 10,50
+松風改: luck: 12,84
+松風改: speed: 10
 Commandant Teste改: HP: 43,64
 Commandant Teste改: Armor: 26,56
 Commandant Teste改: FP: 32,58
@@ -2469,6 +2476,27 @@ Commandant Teste改: Torp: 0,0
 Commandant Teste改: AA: 20,48
 Commandant Teste改: luck: 20,88
 Commandant Teste改: speed: 5
+藤波改: HP: 32,49
+藤波改: Armor: 14,49
+藤波改: FP: 12,52
+藤波改: Torp: 27,79
+藤波改: AA: 18,58
+藤波改: luck: 11,57
+藤波改: speed: 10
+伊13改: HP: 20,24
+伊13改: Armor: 5,24
+伊13改: FP: 2,9
+伊13改: Torp: 36,72
+伊13改: AA: 0,0
+伊13改: luck: 20,59
+伊13改: speed: 5
+伊14改: HP: 20,24
+伊14改: Armor: 5,24
+伊14改: FP: 2,9
+伊14改: Torp: 36,72
+伊14改: AA: 0,0
+伊14改: luck: 20,59
+伊14改: speed: 5
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
 伊168改: FP: 3,11
@@ -3001,6 +3029,13 @@ Pola: speed: 10
 春風: AA: 6,28
 春風: luck: 25,74
 春風: speed: 10
+松風: HP: 12,23
+松風: Armor: 5,17
+松風: FP: 5,28
+松風: Torp: 12,38
+松風: AA: 5,25
+松風: luck: 12,70
+松風: speed: 10
 神風改: HP: 23,38
 神風改: Armor: 10,38
 神風改: FP: 8,41
@@ -3022,6 +3057,13 @@ Pola: speed: 10
 伊26: AA: 0,0
 伊26: luck: 14,51
 伊26: speed: 5
+藤波: HP: 16,34
+藤波: Armor: 6,19
+藤波: FP: 10,31
+藤波: Torp: 24,69
+藤波: AA: 12,42
+藤波: luck: 9,49
+藤波: speed: 10
 浦波: HP: 15,29
 浦波: Armor: 5,19
 浦波: FP: 10,29
@@ -3050,6 +3092,20 @@ Commandant Teste: Torp: 0,0
 Commandant Teste: AA: 18,40
 Commandant Teste: luck: 17,79
 Commandant Teste: speed: 5
+伊13: HP: 20,24
+伊13: Armor: 5,24
+伊13: FP: 2,9
+伊13: Torp: 36,72
+伊13: AA: 0,0
+伊13: luck: 20,59
+伊13: speed: 5
+伊14: HP: 20,24
+伊14: Armor: 5,24
+伊14: FP: 2,9
+伊14: Torp: 36,72
+伊14: AA: 0,0
+伊14: luck: 20,59
+伊14: speed: 5
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
@@ -3259,6 +3315,17 @@ PT小鬼群: speed: 10
 深海海月姫: speed: 10
 空母ヲ級改: speed: 10
 空母ヲ級改: speed: 10
+深海双子棲姫: speed: 5
+深海双子棲姫: speed: 5
+深海双子棲姫: speed: 5
+深海双子棲姫-壊: speed: 5
+深海双子棲姫-壊: speed: 5
+深海双子棲姫-壊: speed: 5
+節分明石: speed: 5
+節分明石改: speed: 5
+節分風雲: speed: 10
+節分浦波: speed: 10
+節分Commandant Teste: speed: 5
 正月Iowa: speed: 10
 正月鳳翔: speed: 5
 正月山風: speed: 10
