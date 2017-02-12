@@ -2483,19 +2483,19 @@ Commandant Teste改: speed: 5
 藤波改: AA: 18,58
 藤波改: luck: 11,57
 藤波改: speed: 10
-伊13改: HP: 20,24
-伊13改: Armor: 5,24
-伊13改: FP: 2,9
-伊13改: Torp: 36,72
+伊13改: HP: 21,36
+伊13改: Armor: 6,22
+伊13改: FP: 5,16
+伊13改: Torp: 32,72
 伊13改: AA: 0,0
-伊13改: luck: 20,59
+伊13改: luck: 8,48
 伊13改: speed: 5
-伊14改: HP: 20,24
-伊14改: Armor: 5,24
-伊14改: FP: 2,9
-伊14改: Torp: 36,72
+伊14改: HP: 22,37
+伊14改: Armor: 6,23
+伊14改: FP: 4,12
+伊14改: Torp: 32,68
 伊14改: AA: 0,0
-伊14改: luck: 20,59
+伊14改: luck: 24,77
 伊14改: speed: 5
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
@@ -3092,19 +3092,19 @@ Commandant Teste: Torp: 0,0
 Commandant Teste: AA: 18,40
 Commandant Teste: luck: 17,79
 Commandant Teste: speed: 5
-伊13: HP: 20,24
-伊13: Armor: 5,24
+伊13: HP: 18,23
+伊13: Armor: 5,22
 伊13: FP: 2,9
-伊13: Torp: 36,72
+伊13: Torp: 27,68
 伊13: AA: 0,0
-伊13: luck: 20,59
+伊13: luck: 6,39
 伊13: speed: 5
-伊14: HP: 20,24
-伊14: Armor: 5,24
+伊14: HP: 18,23
+伊14: Armor: 5,22
 伊14: FP: 2,9
-伊14: Torp: 36,72
+伊14: Torp: 27,66
 伊14: AA: 0,0
-伊14: luck: 20,59
+伊14: luck: 24,64
 伊14: speed: 5
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
