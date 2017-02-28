@@ -3106,6 +3106,13 @@ Commandant Teste: speed: 5
 伊14: AA: 0,0
 伊14: luck: 24,64
 伊14: speed: 5
+Zara due: HP: 62,74
+Zara due: Armor: 55,88
+Zara due: FP: 57,87
+Zara due: Torp: 0,48
+Zara due: AA: 35,90
+Zara due: luck: 17,70
+Zara due: speed: 10
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
@@ -3321,6 +3328,10 @@ PT小鬼群: speed: 10
 深海双子棲姫-壊: speed: 5
 深海双子棲姫-壊: speed: 5
 深海双子棲姫-壊: speed: 5
+Valentine水無月: speed: 10
+Valentine朧: speed: 10
+Valentine高波: speed: 10
+ValentineCommandant Teste: speed: 5
 節分明石: speed: 5
 節分明石改: speed: 5
 節分風雲: speed: 10

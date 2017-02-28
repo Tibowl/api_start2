@@ -144,7 +144,7 @@
     "api_no": 14,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "冬のカーペット",
     "api_type": 0
@@ -184,7 +184,7 @@
     "api_no": 18,
     "api_price": 2100,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "睦月の床",
     "api_type": 0
@@ -224,7 +224,7 @@
     "api_no": 22,
     "api_price": 3300,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "雪原の床",
     "api_type": 0
@@ -294,7 +294,7 @@
     "api_no": 29,
     "api_price": 880,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "艦娘座布団の床",
     "api_type": 0
@@ -334,7 +334,7 @@
     "api_no": 33,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ラクガキ床",
     "api_type": 0
@@ -344,7 +344,7 @@
     "api_no": 34,
     "api_price": 450,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "戦艦タイルの床",
     "api_type": 0
@@ -454,7 +454,7 @@
     "api_no": 8,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 15,
     "api_title": "お菓子作りの壁紙",
     "api_type": 1
@@ -584,7 +584,7 @@
     "api_no": 21,
     "api_price": 1900,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "緑の和壁紙",
     "api_type": 1
@@ -674,7 +674,7 @@
     "api_no": 30,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "コンクリート壁",
     "api_type": 1
@@ -684,7 +684,7 @@
     "api_no": 31,
     "api_price": 250,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ピンクコンクリ壁",
     "api_type": 1
@@ -814,7 +814,7 @@
     "api_no": 10,
     "api_price": 3300,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 16,
     "api_title": "桃の節句の窓",
     "api_type": 2
@@ -974,7 +974,7 @@
     "api_no": 26,
     "api_price": 2220,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 25,
     "api_title": "冬のステンドグラス",
     "api_type": 2
@@ -1174,7 +1174,7 @@
     "api_no": 16,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3
@@ -1384,7 +1384,7 @@
     "api_no": 6,
     "api_price": 0,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 15,
     "api_title": "チョコケーキと紅茶セット",
     "api_type": 4
@@ -1394,7 +1394,7 @@
     "api_no": 7,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 16,
     "api_title": "「長門」「陸奥」の雛人形",
     "api_type": 4
@@ -1434,7 +1434,7 @@
     "api_no": 11,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "やかんストーブ",
     "api_type": 4
@@ -1554,7 +1554,7 @@
     "api_no": 23,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "模様替えお掃除セット",
     "api_type": 4
@@ -1954,7 +1954,7 @@
     "api_no": 32,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "板チョコ型の机",
     "api_type": 5
@@ -1964,7 +1964,7 @@
     "api_no": 33,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "布団と枕",
     "api_type": 5
@@ -2004,7 +2004,7 @@
     "api_no": 37,
     "api_price": 3300,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 16,
     "api_title": "雛人形豪華四段飾り",
     "api_type": 5
@@ -2314,7 +2314,7 @@
     "api_no": 47,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 15,
     "api_title": "チョコレートキッチン",
     "api_type": 5
@@ -2354,7 +2354,7 @@
     "api_no": 34,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "春色の壁紙",
     "api_type": 1
@@ -2624,7 +2624,7 @@
     "api_no": 40,
     "api_price": 55000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 22,
     "api_title": "北方迷彩な桐箪笥",
     "api_type": 4
@@ -2634,7 +2634,7 @@
     "api_no": 50,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「トラック泊地」掛け軸",
     "api_type": 3
@@ -2764,7 +2764,7 @@
     "api_no": 58,
     "api_price": 1400,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「春の一番」掛け軸",
     "api_type": 3
@@ -2994,7 +2994,7 @@
     "api_no": 42,
     "api_price": 60000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「最上」模型と桐箪笥",
     "api_type": 4
@@ -3264,7 +3264,7 @@
     "api_no": 48,
     "api_price": 1600,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "睦月の壁紙",
     "api_type": 1
@@ -3314,7 +3314,7 @@
     "api_no": 50,
     "api_price": 1600,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "如月の壁紙",
     "api_type": 1
@@ -3324,7 +3324,7 @@
     "api_no": 47,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "如月の窓",
     "api_type": 2
@@ -3338,4 +3338,34 @@
     "api_season": 0,
     "api_title": "潜水空母な桐箪笥",
     "api_type": 4
+}, {
+    "api_description": "弥生の季節をモチーフにし<br>た、ある駆逐艦の手による<br>壁紙です。落ち着いた雰囲<br>気の中にも春の訪れを予感<br>させる仕上りです。",
+    "api_id": 335,
+    "api_no": 51,
+    "api_price": 1700,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "弥生の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "ある睦月型駆逐艦が家具職<br>人の手を借りて作り上げた<br>かなり凝った意匠の丸い窓<br>です。特注の弥生ブライン<br>ドも標準装備！豪華です。",
+    "api_id": 336,
+    "api_no": 48,
+    "api_price": 3300,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "弥生の窓",
+    "api_type": 2
+}, {
+    "api_description": "ある睦月型駆逐艦が弥生の<br>季節の花々を使って作った<br>フラワーアレンジメントで<br>す。もちろん、怒ってなん<br>かいません。",
+    "api_id": 337,
+    "api_no": 68,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "弥生のアレンジメント",
+    "api_type": 3
 }]

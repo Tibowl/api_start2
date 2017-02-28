@@ -9491,10 +9491,10 @@
     "api_voicef": 3,
     "api_yomi": "はつづき"
 }, {
-    "api_afterbull": 0,
-    "api_afterfuel": 0,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterbull": 1500,
+    "api_afterfuel": 1600,
+    "api_afterlv": 88,
+    "api_aftershipid": "496",
     "api_backs": 7,
     "api_broken": [4, 6, 18, 3],
     "api_buildtime": 70,
@@ -12431,6 +12431,34 @@
     "api_voicef": 1,
     "api_yomi": "い14"
 }, {
+    "api_afterbull": 0,
+    "api_afterfuel": 0,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_backs": 8,
+    "api_broken": [4, 10, 25, 5],
+    "api_buildtime": 70,
+    "api_bull_max": 80,
+    "api_fuel_max": 50,
+    "api_getmes": "Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！",
+    "api_houg": [57, 87],
+    "api_id": 496,
+    "api_leng": 3,
+    "api_luck": [17, 70],
+    "api_maxeq": [6, 3, 3, 3, 0],
+    "api_name": "Zara due",
+    "api_powup": [4, 0, 2, 3],
+    "api_raig": [0, 48],
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sortno": 296,
+    "api_souk": [55, 88],
+    "api_stype": 5,
+    "api_taik": [62, 74],
+    "api_tyku": [35, 90],
+    "api_voicef": 3,
+    "api_yomi": "ザラ"
+}, {
     "api_id": 501,
     "api_name": "駆逐イ級",
     "api_slot_num": 2,
@@ -13935,6 +13963,34 @@
     "api_soku": 5,
     "api_stype": 10,
     "api_yomi": ""
+}, {
+    "api_id": 816,
+    "api_name": "Valentine水無月",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "みなづき"
+}, {
+    "api_id": 817,
+    "api_name": "Valentine朧",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "おぼろ"
+}, {
+    "api_id": 818,
+    "api_name": "Valentine高波",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "たかなみ"
+}, {
+    "api_id": 819,
+    "api_name": "ValentineCommandant Teste",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "コマンダン・テスト"
 }, {
     "api_id": 820,
     "api_name": "節分明石",
