@@ -24,7 +24,7 @@
     "api_no": 2,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "桜舞う春のフローリング",
     "api_type": 0
@@ -124,7 +124,7 @@
     "api_no": 12,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "冬の丸絨毯",
     "api_type": 0
@@ -294,7 +294,7 @@
     "api_no": 29,
     "api_price": 880,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "艦娘座布団の床",
     "api_type": 0
@@ -814,7 +814,7 @@
     "api_no": 10,
     "api_price": 3300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "桃の節句の窓",
     "api_type": 2
@@ -854,7 +854,7 @@
     "api_no": 14,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "お花見窓",
     "api_type": 2
@@ -984,7 +984,7 @@
     "api_no": 27,
     "api_price": 550,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "おしゃれな格子窓",
     "api_type": 2
@@ -1004,7 +1004,7 @@
     "api_no": 29,
     "api_price": 40000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "春の高級窓",
     "api_type": 2
@@ -1394,7 +1394,7 @@
     "api_no": 7,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "「長門」「陸奥」の雛人形",
     "api_type": 4
@@ -2004,7 +2004,7 @@
     "api_no": 37,
     "api_price": 3300,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "雛人形豪華四段飾り",
     "api_type": 5
@@ -2754,7 +2754,7 @@
     "api_no": 41,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府お茶会セット",
     "api_type": 4
@@ -2764,7 +2764,7 @@
     "api_no": 58,
     "api_price": 1400,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「春の一番」掛け軸",
     "api_type": 3
@@ -2774,7 +2774,7 @@
     "api_no": 59,
     "api_price": 150000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "提督のクッキーキッチン",
     "api_type": 5
@@ -2784,7 +2784,7 @@
     "api_no": 60,
     "api_price": 2800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 23,
     "api_title": "提督の作る食卓",
     "api_type": 5
@@ -3164,7 +3164,7 @@
     "api_no": 68,
     "api_price": 170000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府囲炉裏",
     "api_type": 5
@@ -3254,7 +3254,7 @@
     "api_no": 47,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "梅柄の壁紙",
     "api_type": 1
@@ -3367,5 +3367,35 @@
     "api_saleflg": 1,
     "api_season": 0,
     "api_title": "弥生のアレンジメント",
+    "api_type": 3
+}, {
+    "api_description": "提督が艦娘たちのために、<br>感謝の気持ちを込めて焼き<br>菓子を焼く季節。そんな春<br>の一日のために用意された<br>特別な壁紙を貴方に。",
+    "api_id": 338,
+    "api_no": 52,
+    "api_price": 1800,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "クッキーの壁紙",
+    "api_type": 1
+}, {
+    "api_description": "鎮守府提督室一杯に広がる<br>甘い焼き菓子の香り。そん<br>な提督室にぴったりの美味<br>しそうな雰囲気の床です。<br>艦娘たち、いつも感謝！",
+    "api_id": 339,
+    "api_no": 45,
+    "api_price": 1200,
+    "api_rarity": 2,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "クッキーの床",
+    "api_type": 0
+}, {
+    "api_description": "お返しの感謝の気持ちを上<br>手に伝えられない提督が、<br>密かに習字も練習して制作<br>した感謝の掛け軸。これな<br>ら気持ちがダイレクトに！",
+    "api_id": 340,
+    "api_no": 69,
+    "api_price": 2000,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "お返し掛け軸",
     "api_type": 3
 }]
