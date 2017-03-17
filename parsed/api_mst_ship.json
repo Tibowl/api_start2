@@ -4296,11 +4296,11 @@
     "api_houg": [24, 67],
     "api_id": 158,
     "api_leng": 2,
-    "api_luck": [14, 79],
+    "api_luck": [14, 80],
     "api_maxeq": [1, 1, 1, 0, 0],
     "api_name": "川内改二",
     "api_powup": [1, 1, 1, 2],
-    "api_raig": [26, 88],
+    "api_raig": [26, 89],
     "api_slot_num": 3,
     "api_soku": 10,
     "api_sortno": 158,
@@ -4321,7 +4321,7 @@
     "api_bull_max": 35,
     "api_fuel_max": 25,
     "api_getmes": "あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……",
-    "api_houg": [27, 70],
+    "api_houg": [27, 71],
     "api_id": 159,
     "api_leng": 2,
     "api_luck": [13, 79],
@@ -4363,7 +4363,7 @@
     "api_souk": [29, 68],
     "api_stype": 3,
     "api_taik": [48, 62],
-    "api_tyku": [24, 72],
+    "api_tyku": [24, 73],
     "api_voicef": 1,
     "api_yomi": "なか"
 }, {
@@ -8297,7 +8297,7 @@
     "api_bull_max": 40,
     "api_fuel_max": 30,
     "api_getmes": "こんにちはーっ！<br>最新鋭軽巡の阿賀野でーすっ。ふふ。",
-    "api_houg": [28, 66],
+    "api_houg": [28, 67],
     "api_id": 305,
     "api_leng": 2,
     "api_luck": [10, 59],
@@ -8311,7 +8311,7 @@
     "api_souk": [31, 69],
     "api_stype": 3,
     "api_taik": [45, 62],
-    "api_tyku": [20, 72],
+    "api_tyku": [20, 73],
     "api_voicef": 7,
     "api_yomi": "あがの"
 }, {
@@ -8325,7 +8325,7 @@
     "api_bull_max": 40,
     "api_fuel_max": 30,
     "api_getmes": "阿賀野型軽巡二番艦、能代。<br>着任しました。よろしくどうぞ！",
-    "api_houg": [28, 66],
+    "api_houg": [28, 68],
     "api_id": 306,
     "api_leng": 2,
     "api_luck": [10, 64],
@@ -8353,7 +8353,7 @@
     "api_bull_max": 40,
     "api_fuel_max": 30,
     "api_getmes": "軽巡矢矧、着任したわ。<br>提督、最後まで頑張っていきましょう！",
-    "api_houg": [28, 68],
+    "api_houg": [28, 70],
     "api_id": 307,
     "api_leng": 2,
     "api_luck": [14, 69],
@@ -8549,7 +8549,7 @@
     "api_bull_max": 40,
     "api_fuel_max": 30,
     "api_getmes": "ぴゃん♪　阿賀野型軽巡四番艦、酒匂です！<br>司令、よろしくね！",
-    "api_houg": [27, 64],
+    "api_houg": [27, 65],
     "api_id": 314,
     "api_leng": 2,
     "api_luck": [30, 74],
@@ -8717,7 +8717,7 @@
     "api_bull_max": 35,
     "api_fuel_max": 35,
     "api_getmes": "提督、旗艦大淀、お供いたします。<br>前線艦隊指揮はどうぞお任せください！",
-    "api_houg": [32, 63],
+    "api_houg": [32, 70],
     "api_id": 321,
     "api_leng": 2,
     "api_luck": [30, 79],
@@ -13963,6 +13963,41 @@
     "api_soku": 5,
     "api_stype": 10,
     "api_yomi": ""
+}, {
+    "api_id": 811,
+    "api_name": "桃節句潮",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "うしお"
+}, {
+    "api_id": 812,
+    "api_name": "桃節句潮改二",
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "うしお"
+}, {
+    "api_id": 813,
+    "api_name": "桃節句瑞穂",
+    "api_slot_num": 2,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "みずほ"
+}, {
+    "api_id": 814,
+    "api_name": "桃節句Commandant Teste",
+    "api_slot_num": 3,
+    "api_soku": 5,
+    "api_stype": 16,
+    "api_yomi": "コマンダン・テスト"
+}, {
+    "api_id": 815,
+    "api_name": "桃節句山風",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 2,
+    "api_yomi": "やまかぜ"
 }, {
     "api_id": 816,
     "api_name": "Valentine水無月",

@@ -134,7 +134,7 @@
     "api_no": 13,
     "api_price": 20000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "桜の床",
     "api_type": 0
@@ -174,7 +174,7 @@
     "api_no": 17,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "畳＆梅柄カーペット",
     "api_type": 0
@@ -234,7 +234,7 @@
     "api_no": 23,
     "api_price": 1500,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "春色の床",
     "api_type": 0
@@ -414,7 +414,7 @@
     "api_no": 4,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "春仕様の壁紙",
     "api_type": 1
@@ -1294,7 +1294,7 @@
     "api_no": 28,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "戦艦映画ポスター",
     "api_type": 3
@@ -1854,7 +1854,7 @@
     "api_no": 22,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "提督の麻雀卓",
     "api_type": 5
@@ -2774,7 +2774,7 @@
     "api_no": 59,
     "api_price": 150000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督のクッキーキッチン",
     "api_type": 5
@@ -3374,7 +3374,7 @@
     "api_no": 52,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "クッキーの壁紙",
     "api_type": 1
@@ -3384,7 +3384,7 @@
     "api_no": 45,
     "api_price": 1200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "クッキーの床",
     "api_type": 0
@@ -3394,7 +3394,7 @@
     "api_no": 69,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "お返し掛け軸",
     "api_type": 3
