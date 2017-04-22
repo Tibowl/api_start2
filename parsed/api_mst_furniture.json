@@ -344,7 +344,7 @@
     "api_no": 34,
     "api_price": 450,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "戦艦タイルの床",
     "api_type": 0
@@ -394,7 +394,7 @@
     "api_no": 2,
     "api_price": 300,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "和のシンプル壁紙",
     "api_type": 1
@@ -1884,7 +1884,7 @@
     "api_no": 25,
     "api_price": 9000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "金剛の紅茶セット",
     "api_type": 5
@@ -2404,7 +2404,7 @@
     "api_no": 42,
     "api_price": 1980,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "富嶽タイル画",
     "api_type": 3
@@ -2804,7 +2804,7 @@
     "api_no": 38,
     "api_price": 400,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の床",
     "api_type": 0
@@ -2814,7 +2814,7 @@
     "api_no": 39,
     "api_price": 1400,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の壁紙",
     "api_type": 1
@@ -2824,7 +2824,7 @@
     "api_no": 40,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の窓",
     "api_type": 2
@@ -2834,7 +2834,7 @@
     "api_no": 60,
     "api_price": 104000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の掛け軸",
     "api_type": 3
@@ -2844,7 +2844,7 @@
     "api_no": 61,
     "api_price": 3400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の机",
     "api_type": 5
@@ -3344,7 +3344,7 @@
     "api_no": 51,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "弥生の壁紙",
     "api_type": 1
@@ -3354,7 +3354,7 @@
     "api_no": 48,
     "api_price": 3300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "弥生の窓",
     "api_type": 2
@@ -3364,7 +3364,7 @@
     "api_no": 68,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "弥生のアレンジメント",
     "api_type": 3
@@ -3397,5 +3397,25 @@
     "api_saleflg": 0,
     "api_season": 0,
     "api_title": "お返し掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "春の季節に咲き誇る桜の花<br>をモチーフにした、優しい<br>桜色の壁紙です。穏やかな<br>春の雰囲気と彩りが部屋の<br>中を明るく演出します。",
+    "api_id": 341,
+    "api_no": 53,
+    "api_price": 1300,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "桜色の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "儚くも美しく咲く桜。その<br>桜の移り変わる風情を提督<br>執務室の中でも愉しむこと<br>ができる、家具職人特製の<br>和のアレンジメントです。",
+    "api_id": 342,
+    "api_no": 70,
+    "api_price": 2200,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "桜の和のアレンジメント",
     "api_type": 3
 }]

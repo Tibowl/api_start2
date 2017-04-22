@@ -721,7 +721,7 @@
     "api_taik": 0,
     "api_tais": 4,
     "api_tyku": 2,
-    "api_type": [5, 7, 11, 10, 2],
+    "api_type": [5, 43, 11, 10, 2],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -1713,7 +1713,7 @@
     "api_taik": 0,
     "api_tais": 6,
     "api_tyku": 0,
-    "api_type": [5, 7, 11, 10, 2],
+    "api_type": [5, 43, 11, 10, 2],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -2176,7 +2176,7 @@
     "api_taik": 0,
     "api_tais": 5,
     "api_tyku": 2,
-    "api_type": [5, 7, 11, 10, 2],
+    "api_type": [5, 43, 11, 10, 2],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -2205,7 +2205,7 @@
     "api_taik": 0,
     "api_tais": 5,
     "api_tyku": 3,
-    "api_type": [5, 7, 11, 10, 2],
+    "api_type": [5, 43, 11, 10, 2],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -2234,7 +2234,7 @@
     "api_taik": 0,
     "api_tais": 6,
     "api_tyku": 3,
-    "api_type": [5, 7, 11, 10, 2],
+    "api_type": [5, 43, 11, 10, 2],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -5389,7 +5389,7 @@
     "api_taik": 0,
     "api_tais": 2,
     "api_tyku": 1,
-    "api_type": [5, 7, 11, 10, 14],
+    "api_type": [5, 43, 11, 10, 14],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -5675,7 +5675,7 @@
     "api_taik": 0,
     "api_tais": 2,
     "api_tyku": 1,
-    "api_type": [5, 7, 11, 10, 24],
+    "api_type": [5, 43, 11, 10, 24],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -5704,7 +5704,7 @@
     "api_taik": 0,
     "api_tais": 3,
     "api_tyku": 0,
-    "api_type": [5, 7, 11, 10, 2],
+    "api_type": [5, 43, 11, 10, 2],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
@@ -5927,6 +5927,91 @@
     "api_tais": 1,
     "api_tyku": 5,
     "api_type": [5, 36, 45, 43, 3],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [1, 1, 0, 6],
+    "api_cost": 6,
+    "api_distance": 3,
+    "api_houg": 0,
+    "api_houk": 3,
+    "api_houm": 0,
+    "api_id": 217,
+    "api_info": "現代にも系譜を繋ぐ水上機の名門が開発を手掛けた、空戦に特化した水上機「強風」。難航する本機開発の繋ぎとして投入された二式水戦の後継として、その登場が期待されました。期待された性能を発揮することはできませんでしたが、本機をベースに開発された「紫電改」は本土防空等に奮戦します。機体を熟成、各強度を改良強化した「強風改」として登場です！",
+    "api_leng": 0,
+    "api_luck": 0,
+    "api_name": "強風改",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 3,
+    "api_sakb": 0,
+    "api_saku": 1,
+    "api_soku": 0,
+    "api_sortno": 217,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 5,
+    "api_type": [5, 36, 45, 43, 26],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 5,
+    "api_broken": [1, 4, 0, 4],
+    "api_cost": 6,
+    "api_distance": 4,
+    "api_houg": 0,
+    "api_houk": 0,
+    "api_houm": 0,
+    "api_id": 219,
+    "api_info": "零式艦上戦闘機の戦闘爆撃機仕様、通称「爆戦」の改良後期型です。改良型エンジンに換装、燃料タンクを防弾仕様化した零戦の性能向上型、53型。その胴体下に250kgまたは500kg爆弾懸吊架を増設、爆撃機動に耐えられるよう、一部機体強度も強化しています。重巡改装の攻撃型軽空母などで、ぜひ機動部隊運用を！",
+    "api_leng": 0,
+    "api_luck": 0,
+    "api_name": "零式艦戦63型(爆戦)",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 3,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 219,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 2,
+    "api_tyku": 5,
+    "api_type": [3, 5, 7, 7, 12],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 2, 3, 2],
+    "api_houg": 1,
+    "api_houk": 1,
+    "api_houm": 2,
+    "api_id": 220,
+    "api_info": "新開発の長8cm高角砲の改良型です。<br>秋月型に装備された長10cm高角砲の小型軽量化を図った対空用副砲バージョンです。微妙な出来という評価もありますが、新型艦艇装備の防空兵装として期待されていました。本装備は小型軽量に特徴のある超8cm砲を熟成した改良型と単装機銃集中配備の組み合わせによる対空兵装パッケージです。",
+    "api_leng": 1,
+    "api_luck": 0,
+    "api_name": "8cm高角砲改+増設機銃",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 4,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 220,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 7,
+    "api_type": [1, 2, 4, 16, 0],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
