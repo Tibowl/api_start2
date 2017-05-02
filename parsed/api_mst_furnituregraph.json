@@ -262,4 +262,10 @@
     "api_no": 70,
     "api_type": 3,
     "api_version": "3"
+}, {
+    "api_filename": "072",
+    "api_id": 343,
+    "api_no": 71,
+    "api_type": 3,
+    "api_version": "1"
 }]
