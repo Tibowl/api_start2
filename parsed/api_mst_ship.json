@@ -10474,29 +10474,28 @@
     "api_afterlv": 0,
     "api_aftershipid": "0",
     "api_backs": 5,
-    "api_broken": [1, 1, 4, 0],
-    "api_buildtime": 18,
-    "api_bull_max": 15,
+    "api_broken": [1, 1, 2, 0],
+    "api_buildtime": 14,
+    "api_bull_max": 10,
     "api_ctype": 77,
-    "api_fuel_max": 15,
-    "api_getmes": "※",
-    "api_houg": [6, 29],
+    "api_fuel_max": 10,
+    "api_getmes": "司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！",
+    "api_houg": [5, 37],
     "api_id": 383,
     "api_leng": 1,
-    "api_luck": [10, 49],
+    "api_luck": [40, 88],
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "択捉改",
-    "api_powup": [0, 1, 0, 0],
-    "api_raig": [18, 49],
-    "api_slot_num": 2,
-    "api_soku": 10,
+    "api_powup": [1, 0, 1, 0],
+    "api_raig": [0, 0],
+    "api_slot_num": 3,
+    "api_soku": 5,
     "api_sortno": 1463,
-    "api_souk": [5, 18],
+    "api_souk": [7, 33],
     "api_stype": 1,
-    "api_taik": [13, 24],
-    "api_tais": [65],
-    "api_tyku": [7, 29],
-    "api_voicef": 0,
+    "api_taik": [17, 28],
+    "api_tyku": [12, 54],
+    "api_voicef": 1,
     "api_yomi": "えとろふ"
 }, {
     "api_afterbull": 0,
@@ -10524,7 +10523,6 @@
     "api_souk": [5, 18],
     "api_stype": 13,
     "api_taik": [15, 19],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 3,
     "api_yomi": "い168"
@@ -10554,7 +10552,6 @@
     "api_souk": [5, 19],
     "api_stype": 14,
     "api_taik": [18, 24],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 3,
     "api_yomi": "い58"
@@ -10584,7 +10581,6 @@
     "api_souk": [5, 19],
     "api_stype": 14,
     "api_taik": [19, 25],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 3,
     "api_yomi": "い8"
@@ -10614,7 +10610,6 @@
     "api_souk": [5, 19],
     "api_stype": 14,
     "api_taik": [18, 24],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 3,
     "api_yomi": "い19"
@@ -10644,7 +10639,6 @@
     "api_souk": [2, 11],
     "api_stype": 13,
     "api_taik": [7, 13],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 3,
     "api_yomi": "まるゆ"
@@ -10674,7 +10668,6 @@
     "api_souk": [7, 24],
     "api_stype": 14,
     "api_taik": [24, 39],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 3,
     "api_yomi": "い401"
@@ -10704,7 +10697,6 @@
     "api_souk": [26, 52],
     "api_stype": 11,
     "api_taik": [48, 79],
-    "api_tais": [65],
     "api_tyku": [28, 72],
     "api_voicef": 1,
     "api_yomi": "うんりゅう"
@@ -10734,7 +10726,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 32],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "はるさめ"
@@ -10764,7 +10755,6 @@
     "api_souk": [35, 77],
     "api_stype": 11,
     "api_taik": [60, 84],
-    "api_tais": [65],
     "api_tyku": [32, 78],
     "api_voicef": 3,
     "api_yomi": "うんりゅう"
@@ -10794,7 +10784,6 @@
     "api_souk": [15, 56],
     "api_stype": 2,
     "api_taik": [33, 53],
-    "api_tais": [65],
     "api_tyku": [24, 76],
     "api_voicef": 1,
     "api_yomi": "うしお"
@@ -10824,7 +10813,6 @@
     "api_souk": [31, 62],
     "api_stype": 7,
     "api_taik": [55, 82],
-    "api_tais": [65],
     "api_tyku": [36, 74],
     "api_voicef": 1,
     "api_yomi": "じゅんよう"
@@ -10854,7 +10842,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "はやしも"
@@ -10884,7 +10871,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "きよしも"
@@ -10914,7 +10900,6 @@
     "api_souk": [72, 90],
     "api_stype": 10,
     "api_taik": [77, 94],
-    "api_tais": [65],
     "api_tyku": [44, 88],
     "api_voicef": 1,
     "api_yomi": "ふそう"
@@ -10944,7 +10929,6 @@
     "api_souk": [73, 91],
     "api_stype": 10,
     "api_taik": [77, 94],
-    "api_tais": [65],
     "api_tyku": [43, 87],
     "api_voicef": 1,
     "api_yomi": "やましろ"
@@ -10974,7 +10958,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 33],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "あさぐも"
@@ -11004,7 +10987,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 33],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "やまぐも"
@@ -11034,7 +11016,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [12, 44],
     "api_voicef": 1,
     "api_yomi": "のわき"
@@ -11064,7 +11045,6 @@
     "api_souk": [34, 72],
     "api_stype": 5,
     "api_taik": [53, 65],
-    "api_tais": [65],
     "api_tyku": [22, 64],
     "api_voicef": 1,
     "api_yomi": "ふるたか"
@@ -11094,7 +11074,6 @@
     "api_souk": [33, 72],
     "api_stype": 5,
     "api_taik": [52, 64],
-    "api_tais": [65],
     "api_tyku": [24, 65],
     "api_voicef": 1,
     "api_yomi": "かこ"
@@ -11124,7 +11103,6 @@
     "api_souk": [12, 45],
     "api_stype": 2,
     "api_taik": [28, 44],
-    "api_tais": [65],
     "api_tyku": [40, 82],
     "api_voicef": 1,
     "api_yomi": "さつき"
@@ -11154,7 +11132,6 @@
     "api_souk": [14, 51],
     "api_stype": 2,
     "api_taik": [32, 53],
-    "api_tais": [65],
     "api_tyku": [35, 81],
     "api_voicef": 1,
     "api_yomi": "はつしも"
@@ -11184,7 +11161,6 @@
     "api_souk": [14, 50],
     "api_stype": 2,
     "api_taik": [31, 49],
-    "api_tais": [65],
     "api_tyku": [27, 74],
     "api_voicef": 3,
     "api_yomi": "むらくも"
@@ -11214,7 +11190,6 @@
     "api_souk": [9, 27],
     "api_stype": 2,
     "api_taik": [20, 40],
-    "api_tais": [65],
     "api_tyku": [70, 104],
     "api_voicef": 1,
     "api_yomi": "あきづき"
@@ -11244,7 +11219,6 @@
     "api_souk": [9, 26],
     "api_stype": 2,
     "api_taik": [20, 40],
-    "api_tais": [65],
     "api_tyku": [70, 103],
     "api_voicef": 1,
     "api_yomi": "てるづき"
@@ -11274,7 +11248,6 @@
     "api_souk": [9, 28],
     "api_stype": 2,
     "api_taik": [20, 40],
-    "api_tais": [65],
     "api_tyku": [70, 101],
     "api_voicef": 1,
     "api_yomi": "はつづき"
@@ -11304,7 +11277,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "たかなみ"
@@ -11334,7 +11306,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 44],
     "api_voicef": 1,
     "api_yomi": "あさしも"
@@ -11364,7 +11335,6 @@
     "api_souk": [14, 50],
     "api_stype": 2,
     "api_taik": [31, 49],
-    "api_tais": [65],
     "api_tyku": [35, 78],
     "api_voicef": 3,
     "api_yomi": "ふぶき"
@@ -11394,7 +11364,6 @@
     "api_souk": [46, 78],
     "api_stype": 5,
     "api_taik": [57, 72],
-    "api_tais": [65],
     "api_tyku": [24, 70],
     "api_voicef": 1,
     "api_yomi": "ちょうかい"
@@ -11424,7 +11393,6 @@
     "api_souk": [48, 78],
     "api_stype": 5,
     "api_taik": [57, 71],
-    "api_tais": [65],
     "api_tyku": [72, 106],
     "api_voicef": 1,
     "api_yomi": "まや"
@@ -11454,7 +11422,6 @@
     "api_souk": [35, 76],
     "api_stype": 11,
     "api_taik": [60, 84],
-    "api_tais": [65],
     "api_tyku": [33, 79],
     "api_voicef": 3,
     "api_yomi": "あまぎ"
@@ -11484,7 +11451,6 @@
     "api_souk": [36, 78],
     "api_stype": 11,
     "api_taik": [60, 84],
-    "api_tais": [65],
     "api_tyku": [32, 78],
     "api_voicef": 3,
     "api_yomi": "かつらぎ"
@@ -11514,7 +11480,6 @@
     "api_souk": [4, 16],
     "api_stype": 13,
     "api_taik": [8, 16],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 1,
     "api_yomi": "ゆー511・ろ500"
@@ -11544,7 +11509,6 @@
     "api_souk": [29, 57],
     "api_stype": 11,
     "api_taik": [70, 89],
-    "api_tais": [65],
     "api_tyku": [40, 70],
     "api_voicef": 1,
     "api_yomi": "グラーフ・ツェッペリン"
@@ -11574,7 +11538,6 @@
     "api_souk": [40, 63],
     "api_stype": 11,
     "api_taik": [83, 93],
-    "api_tais": [65],
     "api_tyku": [36, 73],
     "api_voicef": 1,
     "api_yomi": "サラトガ"
@@ -11604,7 +11567,6 @@
     "api_souk": [12, 43],
     "api_stype": 2,
     "api_taik": [27, 43],
-    "api_tais": [65],
     "api_tyku": [16, 56],
     "api_voicef": 1,
     "api_yomi": "むつき"
@@ -11634,7 +11596,6 @@
     "api_souk": [12, 43],
     "api_stype": 2,
     "api_taik": [27, 43],
-    "api_tais": [65],
     "api_tyku": [18, 57],
     "api_voicef": 1,
     "api_yomi": "きさらぎ"
@@ -11664,7 +11625,6 @@
     "api_souk": [7, 21],
     "api_stype": 13,
     "api_taik": [13, 19],
-    "api_tais": [65],
     "api_tyku": [0, 0],
     "api_voicef": 3,
     "api_yomi": "ゆー511・ろ500"
@@ -11694,7 +11654,6 @@
     "api_souk": [14, 50],
     "api_stype": 2,
     "api_taik": [31, 50],
-    "api_tais": [65],
     "api_tyku": [19, 59],
     "api_voicef": 3,
     "api_yomi": "あかつき"
@@ -11724,7 +11683,6 @@
     "api_souk": [48, 83],
     "api_stype": 11,
     "api_taik": [88, 98],
-    "api_tais": [65],
     "api_tyku": [52, 93],
     "api_voicef": 3,
     "api_yomi": "サラトガ"
@@ -11754,7 +11712,6 @@
     "api_souk": [72, 91],
     "api_stype": 9,
     "api_taik": [72, 87],
-    "api_tais": [65],
     "api_tyku": [38, 88],
     "api_voicef": 1,
     "api_yomi": "ウォースパイト"
@@ -11784,7 +11741,6 @@
     "api_souk": [79, 95],
     "api_stype": 8,
     "api_taik": [84, 95],
-    "api_tais": [65],
     "api_tyku": [70, 96],
     "api_voicef": 1,
     "api_yomi": "アイオワ"
@@ -11814,7 +11770,6 @@
     "api_souk": [72, 86],
     "api_stype": 8,
     "api_taik": [88, 94],
-    "api_tais": [65],
     "api_tyku": [40, 72],
     "api_voicef": 1,
     "api_yomi": "リットリオ・イタリア"
@@ -11844,7 +11799,6 @@
     "api_souk": [71, 85],
     "api_stype": 8,
     "api_taik": [88, 94],
-    "api_tais": [65],
     "api_tyku": [44, 74],
     "api_voicef": 1,
     "api_yomi": "ローマ"
@@ -11874,7 +11828,6 @@
     "api_souk": [7, 18],
     "api_stype": 2,
     "api_taik": [15, 30],
-    "api_tais": [65],
     "api_tyku": [11, 41],
     "api_voicef": 1,
     "api_yomi": "リベッチオ"
@@ -11904,7 +11857,6 @@
     "api_souk": [18, 38],
     "api_stype": 11,
     "api_taik": [38, 60],
-    "api_tais": [65],
     "api_tyku": [18, 48],
     "api_voicef": 1,
     "api_yomi": "アクィラ"
@@ -11934,7 +11886,6 @@
     "api_souk": [9, 25],
     "api_stype": 16,
     "api_taik": [32, 44],
-    "api_tais": [65],
     "api_tyku": [12, 36],
     "api_voicef": 1,
     "api_yomi": "あきつしま"
@@ -11964,7 +11915,6 @@
     "api_souk": [77, 92],
     "api_stype": 8,
     "api_taik": [92, 98],
-    "api_tais": [65],
     "api_tyku": [44, 90],
     "api_voicef": 7,
     "api_yomi": "リットリオ・イタリア"
@@ -11994,7 +11944,6 @@
     "api_souk": [76, 90],
     "api_stype": 8,
     "api_taik": [92, 98],
-    "api_tais": [65],
     "api_tyku": [46, 94],
     "api_voicef": 3,
     "api_yomi": "ローマ"
@@ -12024,7 +11973,6 @@
     "api_souk": [36, 54],
     "api_stype": 5,
     "api_taik": [42, 55],
-    "api_tais": [65],
     "api_tyku": [18, 62],
     "api_voicef": 1,
     "api_yomi": "ザラ"
@@ -12054,7 +12002,6 @@
     "api_souk": [35, 53],
     "api_stype": 5,
     "api_taik": [42, 55],
-    "api_tais": [65],
     "api_tyku": [16, 64],
     "api_voicef": 1,
     "api_yomi": "ポーラ"
@@ -12084,7 +12031,6 @@
     "api_souk": [13, 42],
     "api_stype": 16,
     "api_taik": [36, 48],
-    "api_tais": [65],
     "api_tyku": [16, 44],
     "api_voicef": 3,
     "api_yomi": "あきつしま"
@@ -12114,7 +12060,6 @@
     "api_souk": [19, 42],
     "api_stype": 16,
     "api_taik": [41, 59],
-    "api_tais": [65],
     "api_tyku": [16, 32],
     "api_voicef": 1,
     "api_yomi": "みずほ"
@@ -12144,7 +12089,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 38],
     "api_voicef": 1,
     "api_yomi": "おきなみ"
@@ -12174,7 +12118,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [10, 40],
     "api_voicef": 1,
     "api_yomi": "かざぐも"
@@ -12204,7 +12147,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "あらし"
@@ -12234,7 +12176,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "はぎかぜ"
@@ -12264,7 +12205,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 34],
-    "api_tais": [65],
     "api_tyku": [9, 37],
     "api_voicef": 1,
     "api_yomi": "おやしお"
@@ -12294,7 +12234,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 32],
-    "api_tais": [65],
     "api_tyku": [8, 38],
     "api_voicef": 1,
     "api_yomi": "やまかぜ"
@@ -12324,7 +12263,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 32],
-    "api_tais": [65],
     "api_tyku": [10, 40],
     "api_voicef": 1,
     "api_yomi": "うみかぜ"
@@ -12354,7 +12292,6 @@
     "api_souk": [6, 19],
     "api_stype": 2,
     "api_taik": [16, 32],
-    "api_tais": [65],
     "api_tyku": [9, 39],
     "api_voicef": 1,
     "api_yomi": "かわかぜ"
@@ -12384,7 +12321,6 @@
     "api_souk": [3, 15],
     "api_stype": 22,
     "api_taik": [43, 50],
-    "api_tais": [65],
     "api_tyku": [10, 32],
     "api_voicef": 1,
     "api_yomi": "はやすい"
@@ -12414,7 +12350,6 @@
     "api_souk": [43, 77],
     "api_stype": 11,
     "api_taik": [77, 93],
-    "api_tais": [65],
     "api_tyku": [48, 88],
     "api_voicef": 3,
     "api_yomi": "しょうかく"
@@ -12444,7 +12379,6 @@
     "api_souk": [44, 78],
     "api_stype": 11,
     "api_taik": [78, 93],
-    "api_tais": [65],
     "api_tyku": [54, 90],
     "api_voicef": 3,
     "api_yomi": "ずいかく"
@@ -12474,7 +12408,6 @@
     "api_souk": [14, 52],
     "api_stype": 2,
     "api_taik": [31, 53],
-    "api_tais": [65],
     "api_tyku": [22, 60],
     "api_voicef": 1,
     "api_yomi": "あさしお"
@@ -12504,7 +12437,6 @@
     "api_souk": [14, 50],
     "api_stype": 2,
     "api_taik": [31, 53],
-    "api_tais": [65],
     "api_tyku": [24, 72],
     "api_voicef": 1,
     "api_yomi": "かすみ"
@@ -12534,7 +12466,6 @@
     "api_souk": [9, 27],
     "api_stype": 21,
     "api_taik": [36, 48],
-    "api_tais": [65],
     "api_tyku": [15, 46],
     "api_voicef": 1,
     "api_yomi": "かしま"
@@ -12564,7 +12495,6 @@
     "api_souk": [49, 83],
     "api_stype": 18,
     "api_taik": [78, 94],
-    "api_tais": [65],
     "api_tyku": [48, 88],
     "api_voicef": 3,
     "api_yomi": "しょうかく"
@@ -12594,7 +12524,6 @@
     "api_souk": [49, 84],
     "api_stype": 18,
     "api_taik": [79, 94],
-    "api_tais": [65],
     "api_tyku": [54, 90],
     "api_voicef": 3,
     "api_yomi": "ずいかく"
@@ -12624,7 +12553,6 @@
     "api_souk": [15, 55],
     "api_stype": 2,
     "api_taik": [34, 59],
-    "api_tais": [65],
     "api_tyku": [30, 74],
     "api_voicef": 1,
     "api_yomi": "あさしお"
@@ -12654,7 +12582,6 @@
     "api_souk": [14, 51],
     "api_stype": 2,
     "api_taik": [31, 54],
-    "api_tais": [65],
     "api_tyku": [18, 64],
     "api_voicef": 3,
     "api_yomi": "かわかぜ"
@@ -12684,7 +12611,6 @@
     "api_souk": [15, 52],
     "api_stype": 2,
     "api_taik": [31, 53],
-    "api_tais": [65],
     "api_tyku": [32, 80],
     "api_voicef": 1,
     "api_yomi": "かすみ"
@@ -12714,7 +12640,6 @@
     "api_souk": [5, 17],
     "api_stype": 2,
     "api_taik": [12, 23],
-    "api_tais": [65],
     "api_tyku": [5, 26],
     "api_voicef": 1,
     "api_yomi": "かみかぜ"
@@ -12744,7 +12669,6 @@
     "api_souk": [5, 17],
     "api_stype": 2,
     "api_taik": [12, 23],
-    "api_tais": [65],
     "api_tyku": [6, 27],
     "api_voicef": 1,
     "api_yomi": "あさかぜ"
@@ -12774,7 +12698,6 @@
     "api_souk": [5, 17],
     "api_stype": 2,
     "api_taik": [12, 23],
-    "api_tais": [65],
     "api_tyku": [6, 28],
     "api_voicef": 1,
     "api_yomi": "はるかぜ"
@@ -12804,7 +12727,6 @@
     "api_souk": [5, 17],
     "api_stype": 2,
     "api_taik": [12, 23],
-    "api_tais": [65],
     "api_tyku": [5, 25],
     "api_voicef": 1,
     "api_yomi": "まつかぜ"
@@ -13244,62 +13166,62 @@
     "api_voicef": 3,
     "api_yomi": "すずや"
 }, {
-    "api_afterbull": 600,
-    "api_afterfuel": 400,
-    "api_afterlv": 25,
+    "api_afterbull": 2400,
+    "api_afterfuel": 2000,
+    "api_afterlv": 45,
     "api_aftershipid": "512",
     "api_backs": 5,
-    "api_broken": [10, 14, 33, 3],
+    "api_broken": [8, 12, 29, 3],
     "api_buildtime": 240,
-    "api_bull_max": 110,
+    "api_bull_max": 100,
     "api_ctype": 73,
-    "api_fuel_max": 80,
-    "api_getmes": "※",
-    "api_houg": [63, 89],
+    "api_fuel_max": 75,
+    "api_getmes": "貴様が提督というヤツか。<br>ふん。Гангут級一番艦、Гангутだ。<br>いい面構えだ。いいだろう。",
+    "api_houg": [55, 78],
     "api_id": 511,
     "api_leng": 3,
-    "api_luck": [12, 49],
-    "api_maxeq": [3, 3, 3, 0, 0],
+    "api_luck": [20, 69],
+    "api_maxeq": [1, 1, 1, 1, 0],
     "api_name": "Гангут",
-    "api_powup": [3, 0, 1, 3],
-    "api_raig": [0, 0],
-    "api_slot_num": 3,
-    "api_soku": 10,
+    "api_powup": [2, 1, 1, 3],
+    "api_raig": [14, 28],
+    "api_slot_num": 4,
+    "api_soku": 5,
     "api_sortno": 311,
-    "api_souk": [52, 69],
+    "api_souk": [55, 73],
     "api_stype": 8,
-    "api_taik": [63, 79],
-    "api_tyku": [24, 69],
-    "api_voicef": 0,
+    "api_taik": [59, 79],
+    "api_tyku": [22, 58],
+    "api_voicef": 1,
     "api_yomi": "ガングート"
 }, {
-    "api_afterbull": 600,
-    "api_afterfuel": 400,
-    "api_afterlv": 25,
+    "api_afterbull": 1600,
+    "api_afterfuel": 4200,
+    "api_afterlv": 75,
     "api_aftershipid": "513",
     "api_backs": 6,
-    "api_broken": [10, 14, 33, 3],
+    "api_broken": [9, 13, 32, 3],
     "api_buildtime": 240,
-    "api_bull_max": 110,
+    "api_bull_max": 105,
     "api_ctype": 73,
     "api_fuel_max": 80,
-    "api_getmes": "※",
-    "api_houg": [63, 89],
+    "api_getmes": "<br>",
+    "api_houg": [65, 89],
     "api_id": 512,
     "api_leng": 3,
-    "api_luck": [12, 49],
-    "api_maxeq": [3, 3, 3, 0, 0],
+    "api_luck": [30, 79],
+    "api_maxeq": [1, 1, 1, 1, 0],
     "api_name": "Октябрьская революция",
     "api_powup": [3, 0, 1, 3],
     "api_raig": [0, 0],
-    "api_slot_num": 3,
-    "api_soku": 10,
+    "api_slot_num": 4,
+    "api_soku": 5,
     "api_sortno": 312,
-    "api_souk": [52, 69],
+    "api_souk": [68, 90],
     "api_stype": 8,
-    "api_taik": [63, 79],
-    "api_tyku": [24, 69],
-    "api_voicef": 0,
+    "api_taik": [72, 87],
+    "api_tyku": [36, 65],
+    "api_voicef": 3,
     "api_yomi": "ガングート"
 }, {
     "api_afterbull": 0,
@@ -13307,28 +13229,28 @@
     "api_afterlv": 0,
     "api_aftershipid": "0",
     "api_backs": 7,
-    "api_broken": [10, 14, 33, 3],
+    "api_broken": [9, 14, 33, 3],
     "api_buildtime": 240,
     "api_bull_max": 110,
     "api_ctype": 73,
-    "api_fuel_max": 80,
-    "api_getmes": "※",
-    "api_houg": [63, 89],
+    "api_fuel_max": 85,
+    "api_getmes": "<br>",
+    "api_houg": [66, 90],
     "api_id": 513,
     "api_leng": 3,
-    "api_luck": [12, 49],
-    "api_maxeq": [3, 3, 3, 0, 0],
+    "api_luck": [35, 88],
+    "api_maxeq": [1, 1, 2, 2, 0],
     "api_name": "Гангут два",
-    "api_powup": [3, 0, 1, 3],
-    "api_raig": [0, 0],
-    "api_slot_num": 3,
-    "api_soku": 10,
+    "api_powup": [3, 1, 1, 4],
+    "api_raig": [16, 32],
+    "api_slot_num": 4,
+    "api_soku": 5,
     "api_sortno": 316,
-    "api_souk": [52, 69],
+    "api_souk": [71, 95],
     "api_stype": 8,
-    "api_taik": [63, 79],
-    "api_tyku": [24, 69],
-    "api_voicef": 0,
+    "api_taik": [77, 92],
+    "api_tyku": [38, 72],
+    "api_voicef": 3,
     "api_yomi": "ガングート"
 }, {
     "api_afterbull": 90,
@@ -13418,33 +13340,33 @@
     "api_voicef": 1,
     "api_yomi": "たいよう"
 }, {
-    "api_afterbull": 100,
-    "api_afterfuel": 100,
-    "api_afterlv": 20,
+    "api_afterbull": 95,
+    "api_afterfuel": 55,
+    "api_afterlv": 37,
     "api_aftershipid": "383",
     "api_backs": 4,
-    "api_broken": [1, 1, 4, 0],
-    "api_buildtime": 18,
-    "api_bull_max": 15,
+    "api_broken": [1, 1, 2, 0],
+    "api_buildtime": 14,
+    "api_bull_max": 10,
     "api_ctype": 77,
-    "api_fuel_max": 15,
-    "api_getmes": "※",
-    "api_houg": [6, 29],
+    "api_fuel_max": 10,
+    "api_getmes": "司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！",
+    "api_houg": [4, 18],
     "api_id": 524,
     "api_leng": 1,
-    "api_luck": [10, 49],
+    "api_luck": [37, 78],
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "択捉",
-    "api_powup": [0, 1, 0, 0],
-    "api_raig": [18, 49],
+    "api_powup": [1, 0, 0, 0],
+    "api_raig": [0, 0],
     "api_slot_num": 2,
-    "api_soku": 10,
+    "api_soku": 5,
     "api_sortno": 334,
-    "api_souk": [5, 18],
+    "api_souk": [4, 16],
     "api_stype": 1,
-    "api_taik": [13, 24],
-    "api_tyku": [7, 29],
-    "api_voicef": 0,
+    "api_taik": [9, 18],
+    "api_tyku": [7, 27],
+    "api_voicef": 1,
     "api_yomi": "えとろふ"
 }, {
     "api_afterbull": 230,

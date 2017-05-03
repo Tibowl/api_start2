@@ -408,19 +408,19 @@
     "api_sally_flag": [0, 7]
 }, {
     "api_id": 384,
-    "api_infotext": "※作戦内容#E-4",
+    "api_infotext": "千島北端の占守島に敵が上陸<br>侵攻を開始した！第五艦隊は<br>直ちに出撃！幌筵基地航空と<br>共に敵を海岸線に押し戻せ！",
     "api_item": [0, 0, 0, 0],
     "api_level": 12,
     "api_maparea_id": 38,
     "api_max_maphp": 300,
     "api_name": "占守島沖",
     "api_no": 4,
-    "api_opetext": "逆上陸！士魂の反撃",
+    "api_opetext": "迎撃！士魂の護り",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 0]
 }, {
     "api_id": 385,
-    "api_infotext": "※作戦内容#E-5",
+    "api_infotext": "第五艦隊の活躍で占守島防衛<br>成功です！敵北方艦隊主力が<br>同島再奪取を目指して接近中<br>です！連合艦隊、出撃せよ！",
     "api_item": [0, 0, 0, 0],
     "api_level": 14,
     "api_maparea_id": 38,

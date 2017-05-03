@@ -9595,7 +9595,7 @@
     "api_map_d": [-172, 68],
     "api_map_n": [-64, 76],
     "api_sortno": 311,
-    "api_version": ["1", "1", "1"],
+    "api_version": ["2", "1", "1"],
     "api_weda": [304, 40],
     "api_wedb": [108, 124]
 }, {
