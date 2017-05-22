@@ -97,19 +97,19 @@
 }, {
     "api_boss_bgm": [8, 8],
     "api_id": 41,
-    "api_map_bgm": [1, 2],
+    "api_map_bgm": [30, 2],
     "api_maparea_id": 4,
     "api_no": 1
 }, {
     "api_boss_bgm": [9, 9],
     "api_id": 42,
-    "api_map_bgm": [1, 2],
+    "api_map_bgm": [39, 2],
     "api_maparea_id": 4,
     "api_no": 2
 }, {
     "api_boss_bgm": [10, 10],
     "api_id": 43,
-    "api_map_bgm": [1, 2],
+    "api_map_bgm": [39, 2],
     "api_maparea_id": 4,
     "api_no": 3
 }, {
@@ -119,9 +119,9 @@
     "api_maparea_id": 4,
     "api_no": 4
 }, {
-    "api_boss_bgm": [40, 39],
+    "api_boss_bgm": [40, 41],
     "api_id": 45,
-    "api_map_bgm": [30, 40],
+    "api_map_bgm": [94, 40],
     "api_maparea_id": 4,
     "api_no": 5
 }, {
@@ -137,21 +137,21 @@
     "api_maparea_id": 5,
     "api_no": 2
 }, {
-    "api_boss_bgm": [5, 5],
+    "api_boss_bgm": [5, 3],
     "api_id": 53,
-    "api_map_bgm": [13, 2],
+    "api_map_bgm": [4, 5],
     "api_maparea_id": 5,
     "api_no": 3
 }, {
-    "api_boss_bgm": [5, 5],
+    "api_boss_bgm": [5, 22],
     "api_id": 54,
-    "api_map_bgm": [4, 2],
+    "api_map_bgm": [4, 5],
     "api_maparea_id": 5,
     "api_no": 4
 }, {
-    "api_boss_bgm": [6, 6],
+    "api_boss_bgm": [6, 49],
     "api_id": 55,
-    "api_map_bgm": [4, 5],
+    "api_map_bgm": [94, 5],
     "api_maparea_id": 5,
     "api_no": 5
 }, {
@@ -183,35 +183,5 @@
     "api_id": 65,
     "api_map_bgm": [75, 75],
     "api_maparea_id": 6,
-    "api_no": 5
-}, {
-    "api_boss_bgm": [92, 92],
-    "api_id": 381,
-    "api_map_bgm": [91, 91],
-    "api_maparea_id": 38,
-    "api_no": 1
-}, {
-    "api_boss_bgm": [92, 92],
-    "api_id": 382,
-    "api_map_bgm": [91, 91],
-    "api_maparea_id": 38,
-    "api_no": 2
-}, {
-    "api_boss_bgm": [92, 92],
-    "api_id": 383,
-    "api_map_bgm": [11, 11],
-    "api_maparea_id": 38,
-    "api_no": 3
-}, {
-    "api_boss_bgm": [19, 19],
-    "api_id": 384,
-    "api_map_bgm": [92, 92],
-    "api_maparea_id": 38,
-    "api_no": 4
-}, {
-    "api_boss_bgm": [93, 93],
-    "api_id": 385,
-    "api_map_bgm": [19, 19],
-    "api_maparea_id": 38,
     "api_no": 5
 }]
