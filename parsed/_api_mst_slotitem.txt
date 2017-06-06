@@ -1148,6 +1148,12 @@ Ro.44水上戦闘機bis: Dist: 3
 30.5cm三連装砲改: Evas: 1
 30.5cm三連装砲改: Rare: 3
 30.5cm三連装砲改: Range: 3
+41cm三連装砲改: FP: 22
+41cm三連装砲改: AA: 6
+41cm三連装砲改: Armor: 1
+41cm三連装砲改: Acc: 4
+41cm三連装砲改: Rare: 5
+41cm三連装砲改: Range: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

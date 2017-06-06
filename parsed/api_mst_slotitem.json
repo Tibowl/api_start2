@@ -196,7 +196,7 @@
     "api_houk": 0,
     "api_houm": 0,
     "api_id": 8,
-    "api_info": "呉海軍工廠砲熕部で開発された初の純国産戦艦主砲です。<br>16インチ（40.6cm）を僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。<br>これを搭載した「長門」「陸奥」は、当時世界列強の「ビック７」として、多くのファンに称えられていました。",
+    "api_info": "呉海軍工廠砲熕部で開発された初の純国産戦艦主砲です。<br>16インチ（40.6cm）を僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。<br>これを搭載した「長門」「陸奥」は、当時世界列強の「ビッグ７」として、多くのファンに称えられていました。",
     "api_leng": 3,
     "api_luck": 0,
     "api_name": "41cm連装砲",
@@ -267,7 +267,8 @@
     "api_tais": 0,
     "api_tyku": 4,
     "api_type": [1, 2, 4, 16, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -294,7 +295,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [1, 2, 4, 4, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1824,7 +1826,8 @@
     "api_tais": 0,
     "api_tyku": 6,
     "api_type": [1, 2, 4, 16, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1959,7 +1962,8 @@
     "api_tais": 0,
     "api_tyku": 7,
     "api_type": [1, 2, 4, 16, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -2121,7 +2125,8 @@
     "api_tais": 0,
     "api_tyku": 2,
     "api_type": [1, 2, 4, 4, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3592,7 +3597,8 @@
     "api_tais": 0,
     "api_tyku": 8,
     "api_type": [1, 2, 4, 16, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -6015,7 +6021,8 @@
     "api_tais": 0,
     "api_tyku": 7,
     "api_type": [1, 2, 4, 16, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -6350,6 +6357,33 @@
     "api_taik": 0,
     "api_tais": 0,
     "api_tyku": 3,
+    "api_type": [1, 1, 3, 3, 0],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 18, 23, 4],
+    "api_houg": 22,
+    "api_houk": 0,
+    "api_houm": 4,
+    "api_id": 236,
+    "api_info": "呉海軍工廠砲熕部で試作された純国産戦艦主砲の三連装砲、<br>その改修改良型です。if兵装ではありますが、各部及び射撃装置を熟成改良し、砲弾誘爆防止措置も考慮した同砲を装備した改長門型戦艦は、当時世界列強の「ビッグ７」水準を遥かに凌駕した攻防のバランスと高い砲撃精度を実現します。",
+    "api_leng": 3,
+    "api_luck": 0,
+    "api_name": "41cm三連装砲改",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 5,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 236,
+    "api_souk": 1,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 6,
     "api_type": [1, 1, 3, 3, 0],
     "api_usebull": "0"
 }, {

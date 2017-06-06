@@ -214,7 +214,7 @@
     "api_no": 21,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "真っ白なフワフワ絨毯",
     "api_type": 0
@@ -844,7 +844,7 @@
     "api_no": 13,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "紫陽花の窓",
     "api_type": 2
@@ -1294,7 +1294,7 @@
     "api_no": 28,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "戦艦映画ポスター",
     "api_type": 3
@@ -2364,7 +2364,7 @@
     "api_no": 35,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "バー仕様の壁",
     "api_type": 1
@@ -2444,7 +2444,7 @@
     "api_no": 50,
     "api_price": 22000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "紫陽花鉢の提督机",
     "api_type": 5
@@ -2754,7 +2754,7 @@
     "api_no": 41,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府お茶会セット",
     "api_type": 4
@@ -2864,7 +2864,7 @@
     "api_no": 40,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "皐月の壁紙",
     "api_type": 1
@@ -2874,7 +2874,7 @@
     "api_no": 41,
     "api_price": 1750,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "皐月の窓",
     "api_type": 2
@@ -2884,7 +2884,7 @@
     "api_no": 62,
     "api_price": 3500,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 17,
     "api_title": "皐月の机",
     "api_type": 5
@@ -2914,7 +2914,7 @@
     "api_no": 41,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "紫陽花の壁紙",
     "api_type": 1
@@ -2924,7 +2924,7 @@
     "api_no": 39,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "紫陽花の床",
     "api_type": 0
@@ -2934,7 +2934,7 @@
     "api_no": 42,
     "api_price": 700,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鮎の季節の壁紙",
     "api_type": 1
@@ -3458,4 +3458,24 @@
     "api_season": 0,
     "api_title": "村雨の窓",
     "api_type": 2
+}, {
+    "api_description": "平和な大空に飛ぶ夢を描く<br>航空母艦娘の手による記念<br>掛け軸。鮮やかな色使いと<br>添えられた記念写真が魅力<br>の限定掛け軸です。",
+    "api_id": 347,
+    "api_no": 72,
+    "api_price": 0,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「空飛ぶ二航戦」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "高い機動力と第一線級艦爆<br>並みの潜在スペックを持つ<br>水上偵察機「瑞雲」。ある<br>艦娘が丹念に組み立てた模<br>型が飾られた桐箪笥です。",
+    "api_id": 348,
+    "api_no": 48,
+    "api_price": 163400,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「瑞雲」の桐箪笥",
+    "api_type": 4
 }]
