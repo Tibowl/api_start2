@@ -1064,7 +1064,7 @@
     "api_no": 5,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「海上護衛」掛け軸",
     "api_type": 3
@@ -3478,4 +3478,14 @@
     "api_season": 0,
     "api_title": "「瑞雲」の桐箪笥",
     "api_type": 4
+}, {
+    "api_description": "隠れた名機といえる高性能<br>水上偵察機「瑞雲」。その<br>魂を込めてある航空戦艦が<br>この時のために丹精込めて<br>作り上げた入魂の掛け軸。",
+    "api_id": 349,
+    "api_no": 73,
+    "api_price": 6340,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「瑞雲魂」掛け軸",
+    "api_type": 3
 }]
