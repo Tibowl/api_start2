@@ -4460,7 +4460,7 @@
     "api_sortno": 158,
     "api_souk": [29, 69],
     "api_stype": 3,
-    "api_taik": [48, 64],
+    "api_taik": [49, 64],
     "api_tyku": [20, 70],
     "api_voicef": 3,
     "api_yomi": "せんだい"
@@ -4476,7 +4476,7 @@
     "api_ctype": 16,
     "api_fuel_max": 25,
     "api_getmes": "<br>",
-    "api_houg": [27, 71],
+    "api_houg": [27, 72],
     "api_id": 159,
     "api_leng": 2,
     "api_luck": [13, 79],
@@ -4489,9 +4489,9 @@
     "api_sortno": 159,
     "api_souk": [29, 69],
     "api_stype": 3,
-    "api_taik": [50, 63],
+    "api_taik": [51, 63],
     "api_tyku": [18, 68],
-    "api_voicef": 1,
+    "api_voicef": 3,
     "api_yomi": "じんつう"
 }, {
     "api_afterbull": 0,
