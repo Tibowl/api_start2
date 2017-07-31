@@ -334,7 +334,7 @@
     "api_no": 33,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ラクガキ床",
     "api_type": 0
@@ -554,7 +554,7 @@
     "api_no": 18,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "木板の壁",
     "api_type": 1
@@ -564,7 +564,7 @@
     "api_no": 19,
     "api_price": 2200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "高級木材の壁",
     "api_type": 1
@@ -804,7 +804,7 @@
     "api_no": 9,
     "api_price": 330,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "白いカーテンの小窓",
     "api_type": 2
@@ -864,7 +864,7 @@
     "api_no": 15,
     "api_price": 2500,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鉄格子の窓",
     "api_type": 2
@@ -1164,7 +1164,7 @@
     "api_no": 15,
     "api_price": 2400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「なのです」掛け軸",
     "api_type": 3
@@ -1234,7 +1234,7 @@
     "api_no": 22,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "壁掛け図上演習セット",
     "api_type": 3
@@ -1504,7 +1504,7 @@
     "api_no": 18,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ハンガーラック",
     "api_type": 4
@@ -1714,7 +1714,7 @@
     "api_no": 8,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "インテリア椅子",
     "api_type": 5
@@ -2104,7 +2104,7 @@
     "api_no": 32,
     "api_price": 5000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府風鈴",
     "api_type": 2
@@ -2404,7 +2404,7 @@
     "api_no": 42,
     "api_price": 1980,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "富嶽タイル画",
     "api_type": 3
@@ -2484,7 +2484,7 @@
     "api_no": 37,
     "api_price": 1880,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鬼灯の花の窓",
     "api_type": 2
@@ -2494,7 +2494,7 @@
     "api_no": 52,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 2,
     "api_title": "鎮守府浜茶屋",
     "api_type": 5
@@ -2504,7 +2504,7 @@
     "api_no": 38,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 2,
     "api_title": "浜茶屋の窓",
     "api_type": 2
@@ -2514,7 +2514,7 @@
     "api_no": 39,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "業務用かき氷器",
     "api_type": 4
@@ -2524,7 +2524,7 @@
     "api_no": 38,
     "api_price": 900,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "浜茶屋の仮設壁板",
     "api_type": 1
@@ -2534,7 +2534,7 @@
     "api_no": 45,
     "api_price": 500,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "艦隊氷旗",
     "api_type": 3
@@ -2544,7 +2544,7 @@
     "api_no": 37,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "浜茶屋の床",
     "api_type": 0
@@ -3104,7 +3104,7 @@
     "api_no": 43,
     "api_price": 4800,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府夏時間の窓",
     "api_type": 2
@@ -3454,7 +3454,7 @@
     "api_no": 50,
     "api_price": 4300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "村雨の窓",
     "api_type": 2
@@ -3518,4 +3518,44 @@
     "api_season": 0,
     "api_title": "金魚の高級壁紙",
     "api_type": 1
+}, {
+    "api_description": "ある睦月型駆逐艦の雰囲気<br>再現してデザインされた壁<br>紙です。三日月と夏の花が<br>印象的な、不思議な雰囲気<br>の提督室が完成します。",
+    "api_id": 353,
+    "api_no": 58,
+    "api_price": 770,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "文月の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "ある睦月型駆逐艦の好みを<br>聞いて、家具職人が丹念に<br>仕上げた特注高級窓です。<br>手仕上げの木製ブラインド<br>を標準装備しています。",
+    "api_id": 354,
+    "api_no": 51,
+    "api_price": 7700,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "文月の窓",
+    "api_type": 2
+}, {
+    "api_description": "鎮守府「瑞雲」祭り、その<br>成功を記念して作成された<br>記念高級掛け軸です。達人<br>が墨で描いたある航空戦艦<br>が優しく微笑みます。",
+    "api_id": 355,
+    "api_no": 74,
+    "api_price": 18100,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「日向」の掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "鎮守府「瑞雲」祭り、その<br>無事完了を祝して製作され<br>た記念掛け軸、その二つ目<br>です。航空戦艦と瑞雲を愛<br>する提督にお贈りします。",
+    "api_id": 356,
+    "api_no": 75,
+    "api_price": 18200,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「伊勢」の掛け軸",
+    "api_type": 3
 }]

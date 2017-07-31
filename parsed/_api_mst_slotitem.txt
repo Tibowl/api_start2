@@ -1202,6 +1202,22 @@ F4U-1D: Dist: 6
 零式水上偵察機11型乙: Cost: 5
 零式水上偵察機11型乙: Dist: 7
 戦闘糧食(特別なおにぎり): Rare: 3
+Swordfish: FP: 2
+Swordfish: Torp: 3
+Swordfish: LoS: 1
+Swordfish: ASW: 4
+Swordfish: Acc: 1
+Swordfish: Rare: 2
+Swordfish: Cost: 3
+Swordfish: Dist: 3
+Swordfish Mk.II(熟練): FP: 3
+Swordfish Mk.II(熟練): Torp: 5
+Swordfish Mk.II(熟練): LoS: 2
+Swordfish Mk.II(熟練): ASW: 6
+Swordfish Mk.II(熟練): Acc: 3
+Swordfish Mk.II(熟練): Rare: 3
+Swordfish Mk.II(熟練): Cost: 3
+Swordfish Mk.II(熟練): Dist: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
