@@ -1218,6 +1218,54 @@ Swordfish Mk.II(熟練): Acc: 3
 Swordfish Mk.II(熟練): Rare: 3
 Swordfish Mk.II(熟練): Cost: 3
 Swordfish Mk.II(熟練): Dist: 3
+Swordfish Mk.III(熟練): FP: 4
+Swordfish Mk.III(熟練): Torp: 8
+Swordfish Mk.III(熟練): LoS: 5
+Swordfish Mk.III(熟練): ASW: 10
+Swordfish Mk.III(熟練): Acc: 4
+Swordfish Mk.III(熟練): Rare: 4
+Swordfish Mk.III(熟練): Cost: 4
+Swordfish Mk.III(熟練): Dist: 3
+38cm四連装砲: FP: 21
+38cm四連装砲: AA: 1
+38cm四連装砲: Acc: 1
+38cm四連装砲: Rare: 4
+38cm四連装砲: Range: 3
+38cm四連装砲改: FP: 22
+38cm四連装砲改: AA: 2
+38cm四連装砲改: Armor: 1
+38cm四連装砲改: Acc: 3
+38cm四連装砲改: Rare: 5
+38cm四連装砲改: Range: 2
+15.2cm三連装砲: FP: 6
+15.2cm三連装砲: AA: 1
+15.2cm三連装砲: Acc: 3
+15.2cm三連装砲: Rare: 3
+15.2cm三連装砲: Range: 2
+Skua: AA: 2
+Skua: Dive: 4
+Skua: ASW: 2
+Skua: Evas: 2
+Skua: Rare: 2
+Skua: Cost: 4
+Skua: Dist: 4
+Fulmar: Rare: 2
+Spitfire Mk.I: FP: 1
+Spitfire Mk.I: AA: 7
+Spitfire Mk.I: Acc: 2
+Spitfire Mk.I: Evas: 1
+Spitfire Mk.I: Rare: 3
+Spitfire Mk.I: Cost: 5
+Spitfire Mk.I: Dist: 4
+Spitfire Mk.V: FP: 1
+Spitfire Mk.V: AA: 9
+Spitfire Mk.V: Acc: 3
+Spitfire Mk.V: Evas: 2
+Spitfire Mk.V: Rare: 4
+Spitfire Mk.V: Cost: 5
+Spitfire Mk.V: Dist: 5
+Seafire LF.Mk.III: Rare: 4
+Spitfire Mk.IX(熟練): Rare: 5
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
@@ -1543,3 +1591,17 @@ Swordfish Mk.II(熟練): Dist: 3
 深海12inch三連装砲: Evas: 2
 深海12inch三連装砲: Rare: 4
 深海12inch三連装砲: Range: 3
+深海15inch四連装砲: FP: 24
+深海15inch四連装砲: AA: 4
+深海15inch四連装砲: Armor: 2
+深海15inch四連装砲: Acc: 8
+深海15inch四連装砲: Evas: 1
+深海15inch四連装砲: Rare: 5
+深海15inch四連装砲: Range: 3
+深海15inch連装砲後期型: FP: 19
+深海15inch連装砲後期型: AA: 8
+深海15inch連装砲後期型: Armor: 1
+深海15inch連装砲後期型: Acc: 10
+深海15inch連装砲後期型: Evas: 2
+深海15inch連装砲後期型: Rare: 5
+深海15inch連装砲後期型: Range: 3

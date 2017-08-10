@@ -530,4 +530,11 @@
     "api_name": "戦闘糧食(特別なおにぎり)",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["新型航空機材を開発、戦力化するために必要な技術図面です。※任務や装備改修等で使用することで、今後新型機の開発が可能になります。", ""],
+    "api_id": 77,
+    "api_name": "新型航空兵装資材",
+    "api_price": 0,
+    "api_usetype": 0
 }]

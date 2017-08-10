@@ -2532,6 +2532,48 @@ Commandant Teste改: speed: 5
 択捉改: AA: 12,54
 択捉改: luck: 40,88
 択捉改: speed: 5
+松輪改: HP: 9,18
+松輪改: Armor: 4,16
+松輪改: FP: 4,18
+松輪改: Torp: 0,0
+松輪改: AA: 7,27
+松輪改: luck: 37,78
+松輪改: speed: 5
+旗風改: HP: 23,38
+旗風改: Armor: 10,37
+旗風改: FP: 7,40
+旗風改: Torp: 14,68
+旗風改: AA: 10,51
+旗風改: luck: 18,86
+旗風改: speed: 10
+天霧改: HP: 30,50
+天霧改: Armor: 13,49
+天霧改: FP: 12,52
+天霧改: Torp: 28,80
+天霧改: AA: 15,50
+天霧改: luck: 17,77
+天霧改: speed: 10
+狭霧改: HP: 30,49
+狭霧改: Armor: 13,49
+狭霧改: FP: 11,50
+狭霧改: Torp: 27,82
+狭霧改: AA: 15,49
+狭霧改: luck: 7,57
+狭霧改: speed: 10
+Richelieu改: HP: 89,99
+Richelieu改: Armor: 78,96
+Richelieu改: FP: 72,96
+Richelieu改: Torp: 0,0
+Richelieu改: AA: 28,78
+Richelieu改: luck: 24,95
+Richelieu改: speed: 10
+Ark Royal改: HP: 78,92
+Ark Royal改: Armor: 42,80
+Ark Royal改: FP: 0,50
+Ark Royal改: Torp: 0,0
+Ark Royal改: AA: 44,80
+Ark Royal改: luck: 7,47
+Ark Royal改: speed: 10
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
 伊168改: FP: 3,11
@@ -3071,6 +3113,13 @@ Pola: speed: 10
 松風: AA: 5,25
 松風: luck: 12,70
 松風: speed: 10
+旗風: HP: 12,23
+旗風: Armor: 5,17
+旗風: FP: 5,29
+旗風: Torp: 12,36
+旗風: AA: 5,24
+旗風: luck: 17,73
+旗風: speed: 10
 神風改: HP: 23,38
 神風改: Armor: 10,38
 神風改: FP: 8,41
@@ -3078,6 +3127,20 @@ Pola: speed: 10
 神風改: AA: 14,48
 神風改: luck: 40,99
 神風改: speed: 10
+天霧: HP: 15,29
+天霧: Armor: 5,20
+天霧: FP: 10,30
+天霧: Torp: 27,70
+天霧: AA: 12,39
+天霧: luck: 11,57
+天霧: speed: 10
+狭霧: HP: 15,29
+狭霧: Armor: 5,19
+狭霧: FP: 10,29
+狭霧: Torp: 27,69
+狭霧: AA: 12,39
+狭霧: luck: 6,46
+狭霧: speed: 10
 水無月: HP: 13,24
 水無月: Armor: 5,18
 水無月: FP: 6,29
@@ -3134,6 +3197,13 @@ Commandant Teste: Torp: 0,0
 Commandant Teste: AA: 18,40
 Commandant Teste: luck: 17,79
 Commandant Teste: speed: 5
+Richelieu: HP: 85,93
+Richelieu: Armor: 72,90
+Richelieu: FP: 64,94
+Richelieu: Torp: 0,0
+Richelieu: AA: 22,70
+Richelieu: luck: 22,82
+Richelieu: speed: 10
 伊13: HP: 18,23
 伊13: Armor: 5,22
 伊13: FP: 2,9
@@ -3218,6 +3288,13 @@ Zara due: speed: 10
 Гангут два: AA: 38,72
 Гангут два: luck: 35,88
 Гангут два: speed: 5
+Ark Royal: HP: 70,89
+Ark Royal: Armor: 29,57
+Ark Royal: FP: 0,40
+Ark Royal: Torp: 0,0
+Ark Royal: AA: 40,70
+Ark Royal: luck: 4,39
+Ark Royal: speed: 10
 占守: HP: 9,18
 占守: Armor: 4,16
 占守: FP: 4,18
@@ -3246,6 +3323,13 @@ Zara due: speed: 10
 択捉: AA: 7,27
 択捉: luck: 37,78
 択捉: speed: 5
+松輪: HP: 9,18
+松輪: Armor: 4,16
+松輪: FP: 4,18
+松輪: Torp: 0,0
+松輪: AA: 7,27
+松輪: luck: 37,78
+松輪: speed: 5
 大鷹: HP: 37,59
 大鷹: Armor: 15,34
 大鷹: FP: 0,12
@@ -3260,6 +3344,27 @@ Zara due: speed: 10
 大鷹改二: AA: 24,54
 大鷹改二: luck: 14,64
 大鷹改二: speed: 5
+伊504: HP: 8,16
+伊504: Armor: 4,16
+伊504: FP: 2,8
+伊504: Torp: 22,58
+伊504: AA: 0,0
+伊504: luck: 30,63
+伊504: speed: 5
+Luigi Torelli: HP: 8,16
+Luigi Torelli: Armor: 4,16
+Luigi Torelli: FP: 2,8
+Luigi Torelli: Torp: 22,58
+Luigi Torelli: AA: 0,0
+Luigi Torelli: luck: 30,63
+Luigi Torelli: speed: 5
+UIT-25: HP: 8,16
+UIT-25: Armor: 4,16
+UIT-25: FP: 2,8
+UIT-25: Torp: 22,58
+UIT-25: AA: 0,0
+UIT-25: luck: 30,63
+UIT-25: speed: 5
 長門改二: HP: 91,99
 長門改二: Armor: 88,110
 長門改二: FP: 91,118
@@ -3503,3 +3608,29 @@ PT小鬼群: speed: 10
 北方水姫-壊: speed: 5
 軽母ヌ級改: speed: 5
 軽母ヌ級改: speed: 5
+潜水新棲姫: speed: 5
+潜水新棲姫: speed: 5
+潜水新棲姫: speed: 5
+駆逐ナ級: speed: 10
+駆逐ナ級: speed: 10
+駆逐ナ級: speed: 10
+駆逐ナ級後期型: speed: 10
+駆逐ナ級後期型: speed: 10
+駆逐ナ級後期型: speed: 10
+戦艦仏棲姫: speed: 10
+戦艦仏棲姫: speed: 10
+戦艦仏棲姫: speed: 10
+戦艦仏棲姫-壊: speed: 10
+戦艦仏棲姫-壊: speed: 10
+戦艦仏棲姫-壊: speed: 10
+空母夏鬼: speed: 10
+空母夏姫: speed: 10
+集積地夏姫: speed: 0
+集積地夏姫: speed: 0
+欧州棲姫: speed: 10
+欧州棲姫: speed: 10
+欧州棲姫: speed: 10
+欧州棲姫-壊: speed: 10
+欧州棲姫-壊: speed: 10
+欧州棲姫-壊: speed: 10
+重巡ネ級: speed: 10
