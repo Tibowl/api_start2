@@ -1249,7 +1249,15 @@ Skua: Evas: 2
 Skua: Rare: 2
 Skua: Cost: 4
 Skua: Dist: 4
+Fulmar: FP: 1
+Fulmar: AA: 3
+Fulmar: LoS: 1
+Fulmar: ASW: 2
+Fulmar: Acc: 2
+Fulmar: Evas: 1
 Fulmar: Rare: 2
+Fulmar: Cost: 5
+Fulmar: Dist: 4
 Spitfire Mk.I: FP: 1
 Spitfire Mk.I: AA: 7
 Spitfire Mk.I: Acc: 2
@@ -1264,8 +1272,21 @@ Spitfire Mk.V: Evas: 2
 Spitfire Mk.V: Rare: 4
 Spitfire Mk.V: Cost: 5
 Spitfire Mk.V: Dist: 5
-Seafire LF.Mk.III: Rare: 4
+Seafire Mk.III改: FP: 1
+Seafire Mk.III改: AA: 9
+Seafire Mk.III改: Armor: 1
+Seafire Mk.III改: Acc: 1
+Seafire Mk.III改: Evas: 2
+Seafire Mk.III改: Rare: 4
+Seafire Mk.III改: Cost: 6
+Seafire Mk.III改: Dist: 4
+Spitfire Mk.IX(熟練): FP: 1
+Spitfire Mk.IX(熟練): AA: 10
+Spitfire Mk.IX(熟練): Acc: 2
+Spitfire Mk.IX(熟練): Evas: 4
 Spitfire Mk.IX(熟練): Rare: 5
+Spitfire Mk.IX(熟練): Cost: 6
+Spitfire Mk.IX(熟練): Dist: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

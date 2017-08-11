@@ -420,7 +420,7 @@
     "api_sally_flag": [0, 7]
 }, {
     "api_id": 395,
-    "api_infotext": "<br>",
+    "api_infotext": "欧州派遣特務艦隊を編成し、<br>進出した基地航空隊と協同で<br>地中海東部エリアへ展開！同<br>海域の制海権確保に努めよ！",
     "api_item": [0, 0, 0, 0],
     "api_level": 13,
     "api_maparea_id": 39,
@@ -432,7 +432,7 @@
     "api_sally_flag": [1, 0]
 }, {
     "api_id": 396,
-    "api_infotext": "<br>",
+    "api_infotext": "マルタ島沖付近に深海棲艦が<br>集結中。友軍港湾部への救援<br>輸送を実施しつつ、敵艦隊を<br>撃破、ジブラルタルへ迎え！",
     "api_item": [32, 0, 0, 0],
     "api_level": 15,
     "api_maparea_id": 39,
@@ -444,7 +444,7 @@
     "api_sally_flag": [0, 7]
 }, {
     "api_id": 397,
-    "api_infotext": "<br>",
+    "api_infotext": "欧州救援作戦、いよいよ最終<br>段階！北部大西洋に展開、敵<br>戦力群を撃破、深部にて敵主<br>力と交戦、これを撃滅せよ！",
     "api_item": [0, 0, 0, 0],
     "api_level": 16,
     "api_maparea_id": 39,

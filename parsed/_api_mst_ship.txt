@@ -2532,12 +2532,12 @@ Commandant Teste改: speed: 5
 択捉改: AA: 12,54
 択捉改: luck: 40,88
 択捉改: speed: 5
-松輪改: HP: 9,18
-松輪改: Armor: 4,16
-松輪改: FP: 4,18
+松輪改: HP: 17,28
+松輪改: Armor: 7,33
+松輪改: FP: 5,38
 松輪改: Torp: 0,0
-松輪改: AA: 7,27
-松輪改: luck: 37,78
+松輪改: AA: 12,55
+松輪改: luck: 9,59
 松輪改: speed: 5
 旗風改: HP: 23,38
 旗風改: Armor: 10,37
@@ -2567,12 +2567,12 @@ Richelieu改: Torp: 0,0
 Richelieu改: AA: 28,78
 Richelieu改: luck: 24,95
 Richelieu改: speed: 10
-Ark Royal改: HP: 78,92
-Ark Royal改: Armor: 42,80
+Ark Royal改: HP: 71,90
+Ark Royal改: Armor: 28,70
 Ark Royal改: FP: 0,50
 Ark Royal改: Torp: 0,0
-Ark Royal改: AA: 44,80
-Ark Royal改: luck: 7,47
+Ark Royal改: AA: 36,82
+Ark Royal改: luck: 13,68
 Ark Royal改: speed: 10
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
@@ -3288,12 +3288,12 @@ Zara due: speed: 10
 Гангут два: AA: 38,72
 Гангут два: luck: 35,88
 Гангут два: speed: 5
-Ark Royal: HP: 70,89
-Ark Royal: Armor: 29,57
-Ark Royal: FP: 0,40
+Ark Royal: HP: 55,82
+Ark Royal: Armor: 26,47
+Ark Royal: FP: 0,27
 Ark Royal: Torp: 0,0
-Ark Royal: AA: 40,70
-Ark Royal: luck: 4,39
+Ark Royal: AA: 30,72
+Ark Royal: luck: 8,58
 Ark Royal: speed: 10
 占守: HP: 9,18
 占守: Armor: 4,16
@@ -3325,10 +3325,10 @@ Ark Royal: speed: 10
 択捉: speed: 5
 松輪: HP: 9,18
 松輪: Armor: 4,16
-松輪: FP: 4,18
+松輪: FP: 4,19
 松輪: Torp: 0,0
-松輪: AA: 7,27
-松輪: luck: 37,78
+松輪: AA: 7,28
+松輪: luck: 7,49
 松輪: speed: 5
 大鷹: HP: 37,59
 大鷹: Armor: 15,34
@@ -3344,26 +3344,26 @@ Ark Royal: speed: 10
 大鷹改二: AA: 24,54
 大鷹改二: luck: 14,64
 大鷹改二: speed: 5
-伊504: HP: 8,16
-伊504: Armor: 4,16
-伊504: FP: 2,8
-伊504: Torp: 22,58
-伊504: AA: 0,0
-伊504: luck: 30,63
+伊504: HP: 14,24
+伊504: Armor: 5,21
+伊504: FP: 3,15
+伊504: Torp: 30,68
+伊504: AA: 0,28
+伊504: luck: 40,85
 伊504: speed: 5
-Luigi Torelli: HP: 8,16
-Luigi Torelli: Armor: 4,16
-Luigi Torelli: FP: 2,8
-Luigi Torelli: Torp: 22,58
-Luigi Torelli: AA: 0,0
-Luigi Torelli: luck: 30,63
+Luigi Torelli: HP: 11,21
+Luigi Torelli: Armor: 5,17
+Luigi Torelli: FP: 2,10
+Luigi Torelli: Torp: 18,62
+Luigi Torelli: AA: 0,18
+Luigi Torelli: luck: 25,62
 Luigi Torelli: speed: 5
-UIT-25: HP: 8,16
-UIT-25: Armor: 4,16
-UIT-25: FP: 2,8
-UIT-25: Torp: 22,58
-UIT-25: AA: 0,0
-UIT-25: luck: 30,63
+UIT-25: HP: 13,23
+UIT-25: Armor: 5,19
+UIT-25: FP: 2,12
+UIT-25: Torp: 0,36
+UIT-25: AA: 0,25
+UIT-25: luck: 35,77
 UIT-25: speed: 5
 長門改二: HP: 91,99
 長門改二: Armor: 88,110
@@ -3379,6 +3379,13 @@ UIT-25: speed: 5
 文月改二: AA: 37,82
 文月改二: luck: 17,77
 文月改二: speed: 10
+Luigi Torelli改: HP: 13,23
+Luigi Torelli改: Armor: 5,18
+Luigi Torelli改: FP: 0,8
+Luigi Torelli改: Torp: 0,32
+Luigi Torelli改: AA: 0,22
+Luigi Torelli改: luck: 30,72
+Luigi Torelli改: speed: 5
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
