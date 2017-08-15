@@ -175,10 +175,6 @@
         "api_name": "連合艦隊旗艦"
     }],
     "api_mst_const": {
-        "api_boko_max_ships": {
-            "api_string_value": "",
-            "api_int_value": 340
-        },
         "api_parallel_quest_max": {
             "api_string_value": "",
             "api_int_value": 10
@@ -186,6 +182,10 @@
         "api_dpflag_quest": {
             "api_string_value": "",
             "api_int_value": 0
+        },
+        "api_boko_max_ships": {
+            "api_string_value": "",
+            "api_int_value": 340
         }
     },
     "api_mst_equip_exslot": [16, 21, 23, 27, 28, 43, 44],
@@ -29089,7 +29089,7 @@
         "api_map_d": [20, 40],
         "api_map_n": [128, 36],
         "api_sortno": 1464,
-        "api_version": ["1", "1", "1"],
+        "api_version": ["2", "1", "1"],
         "api_weda": [96, 100],
         "api_wedb": [80, 112]
     }, {
@@ -29189,7 +29189,7 @@
         "api_map_d": [44, 128],
         "api_map_n": [108, 112],
         "api_sortno": 1473,
-        "api_version": ["1", "1", "1"],
+        "api_version": ["2", "1", "1"],
         "api_weda": [128, 0],
         "api_wedb": [80, 116]
     }, {
@@ -31369,7 +31369,7 @@
         "api_map_d": [44, 128],
         "api_map_n": [108, 112],
         "api_sortno": 315,
-        "api_version": ["51", "1", "1"],
+        "api_version": ["52", "1", "1"],
         "api_weda": [128, 0],
         "api_wedb": [80, 116]
     }, {
@@ -31469,7 +31469,7 @@
         "api_map_d": [20, 40],
         "api_map_n": [128, 36],
         "api_sortno": 335,
-        "api_version": ["51", "1", "1"],
+        "api_version": ["52", "1", "1"],
         "api_weda": [96, 100],
         "api_wedb": [80, 112]
     }, {
@@ -48406,7 +48406,7 @@
         "api_houk": 4,
         "api_houm": 2,
         "api_id": 253,
-        "api_info": "紅茶の国を代表する主力戦闘機、「Spitfire」。<br>バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜いた名機の後期性能向上量産型を装備した精鋭飛行隊です。「Spitfire」はこの後エンジンに換装し、さらに強力に進化していきます。",
+        "api_info": "紅茶の国を代表する主力戦闘機、「Spitfire」。<br>バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜いた名機の後期性能向上量産型を装備した精鋭飛行隊です。「Spitfire」はこの後エンジンを換装し、さらに強力に進化していきます。",
         "api_leng": 0,
         "api_luck": 0,
         "api_name": "Spitfire Mk.IX(熟練)",
