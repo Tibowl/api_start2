@@ -175,17 +175,17 @@
         "api_name": "連合艦隊旗艦"
     }],
     "api_mst_const": {
-        "api_parallel_quest_max": {
+        "api_boko_max_ships": {
             "api_string_value": "",
-            "api_int_value": 10
+            "api_int_value": 340
         },
         "api_dpflag_quest": {
             "api_string_value": "",
             "api_int_value": 0
         },
-        "api_boko_max_ships": {
+        "api_parallel_quest_max": {
             "api_string_value": "",
-            "api_int_value": 340
+            "api_int_value": 10
         }
     },
     "api_mst_equip_exslot": [16, 21, 23, 27, 28, 43, 44],
@@ -48423,6 +48423,64 @@
         "api_tais": 0,
         "api_tyku": 10,
         "api_type": [22, 39, 48, 44, 29],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [2, 3, 0, 5],
+        "api_cost": 9,
+        "api_distance": 5,
+        "api_houg": 0,
+        "api_houk": 3,
+        "api_houm": 2,
+        "api_id": 254,
+        "api_info": "大戦初期の太平洋上で零戦としのぎを削った艦上戦闘機F4Fシリーズの後継機、大出力エンジンを装備した強力な主力艦上戦闘機F6Fシリーズ初期型の夜戦タイプです。<br>主翼下に機上レーダーを装備し、夜間の作戦行動を可能とした夜間戦闘機型艦載機です。",
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "F6F-3N",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 4,
+        "api_sakb": 0,
+        "api_saku": 2,
+        "api_soku": 0,
+        "api_sortno": 254,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 4,
+        "api_tyku": 8,
+        "api_type": [3, 5, 6, 45, 21],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [2, 4, 0, 6],
+        "api_cost": 9,
+        "api_distance": 5,
+        "api_houg": 0,
+        "api_houk": 3,
+        "api_houm": 3,
+        "api_id": 255,
+        "api_info": "太平洋上で零戦としのぎを削った艦上戦闘機F4Fシリーズの後継機、大戦後期の空を制圧したF6Fシリーズ。その後期改良型にレーダーを搭載した夜間戦闘機バージョンです。<br>大出力エンジンと優れた火力、防御面も強化し機上レーダーまで装備した本機は、強力な艦上夜間戦闘機として夜の海の空を支配します。",
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "F6F-5N",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 5,
+        "api_sakb": 0,
+        "api_saku": 3,
+        "api_soku": 0,
+        "api_sortno": 255,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 5,
+        "api_tyku": 10,
+        "api_type": [3, 5, 6, 45, 21],
         "api_usebull": "0"
     }, {
         "api_atap": 0,

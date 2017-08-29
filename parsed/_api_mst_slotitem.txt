@@ -1287,6 +1287,22 @@ Spitfire Mk.IX(熟練): Evas: 4
 Spitfire Mk.IX(熟練): Rare: 5
 Spitfire Mk.IX(熟練): Cost: 6
 Spitfire Mk.IX(熟練): Dist: 4
+F6F-3N: AA: 8
+F6F-3N: LoS: 2
+F6F-3N: ASW: 4
+F6F-3N: Acc: 2
+F6F-3N: Evas: 3
+F6F-3N: Rare: 4
+F6F-3N: Cost: 9
+F6F-3N: Dist: 5
+F6F-5N: AA: 10
+F6F-5N: LoS: 3
+F6F-5N: ASW: 5
+F6F-5N: Acc: 3
+F6F-5N: Evas: 3
+F6F-5N: Rare: 5
+F6F-5N: Cost: 9
+F6F-5N: Dist: 5
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
