@@ -3372,6 +3372,13 @@ UIT-25: speed: 5
 長門改二: AA: 40,100
 長門改二: luck: 40,108
 長門改二: speed: 5
+Saratoga Mk.II: HP: 89,99
+Saratoga Mk.II: Armor: 48,85
+Saratoga Mk.II: FP: 0,68
+Saratoga Mk.II: Torp: 0,0
+Saratoga Mk.II: AA: 60,94
+Saratoga Mk.II: luck: 40,93
+Saratoga Mk.II: speed: 10
 文月改二: HP: 27,44
 文月改二: Armor: 12,46
 文月改二: FP: 7,44
@@ -3379,6 +3386,13 @@ UIT-25: speed: 5
 文月改二: AA: 37,82
 文月改二: luck: 17,77
 文月改二: speed: 10
+Saratoga Mk.II Mod.2: HP: 89,99
+Saratoga Mk.II Mod.2: Armor: 50,88
+Saratoga Mk.II Mod.2: FP: 0,58
+Saratoga Mk.II Mod.2: Torp: 0,0
+Saratoga Mk.II Mod.2: AA: 60,94
+Saratoga Mk.II Mod.2: luck: 40,93
+Saratoga Mk.II Mod.2: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
@@ -3386,6 +3400,18 @@ Luigi Torelli改: Torp: 0,32
 Luigi Torelli改: AA: 0,22
 Luigi Torelli改: luck: 30,72
 Luigi Torelli改: speed: 5
+炒飯長波: speed: 10
+夏Z1: speed: 10
+夏海風: speed: 10
+夏Commandant Teste: speed: 5
+夏最上: speed: 10
+夏2017三隅: speed: 10
+夏伊401: speed: 5
+夏U-511: speed: 5
+夏呂500: speed: 5
+瑞雲伊勢改: speed: 5
+瑞雲日向改: speed: 5
+瑞雲大淀改: speed: 10
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10

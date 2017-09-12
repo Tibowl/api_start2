@@ -184,46 +184,4 @@
     "api_map_bgm": [75, 75],
     "api_maparea_id": 6,
     "api_no": 5
-}, {
-    "api_boss_bgm": [96, 96],
-    "api_id": 391,
-    "api_map_bgm": [95, 95],
-    "api_maparea_id": 39,
-    "api_no": 1
-}, {
-    "api_boss_bgm": [97, 97],
-    "api_id": 392,
-    "api_map_bgm": [96, 96],
-    "api_maparea_id": 39,
-    "api_no": 2
-}, {
-    "api_boss_bgm": [97, 97],
-    "api_id": 393,
-    "api_map_bgm": [96, 96],
-    "api_maparea_id": 39,
-    "api_no": 3
-}, {
-    "api_boss_bgm": [99, 99],
-    "api_id": 394,
-    "api_map_bgm": [98, 98],
-    "api_maparea_id": 39,
-    "api_no": 4
-}, {
-    "api_boss_bgm": [99, 99],
-    "api_id": 395,
-    "api_map_bgm": [97, 97],
-    "api_maparea_id": 39,
-    "api_no": 5
-}, {
-    "api_boss_bgm": [99, 99],
-    "api_id": 396,
-    "api_map_bgm": [97, 97],
-    "api_maparea_id": 39,
-    "api_no": 6
-}, {
-    "api_boss_bgm": [100, 100],
-    "api_id": 397,
-    "api_map_bgm": [99, 99],
-    "api_maparea_id": 39,
-    "api_no": 7
 }]
