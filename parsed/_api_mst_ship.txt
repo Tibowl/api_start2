@@ -3400,6 +3400,7 @@ Luigi Torelli改: Torp: 0,32
 Luigi Torelli改: AA: 0,22
 Luigi Torelli改: luck: 30,72
 Luigi Torelli改: speed: 5
+浴衣朝霜: speed: 10
 炒飯長波: speed: 10
 夏Z1: speed: 10
 夏海風: speed: 10

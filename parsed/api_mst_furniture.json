@@ -1964,7 +1964,7 @@
     "api_no": 33,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "布団と枕",
     "api_type": 5
@@ -2614,7 +2614,7 @@
     "api_no": 55,
     "api_price": 3800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府秋刀魚祭り",
     "api_type": 5
@@ -3598,4 +3598,14 @@
     "api_season": 0,
     "api_title": "月夜海の蓄音機",
     "api_type": 4
+}, {
+    "api_description": "朝潮型駆逐艦で編成された<br>ある元気な駆逐隊が、艦隊<br>の航海の安全と秋刀魚大漁<br>を祈って作った新大漁旗。<br>アゲアゲで参りましょう。",
+    "api_id": 361,
+    "api_no": 76,
+    "api_price": 0,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "一七式大漁旗",
+    "api_type": 3
 }]

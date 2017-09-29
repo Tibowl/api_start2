@@ -661,6 +661,7 @@ OTO 152mm三連装速射砲: Range: 2
 試製南山: Rare: 5
 試製南山: Cost: 9
 試製南山: Dist: 5
+四式水中聴音機: Armor: 1
 四式水中聴音機: ASW: 12
 四式水中聴音機: Acc: 1
 四式水中聴音機: Rare: 4
@@ -1330,6 +1331,19 @@ TBM-3D: Dist: 6
 夜間作戦航空要員+熟練甲板員: Evas: 1
 夜間作戦航空要員+熟練甲板員: Rare: 4
 夜間作戦航空要員+熟練甲板員: Range: 3
+Type124 ASDIC: ASW: 11
+Type124 ASDIC: Acc: 2
+Type124 ASDIC: Evas: 1
+Type124 ASDIC: Rare: 3
+Type144/147 ASDIC: ASW: 13
+Type144/147 ASDIC: Acc: 3
+Type144/147 ASDIC: Evas: 1
+Type144/147 ASDIC: Rare: 4
+HF/DF + Type144/147 ASDIC: LoS: 2
+HF/DF + Type144/147 ASDIC: ASW: 15
+HF/DF + Type144/147 ASDIC: Acc: 3
+HF/DF + Type144/147 ASDIC: Evas: 2
+HF/DF + Type144/147 ASDIC: Rare: 5
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

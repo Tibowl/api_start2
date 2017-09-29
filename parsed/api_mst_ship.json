@@ -14096,6 +14096,14 @@
     "api_voicef": 3,
     "api_yomi": "ルイージ・トレッリ"
 }, {
+    "api_ctype": 80,
+    "api_id": 787,
+    "api_name": "浴衣朝霜",
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_stype": 13,
+    "api_yomi": "あさしも"
+}, {
     "api_ctype": 38,
     "api_id": 788,
     "api_name": "炒飯長波",
