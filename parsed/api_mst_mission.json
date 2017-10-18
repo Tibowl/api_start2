@@ -1,6 +1,8 @@
 [{
-    "api_details": "鎮守府近海を航海し、艦隊の練度を高めよう！",
+    "api_deck_num": 2,
+    "api_details": "鎮守府近海を航海し、艦隊の練度<br>を高めよう！",
     "api_difficulty": 1,
+    "api_disp_no": "01",
     "api_id": 1,
     "api_maparea_id": 1,
     "api_name": "練習航海",
@@ -11,8 +13,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "外海まで足を延ばし、艦隊の練度を高めよう！",
+    "api_deck_num": 4,
+    "api_details": "外海まで足を延ばし、艦隊の練度<br>を高めよう！",
     "api_difficulty": 1,
+    "api_disp_no": "02",
     "api_id": 2,
     "api_maparea_id": 1,
     "api_name": "長距離練習航海",
@@ -23,8 +27,10 @@
     "api_win_item1": [1, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "鎮守府の担当海域をパトロールして、領海の安全を守ろう！",
+    "api_deck_num": 3,
+    "api_details": "鎮守府担当海域をパトロールして<br>領海の安全を守ろう！",
     "api_difficulty": 2,
+    "api_disp_no": "03",
     "api_id": 3,
     "api_maparea_id": 1,
     "api_name": "警備任務",
@@ -35,8 +41,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "水雷戦隊を編成し、領海内を索敵、対潜水警戒任務につこう！",
+    "api_deck_num": 3,
+    "api_details": "水雷戦隊を編成、領海内を索敵、<br>対潜水警戒任務に就こう！",
     "api_difficulty": 2,
+    "api_disp_no": "04",
     "api_id": 4,
     "api_maparea_id": 1,
     "api_name": "対潜警戒任務",
@@ -47,8 +55,10 @@
     "api_win_item1": [1, 1],
     "api_win_item2": [10, 1]
 }, {
-    "api_details": "輸送船団の安全を図るために、船団に同行して、これを護衛しよう！",
+    "api_deck_num": 4,
+    "api_details": "輸送船団の安全を図るために、船<br>団に同行し、これを護衛しよう！",
     "api_difficulty": 3,
+    "api_disp_no": "05",
     "api_id": 5,
     "api_maparea_id": 1,
     "api_name": "海上護衛任務",
@@ -59,8 +69,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "敵艦載機襲来に備えて、対空射撃や回避運動の訓練をしよう！",
+    "api_deck_num": 4,
+    "api_details": "敵艦載機襲来に備えて、対空射撃<br>や回避運動の訓練をしよう！",
     "api_difficulty": 3,
+    "api_disp_no": "06",
     "api_id": 6,
     "api_maparea_id": 1,
     "api_name": "防空射撃演習",
@@ -71,8 +83,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "海の一大ページェント、「観艦式」の予行航海を実施しよう！",
+    "api_deck_num": 6,
+    "api_details": "海の一大ページェント「観艦式」<br>の予行航海を実施しよう！",
     "api_difficulty": 3,
+    "api_disp_no": "07",
     "api_id": 7,
     "api_maparea_id": 1,
     "api_name": "観艦式予行",
@@ -83,8 +97,10 @@
     "api_win_item1": [2, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "今こそ日頃の訓練の成果を見せるとき！「観艦式」を挙行しよう！",
+    "api_deck_num": 6,
+    "api_details": "今こそ日頃の訓練の成果を見せる<br>とき！「観艦式」を挙行しよう！",
     "api_difficulty": 4,
+    "api_disp_no": "08",
     "api_id": 8,
     "api_maparea_id": 1,
     "api_name": "観艦式",
@@ -95,8 +111,10 @@
     "api_win_item1": [2, 2],
     "api_win_item2": [3, 1]
 }, {
-    "api_details": "油田地帯から燃料を満載して戻るタンカー船団を護衛しよう！",
+    "api_deck_num": 4,
+    "api_details": "油田地帯から燃料を満載して戻る<br>タンカー船団を護衛しよう！",
     "api_difficulty": 3,
+    "api_disp_no": "09",
     "api_id": 9,
     "api_maparea_id": 2,
     "api_name": "タンカー護衛任務",
@@ -107,8 +125,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [1, 2]
 }, {
-    "api_details": "水上偵察機搭載艦などを活用し、敵艦隊の動向を探れ！",
+    "api_deck_num": 3,
+    "api_details": "水上偵察機搭載艦などを活用し、<br>敵艦隊の動向を探れ！",
     "api_difficulty": 3,
+    "api_disp_no": "10",
     "api_id": 10,
     "api_maparea_id": 2,
     "api_name": "強行偵察任務",
@@ -119,8 +139,10 @@
     "api_win_item1": [1, 1],
     "api_win_item2": [2, 1]
 }, {
-    "api_details": "資源集積地から母港に、ボーキサイトを輸送しよう！",
+    "api_deck_num": 4,
+    "api_details": "資源集積地から、母港にボーキサ<br>イトを輸送しよう！",
     "api_difficulty": 4,
+    "api_disp_no": "11",
     "api_id": 11,
     "api_maparea_id": 2,
     "api_name": "ボーキサイト輸送任務",
@@ -131,8 +153,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [1, 1]
 }, {
-    "api_details": "資源国から輸入される資源を母港へ護衛し、無事輸送を完了しよう！",
+    "api_deck_num": 4,
+    "api_details": "資源国からの輸送部隊を護衛し、<br>母港への輸送を無事完遂しよう！",
     "api_difficulty": 4,
+    "api_disp_no": "12",
     "api_id": 12,
     "api_maparea_id": 2,
     "api_name": "資源輸送任務",
@@ -143,8 +167,10 @@
     "api_win_item1": [11, 1],
     "api_win_item2": [3, 1]
 }, {
-    "api_details": "快速の駆逐艦を集中運用して、激戦の諸島へ物資を輸送しよう！",
+    "api_deck_num": 6,
+    "api_details": "快速の水雷戦隊を集中運用して、<br>激戦の諸島へ物資を輸送しよう！",
     "api_difficulty": 5,
+    "api_disp_no": "13",
     "api_id": 13,
     "api_maparea_id": 2,
     "api_name": "鼠輸送作戦",
@@ -155,8 +181,10 @@
     "api_win_item1": [1, 2],
     "api_win_item2": [10, 1]
 }, {
-    "api_details": "機動力のある小艦艇部隊を結集し、包囲下の部隊を収容しよう！",
+    "api_deck_num": 6,
+    "api_details": "機動力のある小艦艇部隊を結集、<br>包囲下の部隊を収容しよう！",
     "api_difficulty": 5,
+    "api_disp_no": "14",
     "api_id": 14,
     "api_maparea_id": 2,
     "api_name": "包囲陸戦隊撤収作戦",
@@ -167,8 +195,10 @@
     "api_win_item1": [1, 1],
     "api_win_item2": [3, 1]
 }, {
-    "api_details": "敵機動部隊の戦力を誘引する空母を含む囮部隊で、主力艦隊を支援しよう！",
+    "api_deck_num": 6,
+    "api_details": "敵機動部隊を誘引する空母を含む<br>囮部隊で主力艦隊を支援しよう！",
     "api_difficulty": 6,
+    "api_disp_no": "15",
     "api_id": 15,
     "api_maparea_id": 2,
     "api_name": "囮機動部隊支援作戦",
@@ -179,8 +209,10 @@
     "api_win_item1": [12, 1],
     "api_win_item2": [3, 1]
 }, {
-    "api_details": "有力な艦隊を編成し、敵の背後側面を奇襲、主力の艦隊決戦を援護しよう！",
+    "api_deck_num": 6,
+    "api_details": "有力な艦隊を編成し、敵背後側面<br>を奇襲、艦隊決戦を援護しよう！",
     "api_difficulty": 6,
+    "api_disp_no": "16",
     "api_id": 16,
     "api_maparea_id": 2,
     "api_name": "艦隊決戦援護作戦",
@@ -191,8 +223,10 @@
     "api_win_item1": [2, 2],
     "api_win_item2": [3, 2]
 }, {
-    "api_details": "精鋭の水雷戦隊を編成し、北方海域の敵情勢を強行偵察せよ！",
+    "api_deck_num": 6,
+    "api_details": "精鋭水雷戦隊を投入し、北方海域<br>の敵情勢を強行偵察せよ！",
     "api_difficulty": 5,
+    "api_disp_no": "17",
     "api_id": 17,
     "api_maparea_id": 3,
     "api_name": "敵地偵察作戦",
@@ -203,8 +237,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "有力な「航空母艦」多数を配備した艦隊を編成、前線に航空機を輸送せよ！",
+    "api_deck_num": 6,
+    "api_details": "「航空母艦」を多数配備した輸送<br>部隊で前線に航空機を輸送せよ！",
     "api_difficulty": 6,
+    "api_disp_no": "18",
     "api_id": 18,
     "api_maparea_id": 3,
     "api_name": "航空機輸送作戦",
@@ -215,8 +251,10 @@
     "api_win_item1": [1, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "練度の高い「航空戦艦」複数を基幹とした、強行輸送船団を出航させよ！",
+    "api_deck_num": 6,
+    "api_details": "高練度「航空戦艦」複数を基幹と<br>する強行輸送船団を出航させよ！",
     "api_difficulty": 6,
+    "api_disp_no": "19",
     "api_id": 19,
     "api_maparea_id": 3,
     "api_name": "北号作戦",
@@ -227,8 +265,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [3, 1]
 }, {
-    "api_details": "潜水艦とその支援艦艇によって構成された艦隊で、北方海域の哨戒任務に当たれ！",
+    "api_deck_num": 2,
+    "api_details": "潜水艦と同支援艦艇による艦隊で<br>北方海域の哨戒任務にあたれ！",
     "api_difficulty": 6,
+    "api_disp_no": "20",
     "api_id": 20,
     "api_maparea_id": 3,
     "api_name": "潜水艦哨戒任務",
@@ -239,8 +279,10 @@
     "api_win_item1": [3, 1],
     "api_win_item2": [10, 1]
 }, {
-    "api_details": "水雷戦隊にドラム缶(輸送用)を積載し、北方方面の友軍への糧食補給を図れ！",
+    "api_deck_num": 5,
+    "api_details": "水雷戦隊にドラム缶を積載、北方<br>方面の友軍への糧食補給を図れ！",
     "api_difficulty": 6,
+    "api_disp_no": "21",
     "api_id": 21,
     "api_maparea_id": 3,
     "api_name": "北方鼠輸送作戦",
@@ -251,8 +293,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "練度を向上させるための艦隊演習を行う。(資源獲得目的の遠征ではありません)",
+    "api_deck_num": 6,
+    "api_details": "練度向上のため艦隊演習を実施！<br>(資源獲得の遠征ではありません)",
     "api_difficulty": 7,
+    "api_disp_no": "22",
     "api_id": 22,
     "api_maparea_id": 3,
     "api_name": "艦隊演習",
@@ -263,8 +307,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "練度の高い「航空戦艦」複数を基幹とした艦隊による総合演習を実施せよ！",
+    "api_deck_num": 6,
+    "api_details": "高練度「航空戦艦」戦隊を基幹と<br>した艦隊の総合演習を実施せよ！",
     "api_difficulty": 8,
+    "api_disp_no": "23",
     "api_id": 23,
     "api_maparea_id": 3,
     "api_name": "航空戦艦運用演習",
@@ -275,8 +321,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "練度の高い軽巡が率いる精鋭の護衛艦隊で、北方航路の海上護衛を実施せよ！",
+    "api_deck_num": 6,
+    "api_details": "高練度軽巡が率いる精鋭護衛艦隊<br>で北方航路海上護衛を実施せよ！",
     "api_difficulty": 8,
+    "api_disp_no": "24",
     "api_id": 24,
     "api_maparea_id": 3,
     "api_name": "北方航路海上護衛",
@@ -287,8 +335,10 @@
     "api_win_item1": [3, 2],
     "api_win_item2": [1, 1]
 }, {
-    "api_details": "快速かつ打撃力のある重巡を中心とした艦隊によって、敵後方補給線を遮断せよ!",
+    "api_deck_num": 4,
+    "api_details": "快速かつ打撃力のある重巡戦隊を<br>投入、敵後方補給線を遮断せよ!",
     "api_difficulty": 7,
+    "api_disp_no": "25",
     "api_id": 25,
     "api_maparea_id": 4,
     "api_name": "通商破壊作戦",
@@ -299,8 +349,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "敵潜水艦の哨戒線を長躯突破し、空母を伴った有力な機動部隊で敵母港を叩け！",
+    "api_deck_num": 4,
+    "api_details": "敵潜水艦の哨戒線を長躯突破し、<br>有力な機動部隊で敵母港を叩け！",
     "api_difficulty": 7,
+    "api_disp_no": "26",
     "api_id": 26,
     "api_maparea_id": 4,
     "api_name": "敵母港空襲作戦",
@@ -311,8 +363,10 @@
     "api_win_item1": [1, 3],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "潜水艦2隻以上を伴う艦隊で敵後方へ進出、通商破壊作戦を実施せよ！",
+    "api_deck_num": 2,
+    "api_details": "潜水艦2隻以上を伴う艦隊で、敵<br>後方へ進出、通商破壊作戦実施！",
     "api_difficulty": 8,
+    "api_disp_no": "27",
     "api_id": 27,
     "api_maparea_id": 4,
     "api_name": "潜水艦通商破壊作戦",
@@ -323,8 +377,10 @@
     "api_win_item1": [3, 1],
     "api_win_item2": [10, 2]
 }, {
-    "api_details": "潜水艦3隻以上で構成される艦隊で、西方海域の敵水上艦の活動を封鎖せよ!",
+    "api_deck_num": 3,
+    "api_details": "潜水艦3隻以上の艦隊で、西方海<br>域の敵水上艦の活動を封鎖せよ！",
     "api_difficulty": 8,
+    "api_disp_no": "28",
     "api_id": 28,
     "api_maparea_id": 4,
     "api_name": "西方海域封鎖作戦",
@@ -335,8 +391,10 @@
     "api_win_item1": [3, 2],
     "api_win_item2": [11, 2]
 }, {
-    "api_details": "潜水艦3隻以上で構成される艦隊を編成、長距離派遣の演習を実施せよ！",
+    "api_deck_num": 3,
+    "api_details": "潜水艦3隻以上の艦隊を編成し、<br>長距離派遣の演習を実施せよ！",
     "api_difficulty": 8,
+    "api_disp_no": "29",
     "api_id": 29,
     "api_maparea_id": 4,
     "api_name": "潜水艦派遣演習",
@@ -347,8 +405,10 @@
     "api_win_item1": [3, 1],
     "api_win_item2": [10, 1]
 }, {
-    "api_details": "潜水艦4隻以上で構成される艦隊を編成し、遠方の友軍勢力との連絡を試みよ！",
+    "api_deck_num": 4,
+    "api_details": "潜水艦4隻以上の艦隊を編成し、<br>遠方友軍勢力との連絡を試みよ！",
     "api_difficulty": 8,
+    "api_disp_no": "30",
     "api_id": 30,
     "api_maparea_id": 4,
     "api_name": "潜水艦派遣作戦",
@@ -359,8 +419,10 @@
     "api_win_item1": [3, 3],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "潜水艦4隻以上で構成される艦隊を編成・派遣し、海外艦との邂逅を試みよ！",
+    "api_deck_num": 4,
+    "api_details": "潜水艦4隻以上の艦隊を派遣し、<br>海外艦との邂逅を試みよ！",
     "api_difficulty": 8,
+    "api_disp_no": "31",
     "api_id": 31,
     "api_maparea_id": 4,
     "api_name": "海外艦との接触",
@@ -371,8 +433,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "練習巡洋艦を旗艦とした練習艦隊で遠洋練習航海を実施、基礎練度向上に努めよ！",
+    "api_deck_num": 3,
+    "api_details": "練習巡洋艦を旗艦で遠洋練習航海<br>を実施、基礎練度向上に努めよ！",
     "api_difficulty": 2,
+    "api_disp_no": "32",
     "api_id": 32,
     "api_maparea_id": 4,
     "api_name": "遠洋練習航海",
@@ -383,8 +447,10 @@
     "api_win_item1": [12, 1],
     "api_win_item2": [3, 3]
 }, {
-    "api_details": "南方海域へ支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
+    "api_deck_num": 2,
+    "api_details": "南方海域へ支援艦隊を出撃させ、<br>主力艦隊の進撃を援護せよ！",
     "api_difficulty": 1,
+    "api_disp_no": "33",
     "api_id": 33,
     "api_maparea_id": 5,
     "api_name": "前衛支援任務",
@@ -395,8 +461,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "南方海域へ決戦支援を行う別動隊を出撃させ、主力艦隊の艦隊決戦を援護せよ！(要:駆逐2隻)",
+    "api_deck_num": 2,
+    "api_details": "南方海域へ決戦支援を行う別動隊<br>を展開し、主力艦隊を援護せよ！",
     "api_difficulty": 1,
+    "api_disp_no": "34",
     "api_id": 34,
     "api_maparea_id": 5,
     "api_name": "艦隊決戦支援任務",
@@ -407,8 +475,10 @@
     "api_win_item1": [0, 0],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "空母2隻を基幹とするMO機動部隊を出撃させ、南方海域の制海権を確保せよ！",
+    "api_deck_num": 6,
+    "api_details": "空母2隻を含むMO機動部隊を投入<br>し、南方海域制海権を確保せよ！",
     "api_difficulty": 7,
+    "api_disp_no": "35",
     "api_id": 35,
     "api_maparea_id": 5,
     "api_name": "MO作戦",
@@ -419,8 +489,10 @@
     "api_win_item1": [10, 2],
     "api_win_item2": [3, 1]
 }, {
-    "api_details": "水上機母艦2隻を含む艦隊を編成し、南方海域に哨戒用の水上機基地を建設せよ！",
+    "api_deck_num": 6,
+    "api_details": "水上機母艦2隻を南方に展開し、<br>哨戒用の水上機基地を建設せよ！",
     "api_difficulty": 8,
+    "api_disp_no": "36",
     "api_id": 36,
     "api_maparea_id": 5,
     "api_name": "水上機基地建設",
@@ -431,8 +503,10 @@
     "api_win_item1": [11, 2],
     "api_win_item2": [1, 1]
 }, {
-    "api_details": "水雷戦隊にドラム缶(輸送用)を満載し、南方方面友軍への鼠輸送作戦を遂行せよ！",
+    "api_deck_num": 6,
+    "api_details": "水雷戦隊に輸送ドラム缶を満載、<br>南方への鼠輸送作戦を遂行せよ！",
     "api_difficulty": 7,
+    "api_disp_no": "37",
     "api_id": 37,
     "api_maparea_id": 5,
     "api_name": "東京急行",
@@ -443,8 +517,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "水雷戦隊にドラム缶(輸送用)を可能な限り満載し、南方鼠輸送作戦を続行せよ！",
+    "api_deck_num": 6,
+    "api_details": "可能な限り輸送ドラム缶を満載、<br>南方への鼠輸送作戦を続行せよ！",
     "api_difficulty": 8,
+    "api_disp_no": "38",
     "api_id": 38,
     "api_maparea_id": 5,
     "api_name": "東京急行(弐)",
@@ -455,8 +531,10 @@
     "api_win_item1": [10, 1],
     "api_win_item2": [0, 0]
 }, {
-    "api_details": "潜水母艦と多数の潜水艦による遠洋潜水艦作戦を実施、敵戦力の漸減に努めよ！",
+    "api_deck_num": 5,
+    "api_details": "潜水母艦と潜水艦群による遠洋作<br>戦を実施、敵戦力漸減に努めよ！",
     "api_difficulty": 7,
+    "api_disp_no": "39",
     "api_id": 39,
     "api_maparea_id": 5,
     "api_name": "遠洋潜水艦作戦",
@@ -467,8 +545,10 @@
     "api_win_item1": [1, 2],
     "api_win_item2": [11, 1]
 }, {
-    "api_details": "複数の水上機母艦を有する軽巡を旗艦とした艦隊で、水上機の前線輸送を実施せよ！",
+    "api_deck_num": 6,
+    "api_details": "軽巡旗艦と複数の水上機母艦で、<br>水上機の前線輸送を実施せよ！",
     "api_difficulty": 8,
+    "api_disp_no": "40",
     "api_id": 40,
     "api_maparea_id": 5,
     "api_name": "水上機前線輸送",
@@ -478,4 +558,46 @@
     "api_use_fuel": 0.8,
     "api_win_item1": [10, 3],
     "api_win_item2": [1, 1]
+}, {
+    "api_deck_num": 4,
+    "api_details": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！",
+    "api_difficulty": 2,
+    "api_disp_no": "A1",
+    "api_id": 100,
+    "api_maparea_id": 1,
+    "api_name": "兵站強化任務",
+    "api_return_flag": 1,
+    "api_time": 25,
+    "api_use_bull": 0,
+    "api_use_fuel": 0.35,
+    "api_win_item1": [0, 0],
+    "api_win_item2": [0, 0]
+}, {
+    "api_deck_num": 4,
+    "api_details": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！",
+    "api_difficulty": 3,
+    "api_disp_no": "A2",
+    "api_id": 101,
+    "api_maparea_id": 1,
+    "api_name": "海峡警備行動",
+    "api_return_flag": 1,
+    "api_time": 55,
+    "api_use_bull": 0.2,
+    "api_use_fuel": 0.5,
+    "api_win_item1": [3, 1],
+    "api_win_item2": [1, 1]
+}, {
+    "api_deck_num": 5,
+    "api_details": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！",
+    "api_difficulty": 4,
+    "api_disp_no": "A3",
+    "api_id": 102,
+    "api_maparea_id": 1,
+    "api_name": "長時間対潜警戒",
+    "api_return_flag": 1,
+    "api_time": 135,
+    "api_use_bull": 0.35,
+    "api_use_fuel": 0.65,
+    "api_win_item1": [1, 1],
+    "api_win_item2": [3, 2]
 }]
