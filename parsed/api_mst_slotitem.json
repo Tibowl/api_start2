@@ -751,7 +751,8 @@
     "api_tais": 0,
     "api_tyku": 2,
     "api_type": [5, 8, 12, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -778,7 +779,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [5, 8, 12, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -805,7 +807,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [5, 8, 12, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -832,7 +835,8 @@
     "api_tais": 0,
     "api_tyku": 4,
     "api_type": [5, 8, 13, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -859,7 +863,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [5, 8, 13, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -886,7 +891,8 @@
     "api_tais": 0,
     "api_tyku": 6,
     "api_type": [5, 8, 13, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1353,7 +1359,7 @@
     "api_broken": [0, 3, 4, 0],
     "api_houg": 10,
     "api_houk": 0,
-    "api_houm": 0,
+    "api_houm": 1,
     "api_id": 50,
     "api_info": "20.3cm連装砲の改良型、それが同3号連装砲です。<br>元々優秀な重巡洋艦用主砲をさらに改良。55口径の極めて優れた重巡用主砲が完成しました。<br>優秀な砲ですが、経済性に難があり、少量の試作だけで量産はされていません。",
     "api_leng": 2,
@@ -1778,7 +1784,7 @@
     "api_bakk": 0,
     "api_baku": 0,
     "api_broken": [0, 2, 3, 0],
-    "api_houg": 4,
+    "api_houg": 5,
     "api_houk": 0,
     "api_houm": 3,
     "api_id": 65,
@@ -2433,7 +2439,8 @@
     "api_tais": 2,
     "api_tyku": 0,
     "api_type": [5, 8, 12, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -2460,7 +2467,8 @@
     "api_tais": 0,
     "api_tyku": 5,
     "api_type": [5, 8, 13, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -2935,7 +2943,8 @@
     "api_tais": 0,
     "api_tyku": 4,
     "api_type": [5, 8, 12, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3279,7 +3288,7 @@
     "api_bakk": 0,
     "api_baku": 0,
     "api_broken": [0, 2, 2, 0],
-    "api_houg": 3,
+    "api_houg": 4,
     "api_houk": 0,
     "api_houm": 2,
     "api_id": 119,
@@ -3435,7 +3444,8 @@
     "api_tais": 0,
     "api_tyku": 7,
     "api_type": [5, 8, 13, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3475,7 +3485,7 @@
     "api_info": "かの国で開発された対地対艦攻撃用の艦載ロケットランチャー装備「WG42」です。<br>Uボートにも搭載され、実際に運用されました。命中精度には難がありますが、ごく浅い深度なら水面下から発射可能な、潜水艦発射対地ミサイルのご先祖様のような装備で、主に対地攻撃に有効です。",
     "api_leng": 1,
     "api_luck": 0,
-    "api_name": "WG42 (Wurfgerät 42)",
+    "api_name": "WG42 (Wurfgerat 42)",
     "api_raig": 0,
     "api_raik": 0,
     "api_raim": 0,
@@ -3822,7 +3832,7 @@
     "api_bakk": 0,
     "api_baku": 0,
     "api_broken": [0, 2, 3, 1],
-    "api_houg": 5,
+    "api_houg": 6,
     "api_houk": 0,
     "api_houm": 4,
     "api_id": 139,
@@ -3897,7 +3907,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [5, 8, 13, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3924,7 +3935,8 @@
     "api_tais": 0,
     "api_tyku": 8,
     "api_type": [5, 8, 13, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -5385,7 +5397,7 @@
     "api_info": "トリコロールの国で開発された水上攻撃機です。<br>日本海軍ではあまり研究されなかった、水上雷撃機としての運用を狙った機体でもあります。本機は同機の水上機母艦艦載機バージョンで、索敵や爆装攻撃を含むマルチロールが期待されていました。",
     "api_leng": 0,
     "api_luck": 0,
-    "api_name": "Laté 298B",
+    "api_name": "Late 298B",
     "api_raig": 4,
     "api_raik": 0,
     "api_raim": 0,
@@ -6424,7 +6436,7 @@
     "api_broken": [0, 3, 6, 1],
     "api_houg": 7,
     "api_houk": 1,
-    "api_houm": 3,
+    "api_houm": 4,
     "api_id": 234,
     "api_info": "巡洋艦主砲だったものを大型戦艦の副砲として転用しました。「大和」型戦艦に搭載され、対空戦も可能な、性能・運用性ともに優秀な戦艦副砲となりました。防御面においては、諸説ありますが「大和」型の唯一の弱点という指摘もありました。本副砲は、同砲を「大和」型副砲として運用、改修と最適化を施した改良型装備です。",
     "api_leng": 2,
@@ -6441,7 +6453,7 @@
     "api_souk": 0,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 4,
+    "api_tyku": 5,
     "api_type": [1, 2, 4, 4, 0],
     "api_usebull": "0"
 }, {
@@ -6451,7 +6463,7 @@
     "api_broken": [0, 3, 6, 1],
     "api_houg": 7,
     "api_houk": 1,
-    "api_houm": 2,
+    "api_houm": 3,
     "api_id": 235,
     "api_info": "条約下で保有制限のあった重巡を火力を増強した強力な軽巡で補うために開発された三連装主砲です。射程・発射速度・運用性等のバランスに優れ、対空戦もある程度可能な傑作砲となりました。後に有名な「大和」型戦艦の副砲としても採用されています。本砲は、大型軽巡などでの運用で熟成・改修を重ねた同改良主砲です。",
     "api_leng": 2,
@@ -6468,7 +6480,7 @@
     "api_souk": 1,
     "api_taik": 0,
     "api_tais": 0,
-    "api_tyku": 4,
+    "api_tyku": 5,
     "api_type": [1, 1, 2, 2, 0],
     "api_usebull": "0"
 }, {
@@ -7175,6 +7187,33 @@
     "api_tais": 15,
     "api_tyku": 0,
     "api_type": [7, 10, 14, 18, 0],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 1, 2, 0],
+    "api_houg": 3,
+    "api_houk": 0,
+    "api_houm": 1,
+    "api_id": 266,
+    "api_info": "中期以降の艦隊型駆逐艦に搭載された主砲のif改修型です。<br>防盾の全周遮蔽による弾片荒天対策、動力操法採用はそのまま、数々の戦訓を取り入れた改修を実施した、小型艦艇用の<br>熟成された小口径主砲です。",
+    "api_leng": 1,
+    "api_luck": 0,
+    "api_name": "12.7cm連装砲C型改二",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 2,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 266,
+    "api_souk": 1,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 2,
+    "api_type": [1, 1, 1, 1, 0],
     "api_usebull": "0"
 }, {
     "api_atap": 0,

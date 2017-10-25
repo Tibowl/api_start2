@@ -170,6 +170,7 @@
 25mm単装機銃: Rare: 1
 20.3cm(3号)連装砲: FP: 10
 20.3cm(3号)連装砲: AA: 4
+20.3cm(3号)連装砲: Acc: 1
 20.3cm(3号)連装砲: Rare: 1
 20.3cm(3号)連装砲: Range: 2
 12cm30連装噴進砲: AA: 8
@@ -245,7 +246,7 @@ Ju87C改: Acc: 1
 Ju87C改: Rare: 3
 Ju87C改: Cost: 6
 Ju87C改: Dist: 4
-15.2cm連装砲: FP: 4
+15.2cm連装砲: FP: 5
 15.2cm連装砲: AA: 3
 15.2cm連装砲: Acc: 3
 15.2cm連装砲: Rare: 2
@@ -515,7 +516,7 @@ Ar196改: Dist: 3
 紫雲: Rare: 4
 紫雲: Cost: 9
 紫雲: Dist: 4
-14cm連装砲: FP: 3
+14cm連装砲: FP: 4
 14cm連装砲: Acc: 2
 14cm連装砲: Rare: 1
 14cm連装砲: Range: 2
@@ -546,10 +547,10 @@ FuMO25 レーダー: Rare: 4
 61cm三連装(酸素)魚雷: Evas: 1
 61cm三連装(酸素)魚雷: Rare: 2
 61cm三連装(酸素)魚雷: Range: 1
-WG42 (Wurfgerät 42): FP: 1
-WG42 (Wurfgerät 42): Armor: -1
-WG42 (Wurfgerät 42): Rare: 4
-WG42 (Wurfgerät 42): Range: 1
+WG42 (Wurfgerat 42): FP: 1
+WG42 (Wurfgerat 42): Armor: -1
+WG42 (Wurfgerat 42): Rare: 4
+WG42 (Wurfgerat 42): Range: 1
 試製FaT仕様九五式酸素魚雷改: Torp: 14
 試製FaT仕様九五式酸素魚雷改: Acc: 7
 試製FaT仕様九五式酸素魚雷改: Evas: 2
@@ -612,7 +613,7 @@ OTO 152mm三連装速射砲: Range: 2
 二式大艇: Rare: 4
 二式大艇: Cost: 25
 二式大艇: Dist: 20
-15.2cm連装砲改: FP: 5
+15.2cm連装砲改: FP: 6
 15.2cm連装砲改: AA: 3
 15.2cm連装砲改: Acc: 4
 15.2cm連装砲改: Rare: 3
@@ -934,16 +935,16 @@ QF 2ポンド8連装ポンポン砲: Rare: 3
 38.1cm Mk.I/N連装砲改: Rare: 4
 38.1cm Mk.I/N連装砲改: Range: 3
 特大発動艇: Rare: 2
-Laté 298B: FP: 2
-Laté 298B: Torp: 4
-Laté 298B: AA: 1
-Laté 298B: Dive: 5
-Laté 298B: LoS: 4
-Laté 298B: ASW: 2
-Laté 298B: Evas: 1
-Laté 298B: Rare: 3
-Laté 298B: Cost: 7
-Laté 298B: Dist: 4
+Late 298B: FP: 2
+Late 298B: Torp: 4
+Late 298B: AA: 1
+Late 298B: Dive: 5
+Late 298B: LoS: 4
+Late 298B: ASW: 2
+Late 298B: Evas: 1
+Late 298B: Rare: 3
+Late 298B: Cost: 7
+Late 298B: Dist: 4
 SBD: FP: 1
 SBD: AA: 2
 SBD: Dive: 6
@@ -1167,15 +1168,15 @@ F4U-1D: Rare: 5
 F4U-1D: Cost: 9
 F4U-1D: Dist: 6
 15.5cm三連装副砲改: FP: 7
-15.5cm三連装副砲改: AA: 4
-15.5cm三連装副砲改: Acc: 3
+15.5cm三連装副砲改: AA: 5
+15.5cm三連装副砲改: Acc: 4
 15.5cm三連装副砲改: Evas: 1
 15.5cm三連装副砲改: Rare: 3
 15.5cm三連装副砲改: Range: 2
 15.5cm三連装砲改: FP: 7
-15.5cm三連装砲改: AA: 4
+15.5cm三連装砲改: AA: 5
 15.5cm三連装砲改: Armor: 1
-15.5cm三連装砲改: Acc: 2
+15.5cm三連装砲改: Acc: 3
 15.5cm三連装砲改: Evas: 1
 15.5cm三連装砲改: Rare: 3
 15.5cm三連装砲改: Range: 2
@@ -1344,6 +1345,12 @@ HF/DF + Type144/147 ASDIC: ASW: 15
 HF/DF + Type144/147 ASDIC: Acc: 3
 HF/DF + Type144/147 ASDIC: Evas: 2
 HF/DF + Type144/147 ASDIC: Rare: 5
+12.7cm連装砲C型改二: FP: 3
+12.7cm連装砲C型改二: AA: 2
+12.7cm連装砲C型改二: Armor: 1
+12.7cm連装砲C型改二: Acc: 1
+12.7cm連装砲C型改二: Rare: 2
+12.7cm連装砲C型改二: Range: 1
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

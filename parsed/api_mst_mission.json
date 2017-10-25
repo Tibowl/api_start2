@@ -600,4 +600,18 @@
     "api_use_fuel": 0.65,
     "api_win_item1": [1, 1],
     "api_win_item2": [3, 2]
+}, {
+    "api_deck_num": 6,
+    "api_details": "索敵力の高い水上機母艦及び軽巡<br>を伴う艦隊で敵情勢を偵察せよ！",
+    "api_difficulty": 4,
+    "api_disp_no": "B1",
+    "api_id": 110,
+    "api_maparea_id": 2,
+    "api_name": "南西方面航空偵察作戦",
+    "api_return_flag": 1,
+    "api_time": 35,
+    "api_use_bull": 0.15,
+    "api_use_fuel": 0.45,
+    "api_win_item1": [10, 1],
+    "api_win_item2": [1, 1]
 }]
