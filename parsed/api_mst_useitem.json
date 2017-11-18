@@ -537,4 +537,11 @@
     "api_name": "新型航空兵装資材",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["本資料の活用により、貴重な戦訓を今後の戦術や装備改修などにフィードバック可能です。　※艦隊司令部の更新には、複数　の戦闘詳報が必要です。", ""],
+    "api_id": 78,
+    "api_name": "戦闘詳報",
+    "api_price": 0,
+    "api_usetype": 0
 }]

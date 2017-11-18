@@ -547,10 +547,10 @@ FuMO25 レーダー: Rare: 4
 61cm三連装(酸素)魚雷: Evas: 1
 61cm三連装(酸素)魚雷: Rare: 2
 61cm三連装(酸素)魚雷: Range: 1
-WG42 (Wurfgerat 42): FP: 1
-WG42 (Wurfgerat 42): Armor: -1
-WG42 (Wurfgerat 42): Rare: 4
-WG42 (Wurfgerat 42): Range: 1
+WG42 (Wurfgerät 42): FP: 1
+WG42 (Wurfgerät 42): Armor: -1
+WG42 (Wurfgerät 42): Rare: 4
+WG42 (Wurfgerät 42): Range: 1
 試製FaT仕様九五式酸素魚雷改: Torp: 14
 試製FaT仕様九五式酸素魚雷改: Acc: 7
 試製FaT仕様九五式酸素魚雷改: Evas: 2
@@ -935,16 +935,16 @@ QF 2ポンド8連装ポンポン砲: Rare: 3
 38.1cm Mk.I/N連装砲改: Rare: 4
 38.1cm Mk.I/N連装砲改: Range: 3
 特大発動艇: Rare: 2
-Late 298B: FP: 2
-Late 298B: Torp: 4
-Late 298B: AA: 1
-Late 298B: Dive: 5
-Late 298B: LoS: 4
-Late 298B: ASW: 2
-Late 298B: Evas: 1
-Late 298B: Rare: 3
-Late 298B: Cost: 7
-Late 298B: Dist: 4
+Laté 298B: FP: 2
+Laté 298B: Torp: 4
+Laté 298B: AA: 1
+Laté 298B: Dive: 5
+Laté 298B: LoS: 4
+Laté 298B: ASW: 2
+Laté 298B: Evas: 1
+Laté 298B: Rare: 3
+Laté 298B: Cost: 7
+Laté 298B: Dist: 4
 SBD: FP: 1
 SBD: AA: 2
 SBD: Dive: 6
@@ -1094,6 +1094,12 @@ Ro.44水上戦闘機bis: Dist: 3
 強風改: Rare: 3
 強風改: Cost: 6
 強風改: Dist: 3
+四式戦 疾風: AA: 10
+四式戦 疾風: Acc: 1
+四式戦 疾風: Evas: 1
+四式戦 疾風: Rare: 3
+四式戦 疾風: Cost: 7
+四式戦 疾風: Dist: 5
 零式艦戦63型(爆戦): AA: 5
 零式艦戦63型(爆戦): Dive: 5
 零式艦戦63型(爆戦): ASW: 2
@@ -1217,6 +1223,14 @@ F4U-1D: Dist: 6
 零式水上偵察機11型乙: Rare: 3
 零式水上偵察機11型乙: Cost: 5
 零式水上偵察機11型乙: Dist: 7
+零式水上偵察機11型乙(熟練): FP: 2
+零式水上偵察機11型乙(熟練): AA: 1
+零式水上偵察機11型乙(熟練): LoS: 8
+零式水上偵察機11型乙(熟練): ASW: 8
+零式水上偵察機11型乙(熟練): Acc: 3
+零式水上偵察機11型乙(熟練): Rare: 4
+零式水上偵察機11型乙(熟練): Cost: 5
+零式水上偵察機11型乙(熟練): Dist: 7
 22号対水上電探改四(後期調整型): FP: 1
 22号対水上電探改四(後期調整型): LoS: 7
 22号対水上電探改四(後期調整型): ASW: 2
@@ -1370,6 +1384,31 @@ HF/DF + Type144/147 ASDIC: Rare: 5
 12.7cm連装砲C型改二: Acc: 1
 12.7cm連装砲C型改二: Rare: 2
 12.7cm連装砲C型改二: Range: 1
+試製東海: Dive: 2
+試製東海: LoS: 5
+試製東海: ASW: 10
+試製東海: Rare: 3
+試製東海: Cost: 9
+試製東海: Dist: 8
+東海(九〇一空): Dive: 2
+東海(九〇一空): LoS: 6
+東海(九〇一空): ASW: 11
+東海(九〇一空): Acc: 1
+東海(九〇一空): Rare: 4
+東海(九〇一空): Cost: 9
+東海(九〇一空): Dist: 8
+紫電改四: AA: 10
+紫電改四: Armor: 1
+紫電改四: Acc: 1
+紫電改四: Evas: 3
+紫電改四: Rare: 4
+紫電改四: Cost: 7
+紫電改四: Dist: 4
+遊撃部隊 艦隊司令部: Armor: 1
+遊撃部隊 艦隊司令部: LoS: 1
+遊撃部隊 艦隊司令部: Acc: 1
+遊撃部隊 艦隊司令部: Evas: 1
+遊撃部隊 艦隊司令部: Rare: 5
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
