@@ -3386,13 +3386,13 @@ Ark Royal: speed: 10
 佐渡: AA: 7,29
 佐渡: luck: 7,49
 佐渡: speed: 5
-涼月: HP: 0,0
-涼月: Armor: 0,0
-涼月: FP: 0,0
-涼月: Torp: 0,0
-涼月: AA: 0,0
-涼月: luck: 0,0
-涼月: speed: 0
+涼月: HP: 21,41
+涼月: Armor: 10,29
+涼月: FP: 16,47
+涼月: Torp: 16,46
+涼月: AA: 70,102
+涼月: luck: 27,67
+涼月: speed: 10
 Luigi Torelli: HP: 11,21
 Luigi Torelli: Armor: 5,17
 Luigi Torelli: FP: 2,10
@@ -3400,13 +3400,13 @@ Luigi Torelli: Torp: 18,62
 Luigi Torelli: AA: 0,18
 Luigi Torelli: luck: 25,62
 Luigi Torelli: speed: 5
-涼月改: HP: 0,0
-涼月改: Armor: 0,0
-涼月改: FP: 0,0
-涼月改: Torp: 0,0
-涼月改: AA: 0,0
-涼月改: luck: 0,0
-涼月改: speed: 0
+涼月改: HP: 38,58
+涼月改: Armor: 16,55
+涼月改: FP: 22,56
+涼月改: Torp: 22,52
+涼月改: AA: 82,116
+涼月改: luck: 37,90
+涼月改: speed: 10
 UIT-25: HP: 13,23
 UIT-25: Armor: 5,19
 UIT-25: FP: 2,12
@@ -3723,12 +3723,12 @@ PT小鬼群: speed: 10
 軽母ヌ級: speed: 5
 軽母ヌ級改: speed: 5
 軽母ヌ級改: speed: 5
-海峡夜棲姫: speed: 10
-海峡夜棲姫: speed: 10
-海峡夜棲姫: speed: 10
-海峡夜棲姫-壊: speed: 10
-海峡夜棲姫-壊: speed: 10
-海峡夜棲姫-壊: speed: 10
-防空埋姫: speed: 10
-防空埋姫: speed: 10
-防空埋姫: speed: 10
+海峡夜棲姫: speed: 5
+海峡夜棲姫: speed: 5
+海峡夜棲姫: speed: 5
+海峡夜棲姫-壊: speed: 5
+海峡夜棲姫-壊: speed: 5
+海峡夜棲姫-壊: speed: 5
+防空埋護姫: speed: 10
+防空埋護姫: speed: 10
+防空埋護姫: speed: 10

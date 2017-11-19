@@ -1748,3 +1748,14 @@ HF/DF + Type144/147 ASDIC: Rare: 5
 深海15inch連装砲後期型: Evas: 2
 深海15inch連装砲後期型: Rare: 5
 深海15inch連装砲後期型: Range: 3
+深海14inch海峡連装砲: FP: 17
+深海14inch海峡連装砲: AA: 4
+深海14inch海峡連装砲: Armor: 3
+深海14inch海峡連装砲: Acc: 13
+深海14inch海峡連装砲: Evas: 3
+深海14inch海峡連装砲: Rare: 5
+深海14inch海峡連装砲: Range: 3
+深海待伏魚雷: Torp: 19
+深海待伏魚雷: Acc: 9
+深海待伏魚雷: Rare: 4
+深海待伏魚雷: Range: 1
