@@ -1384,6 +1384,9 @@ HF/DF + Type144/147 ASDIC: Rare: 5
 12.7cm連装砲C型改二: Acc: 1
 12.7cm連装砲C型改二: Rare: 2
 12.7cm連装砲C型改二: Range: 1
+北方迷彩(+北方装備): Armor: 2
+北方迷彩(+北方装備): Evas: 2
+北方迷彩(+北方装備): Rare: 3
 試製東海: Dive: 2
 試製東海: LoS: 5
 試製東海: ASW: 10
