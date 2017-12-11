@@ -544,4 +544,11 @@
     "api_name": "戦闘詳報",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["", ""],
+    "api_id": 79,
+    "api_name": "海峡章",
+    "api_price": 0,
+    "api_usetype": 0
 }]

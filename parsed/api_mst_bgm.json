@@ -77,6 +77,12 @@
     "api_id": 129,
     "api_name": "連合艦隊旗艦"
 }, {
+    "api_id": 130,
+    "api_name": "祈り"
+}, {
+    "api_id": 131,
+    "api_name": "海峡へ"
+}, {
     "api_id": 205,
     "api_name": "秋月の空"
 }, {
@@ -175,4 +181,10 @@
 }, {
     "api_id": 237,
     "api_name": "月夜海(つきよみ)"
+}, {
+    "api_id": 238,
+    "api_name": "祈り"
+}, {
+    "api_id": 239,
+    "api_name": "月夜海 涼月mode"
 }]

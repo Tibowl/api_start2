@@ -3435,6 +3435,13 @@ Saratoga Mk.II: Torp: 0,0
 Saratoga Mk.II: AA: 60,94
 Saratoga Mk.II: luck: 40,93
 Saratoga Mk.II: speed: 10
+多摩改二: HP: 46,59
+多摩改二: Armor: 29,69
+多摩改二: FP: 16,59
+多摩改二: Torp: 25,91
+多摩改二: AA: 33,83
+多摩改二: luck: 13,69
+多摩改二: speed: 10
 文月改二: HP: 27,44
 文月改二: Armor: 12,46
 文月改二: FP: 7,44
