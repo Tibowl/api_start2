@@ -551,4 +551,11 @@
     "api_name": "海峡章",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["２０１７年のクリスマスに贈られる大きなプレゼント箱です。開封時に、プレゼントの中身を提督が選ぶことができます。　※新春メンテ時に消滅します。", ""],
+    "api_id": 80,
+    "api_name": "Xmas Select Gift Box",
+    "api_price": 0,
+    "api_usetype": 4
 }]
