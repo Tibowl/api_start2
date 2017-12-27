@@ -349,14 +349,14 @@
     "api_title": "戦艦タイルの床",
     "api_type": 0
 }, {
-    "api_description": "い草の爽やかな香りが漂う畳。<br>鮮やかな緑が若々しく健やかな印象。",
+    "api_description": "新春は畳の上で迎えたい…<br>そんなわびさびの心を持つ<br>提督と艦娘に贈る高級畳。<br>コイン長者向けの市松模様<br>仕立て、特別仕様畳です。",
     "api_id": 36,
     "api_no": 35,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
-    "api_season": 0,
-    "api_title": "鮮やかな畳",
+    "api_price": 22000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 11,
+    "api_title": "市松模様の長者畳",
     "api_type": 0
 }, {
     "api_description": "熟練の職人が鍛え抜かれた<br>技で仕上げた逸品。心も安<br>らぐ天然い草の香りが爽や<br>か。懐かしい、そして最高<br>級の畳の床です。",
@@ -664,7 +664,7 @@
     "api_no": 29,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "新春の壁紙",
     "api_type": 1
@@ -744,7 +744,7 @@
     "api_no": 3,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府新年飾り",
     "api_type": 2
@@ -954,7 +954,7 @@
     "api_no": 24,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "昔ながらのすりガラス",
     "api_type": 2
@@ -1179,14 +1179,14 @@
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3
 }, {
-    "api_description": "地図をもっと大切に保管したいコレクター癖のあるあなたはこっち！",
+    "api_description": "艦隊決戦の主力艦隊と行動<br>を共にする艦隊型駆逐艦、<br>甲型駆逐艦の最終型。主力<br>of主力なある駆逐艦型一番<br>艦の手による掛け軸です。",
     "api_id": 119,
     "api_no": 17,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 3100,
+    "api_rarity": 4,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "フレーム付地図",
+    "api_title": "「主力of主力」掛け軸",
     "api_type": 3
 }, {
     "api_description": "小さくても緑の観葉植物が<br>戦いで疲れたココロを癒し<br>てくれます。",
@@ -1414,7 +1414,7 @@
     "api_no": 9,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鎮守府のツリー",
     "api_type": 4
@@ -1754,7 +1754,7 @@
     "api_no": 12,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "駆逐艦娘のツリー",
     "api_type": 5
@@ -1834,7 +1834,7 @@
     "api_no": 20,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "床の間",
     "api_type": 5
@@ -2074,7 +2074,7 @@
     "api_no": 40,
     "api_price": 25000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "原稿机",
     "api_type": 5
@@ -2174,7 +2174,7 @@
     "api_no": 43,
     "api_price": 8000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ジュークボックス",
     "api_type": 5
@@ -2224,7 +2224,7 @@
     "api_no": 37,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 4,
     "api_title": "冬の飾り付け",
     "api_type": 3
@@ -2234,7 +2234,7 @@
     "api_no": 44,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 4,
     "api_title": "白と青のツリー",
     "api_type": 5
@@ -2244,7 +2244,7 @@
     "api_no": 45,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府初詣セット",
     "api_type": 5
@@ -2264,7 +2264,7 @@
     "api_no": 39,
     "api_price": 800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "しめ飾り",
     "api_type": 3
@@ -2274,7 +2274,7 @@
     "api_no": 46,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 11,
     "api_title": "年越し蕎麦",
     "api_type": 5
@@ -2284,7 +2284,7 @@
     "api_no": 35,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 11,
     "api_title": "門松",
     "api_type": 4
@@ -2384,7 +2384,7 @@
     "api_no": 37,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "脱衣所",
     "api_type": 4
@@ -2664,7 +2664,7 @@
     "api_no": 56,
     "api_price": 3000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 22,
     "api_title": "七面鳥のディナー",
     "api_type": 5
@@ -2704,7 +2704,7 @@
     "api_no": 57,
     "api_price": 20160,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "年末年始の提督大奮発",
     "api_type": 5
@@ -3164,7 +3164,7 @@
     "api_no": 68,
     "api_price": 170000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府囲炉裏",
     "api_type": 5
@@ -3194,7 +3194,7 @@
     "api_no": 69,
     "api_price": 3700,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 25,
     "api_title": "トリコロールツリー",
     "api_type": 5
@@ -3204,7 +3204,7 @@
     "api_no": 70,
     "api_price": 2500,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ローストビーフディナー",
     "api_type": 5
@@ -3224,7 +3224,7 @@
     "api_no": 46,
     "api_price": 1800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 26,
     "api_title": "鎮守府大掃除道具",
     "api_type": 4
@@ -3624,7 +3624,7 @@
     "api_no": 48,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "クリスマスのマット",
     "api_type": 0
@@ -3654,7 +3654,7 @@
     "api_no": 62,
     "api_price": 120170,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 25,
     "api_title": "煉瓦作りのクリスマス壁",
     "api_type": 1
@@ -3684,7 +3684,7 @@
     "api_no": 77,
     "api_price": 0,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 29,
     "api_title": "1YB第三部隊掛け軸",
     "api_type": 3

@@ -614,4 +614,18 @@
     "api_use_fuel": 0.45,
     "api_win_item1": [10, 1],
     "api_win_item2": [1, 1]
+}, {
+    "api_deck_num": 6,
+    "api_details": "重巡1軽巡1と精強駆逐隊による<br>最精鋭艦隊で敵泊地を強襲せよ！",
+    "api_difficulty": 4,
+    "api_disp_no": "B2",
+    "api_id": 111,
+    "api_maparea_id": 2,
+    "api_name": "敵泊地強襲反撃作戦",
+    "api_return_flag": 1,
+    "api_time": 520,
+    "api_use_bull": 0.65,
+    "api_use_fuel": 0.8,
+    "api_win_item1": [3, 2],
+    "api_win_item2": [1, 2]
 }]

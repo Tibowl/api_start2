@@ -4,6 +4,7 @@
     "api_drawing_count": 0,
     "api_id": 23,
     "api_original_ship_id": 23,
+    "api_report_count": 0,
     "api_sortno": 45,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -13,6 +14,7 @@
     "api_drawing_count": 0,
     "api_id": 26,
     "api_original_ship_id": 26,
+    "api_report_count": 0,
     "api_sortno": 26,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -22,6 +24,7 @@
     "api_drawing_count": 0,
     "api_id": 27,
     "api_original_ship_id": 27,
+    "api_report_count": 0,
     "api_sortno": 27,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -31,6 +34,7 @@
     "api_drawing_count": 0,
     "api_id": 49,
     "api_original_ship_id": 49,
+    "api_report_count": 0,
     "api_sortno": 107,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -40,6 +44,7 @@
     "api_drawing_count": 0,
     "api_id": 69,
     "api_original_ship_id": 69,
+    "api_report_count": 0,
     "api_sortno": 62,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -49,6 +54,7 @@
     "api_drawing_count": 0,
     "api_id": 71,
     "api_original_ship_id": 71,
+    "api_report_count": 0,
     "api_sortno": 63,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -58,6 +64,7 @@
     "api_drawing_count": 0,
     "api_id": 72,
     "api_original_ship_id": 72,
+    "api_report_count": 0,
     "api_sortno": 64,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -67,6 +74,7 @@
     "api_drawing_count": 0,
     "api_id": 80,
     "api_original_ship_id": 80,
+    "api_report_count": 0,
     "api_sortno": 1,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -76,6 +84,7 @@
     "api_drawing_count": 0,
     "api_id": 95,
     "api_original_ship_id": 95,
+    "api_report_count": 0,
     "api_sortno": 85,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -85,6 +94,7 @@
     "api_drawing_count": 0,
     "api_id": 96,
     "api_original_ship_id": 96,
+    "api_report_count": 0,
     "api_sortno": 86,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -94,6 +104,7 @@
     "api_drawing_count": 0,
     "api_id": 98,
     "api_original_ship_id": 98,
+    "api_report_count": 0,
     "api_sortno": 88,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -103,6 +114,7 @@
     "api_drawing_count": 0,
     "api_id": 100,
     "api_original_ship_id": 100,
+    "api_report_count": 0,
     "api_sortno": 40,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -112,6 +124,7 @@
     "api_drawing_count": 0,
     "api_id": 110,
     "api_original_ship_id": 110,
+    "api_report_count": 0,
     "api_sortno": 106,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -121,6 +134,7 @@
     "api_drawing_count": 0,
     "api_id": 111,
     "api_original_ship_id": 111,
+    "api_report_count": 0,
     "api_sortno": 107,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -130,6 +144,7 @@
     "api_drawing_count": 0,
     "api_id": 112,
     "api_original_ship_id": 111,
+    "api_report_count": 0,
     "api_sortno": 108,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -139,6 +154,7 @@
     "api_drawing_count": 0,
     "api_id": 113,
     "api_original_ship_id": 113,
+    "api_report_count": 0,
     "api_sortno": 109,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -148,6 +164,7 @@
     "api_drawing_count": 0,
     "api_id": 114,
     "api_original_ship_id": 114,
+    "api_report_count": 0,
     "api_sortno": 110,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -157,6 +174,7 @@
     "api_drawing_count": 0,
     "api_id": 124,
     "api_original_ship_id": 124,
+    "api_report_count": 0,
     "api_sortno": 124,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -166,6 +184,7 @@
     "api_drawing_count": 0,
     "api_id": 125,
     "api_original_ship_id": 125,
+    "api_report_count": 0,
     "api_sortno": 125,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -175,6 +194,7 @@
     "api_drawing_count": 0,
     "api_id": 129,
     "api_original_ship_id": 124,
+    "api_report_count": 0,
     "api_sortno": 129,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -184,6 +204,7 @@
     "api_drawing_count": 0,
     "api_id": 130,
     "api_original_ship_id": 125,
+    "api_report_count": 0,
     "api_sortno": 130,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -191,8 +212,19 @@
     "api_catapult_count": 0,
     "api_current_ship_id": 0,
     "api_drawing_count": 0,
+    "api_id": 135,
+    "api_original_ship_id": 135,
+    "api_report_count": 0,
+    "api_sortno": 135,
+    "api_upgrade_level": 0,
+    "api_upgrade_type": 1
+}, {
+    "api_catapult_count": 0,
+    "api_current_ship_id": 0,
+    "api_drawing_count": 0,
     "api_id": 171,
     "api_original_ship_id": 171,
+    "api_report_count": 0,
     "api_sortno": 171,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -202,6 +234,7 @@
     "api_drawing_count": 0,
     "api_id": 172,
     "api_original_ship_id": 171,
+    "api_report_count": 0,
     "api_sortno": 172,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -211,6 +244,7 @@
     "api_drawing_count": 1,
     "api_id": 173,
     "api_original_ship_id": 171,
+    "api_report_count": 0,
     "api_sortno": 173,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -220,6 +254,7 @@
     "api_drawing_count": 1,
     "api_id": 178,
     "api_original_ship_id": 171,
+    "api_report_count": 0,
     "api_sortno": 178,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -229,6 +264,7 @@
     "api_drawing_count": 0,
     "api_id": 184,
     "api_original_ship_id": 184,
+    "api_report_count": 0,
     "api_sortno": 184,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -238,6 +274,7 @@
     "api_drawing_count": 1,
     "api_id": 185,
     "api_original_ship_id": 184,
+    "api_report_count": 0,
     "api_sortno": 185,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -247,6 +284,7 @@
     "api_drawing_count": 1,
     "api_id": 188,
     "api_original_ship_id": 71,
+    "api_report_count": 0,
     "api_sortno": 186,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -256,6 +294,7 @@
     "api_drawing_count": 1,
     "api_id": 189,
     "api_original_ship_id": 72,
+    "api_report_count": 0,
     "api_sortno": 187,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -265,6 +304,7 @@
     "api_drawing_count": 1,
     "api_id": 199,
     "api_original_ship_id": 96,
+    "api_report_count": 0,
     "api_sortno": 199,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -274,6 +314,7 @@
     "api_drawing_count": 1,
     "api_id": 200,
     "api_original_ship_id": 114,
+    "api_report_count": 0,
     "api_sortno": 200,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -283,6 +324,7 @@
     "api_drawing_count": 0,
     "api_id": 216,
     "api_original_ship_id": 100,
+    "api_report_count": 0,
     "api_sortno": 1316,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -292,6 +334,7 @@
     "api_drawing_count": 0,
     "api_id": 220,
     "api_original_ship_id": 23,
+    "api_report_count": 0,
     "api_sortno": 1320,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -301,6 +344,7 @@
     "api_drawing_count": 0,
     "api_id": 248,
     "api_original_ship_id": 95,
+    "api_report_count": 0,
     "api_sortno": 1348,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -310,6 +354,7 @@
     "api_drawing_count": 0,
     "api_id": 249,
     "api_original_ship_id": 96,
+    "api_report_count": 0,
     "api_sortno": 1349,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -319,6 +364,7 @@
     "api_drawing_count": 0,
     "api_id": 251,
     "api_original_ship_id": 98,
+    "api_report_count": 0,
     "api_sortno": 1351,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -328,6 +374,7 @@
     "api_drawing_count": 0,
     "api_id": 253,
     "api_original_ship_id": 49,
+    "api_report_count": 0,
     "api_sortno": 108,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -337,6 +384,7 @@
     "api_drawing_count": 0,
     "api_id": 272,
     "api_original_ship_id": 69,
+    "api_report_count": 0,
     "api_sortno": 1372,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -346,6 +394,7 @@
     "api_drawing_count": 0,
     "api_id": 273,
     "api_original_ship_id": 71,
+    "api_report_count": 0,
     "api_sortno": 373,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -355,6 +404,7 @@
     "api_drawing_count": 0,
     "api_id": 274,
     "api_original_ship_id": 72,
+    "api_report_count": 0,
     "api_sortno": 374,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -364,6 +414,7 @@
     "api_drawing_count": 0,
     "api_id": 275,
     "api_original_ship_id": 80,
+    "api_report_count": 0,
     "api_sortno": 1375,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -373,6 +424,7 @@
     "api_drawing_count": 0,
     "api_id": 286,
     "api_original_ship_id": 26,
+    "api_report_count": 0,
     "api_sortno": 1386,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -382,6 +434,7 @@
     "api_drawing_count": 0,
     "api_id": 287,
     "api_original_ship_id": 27,
+    "api_report_count": 0,
     "api_sortno": 1387,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -391,6 +444,7 @@
     "api_drawing_count": 0,
     "api_id": 288,
     "api_original_ship_id": 110,
+    "api_report_count": 0,
     "api_sortno": 1388,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -400,6 +454,7 @@
     "api_drawing_count": 0,
     "api_id": 289,
     "api_original_ship_id": 113,
+    "api_report_count": 0,
     "api_sortno": 1389,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -409,7 +464,18 @@
     "api_drawing_count": 0,
     "api_id": 290,
     "api_original_ship_id": 114,
+    "api_report_count": 0,
     "api_sortno": 1390,
+    "api_upgrade_level": 1,
+    "api_upgrade_type": 1
+}, {
+    "api_catapult_count": 0,
+    "api_current_ship_id": 135,
+    "api_drawing_count": 0,
+    "api_id": 304,
+    "api_original_ship_id": 135,
+    "api_report_count": 0,
+    "api_sortno": 1400,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
 }, {
@@ -418,6 +484,7 @@
     "api_drawing_count": 0,
     "api_id": 318,
     "api_original_ship_id": 184,
+    "api_report_count": 0,
     "api_sortno": 190,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -427,6 +494,7 @@
     "api_drawing_count": 0,
     "api_id": 331,
     "api_original_ship_id": 331,
+    "api_report_count": 0,
     "api_sortno": 202,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -436,6 +504,7 @@
     "api_drawing_count": 0,
     "api_id": 332,
     "api_original_ship_id": 332,
+    "api_report_count": 0,
     "api_sortno": 203,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -445,6 +514,7 @@
     "api_drawing_count": 0,
     "api_id": 358,
     "api_original_ship_id": 448,
+    "api_report_count": 0,
     "api_sortno": 1438,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -454,6 +524,7 @@
     "api_drawing_count": 0,
     "api_id": 380,
     "api_original_ship_id": 521,
+    "api_report_count": 0,
     "api_sortno": 1460,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -463,6 +534,7 @@
     "api_drawing_count": 0,
     "api_id": 404,
     "api_original_ship_id": 404,
+    "api_report_count": 0,
     "api_sortno": 201,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -472,6 +544,7 @@
     "api_drawing_count": 1,
     "api_id": 406,
     "api_original_ship_id": 404,
+    "api_report_count": 0,
     "api_sortno": 206,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -481,6 +554,7 @@
     "api_drawing_count": 1,
     "api_id": 411,
     "api_original_ship_id": 26,
+    "api_report_count": 0,
     "api_sortno": 211,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -490,6 +564,7 @@
     "api_drawing_count": 1,
     "api_id": 412,
     "api_original_ship_id": 27,
+    "api_report_count": 0,
     "api_sortno": 212,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -499,6 +574,7 @@
     "api_drawing_count": 1,
     "api_id": 427,
     "api_original_ship_id": 69,
+    "api_report_count": 0,
     "api_sortno": 227,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -508,6 +584,7 @@
     "api_drawing_count": 1,
     "api_id": 429,
     "api_original_ship_id": 331,
+    "api_report_count": 0,
     "api_sortno": 229,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -517,6 +594,7 @@
     "api_drawing_count": 1,
     "api_id": 430,
     "api_original_ship_id": 332,
+    "api_report_count": 0,
     "api_sortno": 230,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -526,6 +604,7 @@
     "api_drawing_count": 0,
     "api_id": 433,
     "api_original_ship_id": 433,
+    "api_report_count": 0,
     "api_sortno": 233,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -535,6 +614,7 @@
     "api_drawing_count": 0,
     "api_id": 438,
     "api_original_ship_id": 433,
+    "api_report_count": 0,
     "api_sortno": 238,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -544,6 +624,7 @@
     "api_drawing_count": 0,
     "api_id": 441,
     "api_original_ship_id": 441,
+    "api_report_count": 0,
     "api_sortno": 241,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -553,6 +634,7 @@
     "api_drawing_count": 0,
     "api_id": 442,
     "api_original_ship_id": 442,
+    "api_report_count": 0,
     "api_sortno": 242,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -562,6 +644,7 @@
     "api_drawing_count": 1,
     "api_id": 446,
     "api_original_ship_id": 441,
+    "api_report_count": 0,
     "api_sortno": 246,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -571,6 +654,7 @@
     "api_drawing_count": 1,
     "api_id": 447,
     "api_original_ship_id": 442,
+    "api_report_count": 0,
     "api_sortno": 247,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -580,6 +664,7 @@
     "api_drawing_count": 0,
     "api_id": 448,
     "api_original_ship_id": 448,
+    "api_report_count": 0,
     "api_sortno": 248,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -589,6 +674,7 @@
     "api_drawing_count": 1,
     "api_id": 461,
     "api_original_ship_id": 110,
+    "api_report_count": 0,
     "api_sortno": 261,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -598,6 +684,7 @@
     "api_drawing_count": 0,
     "api_id": 461,
     "api_original_ship_id": 110,
+    "api_report_count": 0,
     "api_sortno": 261,
     "api_upgrade_level": 4,
     "api_upgrade_type": 1
@@ -607,6 +694,7 @@
     "api_drawing_count": 1,
     "api_id": 462,
     "api_original_ship_id": 111,
+    "api_report_count": 0,
     "api_sortno": 262,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -616,6 +704,7 @@
     "api_drawing_count": 0,
     "api_id": 462,
     "api_original_ship_id": 111,
+    "api_report_count": 0,
     "api_sortno": 262,
     "api_upgrade_level": 4,
     "api_upgrade_type": 1
@@ -625,6 +714,7 @@
     "api_drawing_count": 0,
     "api_id": 463,
     "api_original_ship_id": 95,
+    "api_report_count": 0,
     "api_sortno": 263,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -634,6 +724,7 @@
     "api_drawing_count": 0,
     "api_id": 463,
     "api_original_ship_id": 95,
+    "api_report_count": 0,
     "api_sortno": 263,
     "api_upgrade_level": 4,
     "api_upgrade_type": 1
@@ -643,6 +734,7 @@
     "api_drawing_count": 0,
     "api_id": 464,
     "api_original_ship_id": 49,
+    "api_report_count": 0,
     "api_sortno": 262,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -652,6 +744,7 @@
     "api_drawing_count": 0,
     "api_id": 464,
     "api_original_ship_id": 49,
+    "api_report_count": 0,
     "api_sortno": 262,
     "api_upgrade_level": 4,
     "api_upgrade_type": 1
@@ -661,6 +754,7 @@
     "api_drawing_count": 0,
     "api_id": 466,
     "api_original_ship_id": 110,
+    "api_report_count": 0,
     "api_sortno": 266,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -670,6 +764,7 @@
     "api_drawing_count": 0,
     "api_id": 467,
     "api_original_ship_id": 111,
+    "api_report_count": 0,
     "api_sortno": 267,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -679,6 +774,7 @@
     "api_drawing_count": 0,
     "api_id": 468,
     "api_original_ship_id": 95,
+    "api_report_count": 0,
     "api_sortno": 268,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -688,6 +784,7 @@
     "api_drawing_count": 0,
     "api_id": 470,
     "api_original_ship_id": 49,
+    "api_report_count": 0,
     "api_sortno": 267,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -697,6 +794,7 @@
     "api_drawing_count": 1,
     "api_id": 487,
     "api_original_ship_id": 113,
+    "api_report_count": 0,
     "api_sortno": 287,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -706,6 +804,7 @@
     "api_drawing_count": 1,
     "api_id": 488,
     "api_original_ship_id": 23,
+    "api_report_count": 0,
     "api_sortno": 288,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -715,6 +814,7 @@
     "api_drawing_count": 1,
     "api_id": 490,
     "api_original_ship_id": 98,
+    "api_report_count": 0,
     "api_sortno": 290,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -724,6 +824,7 @@
     "api_drawing_count": 1,
     "api_id": 496,
     "api_original_ship_id": 448,
+    "api_report_count": 0,
     "api_sortno": 296,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -733,6 +834,7 @@
     "api_drawing_count": 1,
     "api_id": 503,
     "api_original_ship_id": 124,
+    "api_report_count": 0,
     "api_sortno": 303,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -742,6 +844,7 @@
     "api_drawing_count": 0,
     "api_id": 503,
     "api_original_ship_id": 124,
+    "api_report_count": 0,
     "api_sortno": 303,
     "api_upgrade_level": 4,
     "api_upgrade_type": 1
@@ -751,6 +854,7 @@
     "api_drawing_count": 1,
     "api_id": 504,
     "api_original_ship_id": 125,
+    "api_report_count": 0,
     "api_sortno": 304,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -760,6 +864,7 @@
     "api_drawing_count": 0,
     "api_id": 504,
     "api_original_ship_id": 125,
+    "api_report_count": 0,
     "api_sortno": 304,
     "api_upgrade_level": 4,
     "api_upgrade_type": 1
@@ -769,6 +874,7 @@
     "api_drawing_count": 1,
     "api_id": 508,
     "api_original_ship_id": 124,
+    "api_report_count": 0,
     "api_sortno": 308,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -778,6 +884,7 @@
     "api_drawing_count": 1,
     "api_id": 509,
     "api_original_ship_id": 125,
+    "api_report_count": 0,
     "api_sortno": 309,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -787,6 +894,7 @@
     "api_drawing_count": 0,
     "api_id": 521,
     "api_original_ship_id": 521,
+    "api_report_count": 0,
     "api_sortno": 321,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
@@ -796,6 +904,7 @@
     "api_drawing_count": 0,
     "api_id": 526,
     "api_original_ship_id": 521,
+    "api_report_count": 0,
     "api_sortno": 326,
     "api_upgrade_level": 1,
     "api_upgrade_type": 1
@@ -805,6 +914,7 @@
     "api_drawing_count": 1,
     "api_id": 529,
     "api_original_ship_id": 521,
+    "api_report_count": 0,
     "api_sortno": 331,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
@@ -814,7 +924,18 @@
     "api_drawing_count": 1,
     "api_id": 541,
     "api_original_ship_id": 80,
+    "api_report_count": 0,
     "api_sortno": 341,
+    "api_upgrade_level": 2,
+    "api_upgrade_type": 1
+}, {
+    "api_catapult_count": 0,
+    "api_current_ship_id": 304,
+    "api_drawing_count": 1,
+    "api_id": 543,
+    "api_original_ship_id": 135,
+    "api_report_count": 1,
+    "api_sortno": 343,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
 }, {
@@ -823,6 +944,7 @@
     "api_drawing_count": 1,
     "api_id": 545,
     "api_original_ship_id": 433,
+    "api_report_count": 0,
     "api_sortno": 345,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -832,6 +954,7 @@
     "api_drawing_count": 0,
     "api_id": 545,
     "api_original_ship_id": 433,
+    "api_report_count": 0,
     "api_sortno": 345,
     "api_upgrade_level": 4,
     "api_upgrade_type": 1
@@ -841,6 +964,7 @@
     "api_drawing_count": 1,
     "api_id": 547,
     "api_original_ship_id": 100,
+    "api_report_count": 0,
     "api_sortno": 347,
     "api_upgrade_level": 2,
     "api_upgrade_type": 1
@@ -850,6 +974,7 @@
     "api_drawing_count": 0,
     "api_id": 550,
     "api_original_ship_id": 433,
+    "api_report_count": 0,
     "api_sortno": 350,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
