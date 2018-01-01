@@ -694,7 +694,7 @@
     "api_no": 32,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "龍の壁紙",
     "api_type": 1
@@ -754,7 +754,7 @@
     "api_no": 4,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "破魔矢の窓",
     "api_type": 2
@@ -974,7 +974,7 @@
     "api_no": 26,
     "api_price": 2220,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 25,
     "api_title": "冬のステンドグラス",
     "api_type": 2
@@ -1504,7 +1504,7 @@
     "api_no": 18,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "ハンガーラック",
     "api_type": 4
@@ -2274,7 +2274,7 @@
     "api_no": 46,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 11,
     "api_title": "年越し蕎麦",
     "api_type": 5
@@ -3154,7 +3154,7 @@
     "api_no": 67,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "提督文机",
     "api_type": 5
@@ -3224,7 +3224,7 @@
     "api_no": 46,
     "api_price": 1800,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 26,
     "api_title": "鎮守府大掃除道具",
     "api_type": 4
@@ -3494,7 +3494,7 @@
     "api_no": 55,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "矢羽の壁紙",
     "api_type": 1
@@ -3688,4 +3688,24 @@
     "api_season": 29,
     "api_title": "1YB第三部隊掛け軸",
     "api_type": 3
+}, {
+    "api_description": "新年、明けまして、<br>おめでとうございます！<br>艦隊合流後初めて鎮守府の<br>新年を体験する海防艦娘の<br>準備による新春掛け軸です。",
+    "api_id": 370,
+    "api_no": 78,
+    "api_price": 2018,
+    "api_rarity": 4,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "新春掛け軸二〇一八",
+    "api_type": 3
+}, {
+    "api_description": "対潜護衛の専門家の軽空母<br>と海防艦たちが参加する、<br>迎春書初め大会です。<br>それぞれ、力一杯、書いて<br>くれました。謹賀新年！",
+    "api_id": 371,
+    "api_no": 50,
+    "api_price": 8000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 11,
+    "api_title": "迎春書初め大会二〇一八",
+    "api_type": 4
 }]
