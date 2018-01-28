@@ -1419,6 +1419,32 @@ HF/DF + Type144/147 ASDIC: Rare: 5
 遊撃部隊 艦隊司令部: Acc: 1
 遊撃部隊 艦隊司令部: Evas: 1
 遊撃部隊 艦隊司令部: Rare: 5
+彩雲(偵四): AA: 2
+彩雲(偵四): LoS: 10
+彩雲(偵四): Acc: 2
+彩雲(偵四): Rare: 4
+彩雲(偵四): Cost: 9
+彩雲(偵四): Dist: 7
+12cm30連装噴進砲改二: AA: 8
+12cm30連装噴進砲改二: Armor: 1
+12cm30連装噴進砲改二: Acc: 1
+12cm30連装噴進砲改二: Evas: 3
+12cm30連装噴進砲改二: Rare: 4
+46cm三連装砲改: FP: 27
+46cm三連装砲改: AA: 6
+46cm三連装砲改: Armor: 2
+46cm三連装砲改: Acc: 2
+46cm三連装砲改: Rare: 4
+46cm三連装砲改: Range: 4
+FM-2: FP: 2
+FM-2: AA: 6
+FM-2: Dive: 2
+FM-2: ASW: 1
+FM-2: Acc: 2
+FM-2: Evas: 2
+FM-2: Rare: 4
+FM-2: Cost: 6
+FM-2: Dist: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
