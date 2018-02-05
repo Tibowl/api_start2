@@ -174,7 +174,7 @@
     "api_no": 17,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "畳＆梅柄カーペット",
     "api_type": 0
@@ -434,7 +434,7 @@
     "api_no": 6,
     "api_price": 550,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "チョコレートの壁紙",
     "api_type": 1
@@ -514,7 +514,7 @@
     "api_no": 14,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "白い冬の壁紙",
     "api_type": 1
@@ -754,7 +754,7 @@
     "api_no": 4,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "破魔矢の窓",
     "api_type": 2
@@ -814,7 +814,7 @@
     "api_no": 10,
     "api_price": 3300,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 16,
     "api_title": "桃の節句の窓",
     "api_type": 2
@@ -1364,7 +1364,7 @@
     "api_no": 4,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "節分「豆まき」セット",
     "api_type": 4
@@ -1384,7 +1384,7 @@
     "api_no": 6,
     "api_price": 0,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 15,
     "api_title": "チョコケーキと紅茶セット",
     "api_type": 4
@@ -1534,7 +1534,7 @@
     "api_no": 21,
     "api_price": 22000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "Ｚ旗の暖炉",
     "api_type": 4
@@ -1784,7 +1784,7 @@
     "api_no": 15,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "大人の節分セット",
     "api_type": 5
@@ -1884,7 +1884,7 @@
     "api_no": 25,
     "api_price": 9000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "金剛の紅茶セット",
     "api_type": 5
@@ -1954,7 +1954,7 @@
     "api_no": 32,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "板チョコ型の机",
     "api_type": 5
@@ -2314,7 +2314,7 @@
     "api_no": 47,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 15,
     "api_title": "チョコレートキッチン",
     "api_type": 5
@@ -2714,7 +2714,7 @@
     "api_no": 39,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "睦月の窓",
     "api_type": 2
@@ -2724,7 +2724,7 @@
     "api_no": 58,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "睦月の机",
     "api_type": 5
@@ -3264,7 +3264,7 @@
     "api_no": 48,
     "api_price": 1600,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "睦月の壁紙",
     "api_type": 1
@@ -3284,7 +3284,7 @@
     "api_no": 73,
     "api_price": 150000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "恵方巻のキッチン",
     "api_type": 5
@@ -3294,7 +3294,7 @@
     "api_no": 67,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「セッツブーン」掛け軸",
     "api_type": 3
@@ -3304,7 +3304,7 @@
     "api_no": 49,
     "api_price": 1200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "節分の壁紙",
     "api_type": 1
@@ -3314,7 +3314,7 @@
     "api_no": 50,
     "api_price": 1600,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "如月の壁紙",
     "api_type": 1
@@ -3324,7 +3324,7 @@
     "api_no": 47,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "如月の窓",
     "api_type": 2
@@ -3364,7 +3364,7 @@
     "api_no": 68,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "弥生のアレンジメント",
     "api_type": 3
@@ -3614,7 +3614,7 @@
     "api_no": 47,
     "api_price": 600,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "雪ペイントの床板",
     "api_type": 0
@@ -3634,7 +3634,7 @@
     "api_no": 60,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "白雪の壁紙",
     "api_type": 1
@@ -3724,8 +3724,48 @@
     "api_no": 74,
     "api_price": 3300,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 12,
     "api_title": "こどもの節分セット",
+    "api_type": 5
+}, {
+    "api_description": "壁紙ではなく、壁構造材を<br>カフェ用仕様で再構成しま<br>した。シックで落ち着いた<br>喫茶室を演出します。艦娘<br>と素敵なティータイムを！",
+    "api_id": 374,
+    "api_no": 63,
+    "api_price": 20000,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "Caféの壁",
+    "api_type": 1
+}, {
+    "api_description": "何気に奥深い珈琲の世界。<br>実は少なくない珈琲派艦娘<br>たちに人気のカフェ仕様の<br>壁紙です。香り高い一杯で<br>艦娘との安らぎの時間を。",
+    "api_id": 375,
+    "api_no": 64,
+    "api_price": 1700,
+    "api_rarity": 3,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "珈琲の壁紙",
+    "api_type": 1
+}, {
+    "api_description": "鎮守府の中で本格的な珈琲<br>を淹れる装備群一式です。<br>サイフォンで丁寧に淹れた<br>一杯は珈琲派の艦娘と提督<br>御用達。香り高い一杯を！",
+    "api_id": 376,
+    "api_no": 52,
+    "api_price": 121400,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "鎮守府Café",
+    "api_type": 4
+}, {
+    "api_description": "艦娘同士のガールズトーク<br>や提督との憩いの時間にも<br>最適な喫茶テーブルセット<br>です。提督お手製パンケー<br>キも艦娘たちに好評です！",
+    "api_id": 377,
+    "api_no": 75,
+    "api_price": 2140,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 15,
+    "api_title": "Caféテーブルセット",
     "api_type": 5
 }]
