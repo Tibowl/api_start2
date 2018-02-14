@@ -190,13 +190,13 @@
         "api_name": "月夜海 涼月mode"
     }],
     "api_mst_const": {
-        "api_parallel_quest_max": {
-            "api_string_value": "",
-            "api_int_value": 10
-        },
         "api_dpflag_quest": {
             "api_string_value": "",
             "api_int_value": 0
+        },
+        "api_parallel_quest_max": {
+            "api_string_value": "",
+            "api_int_value": 10
         },
         "api_boko_max_ships": {
             "api_string_value": "",
@@ -22912,7 +22912,7 @@
         "api_map_d": [4, -12],
         "api_map_n": [39, -21],
         "api_sortno": 19,
-        "api_version": ["15", "15", "204"],
+        "api_version": ["15", "18", "204"],
         "api_weda": [138, 150],
         "api_wedb": [92, 108]
     }, {
@@ -22932,7 +22932,7 @@
         "api_map_d": [12, 28],
         "api_map_n": [-24, 11],
         "api_sortno": 20,
-        "api_version": ["13", "13", "204"],
+        "api_version": ["13", "16", "204"],
         "api_weda": [196, 124],
         "api_wedb": [97, 112]
     }, {
@@ -23572,7 +23572,7 @@
         "api_map_d": [4, -12],
         "api_map_n": [39, -21],
         "api_sortno": 97,
-        "api_version": ["16", "16", "204"],
+        "api_version": ["16", "19", "204"],
         "api_weda": [138, 150],
         "api_wedb": [92, 108]
     }, {
@@ -23592,7 +23592,7 @@
         "api_map_d": [12, 28],
         "api_map_n": [-24, 11],
         "api_sortno": 98,
-        "api_version": ["14", "14", "204"],
+        "api_version": ["14", "17", "204"],
         "api_weda": [196, 124],
         "api_wedb": [97, 112]
     }, {
@@ -24792,7 +24792,7 @@
         "api_map_d": [4, -12],
         "api_map_n": [39, -21],
         "api_sortno": 114,
-        "api_version": ["16", "16", "204"],
+        "api_version": ["16", "19", "204"],
         "api_weda": [151, 144],
         "api_wedb": [94, 114]
     }, {
@@ -24812,7 +24812,7 @@
         "api_map_d": [32, -156],
         "api_map_n": [-24, -159],
         "api_sortno": 115,
-        "api_version": ["14", "14", "204"],
+        "api_version": ["14", "17", "204"],
         "api_weda": [199, 318],
         "api_wedb": [98, 107]
     }, {
