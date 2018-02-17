@@ -2588,6 +2588,34 @@ Ark Royal改: Torp: 0,0
 Ark Royal改: AA: 36,82
 Ark Royal改: luck: 13,68
 Ark Royal改: speed: 10
+Jervis改: HP: 31,47
+Jervis改: Armor: 15,50
+Jervis改: FP: 14,52
+Jervis改: Torp: 40,90
+Jervis改: AA: 30,70
+Jervis改: luck: 55,110
+Jervis改: speed: 10
+Ташкент改: HP: 13,24
+Ташкент改: Armor: 5,18
+Ташкент改: FP: 6,29
+Ташкент改: Torp: 18,59
+Ташкент改: AA: 7,29
+Ташкент改: luck: 12,49
+Ташкент改: speed: 10
+Gambier Bay改: HP: 38,48
+Gambier Bay改: Armor: 10,39
+Gambier Bay改: FP: 0,32
+Gambier Bay改: Torp: 0,0
+Gambier Bay改: AA: 24,48
+Gambier Bay改: luck: 15,70
+Gambier Bay改: speed: 5
+Intrepid改: HP: 69,79
+Intrepid改: Armor: 28,54
+Intrepid改: FP: 0,39
+Intrepid改: Torp: 0,0
+Intrepid改: AA: 32,69
+Intrepid改: luck: 12,49
+Intrepid改: speed: 10
 伊168改: HP: 15,19
 伊168改: Armor: 5,18
 伊168改: FP: 3,11
@@ -3176,6 +3204,13 @@ Pola: speed: 10
 伊26: AA: 0,0
 伊26: luck: 14,51
 伊26: speed: 5
+浜波: HP: 16,34
+浜波: Armor: 6,19
+浜波: FP: 10,30
+浜波: Torp: 24,69
+浜波: AA: 9,39
+浜波: luck: 12,49
+浜波: speed: 10
 藤波: HP: 16,34
 藤波: Armor: 6,19
 藤波: FP: 10,31
@@ -3337,6 +3372,13 @@ Ark Royal: Torp: 0,0
 Ark Royal: AA: 30,72
 Ark Royal: luck: 8,58
 Ark Royal: speed: 10
+Ташкент: HP: 13,24
+Ташкент: Armor: 5,18
+Ташкент: FP: 6,29
+Ташкент: Torp: 18,59
+Ташкент: AA: 7,29
+Ташкент: luck: 12,49
+Ташкент: speed: 10
 占守: HP: 9,18
 占守: Armor: 4,16
 占守: FP: 4,18
@@ -3351,6 +3393,13 @@ Ark Royal: speed: 10
 国後: AA: 6,22
 国後: luck: 35,78
 国後: speed: 5
+Jervis: HP: 15,33
+Jervis: Armor: 7,18
+Jervis: FP: 12,32
+Jervis: Torp: 30,82
+Jervis: AA: 22,44
+Jervis: luck: 50,100
+Jervis: speed: 10
 春日丸: HP: 36,58
 春日丸: Armor: 14,32
 春日丸: FP: 0,9
@@ -3449,6 +3498,13 @@ UIT-25: speed: 5
 長波改二: AA: 20,64
 長波改二: luck: 30,80
 長波改二: speed: 10
+Gambier Bay: HP: 28,36
+Gambier Bay: Armor: 9,19
+Gambier Bay: FP: 0,15
+Gambier Bay: Torp: 0,0
+Gambier Bay: AA: 20,38
+Gambier Bay: luck: 12,60
+Gambier Bay: speed: 5
 Saratoga Mk.II: HP: 89,99
 Saratoga Mk.II: Armor: 48,85
 Saratoga Mk.II: FP: 0,68
@@ -3456,6 +3512,13 @@ Saratoga Mk.II: Torp: 0,0
 Saratoga Mk.II: AA: 60,94
 Saratoga Mk.II: luck: 40,93
 Saratoga Mk.II: speed: 10
+武蔵改二: HP: 99,110
+武蔵改二: Armor: 95,125
+武蔵改二: FP: 100,145
+武蔵改二: Torp: 0,0
+武蔵改二: AA: 65,105
+武蔵改二: luck: 10,88
+武蔵改二: speed: 5
 多摩改二: HP: 46,59
 多摩改二: Armor: 29,69
 多摩改二: FP: 16,59
@@ -3470,6 +3533,13 @@ Saratoga Mk.II: speed: 10
 文月改二: AA: 37,82
 文月改二: luck: 17,77
 文月改二: speed: 10
+Intrepid: HP: 69,79
+Intrepid: Armor: 28,54
+Intrepid: FP: 0,39
+Intrepid: Torp: 0,0
+Intrepid: AA: 32,69
+Intrepid: luck: 12,49
+Intrepid: speed: 10
 Saratoga Mk.II Mod.2: HP: 89,99
 Saratoga Mk.II Mod.2: Armor: 50,88
 Saratoga Mk.II Mod.2: FP: 0,58
@@ -3477,6 +3547,20 @@ Saratoga Mk.II Mod.2: Torp: 0,0
 Saratoga Mk.II Mod.2: AA: 60,94
 Saratoga Mk.II Mod.2: luck: 40,93
 Saratoga Mk.II Mod.2: speed: 10
+日振: HP: 9,18
+日振: Armor: 4,17
+日振: FP: 4,19
+日振: Torp: 0,0
+日振: AA: 10,36
+日振: luck: 7,49
+日振: speed: 5
+大東: HP: 9,18
+大東: Armor: 4,17
+大東: FP: 4,18
+大東: Torp: 0,0
+大東: AA: 10,36
+大東: luck: 33,77
+大東: speed: 5
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
@@ -3491,6 +3575,27 @@ Luigi Torelli改: speed: 5
 伊400改: AA: 0,0
 伊400改: luck: 19,58
 伊400改: speed: 5
+日振改: HP: 18,29
+日振改: Armor: 7,34
+日振改: FP: 5,38
+日振改: Torp: 0,0
+日振改: AA: 18,62
+日振改: luck: 9,59
+日振改: speed: 5
+大東改: HP: 18,29
+大東改: Armor: 7,35
+大東改: FP: 5,36
+大東改: Torp: 0,0
+大東改: AA: 18,61
+大東改: luck: 37,87
+大東改: speed: 5
+浜波改: HP: 16,34
+浜波改: Armor: 6,19
+浜波改: FP: 10,30
+浜波改: Torp: 24,69
+浜波改: AA: 9,39
+浜波改: luck: 12,49
+浜波改: speed: 10
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
@@ -3760,3 +3865,17 @@ PT小鬼群: speed: 10
 防空埋護姫: speed: 10
 防空埋護姫: speed: 10
 防空埋護姫: speed: 10
+軽母ヌ級: speed: 5
+軽母ヌ級: speed: 5
+軽母ヌ級改: speed: 5
+軽母ヌ級改: speed: 5
+軽母ヌ級改: speed: 5
+空母棲姫: speed: 10
+空母棲姫: speed: 10
+護衛棲水姫: speed: 5
+護衛棲水姫: speed: 5
+護衛棲水姫: speed: 5
+護衛棲水姫-壊: speed: 5
+護衛棲水姫-壊: speed: 5
+護衛棲水姫-壊: speed: 5
+潜水新棲姫: speed: 5

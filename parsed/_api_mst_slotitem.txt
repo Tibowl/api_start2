@@ -1378,6 +1378,13 @@ HF/DF + Type144/147 ASDIC: ASW: 15
 HF/DF + Type144/147 ASDIC: Acc: 3
 HF/DF + Type144/147 ASDIC: Evas: 2
 HF/DF + Type144/147 ASDIC: Rare: 5
+紫電改(三四三空) 戦闘301: AA: 11
+紫電改(三四三空) 戦闘301: Armor: 2
+紫電改(三四三空) 戦闘301: Acc: 2
+紫電改(三四三空) 戦闘301: Evas: 3
+紫電改(三四三空) 戦闘301: Rare: 4
+紫電改(三四三空) 戦闘301: Cost: 6
+紫電改(三四三空) 戦闘301: Dist: 4
 12.7cm連装砲C型改二: FP: 3
 12.7cm連装砲C型改二: AA: 2
 12.7cm連装砲C型改二: Armor: 1
@@ -1430,6 +1437,13 @@ HF/DF + Type144/147 ASDIC: Rare: 5
 12cm30連装噴進砲改二: Acc: 1
 12cm30連装噴進砲改二: Evas: 3
 12cm30連装噴進砲改二: Rare: 4
+10cm連装高角砲改+増設機銃: FP: 2
+10cm連装高角砲改+増設機銃: AA: 9
+10cm連装高角砲改+増設機銃: Armor: 1
+10cm連装高角砲改+増設機銃: Acc: 2
+10cm連装高角砲改+増設機銃: Evas: 1
+10cm連装高角砲改+増設機銃: Rare: 4
+10cm連装高角砲改+増設機銃: Range: 1
 46cm三連装砲改: FP: 27
 46cm三連装砲改: AA: 6
 46cm三連装砲改: Armor: 2
@@ -1445,6 +1459,42 @@ FM-2: Evas: 2
 FM-2: Rare: 4
 FM-2: Cost: 6
 FM-2: Dist: 4
+SK レーダー: AA: 8
+SK レーダー: LoS: 10
+SK レーダー: Acc: 1
+SK レーダー: Evas: 2
+SK レーダー: Rare: 3
+SK&SG レーダー: FP: 1
+SK&SG レーダー: AA: 9
+SK&SG レーダー: LoS: 12
+SK&SG レーダー: Acc: 4
+SK&SG レーダー: Evas: 4
+SK&SG レーダー: Rare: 4
+SK&SG レーダー: Range: 2
+QF 4.7inch砲 Mk.XII改: FP: 3
+QF 4.7inch砲 Mk.XII改: AA: 3
+QF 4.7inch砲 Mk.XII改: ASW: 1
+QF 4.7inch砲 Mk.XII改: Acc: 1
+QF 4.7inch砲 Mk.XII改: Evas: 1
+QF 4.7inch砲 Mk.XII改: Rare: 3
+QF 4.7inch砲 Mk.XII改: Range: 1
+51cm連装砲: FP: 32
+51cm連装砲: AA: 5
+51cm連装砲: Armor: 2
+51cm連装砲: Acc: 1
+51cm連装砲: Evas: -1
+51cm連装砲: Rare: 5
+51cm連装砲: Range: 4
+130mm B-13連装砲: FP: 4
+130mm B-13連装砲: AA: 1
+130mm B-13連装砲: Armor: 1
+130mm B-13連装砲: Rare: 3
+130mm B-13連装砲: Range: 1
+533mm 三連装魚雷: FP: 1
+533mm 三連装魚雷: Torp: 5
+533mm 三連装魚雷: Evas: 1
+533mm 三連装魚雷: Rare: 2
+533mm 三連装魚雷: Range: 1
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
@@ -1795,3 +1845,26 @@ FM-2: Dist: 4
 深海待伏魚雷: Acc: 9
 深海待伏魚雷: Rare: 4
 深海待伏魚雷: Range: 1
+夜猫深海艦戦: FP: 2
+夜猫深海艦戦: AA: 11
+夜猫深海艦戦: LoS: 2
+夜猫深海艦戦: Acc: 3
+夜猫深海艦戦: Evas: 3
+夜猫深海艦戦: Rare: 5
+夜猫深海艦戦: Range: 1
+夜深海艦爆: FP: 3
+夜深海艦爆: AA: 5
+夜深海艦爆: Dive: 16
+夜深海艦爆: LoS: 6
+夜深海艦爆: ASW: 11
+夜深海艦爆: Acc: 4
+夜深海艦爆: Rare: 5
+夜深海艦爆: Range: 2
+夜復讐深海艦攻: FP: 4
+夜復讐深海艦攻: Torp: 15
+夜復讐深海艦攻: AA: 6
+夜復讐深海艦攻: LoS: 7
+夜復讐深海艦攻: ASW: 12
+夜復讐深海艦攻: Acc: 5
+夜復讐深海艦攻: Rare: 5
+夜復讐深海艦攻: Range: 2
