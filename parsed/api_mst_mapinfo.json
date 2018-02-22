@@ -420,38 +420,38 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 415,
-    "api_infotext": "#E-5",
+    "api_infotext": "オルモックに増援部隊を送り<br>こむ輸送作戦「多号作戦改」<br>発動！本作戦を阻止する敵航<br>空機や艦艇に十分警戒せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 12,
     "api_maparea_id": 41,
     "api_max_maphp": 300,
-    "api_name": "#E-5",
+    "api_name": "オルモック沖",
     "api_no": 5,
-    "api_opetext": "#E-5",
+    "api_opetext": "多号作戦改",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 0, 1]
 }, {
     "api_id": 416,
-    "api_infotext": "#E-6",
+    "api_infotext": "レイテ防衛は成功した！各遊<br>撃部隊は反転攻勢に転じる！<br>サマール沖東方を捜索進撃、<br>敵残存部隊を捕捉撃破せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 15,
     "api_maparea_id": 41,
     "api_max_maphp": 300,
-    "api_name": "#E-6",
+    "api_name": "サマール沖東方",
     "api_no": 6,
-    "api_opetext": "#E-6",
+    "api_opetext": "追撃！第ニ遊撃部隊",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 0, 1]
 }, {
     "api_id": 417,
-    "api_infotext": "#E-7",
+    "api_infotext": "エンガノ岬沖北方に誘引した<br>敵機動部隊主力を、我が連合<br>艦隊総力をもって撃滅せよ！<br>暁の水平線に勝利を刻め―！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 17,
     "api_maparea_id": 41,
     "api_max_maphp": 300,
-    "api_name": "#E-7",
+    "api_name": "エンガノ岬沖",
     "api_no": 7,
-    "api_opetext": "#E-7",
+    "api_opetext": "暁の水平線に勝利を――",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 1]
+    "api_sally_flag": [0, 7, 0]
 }]

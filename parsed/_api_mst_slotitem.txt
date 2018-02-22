@@ -1381,7 +1381,7 @@ HF/DF + Type144/147 ASDIC: Rare: 5
 紫電改(三四三空) 戦闘301: AA: 11
 紫電改(三四三空) 戦闘301: Armor: 2
 紫電改(三四三空) 戦闘301: Acc: 2
-紫電改(三四三空) 戦闘301: Evas: 3
+紫電改(三四三空) 戦闘301: Evas: 4
 紫電改(三四三空) 戦闘301: Rare: 4
 紫電改(三四三空) 戦闘301: Cost: 6
 紫電改(三四三空) 戦闘301: Dist: 4
@@ -1464,13 +1464,13 @@ SK レーダー: LoS: 10
 SK レーダー: Acc: 1
 SK レーダー: Evas: 2
 SK レーダー: Rare: 3
-SK&SG レーダー: FP: 1
-SK&SG レーダー: AA: 9
-SK&SG レーダー: LoS: 12
-SK&SG レーダー: Acc: 4
-SK&SG レーダー: Evas: 4
-SK&SG レーダー: Rare: 4
-SK&SG レーダー: Range: 2
+SK+SG レーダー: FP: 1
+SK+SG レーダー: AA: 9
+SK+SG レーダー: LoS: 12
+SK+SG レーダー: Acc: 4
+SK+SG レーダー: Evas: 4
+SK+SG レーダー: Rare: 4
+SK+SG レーダー: Range: 2
 QF 4.7inch砲 Mk.XII改: FP: 3
 QF 4.7inch砲 Mk.XII改: AA: 3
 QF 4.7inch砲 Mk.XII改: ASW: 1
@@ -1868,3 +1868,16 @@ QF 4.7inch砲 Mk.XII改: Range: 1
 夜復讐深海艦攻: Acc: 5
 夜復讐深海艦攻: Rare: 5
 夜復讐深海艦攻: Range: 2
+深海14inch連装砲改: FP: 22
+深海14inch連装砲改: AA: 4
+深海14inch連装砲改: Armor: 4
+深海14inch連装砲改: Acc: 14
+深海14inch連装砲改: Evas: 4
+深海14inch連装砲改: Rare: 5
+深海14inch連装砲改: Range: 3
+深海16inch三連装砲改: FP: 27
+深海16inch三連装砲改: AA: 4
+深海16inch三連装砲改: Armor: 5
+深海16inch三連装砲改: Acc: 20
+深海16inch三連装砲改: Rare: 5
+深海16inch三連装砲改: Range: 4
