@@ -194,13 +194,13 @@
             "api_string_value": "",
             "api_int_value": 0
         },
-        "api_boko_max_ships": {
-            "api_string_value": "",
-            "api_int_value": 360
-        },
         "api_parallel_quest_max": {
             "api_string_value": "",
             "api_int_value": 10
+        },
+        "api_boko_max_ships": {
+            "api_string_value": "",
+            "api_int_value": 360
         }
     },
     "api_mst_equip_exslot": [16, 21, 23, 27, 28, 43, 44],
@@ -16726,7 +16726,7 @@
         "api_raig": [40, 90],
         "api_slot_num": 3,
         "api_soku": 10,
-        "api_sortno": 1471,
+        "api_sortno": 1474,
         "api_souk": [15, 50],
         "api_stype": 2,
         "api_taik": [31, 47],
@@ -16804,7 +16804,7 @@
         "api_ctype": 84,
         "api_fuel_max": 90,
         "api_getmes": "<br>",
-        "api_houg": [38, 58],
+        "api_houg": [0, 58],
         "api_id": 397,
         "api_leng": 2,
         "api_luck": [50, 100],
@@ -20635,7 +20635,7 @@
         "api_ctype": 84,
         "api_fuel_max": 75,
         "api_getmes": "Hi！ Essex class航空母艦、５番艦。Intrepidよ！<br>貴方がAdmiralなのね？　素敵ね。さァ、一緒にいきましょう？<br>いいかナ？",
-        "api_houg": [36, 55],
+        "api_houg": [0, 55],
         "api_id": 549,
         "api_leng": 2,
         "api_luck": [45, 90],
@@ -30925,7 +30925,7 @@
         "api_map_d": [24, 136],
         "api_map_n": [144, 112],
         "api_sortno": 1467,
-        "api_version": ["1", "1", "216"],
+        "api_version": ["1", "1", "217"],
         "api_weda": [84, 16],
         "api_wedb": [84, 120]
     }, {
@@ -31024,7 +31024,7 @@
         "api_kaizo_n": [90, 72],
         "api_map_d": [128, 144],
         "api_map_n": [132, 128],
-        "api_sortno": 1471,
+        "api_sortno": 1474,
         "api_version": ["1", "1", "216"],
         "api_weda": [116, -8],
         "api_wedb": [84, 112]
@@ -31085,7 +31085,7 @@
         "api_map_d": [68, 94],
         "api_map_n": [28, 16],
         "api_sortno": 1477,
-        "api_version": ["1", "1", "216"],
+        "api_version": ["2", "1", "216"],
         "api_weda": [226, 104],
         "api_wedb": [84, 108]
     }, {
@@ -32645,7 +32645,7 @@
         "api_map_d": [24, 136],
         "api_map_n": [144, 112],
         "api_sortno": 275,
-        "api_version": ["1", "1", "216"],
+        "api_version": ["1", "1", "217"],
         "api_weda": [84, 16],
         "api_wedb": [84, 120]
     }, {
@@ -54418,6 +54418,33 @@
         "api_tais": 0,
         "api_tyku": 0,
         "api_type": [2, 3, 5, 5, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 1, 2, 2],
+        "api_houg": 2,
+        "api_houk": 2,
+        "api_houm": 1,
+        "api_id": 284,
+        "api_info": "米国で開発・実戦配備された優れた両用砲。同駆逐艦クラスの搭載主砲として、広く運用された単装砲兵装です。<br>対艦戦闘及び対空戦闘両面で優れた実用性を発揮した本砲は、あのフレッチャー級駆逐艦や、レイテ沖で栗田艦隊主力から<br>タフィー3護衛空母群を護って奮戦した護衛駆逐艦などにも、主砲として装備されました。",
+        "api_leng": 1,
+        "api_luck": 0,
+        "api_name": "5inch単装砲 Mk.30",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 3,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 284,
+        "api_souk": 1,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 6,
+        "api_type": [1, 1, 1, 16, 0],
         "api_usebull": "0"
     }, {
         "api_atap": 0,

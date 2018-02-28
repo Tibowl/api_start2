@@ -1495,6 +1495,13 @@ QF 4.7inch砲 Mk.XII改: Range: 1
 533mm 三連装魚雷: Evas: 1
 533mm 三連装魚雷: Rare: 2
 533mm 三連装魚雷: Range: 1
+5inch単装砲 Mk.30: FP: 2
+5inch単装砲 Mk.30: AA: 6
+5inch単装砲 Mk.30: Armor: 1
+5inch単装砲 Mk.30: Acc: 1
+5inch単装砲 Mk.30: Evas: 2
+5inch単装砲 Mk.30: Rare: 3
+5inch単装砲 Mk.30: Range: 1
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

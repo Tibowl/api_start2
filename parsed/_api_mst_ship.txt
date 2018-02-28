@@ -2611,7 +2611,7 @@ Gambier Bay改: luck: 15,70
 Gambier Bay改: speed: 5
 Intrepid改: HP: 69,90
 Intrepid改: Armor: 52,90
-Intrepid改: FP: 38,58
+Intrepid改: FP: 0,58
 Intrepid改: Torp: 0,0
 Intrepid改: AA: 55,95
 Intrepid改: luck: 50,100
@@ -3535,7 +3535,7 @@ Saratoga Mk.II: speed: 10
 文月改二: speed: 10
 Intrepid: HP: 65,90
 Intrepid: Armor: 43,80
-Intrepid: FP: 36,55
+Intrepid: FP: 0,55
 Intrepid: Torp: 0,0
 Intrepid: AA: 50,90
 Intrepid: luck: 45,90
