@@ -558,4 +558,32 @@
     "api_name": "Xmas Select Gift Box",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["", ""],
+    "api_id": 81,
+    "api_name": "捷号章",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["", ""],
+    "api_id": 82,
+    "api_name": "捷号章",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["", ""],
+    "api_id": 83,
+    "api_name": "捷号章",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["", ""],
+    "api_id": 84,
+    "api_name": "捷号章",
+    "api_price": 0,
+    "api_usetype": 0
 }]

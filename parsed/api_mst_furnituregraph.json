@@ -35,6 +35,12 @@
     "api_type": 5,
     "api_version": "2"
 }, {
+    "api_filename": "008",
+    "api_id": 171,
+    "api_no": 7,
+    "api_type": 5,
+    "api_version": "1"
+}, {
     "api_filename": "011",
     "api_id": 174,
     "api_no": 10,
@@ -44,6 +50,12 @@
     "api_filename": "018",
     "api_id": 181,
     "api_no": 17,
+    "api_type": 5,
+    "api_version": "2"
+}, {
+    "api_filename": "022",
+    "api_id": 185,
+    "api_no": 21,
     "api_type": 5,
     "api_version": "2"
 }, {
@@ -117,7 +129,7 @@
     "api_id": 230,
     "api_no": 35,
     "api_type": 2,
-    "api_version": "37"
+    "api_version": "38"
 }, {
     "api_filename": "042",
     "api_id": 235,
@@ -189,7 +201,7 @@
     "api_id": 271,
     "api_no": 57,
     "api_type": 5,
-    "api_version": "11"
+    "api_version": "12"
 }, {
     "api_filename": "061",
     "api_id": 279,
@@ -227,6 +239,18 @@
     "api_type": 3,
     "api_version": "1"
 }, {
+    "api_filename": "064",
+    "api_id": 290,
+    "api_no": 63,
+    "api_type": 5,
+    "api_version": "2"
+}, {
+    "api_filename": "065",
+    "api_id": 291,
+    "api_no": 64,
+    "api_type": 5,
+    "api_version": "2"
+}, {
     "api_filename": "042",
     "api_id": 297,
     "api_no": 41,
@@ -255,6 +279,18 @@
     "api_id": 314,
     "api_no": 64,
     "api_type": 3,
+    "api_version": "2"
+}, {
+    "api_filename": "067",
+    "api_id": 315,
+    "api_no": 66,
+    "api_type": 5,
+    "api_version": "2"
+}, {
+    "api_filename": "068",
+    "api_id": 316,
+    "api_no": 67,
+    "api_type": 5,
     "api_version": "2"
 }, {
     "api_filename": "069",
@@ -303,7 +339,7 @@
     "api_id": 342,
     "api_no": 70,
     "api_type": 3,
-    "api_version": "4"
+    "api_version": "5"
 }, {
     "api_filename": "072",
     "api_id": 343,
@@ -380,6 +416,12 @@
     "api_filename": "075",
     "api_id": 373,
     "api_no": 74,
+    "api_type": 5,
+    "api_version": "1"
+}, {
+    "api_filename": "077",
+    "api_id": 378,
+    "api_no": 76,
     "api_type": 5,
     "api_version": "1"
 }]

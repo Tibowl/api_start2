@@ -134,7 +134,7 @@
     "api_no": 13,
     "api_price": 20000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "桜の床",
     "api_type": 0
@@ -174,7 +174,7 @@
     "api_no": 17,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "畳＆梅柄カーペット",
     "api_type": 0
@@ -234,7 +234,7 @@
     "api_no": 23,
     "api_price": 1500,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "春色の床",
     "api_type": 0
@@ -414,7 +414,7 @@
     "api_no": 4,
     "api_price": 1000,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "春仕様の壁紙",
     "api_type": 1
@@ -854,7 +854,7 @@
     "api_no": 14,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "お花見窓",
     "api_type": 2
@@ -964,7 +964,7 @@
     "api_no": 25,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "艦娘による冬の窓",
     "api_type": 2
@@ -1184,7 +1184,7 @@
     "api_no": 17,
     "api_price": 3100,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「主力of主力」掛け軸",
     "api_type": 3
@@ -1224,7 +1224,7 @@
     "api_no": 21,
     "api_price": 150,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "アレンジメント",
     "api_type": 3
@@ -1394,7 +1394,7 @@
     "api_no": 7,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "「長門」「陸奥」の雛人形",
     "api_type": 4
@@ -1554,7 +1554,7 @@
     "api_no": 23,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "模様替えお掃除セット",
     "api_type": 4
@@ -1699,14 +1699,14 @@
     "api_title": "大将の机",
     "api_type": 5
 }, {
-    "api_description": "気高く伝統的な、憧れの社長机。",
+    "api_description": "艦隊運用に忙しい提督の机<br>と並んで配置された、優秀<br>な秘書艦娘のための執務机<br>です。何気に高機能！ダイ<br>ナミック割引も可能です！",
     "api_id": 171,
     "api_no": 7,
-    "api_price": 0,
-    "api_rarity": 0,
-    "api_saleflg": 0,
+    "api_price": 188000,
+    "api_rarity": 6,
+    "api_saleflg": 1,
     "api_season": 0,
-    "api_title": "社長の机",
+    "api_title": "秘書艦と提督の机",
     "api_type": 5
 }, {
     "api_description": "木彫で暖かみのある高いデ<br>ザイン性と機能美を持った<br>椅子。女の子達にも人気の<br>逸品です。",
@@ -2004,7 +2004,7 @@
     "api_no": 37,
     "api_price": 3300,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "雛人形豪華四段飾り",
     "api_type": 5
@@ -2344,7 +2344,7 @@
     "api_no": 41,
     "api_price": 0,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 13,
     "api_title": "武蔵の掛け軸",
     "api_type": 3
@@ -2694,7 +2694,7 @@
     "api_no": 55,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「佐世保鎮守府」掛け軸",
     "api_type": 3
@@ -2774,7 +2774,7 @@
     "api_no": 59,
     "api_price": 150000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督のクッキーキッチン",
     "api_type": 5
@@ -3254,7 +3254,7 @@
     "api_no": 47,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "梅柄の壁紙",
     "api_type": 1
@@ -3374,7 +3374,7 @@
     "api_no": 52,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "クッキーの壁紙",
     "api_type": 1
@@ -3384,7 +3384,7 @@
     "api_no": 45,
     "api_price": 1200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "クッキーの床",
     "api_type": 0
@@ -3394,7 +3394,7 @@
     "api_no": 69,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "お返し掛け軸",
     "api_type": 3
@@ -3404,7 +3404,7 @@
     "api_no": 53,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "桜色の壁紙",
     "api_type": 1
@@ -3414,7 +3414,7 @@
     "api_no": 70,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "桜の和のアレンジメント",
     "api_type": 3
@@ -3767,5 +3767,15 @@
     "api_saleflg": 1,
     "api_season": 15,
     "api_title": "Caféテーブルセット",
+    "api_type": 5
+}, {
+    "api_description": "提督と艦娘の春色の座布団<br>です。艦娘用座布団は、春<br>に咲く桜の花をイメージ。<br>提督用は葉桜をモチーフに<br>座椅子付でリッチな気分！",
+    "api_id": 378,
+    "api_no": 76,
+    "api_price": 1700,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "春の座布団",
     "api_type": 5
 }]
