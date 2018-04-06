@@ -94,7 +94,7 @@
     "api_no": 9,
     "api_price": 1900,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "沈丁花の敷物",
     "api_type": 0
@@ -654,7 +654,7 @@
     "api_no": 28,
     "api_price": 1900,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "沈丁花の壁紙",
     "api_type": 1
@@ -814,7 +814,7 @@
     "api_no": 10,
     "api_price": 3300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 16,
     "api_title": "桃の節句の窓",
     "api_type": 2
@@ -1514,7 +1514,7 @@
     "api_no": 19,
     "api_price": 600,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ドレッサー",
     "api_type": 4
@@ -2344,7 +2344,7 @@
     "api_no": 41,
     "api_price": 0,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 13,
     "api_title": "武蔵の掛け軸",
     "api_type": 3
@@ -2694,7 +2694,7 @@
     "api_no": 55,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「佐世保鎮守府」掛け軸",
     "api_type": 3
@@ -2744,7 +2744,7 @@
     "api_no": 57,
     "api_price": 135000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "航空戦艦ステンドグラス",
     "api_type": 3
@@ -2804,7 +2804,7 @@
     "api_no": 38,
     "api_price": 400,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の床",
     "api_type": 0
@@ -2814,7 +2814,7 @@
     "api_no": 39,
     "api_price": 1400,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の壁紙",
     "api_type": 1
@@ -2824,7 +2824,7 @@
     "api_no": 40,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の窓",
     "api_type": 2
@@ -2834,7 +2834,7 @@
     "api_no": 60,
     "api_price": 104000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の掛け軸",
     "api_type": 3
@@ -2844,7 +2844,7 @@
     "api_no": 61,
     "api_price": 3400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "卯月の机",
     "api_type": 5
@@ -3144,7 +3144,7 @@
     "api_no": 66,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督座布団",
     "api_type": 5
@@ -3344,7 +3344,7 @@
     "api_no": 51,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "弥生の壁紙",
     "api_type": 1
@@ -3354,7 +3354,7 @@
     "api_no": 48,
     "api_price": 3300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "弥生の窓",
     "api_type": 2
@@ -3364,7 +3364,7 @@
     "api_no": 68,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "弥生のアレンジメント",
     "api_type": 3
@@ -3454,7 +3454,7 @@
     "api_no": 50,
     "api_price": 4300,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "村雨の窓",
     "api_type": 2
@@ -3474,7 +3474,7 @@
     "api_no": 48,
     "api_price": 163400,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「瑞雲」の桐箪笥",
     "api_type": 4
@@ -3484,7 +3484,7 @@
     "api_no": 73,
     "api_price": 6340,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "「瑞雲魂」掛け軸",
     "api_type": 3
@@ -3778,4 +3778,14 @@
     "api_season": 0,
     "api_title": "春の座布団",
     "api_type": 5
+}, {
+    "api_description": "下駄ばき機としては脅威の<br>性能を誇る名機「瑞雲」。<br>この多目的構成水上偵察機<br>をイメージしてある航空戦<br>艦がその魂を込めた壁板！",
+    "api_id": 379,
+    "api_no": 65,
+    "api_price": 6340,
+    "api_rarity": 6,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "「瑞雲」の壁板",
+    "api_type": 1
 }]
