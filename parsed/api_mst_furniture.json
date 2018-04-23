@@ -3788,4 +3788,14 @@
     "api_season": 0,
     "api_title": "「瑞雲」の壁板",
     "api_type": 1
+}, {
+    "api_description": "遂に艦隊は五周年を迎える<br>こととなりました！提督、<br>ありがとうございました！<br>5th Anniversary!<br>Thank you so,so much!",
+    "api_id": 380,
+    "api_no": 79,
+    "api_price": 50000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "「五周年記念」掛け軸",
+    "api_type": 3
 }]

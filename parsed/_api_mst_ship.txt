@@ -3575,6 +3575,13 @@ Saratoga Mk.II Mod.2: speed: 10
 瑞鳳改二: AA: 27,70
 瑞鳳改二: luck: 42,93
 瑞鳳改二: speed: 10
+浦風丁改: HP: 33,54
+浦風丁改: Armor: 14,53
+浦風丁改: FP: 12,62
+浦風丁改: Torp: 20,76
+浦風丁改: AA: 26,76
+浦風丁改: luck: 18,84
+浦風丁改: speed: 10
 磯風乙改: HP: 34,55
 磯風乙改: Armor: 14,53
 磯風乙改: FP: 10,60
@@ -3596,6 +3603,20 @@ Saratoga Mk.II Mod.2: speed: 10
 瑞鳳改二乙: AA: 33,88
 瑞鳳改二乙: luck: 42,93
 瑞鳳改二乙: speed: 10
+Samuel B.Roberts: HP: 14,27
+Samuel B.Roberts: Armor: 5,17
+Samuel B.Roberts: FP: 8,24
+Samuel B.Roberts: Torp: 12,38
+Samuel B.Roberts: AA: 20,40
+Samuel B.Roberts: luck: 30,60
+Samuel B.Roberts: speed: 5
+陽炎改二: HP: 33,55
+陽炎改二: Armor: 14,53
+陽炎改二: FP: 18,68
+陽炎改二: Torp: 30,90
+陽炎改二: AA: 20,62
+陽炎改二: luck: 20,77
+陽炎改二: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
@@ -3631,6 +3652,13 @@ Luigi Torelli改: speed: 5
 浜波改: AA: 18,59
 浜波改: luck: 12,58
 浜波改: speed: 10
+Samuel B.Roberts改: HP: 27,42
+Samuel B.Roberts改: Armor: 12,43
+Samuel B.Roberts改: FP: 10,50
+Samuel B.Roberts改: Torp: 24,70
+Samuel B.Roberts改: AA: 28,60
+Samuel B.Roberts改: luck: 40,80
+Samuel B.Roberts改: speed: 5
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
