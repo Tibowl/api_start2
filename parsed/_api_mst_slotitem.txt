@@ -1502,6 +1502,17 @@ QF 4.7inch砲 Mk.XII改: Range: 1
 5inch単装砲 Mk.30: Evas: 2
 5inch単装砲 Mk.30: Rare: 3
 5inch単装砲 Mk.30: Range: 1
+61cm三連装(酸素)魚雷後期型: Torp: 9
+61cm三連装(酸素)魚雷後期型: Armor: 1
+61cm三連装(酸素)魚雷後期型: Acc: 2
+61cm三連装(酸素)魚雷後期型: Evas: 2
+61cm三連装(酸素)魚雷後期型: Rare: 3
+61cm三連装(酸素)魚雷後期型: Range: 1
+61cm四連装(酸素)魚雷後期型: Torp: 11
+61cm四連装(酸素)魚雷後期型: Armor: 1
+61cm四連装(酸素)魚雷後期型: Acc: 2
+61cm四連装(酸素)魚雷後期型: Rare: 3
+61cm四連装(酸素)魚雷後期型: Range: 1
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
