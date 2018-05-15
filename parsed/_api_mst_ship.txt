@@ -3610,6 +3610,13 @@ Samuel B.Roberts: Torp: 12,38
 Samuel B.Roberts: AA: 20,40
 Samuel B.Roberts: luck: 30,60
 Samuel B.Roberts: speed: 5
+福江: HP: 9,18
+福江: Armor: 4,16
+福江: FP: 4,16
+福江: Torp: 0,0
+福江: AA: 7,28
+福江: luck: 36,78
+福江: speed: 5
 陽炎改二: HP: 33,55
 陽炎改二: Armor: 14,53
 陽炎改二: FP: 18,68
@@ -3617,6 +3624,13 @@ Samuel B.Roberts: speed: 5
 陽炎改二: AA: 20,62
 陽炎改二: luck: 20,77
 陽炎改二: speed: 10
+不知火改二: HP: 33,55
+不知火改二: Armor: 14,54
+不知火改二: FP: 18,67
+不知火改二: Torp: 30,91
+不知火改二: AA: 20,64
+不知火改二: luck: 24,88
+不知火改二: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
@@ -3659,6 +3673,13 @@ Samuel B.Roberts改: Torp: 24,70
 Samuel B.Roberts改: AA: 28,60
 Samuel B.Roberts改: luck: 40,80
 Samuel B.Roberts改: speed: 5
+福江改: HP: 17,28
+福江改: Armor: 7,34
+福江改: FP: 5,35
+福江改: Torp: 0,0
+福江改: AA: 12,55
+福江改: luck: 40,84
+福江改: speed: 5
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10

@@ -364,7 +364,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["最大保有艦娘数＋10(最大360)。最大保有アイテム数＋40(最大1540)。", ""],
+    "api_description": ["最大保有艦娘数＋10(最大370)。最大保有アイテム数＋40(最大1580)。", ""],
     "api_id": 53,
     "api_name": "母港拡張",
     "api_price": 0,
@@ -586,4 +586,39 @@
     "api_name": "捷号章",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["美味しい日本の「お米」です。ふっくらと炊き上げて、召し上がれ！※食べ物イベ終了時に消滅します。", ""],
+    "api_id": 85,
+    "api_name": "お米",
+    "api_price": 0,
+    "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["梅の実を独特の製法で漬けた「梅干」です。ご飯やおにぎりにもぴったりです※食べ物イベ終了時に消滅します。", ""],
+    "api_id": 86,
+    "api_name": "梅干",
+    "api_price": 0,
+    "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["身近な海産物「海苔」。ご飯やおにぎり、お茶漬けのお供にも欠かせません。※食べ物イベ終了時に消滅します。", ""],
+    "api_id": 87,
+    "api_name": "海苔",
+    "api_price": 0,
+    "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["「お茶」は心を落ち着かせてくれます。香り高い日本茶、お茶漬けも美味しい！※食べ物イベ終了時に消滅します。", ""],
+    "api_id": 88,
+    "api_name": "お茶",
+    "api_price": 0,
+    "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["あの暖簾をくぐって鳳翔さんの小料理屋へどうぞ。心尽くしアイテムと交換できます。※一定期間後、消滅します。", ""],
+    "api_id": 89,
+    "api_name": "鳳翔さんの夕食券",
+    "api_price": 0,
+    "api_usetype": 4
 }]

@@ -3798,4 +3798,14 @@
     "api_season": 0,
     "api_title": "「五周年記念」掛け軸",
     "api_type": 3
+}, {
+    "api_description": "素晴らしい食材による美味<br>しい料理を力一杯食べて、<br>満足した何者かの手による<br>大型の特別な掛け軸。高い<br>満足感が伝わる逸品です。",
+    "api_id": 381,
+    "api_no": 80,
+    "api_price": 10000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "「完食」掛け軸",
+    "api_type": 3
 }]

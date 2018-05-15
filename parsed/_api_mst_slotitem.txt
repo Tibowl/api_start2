@@ -1513,6 +1513,11 @@ QF 4.7inch砲 Mk.XII改: Range: 1
 61cm四連装(酸素)魚雷後期型: Acc: 2
 61cm四連装(酸素)魚雷後期型: Rare: 3
 61cm四連装(酸素)魚雷後期型: Range: 1
+三式爆雷投射機 集中配備: ASW: 12
+三式爆雷投射機 集中配備: Rare: 3
+試製15cm9連装対潜噴進砲: ASW: 15
+試製15cm9連装対潜噴進砲: Acc: 1
+試製15cm9連装対潜噴進砲: Rare: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
