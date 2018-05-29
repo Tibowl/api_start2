@@ -190,10 +190,6 @@
         "api_name": "月夜海 涼月mode"
     }],
     "api_mst_const": {
-        "api_dpflag_quest": {
-            "api_string_value": "",
-            "api_int_value": 0
-        },
         "api_boko_max_ships": {
             "api_string_value": "",
             "api_int_value": 370
@@ -201,6 +197,10 @@
         "api_parallel_quest_max": {
             "api_string_value": "",
             "api_int_value": 10
+        },
+        "api_dpflag_quest": {
+            "api_string_value": "",
+            "api_int_value": 0
         }
     },
     "api_mst_equip_exslot": [16, 21, 23, 27, 28, 43, 44],
@@ -56028,6 +56028,60 @@
         "api_tais": 15,
         "api_tyku": 0,
         "api_type": [7, 32, 15, 17, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 16, 20, 2],
+        "api_houg": 19,
+        "api_houk": 2,
+        "api_houm": 3,
+        "api_id": 289,
+        "api_info": "「金剛」型高速戦艦の代替新造艦装備のために計画されていた三連装35.6cm主砲、その改二以降用if改良強化型兵装です。<br>射撃精度が向上、効果のほどは不明ですが、最期まで呉軍港で防戦に努めた「榛名」前部主砲最終仕様と同様のゼブラ模様のダズル迷彩も施しています。",
+        "api_leng": 3,
+        "api_luck": 0,
+        "api_name": "35.6cm三連装砲改(ダズル迷彩仕様)",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 4,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 289,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 5,
+        "api_type": [1, 1, 3, 3, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 20, 22, 6],
+        "api_houg": 23,
+        "api_houk": 0,
+        "api_houm": 5,
+        "api_id": 290,
+        "api_info": "呉海軍工廠砲熕部で開発された純国産戦艦用三連装主砲、その改修改良型です。if兵装ではありますが、軽量化及び射撃装置を熟成改良した同改良砲を、航空戦艦への装備、特に伊勢型航空戦艦に最適化改修した戦艦主砲兵装です。特に大規模改装後の伊勢型改二では、その潜在能力を遺憾なく発揮します。",
+        "api_leng": 3,
+        "api_luck": 0,
+        "api_name": "41cm三連装砲改二",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 5,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 290,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 6,
+        "api_type": [1, 1, 3, 3, 0],
         "api_usebull": "0"
     }, {
         "api_atap": 0,
