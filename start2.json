@@ -87,6 +87,9 @@
         "api_id": 136,
         "api_name": "海上護衛戦"
     }, {
+        "api_id": 137,
+        "api_name": "索敵機、発艦始め！"
+    }, {
         "api_id": 205,
         "api_name": "秋月の空"
     }, {
@@ -193,13 +196,13 @@
         "api_name": "月夜海 涼月mode"
     }],
     "api_mst_const": {
-        "api_boko_max_ships": {
-            "api_string_value": "",
-            "api_int_value": 370
-        },
         "api_parallel_quest_max": {
             "api_string_value": "",
             "api_int_value": 10
+        },
+        "api_boko_max_ships": {
+            "api_string_value": "",
+            "api_int_value": 370
         },
         "api_dpflag_quest": {
             "api_string_value": "",
@@ -31417,7 +31420,7 @@
         "api_map_d": [92, 136],
         "api_map_n": [36, 114],
         "api_sortno": 1476,
-        "api_version": ["53", "2", "613"],
+        "api_version": ["53", "3", "613"],
         "api_weda": [208, -4],
         "api_wedb": [88, 112]
     }, {
@@ -61698,5 +61701,5 @@
         "api_price": 0,
         "api_usetype": 4
     }],
-    "api_register_status": 0
+    "api_register_status": 1
 }

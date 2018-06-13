@@ -1,11 +1,11 @@
 {
-    "api_boko_max_ships": {
-        "api_string_value": "",
-        "api_int_value": 370
-    },
     "api_parallel_quest_max": {
         "api_string_value": "",
         "api_int_value": 10
+    },
+    "api_boko_max_ships": {
+        "api_string_value": "",
+        "api_int_value": 370
     },
     "api_dpflag_quest": {
         "api_string_value": "",
