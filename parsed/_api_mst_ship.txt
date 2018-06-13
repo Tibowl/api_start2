@@ -3568,6 +3568,13 @@ Saratoga Mk.II Mod.2: speed: 10
 大東: AA: 10,36
 大東: luck: 33,77
 大東: speed: 5
+伊勢改二: HP: 78,96
+伊勢改二: Armor: 75,94
+伊勢改二: FP: 60,88
+伊勢改二: Torp: 0,0
+伊勢改二: AA: 48,85
+伊勢改二: luck: 40,92
+伊勢改二: speed: 5
 瑞鳳改二: HP: 59,77
 瑞鳳改二: Armor: 37,71
 瑞鳳改二: FP: 0,46
@@ -3631,6 +3638,13 @@ Samuel B.Roberts: speed: 5
 不知火改二: AA: 20,64
 不知火改二: luck: 24,88
 不知火改二: speed: 10
+黒潮改二: HP: 33,55
+黒潮改二: Armor: 14,53
+黒潮改二: FP: 18,69
+黒潮改二: Torp: 30,88
+黒潮改二: AA: 20,65
+黒潮改二: luck: 22,81
+黒潮改二: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
