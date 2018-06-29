@@ -3,12 +3,12 @@
         "api_string_value": "",
         "api_int_value": 10
     },
-    "api_boko_max_ships": {
-        "api_string_value": "",
-        "api_int_value": 370
-    },
     "api_dpflag_quest": {
         "api_string_value": "",
         "api_int_value": 0
+    },
+    "api_boko_max_ships": {
+        "api_string_value": "",
+        "api_int_value": 370
     }
 }
