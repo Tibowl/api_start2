@@ -212,13 +212,13 @@
             "api_string_value": "",
             "api_int_value": 370
         },
-        "api_dpflag_quest": {
-            "api_string_value": "",
-            "api_int_value": 0
-        },
         "api_parallel_quest_max": {
             "api_string_value": "",
             "api_int_value": 10
+        },
+        "api_dpflag_quest": {
+            "api_string_value": "",
+            "api_int_value": 0
         }
     },
     "api_mst_equip_exslot": [16, 21, 23, 27, 28, 43, 44],
@@ -33199,7 +33199,7 @@
         "api_map_d": [-45, 70],
         "api_map_n": [65, 69],
         "api_sortno": 277,
-        "api_version": ["1", "1", "712"],
+        "api_version": ["2", "2", "712"],
         "api_weda": [188, 36],
         "api_wedb": [75, 110]
     }, {
