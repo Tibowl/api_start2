@@ -208,10 +208,6 @@
         "api_name": "梅雨明けの白露"
     }],
     "api_mst_const": {
-        "api_boko_max_ships": {
-            "api_string_value": "",
-            "api_int_value": 370
-        },
         "api_parallel_quest_max": {
             "api_string_value": "",
             "api_int_value": 10
@@ -219,6 +215,10 @@
         "api_dpflag_quest": {
             "api_string_value": "",
             "api_int_value": 0
+        },
+        "api_boko_max_ships": {
+            "api_string_value": "",
+            "api_int_value": 370
         }
     },
     "api_mst_equip_exslot": [16, 21, 23, 27, 28, 43, 44],
@@ -10090,7 +10090,7 @@
         "api_stype": 2,
         "api_taik": [31, 58],
         "api_tyku": [16, 59],
-        "api_voicef": 1,
+        "api_voicef": 3,
         "api_yomi": "ゆうだち"
     }, {
         "api_afterbull": 0,
@@ -26699,7 +26699,7 @@
         "api_map_d": [60, 32],
         "api_map_n": [32, 112],
         "api_sortno": 144,
-        "api_version": ["38", "26", "712"],
+        "api_version": ["38", "27", "730"],
         "api_weda": [148, 6],
         "api_wedb": [115, 133]
     }, {
@@ -28719,7 +28719,7 @@
         "api_map_d": [26, 47],
         "api_map_n": [70, 39],
         "api_sortno": 1345,
-        "api_version": ["24", "25", "712"],
+        "api_version": ["24", "27", "730"],
         "api_weda": [106, 98],
         "api_wedb": [110, 135]
     }, {
@@ -33599,7 +33599,7 @@
         "api_map_d": [72, 111],
         "api_map_n": [78, 113],
         "api_sortno": 297,
-        "api_version": ["1", "1", "712"],
+        "api_version": ["1", "2", "730"],
         "api_weda": [171, 20],
         "api_wedb": [92, 106]
     }, {
@@ -56777,6 +56777,114 @@
         "api_tais": 0,
         "api_tyku": 9,
         "api_type": [1, 1, 1, 16, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 15, 21, 1],
+        "api_houg": 21,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_id": 298,
+        "api_info": "紅茶の国で建造されたビックセブン、条約下時代に建造された16inch砲搭載超弩級戦艦ネルソン級。その主兵装として、同艦前部に集中配備された大口径三連装戦艦主砲です。課題を残しつつも、本三連装主砲三基九門を全て艦前部に集中配備した野心的な艦形を持つネルソン級は、日本の長門、そして陸奥と並んで、ビックセブンの一角を構成しました。",
+        "api_leng": 3,
+        "api_luck": 0,
+        "api_name": "16inch Mk.I三連装砲",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 3,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 298,
+        "api_souk": 1,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [1, 1, 3, 3, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 15, 22, 2],
+        "api_houg": 22,
+        "api_houk": 0,
+        "api_houm": 4,
+        "api_id": 299,
+        "api_info": "紅茶の国で建造されたビックセブン、条約下時代に建造された16inch砲搭載超弩級戦艦ネルソン級。その主兵装として、同艦前部に集中配備された大口径三連装戦艦主砲です。同射撃管制用最新アナログコンピューターAdmiralty Fire Control Tableの熟成改良を重ね、その射撃精度を向上させました。ネルソン級などで運用することで、高い戦闘力を発揮します。",
+        "api_leng": 3,
+        "api_luck": 0,
+        "api_name": "16inch Mk.I三連装砲+AFCT改",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 4,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 299,
+        "api_souk": 1,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [1, 1, 3, 3, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 16, 23, 4],
+        "api_houg": 23,
+        "api_houk": 2,
+        "api_houm": 6,
+        "api_id": 300,
+        "api_info": "紅茶の国で建造されたビックセブン、条約下時代に建造された16inch砲搭載超弩級戦艦ネルソン級。その主兵装として、同艦前半部に集中配備された大口径三連装戦艦主砲の改良型です。さらに同砲と連携する射撃管制レーダー284型を採用、精度の高いレーダー射撃も可能です。ネルソン級や紅茶の国の戦艦で運用することで、高い戦闘力を期待できます。",
+        "api_leng": 3,
+        "api_luck": 0,
+        "api_name": "16inch Mk.I三連装砲改+FCR type284",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 5,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 300,
+        "api_souk": 1,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 7,
+        "api_type": [1, 1, 3, 3, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 4, 2, 4],
+        "api_houg": 0,
+        "api_houk": 2,
+        "api_houm": 0,
+        "api_id": 301,
+        "api_info": "紅茶の国で開発され、大型艦などの対空近接防御に使用された多連装対空ロケットランチャーです。日本の対空噴進砲に使用された12cmロサ弾より大型のロケット弾を採用しています。紅茶の国の艦艇や一部の戦艦などでポンポン砲と一緒に、または集中運用することで、限定的ではありますが近接対空防御に効果を発揮します。",
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "20連装7inch UP Rocket Launchers",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 3,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 301,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 7,
+        "api_type": [4, 29, 21, 15, 0],
         "api_usebull": "0"
     }, {
         "api_atap": 0,

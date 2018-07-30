@@ -1570,6 +1570,26 @@ QF 4.7inch砲 Mk.XII改: Range: 1
 12.7cm連装砲B型改四(戦時改修)+高射装置: Acc: 1
 12.7cm連装砲B型改四(戦時改修)+高射装置: Rare: 3
 12.7cm連装砲B型改四(戦時改修)+高射装置: Range: 1
+16inch Mk.I三連装砲: FP: 21
+16inch Mk.I三連装砲: Armor: 1
+16inch Mk.I三連装砲: Acc: 2
+16inch Mk.I三連装砲: Rare: 3
+16inch Mk.I三連装砲: Range: 3
+16inch Mk.I三連装砲+AFCT改: FP: 22
+16inch Mk.I三連装砲+AFCT改: Armor: 1
+16inch Mk.I三連装砲+AFCT改: Acc: 4
+16inch Mk.I三連装砲+AFCT改: Rare: 4
+16inch Mk.I三連装砲+AFCT改: Range: 3
+16inch Mk.I三連装砲改+FCR type284: FP: 23
+16inch Mk.I三連装砲改+FCR type284: AA: 7
+16inch Mk.I三連装砲改+FCR type284: Armor: 1
+16inch Mk.I三連装砲改+FCR type284: Acc: 6
+16inch Mk.I三連装砲改+FCR type284: Evas: 2
+16inch Mk.I三連装砲改+FCR type284: Rare: 5
+16inch Mk.I三連装砲改+FCR type284: Range: 3
+20連装7inch UP Rocket Launchers: AA: 7
+20連装7inch UP Rocket Launchers: Evas: 2
+20連装7inch UP Rocket Launchers: Rare: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

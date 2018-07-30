@@ -2875,7 +2875,7 @@
     "api_map_d": [60, 32],
     "api_map_n": [32, 112],
     "api_sortno": 144,
-    "api_version": ["38", "26", "712"],
+    "api_version": ["38", "27", "730"],
     "api_weda": [148, 6],
     "api_wedb": [115, 133]
 }, {
@@ -4895,7 +4895,7 @@
     "api_map_d": [26, 47],
     "api_map_n": [70, 39],
     "api_sortno": 1345,
-    "api_version": ["24", "25", "712"],
+    "api_version": ["24", "27", "730"],
     "api_weda": [106, 98],
     "api_wedb": [110, 135]
 }, {
@@ -9775,7 +9775,7 @@
     "api_map_d": [72, 111],
     "api_map_n": [78, 113],
     "api_sortno": 297,
-    "api_version": ["1", "1", "712"],
+    "api_version": ["1", "2", "730"],
     "api_weda": [171, 20],
     "api_wedb": [92, 106]
 }, {
