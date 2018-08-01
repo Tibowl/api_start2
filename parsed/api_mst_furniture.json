@@ -334,7 +334,7 @@
     "api_no": 33,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ラクガキ床",
     "api_type": 0
@@ -354,7 +354,7 @@
     "api_no": 35,
     "api_price": 22000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 11,
     "api_title": "市松模様の長者畳",
     "api_type": 0
@@ -504,7 +504,7 @@
     "api_no": 13,
     "api_price": 900,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "軍艦色の壁",
     "api_type": 1
@@ -1674,7 +1674,7 @@
     "api_no": 4,
     "api_price": 350,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "提督の机",
     "api_type": 5
@@ -2024,7 +2024,7 @@
     "api_no": 31,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "教室セット「黒板」",
     "api_type": 3
@@ -2114,7 +2114,7 @@
     "api_no": 31,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "夏先取りセット",
     "api_type": 4
@@ -2124,7 +2124,7 @@
     "api_no": 32,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "リゾートセット",
     "api_type": 4
@@ -2484,7 +2484,7 @@
     "api_no": 37,
     "api_price": 1880,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "鬼灯の花の窓",
     "api_type": 2
@@ -2504,7 +2504,7 @@
     "api_no": 38,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 2,
     "api_title": "浜茶屋の窓",
     "api_type": 2
@@ -2554,7 +2554,7 @@
     "api_no": 46,
     "api_price": 880,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "「観艦式」掛け軸",
     "api_type": 3
@@ -3034,7 +3034,7 @@
     "api_no": 43,
     "api_price": 1700,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "青と白の床",
     "api_type": 0
@@ -3044,7 +3044,7 @@
     "api_no": 45,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "青と白の壁",
     "api_type": 1
@@ -3054,7 +3054,7 @@
     "api_no": 42,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "青と白のブラインド窓",
     "api_type": 2
@@ -3084,7 +3084,7 @@
     "api_no": 65,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "リゾートハンモック",
     "api_type": 5
@@ -3094,7 +3094,7 @@
     "api_no": 44,
     "api_price": 5500,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 24,
     "api_title": "波打ち際の砂浜床",
     "api_type": 0
@@ -3104,7 +3104,7 @@
     "api_no": 43,
     "api_price": 4800,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "鎮守府夏時間の窓",
     "api_type": 2
@@ -3454,7 +3454,7 @@
     "api_no": 50,
     "api_price": 4300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "村雨の窓",
     "api_type": 2
@@ -3504,7 +3504,7 @@
     "api_no": 56,
     "api_price": 2200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "夏の職人木製壁",
     "api_type": 1
@@ -3524,7 +3524,7 @@
     "api_no": 58,
     "api_price": 770,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "文月の壁紙",
     "api_type": 1
@@ -3534,7 +3534,7 @@
     "api_no": 51,
     "api_price": 7700,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "文月の窓",
     "api_type": 2
@@ -3908,4 +3908,34 @@
     "api_season": 33,
     "api_title": "白露の特注壁板",
     "api_type": 1
+}, {
+    "api_description": "四季折々の花々をふんだん<br>に使った、迫力ある豪華な<br>生花アレンジメントです。<br>これで部屋が一気に華やか<br>に！ダイナミック割引可！",
+    "api_id": 392,
+    "api_no": 83,
+    "api_price": 136000,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_season": 0,
+    "api_title": "大型生花アレンジメント",
+    "api_type": 3
+}, {
+    "api_description": "対空番長を自負する重巡が<br>護るべき空を見上げつつ、<br>新たな気持ちで書き上げた<br>盾の文字も眩しい掛け軸。<br>よろしくお願いしますッ！",
+    "api_id": 393,
+    "api_no": 84,
+    "api_price": 4000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 34,
+    "api_title": "「摩耶の盾」掛け軸",
+    "api_type": 3
+}, {
+    "api_description": "南西から西方海域を臨む作<br>戦領域が描かれた地図。い<br>くつかのポイントが示され<br>ていますが…これは？ある<br>いは艦娘のメッセージか！",
+    "api_id": 394,
+    "api_no": 85,
+    "api_price": 2400,
+    "api_rarity": 6,
+    "api_saleflg": 1,
+    "api_season": 2,
+    "api_title": "謎の夏作戦地図",
+    "api_type": 3
 }]
