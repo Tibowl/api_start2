@@ -476,7 +476,7 @@
     "api_win_item2": [0, 0]
 }, {
     "api_deck_num": 6,
-    "api_details": "空母2隻を含むMO機動部隊を投入<br>し、南方海域制海権を確保せよ！",
+    "api_details": "空母2隻を含むMO機動部隊を<br>投入し、南方海域制海権を確保<br>せよ！",
     "api_difficulty": 7,
     "api_disp_no": "35",
     "api_id": 35,

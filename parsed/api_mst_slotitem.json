@@ -24,7 +24,8 @@
     "api_tais": 0,
     "api_tyku": 1,
     "api_type": [1, 1, 1, 1, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -51,7 +52,8 @@
     "api_tais": 0,
     "api_tyku": 2,
     "api_type": [1, 1, 1, 1, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -268,7 +270,7 @@
     "api_tyku": 4,
     "api_type": [1, 2, 4, 16, 0],
     "api_usebull": "0",
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -350,7 +352,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -377,7 +380,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -404,7 +408,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -433,7 +438,8 @@
     "api_tais": 4,
     "api_tyku": 0,
     "api_type": [3, 5, 8, 8, 1],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -462,7 +468,8 @@
     "api_tais": 3,
     "api_tyku": 0,
     "api_type": [3, 5, 8, 8, 1],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -491,7 +498,8 @@
     "api_tais": 4,
     "api_tyku": 0,
     "api_type": [3, 5, 8, 8, 17],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -608,7 +616,8 @@
     "api_tais": 0,
     "api_tyku": 10,
     "api_type": [3, 5, 6, 6, 13],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -637,7 +646,8 @@
     "api_tais": 3,
     "api_tyku": 0,
     "api_type": [3, 5, 7, 7, 15],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -666,7 +676,8 @@
     "api_tais": 3,
     "api_tyku": 0,
     "api_type": [3, 5, 7, 7, 16],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -695,7 +706,8 @@
     "api_tais": 2,
     "api_tyku": 1,
     "api_type": [5, 7, 10, 10, 2],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -724,7 +736,8 @@
     "api_tais": 4,
     "api_tyku": 2,
     "api_type": [5, 43, 11, 10, 2],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -877,7 +890,7 @@
     "api_info": "高性能な大型対空電探です。<br>英軍のレーダーを参考に開発したため、他の対空電探より高い精度を発揮しました。<br>空中線が大型のため、基本的に戦艦や正規空母、重巡洋艦などの大型艦への装備が可能です。",
     "api_leng": 0,
     "api_luck": 0,
-    "api_name": "14号対空電探",
+    "api_name": "42号対空電探",
     "api_raig": 0,
     "api_raik": 0,
     "api_raim": 3,
@@ -892,7 +905,7 @@
     "api_tyku": 6,
     "api_type": [5, 8, 13, 11, 0],
     "api_usebull": "0",
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1121,7 +1134,7 @@
     "api_info": "独自開発された「特殊潜航艇」です。<br>軽巡洋艦や甲標的母艦に改装した水上機母艦、そして潜水艦が搭載して運用します。<br>二発の魚雷を装備し、敵艦に肉薄して雷撃、艦隊決戦を補助する特殊兵器です。",
     "api_leng": 0,
     "api_luck": 0,
-    "api_name": "甲標的",
+    "api_name": "甲標的 甲型",
     "api_raig": 12,
     "api_raik": 0,
     "api_raim": 0,
@@ -1135,7 +1148,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 4, 22, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1310,7 +1324,7 @@
     "api_info": "標準的な対空高角砲です。<br>量産に向いた構造で経済性も高く、後期の駆逐艦や海防艦、輸送船などにも搭載されました。<br>襲いかかる敵機に蟷螂の斧ですが対抗します。",
     "api_leng": 1,
     "api_luck": 0,
-    "api_name": "12.7cm単装高角砲",
+    "api_name": "12cm単装高角砲",
     "api_raig": 0,
     "api_raik": 0,
     "api_raim": 0,
@@ -1324,7 +1338,8 @@
     "api_tais": 0,
     "api_tyku": 3,
     "api_type": [1, 1, 1, 16, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1434,7 +1449,8 @@
     "api_tais": 3,
     "api_tyku": 0,
     "api_type": [3, 5, 8, 8, 17],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1463,7 +1479,8 @@
     "api_tais": 0,
     "api_tyku": 12,
     "api_type": [3, 5, 6, 6, 13],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1550,7 +1567,8 @@
     "api_tais": 0,
     "api_tyku": 15,
     "api_type": [3, 5, 6, 6, 20],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1579,7 +1597,8 @@
     "api_tais": 3,
     "api_tyku": 0,
     "api_type": [3, 5, 7, 7, 16],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1606,7 +1625,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1664,7 +1684,8 @@
     "api_tais": 3,
     "api_tyku": 4,
     "api_type": [3, 5, 7, 7, 12],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1749,7 +1770,8 @@
     "api_tais": 0,
     "api_tyku": 2,
     "api_type": [1, 1, 1, 1, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1860,7 +1882,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -2522,7 +2545,8 @@
     "api_tais": 1,
     "api_tyku": 5,
     "api_type": [1, 2, 1, 16, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -2578,7 +2602,8 @@
     "api_tais": 5,
     "api_tyku": 1,
     "api_type": [3, 5, 8, 8, 1],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -2634,7 +2659,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 32, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3472,7 +3498,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3526,7 +3553,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 32, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3936,7 +3964,7 @@
     "api_tyku": 8,
     "api_type": [5, 8, 13, 11, 0],
     "api_usebull": "0",
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3965,7 +3993,8 @@
     "api_tais": 5,
     "api_tyku": 1,
     "api_type": [3, 5, 8, 8, 1],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -4274,7 +4303,8 @@
     "api_tais": 3,
     "api_tyku": 7,
     "api_type": [3, 5, 7, 7, 12],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -4419,7 +4449,8 @@
     "api_tais": 0,
     "api_tyku": 10,
     "api_type": [3, 5, 6, 6, 14],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -4840,7 +4871,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -4985,7 +5017,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -5867,7 +5900,8 @@
     "api_tais": 0,
     "api_tyku": 1,
     "api_type": [24, 42, 51, 42, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -5894,7 +5928,8 @@
     "api_tais": 0,
     "api_tyku": 1,
     "api_type": [24, 42, 51, 42, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -5950,7 +5985,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 32, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -5977,7 +6013,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 32, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -6252,7 +6289,7 @@
     "api_info": "陸軍主力戦闘機、一式戦「隼」、その爆装機を装備する飛行戦隊です。<br>電波欺瞞紙、現代でいうチャフを装備した爆装一式戦などを駆使して、苦しい戦局の中、通常戦闘で奮戦しました。",
     "api_leng": 0,
     "api_luck": 0,
-    "api_name": "爆装一式戦 隼III型改(55戦隊)",
+    "api_name": "爆装一式戦 隼III型改(65戦隊)",
     "api_raig": 0,
     "api_raik": 0,
     "api_raim": 0,
@@ -6266,7 +6303,8 @@
     "api_tais": 0,
     "api_tyku": 6,
     "api_type": [22, 39, 47, 44, 27],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -6710,7 +6748,8 @@
     "api_tais": 2,
     "api_tyku": 0,
     "api_type": [5, 8, 12, 11, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -7249,7 +7288,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [13, 23, 35, 29, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -7856,7 +7896,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -7910,7 +7951,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -7937,7 +7979,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [2, 3, 5, 5, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -8211,6 +8254,33 @@
     "api_tais": 0,
     "api_tyku": 9,
     "api_type": [1, 1, 1, 16, 0],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 1, 2, 0],
+    "api_houg": 2,
+    "api_houk": 0,
+    "api_houm": 0,
+    "api_id": 297,
+    "api_info": "世界に衝撃を与えた特型駆逐艦、その初期型である吹雪型に採用された駆逐艦主砲A型です。防盾で全集を遮蔽して弾片及び荒天対策に対応、比較的軽量で当時としては優れた駆逐艦装備でした。平射砲であるため、対空射撃には不向きです。",
+    "api_leng": 1,
+    "api_luck": 0,
+    "api_name": "12.7cm連装砲A型",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 1,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 297,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 1,
+    "api_type": [1, 1, 1, 1, 0],
     "api_usebull": "0"
 }, {
     "api_atap": 0,

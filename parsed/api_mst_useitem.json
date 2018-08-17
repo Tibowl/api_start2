@@ -14,14 +14,14 @@
     "api_usetype": 2
 }, {
     "api_category": 3,
-    "api_description": ["建造・開発を行うのに使用する資材。", ""],
+    "api_description": ["建造・開発を行うのに使用する<br>資材。", ""],
     "api_id": 3,
     "api_name": "開発資材",
     "api_price": 0,
     "api_usetype": 3
 }, {
     "api_category": 4,
-    "api_description": ["装備を改修する為の資材、「改修工廠」で使用します。", ""],
+    "api_description": ["装備を改修する為の資材、「改<br>修工廠」で使用します。", ""],
     "api_id": 4,
     "api_name": "改修資材",
     "api_price": 0,
@@ -63,21 +63,21 @@
     "api_usetype": 4
 }, {
     "api_category": 6,
-    "api_description": ["開けると、中から少量の家具コインが出現する。", "200"],
+    "api_description": ["開けると、中から少量の家具コ<br>インが出現する。", "200"],
     "api_id": 10,
     "api_name": "家具箱（小）",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 6,
-    "api_description": ["開けると、中から中量の家具コインが出現する。", "400"],
+    "api_description": ["開けると、中から中量の家具コ<br>インが出現する。", "400"],
     "api_id": 11,
     "api_name": "家具箱（中）",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 6,
-    "api_description": ["開けると、中から大量の家具コインが出現する。", "700"],
+    "api_description": ["開けると、中から大量の家具コ<br>インが出現する。", "700"],
     "api_id": 12,
     "api_name": "家具箱（大）",
     "api_price": 0,
@@ -336,28 +336,28 @@
     "api_usetype": 6
 }, {
     "api_category": 0,
-    "api_description": ["入渠ドックまたは工廠ドックを１つ開放できるキー。さらに、艦隊編成記録枠を１つ拡張することも可能です。", ""],
+    "api_description": ["入渠ドックまたは工廠ドックを<br>１つ開放できるキー。さらに、<br>艦隊編成記録枠を１つ拡張する<br>ことも可能です。", ""],
     "api_id": 49,
     "api_name": "ドック開放キー",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["艦のスロットに装備する。装備した艦は1度だけ撃沈を回避できる。", ""],
+    "api_description": ["艦のスロットに装備する。装備<br>した艦は1度だけ撃沈を回避で<br>きる。", ""],
     "api_id": 50,
     "api_name": "応急修理要員",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["応急修理要員がパワーアップ！撃沈回避時に出撃能力が全回復。", ""],
+    "api_description": ["応急修理要員がパワーアップ！<br>撃沈回避時に出撃能力が全回<br>復。", ""],
     "api_id": 51,
     "api_name": "応急修理女神",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["特注家具を製作する職人さん。家具屋さんで使用する。", ""],
+    "api_description": ["特注家具を製作する職人さん。<br>家具屋さんで使用する。", ""],
     "api_id": 52,
     "api_name": "特注家具職人",
     "api_price": 0,
@@ -371,175 +371,175 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["艦隊全体の疲労度を回復する給糧艦。編成で使用可能。", ""],
+    "api_description": ["艦隊全体の疲労度を回復する給<br>糧艦。編成で使用可能。", ""],
     "api_id": 54,
     "api_name": "給糧艦「間宮」",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["ケッコンカッコカリに必要な書類一式と指輪。改装で使用する。", ""],
+    "api_description": ["ケッコンカッコカリに必要な書<br>類一式と指輪。改装で使用す<br>る。", ""],
     "api_id": 55,
     "api_name": "書類一式＆指輪",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["艦娘から贈られたチョコ。クリックして資源にするのもよし、保存しておくのもよし。", ""],
+    "api_description": ["艦娘から贈られたチョコ。ク<br>リックして資源にするのもよ<br>し、保存しておくのもよし。", ""],
     "api_id": 56,
     "api_name": "艦娘からのチョコ",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["暁の水平線に勝利を刻んだ提督に贈られる「証」。資源や改修資材、または複数集めて改装設計図と交換することも可能です。", ""],
+    "api_description": ["暁の水平線に勝利を刻んだ提督<br>に贈られる「証」。資源や改修<br>資材、または複数集めて改装設<br>計図と交換することも可能で<br>す。", ""],
     "api_id": 57,
     "api_name": "勲章",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["艦娘の「特別な改造」に使用する設計図。", ""],
+    "api_description": ["艦娘の「特別な改造」に使用す<br>る設計図。", ""],
     "api_id": 58,
     "api_name": "改装設計図",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。", ""],
+    "api_description": ["艦娘たちの士気を高揚させる新<br>型給糧艦。編成で使用可能。", ""],
     "api_id": 59,
     "api_name": "給糧艦「伊良湖」",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["特別な時期だけ発見が可能となる丁寧に包装された「プレゼント箱」。開封時に希望の中味を選択することが可能です。", ""],
+    "api_description": ["特別な時期だけ発見が可能とな<br>る丁寧に包装された「プレゼン<br>ト箱」。開封時に希望の中味を<br>選択することが可能です。", ""],
     "api_id": 60,
     "api_name": "プレゼント箱",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["難易度の高い作戦を、精鋭の艦娘たちと共に攻略した提督のみに贈られる勝利の証。それが、「甲種勲章」。資材等に交換することも可能です。", ""],
+    "api_description": ["難易度の高い作戦を、精鋭の艦<br>娘たちと共に攻略した提督のみ<br>に贈られる勝利の証。それが、<br>「甲種勲章」。資材等に交換す<br>ることも可能です。", ""],
     "api_id": 61,
     "api_name": "甲種勲章",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["桃の節句の時期だけ発見が可能となる美味しい「菱餅」です。展開時に希望の中味を選択することが可能です。", ""],
+    "api_description": ["桃の節句の時期だけ発見が可能<br>となる美味しい「菱餅」です。<br>展開時に希望の中味を選択する<br>ことが可能です。", ""],
     "api_id": 62,
     "api_name": "菱餅",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["「任務」同時受託可能数を拡張することができる司令部要員です。使用すると、同時受託可能任務数が＋１拡張されます。", ""],
+    "api_description": ["「任務」同時受託可能数を拡張<br>することができる司令部要員で<br>す。使用すると、同時受託可能<br>任務数が＋１拡張されます。", ""],
     "api_id": 63,
     "api_name": "司令部要員",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["艦娘(練度30以上必要)を補強増設改修できます。同改修により補強増設装備スロットが艦娘に増設されます。(1回分)", ""],
+    "api_description": ["艦娘(練度30以上必要)を補強増<br>設改修できます。同改修により<br>補強増設装備スロットが艦娘に<br>増設されます。(1回分)", ""],
     "api_id": 64,
     "api_name": "補強増設",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["本格的な大型航空母艦を、より強力に改装するための、特殊な航空艤装です。ある型の正規空母の改二改装に使用します。", ""],
+    "api_description": ["本格的な大型航空母艦を、より<br>強力に改装するための、特殊な<br>航空艤装です。ある型の正規空<br>母の改二改装に使用します。", ""],
     "api_id": 65,
     "api_name": "試製甲板カタパルト",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["腹が減ってはなんとやら……！この戦闘糧食を装備して、合戦前にしっかりと腹ごしらえを！(発動すると消滅します)", ""],
+    "api_description": ["腹が減ってはなんとやら……！<br>この戦闘糧食を装備して、合戦<br>前にしっかりと腹ごしらえを！<br>(発動すると消滅します)", ""],
     "api_id": 66,
     "api_name": "戦闘糧食",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["戦闘航海中の洋上で燃料弾薬を艦隊補給することが可能です。艦隊決戦のサポートにどうぞ！（発動すると消滅します）", ""],
+    "api_description": ["戦闘航海中の洋上で燃料弾薬を<br>艦隊補給することが可能です。<br>艦隊決戦のサポートにどうぞ！<br>（発動すると消滅します）", ""],
     "api_id": 67,
     "api_name": "洋上補給",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["漁場の安全を確保し、秋刀魚漁を支援することで入手した貴重な旬の「秋刀魚」です。※秋刀魚祭り終了時に消滅します。", ""],
+    "api_description": ["漁場の安全を確保し、秋刀魚漁<br>を支援することで入手した貴重<br>な旬の「秋刀魚」です。※秋刀<br>魚祭り終了時に消滅します。", ""],
     "api_id": 68,
     "api_name": "秋刀魚",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["旬の秋刀魚「蒲焼」缶詰です。単品はもちろん、おにぎり等と一緒に食すとより美味しい！(発動すると消滅します)", ""],
+    "api_description": ["旬の秋刀魚「蒲焼」缶詰です。<br>単品はもちろん、おにぎり等と<br>一緒に食すとより美味しい！<br>(発動すると消滅します)", ""],
     "api_id": 69,
     "api_name": "秋刀魚の缶詰",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["精鋭の航空部隊を新規編成するために必要な、熟練した技術を持つ、航空機搭乗員です。　　(※部隊編成時に消滅します)", ""],
+    "api_description": ["精鋭の航空部隊を新規編成する<br>ために必要な、熟練した技術を<br>持つ、航空機搭乗員です。　　<br>(※部隊編成時に消滅します)", ""],
     "api_id": 70,
     "api_name": "熟練搭乗員",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["新開発の燃焼噴射推進器です。日本初の実用ジェットエンジンとして戦力化が期待されます。(※任務/装備改修で使用可能)", ""],
+    "api_description": ["新開発の燃焼噴射推進器です。<br>日本初の実用ジェットエンジン<br>として戦力化が期待されます。<br>(※任務/装備改修で使用可能)", ""],
     "api_id": 71,
     "api_name": "ネ式エンジン",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["ある給糧艦が、新年の艦隊艦娘と提督の安全を祈って準備するお飾りの材料。３２個消費して艦隊安全お飾りを制作可能。", ""],
+    "api_description": ["ある給糧艦が、新年の艦隊艦娘<br>と提督の安全を祈って準備する<br>お飾りの材料。３２個消費して<br>艦隊安全お飾りを制作可能。", ""],
     "api_id": 72,
     "api_name": "お飾り材料",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["飛行場などの設営に必要です。※基地航空隊の拡張も可能　　※最大計10個まで保有可能", ""],
+    "api_description": ["飛行場などの設営に必要です。<br>※基地航空隊の拡張も可能　　<br>※最大計10個まで保有可能", ""],
     "api_id": 73,
     "api_name": "設営隊",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["新型航空機の開発、戦力化するために必要な技術図面です。　※開発には複数図面必要です。※任務や装備改修で使用可能。", ""],
+    "api_description": ["新型航空機の開発、戦力化する<br>ために必要な技術図面です。　<br>※開発には複数図面必要です。<br>※任務や装備改修で使用可能。", ""],
     "api_id": 74,
     "api_name": "新型航空機設計図",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["新型砲熕兵装を開発、戦力化するために必要な技術図面です。※任務や装備改修で使用可能。※新型大口径主砲等の開発には　複数の同資材が必要です。", ""],
+    "api_description": ["新型砲熕兵装を開発、戦力化す<br>るために必要な技術図面です。<br>※任務や装備改修で使用可能。<br>※新型大口径主砲等の開発には<br>　複数の同資材が必要です。", ""],
     "api_id": 75,
     "api_name": "新型砲熕兵装資材",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["腹が減ってはなんとやら……！愛情たっぷり美味しさバッチリの高栄養価新型戦闘糧食です。(発動消費すると消滅します)", ""],
+    "api_description": ["腹が減ってはなんとやら……！<br>愛情たっぷり美味しさバッチリ<br>の高栄養価新型戦闘糧食です。<br>(発動消費すると消滅します)", ""],
     "api_id": 76,
     "api_name": "戦闘糧食(特別なおにぎり)",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["新型航空機材を開発、戦力化するために必要な技術図面です。※任務や装備改修等で使用することで、今後新型機の開発が可能になります。", ""],
+    "api_description": ["新型航空機材を開発、戦力化す<br>るために必要な技術図面です。<br>※任務や装備改修等で使用する<br>ことで、今後新型機の開発が可<br>能になります。", ""],
     "api_id": 77,
     "api_name": "新型航空兵装資材",
     "api_price": 0,
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["本資料の活用により、貴重な戦訓を今後の戦術や装備改修などにフィードバック可能です。　※艦隊司令部の更新には、複数　の戦闘詳報が必要です。", ""],
+    "api_description": ["本資料の活用により、貴重な戦<br>訓を今後の戦術や装備改修など<br>にフィードバック可能です。　<br>※艦隊司令部の更新には、複数<br>　の戦闘詳報が必要です。", ""],
     "api_id": 78,
     "api_name": "戦闘詳報",
     "api_price": 0,
@@ -553,7 +553,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["２０１７年のクリスマスに贈られる大きなプレゼント箱です。開封時に、プレゼントの中身を提督が選ぶことができます。　※新春メンテ時に消滅します。", ""],
+    "api_description": ["２０１７年のクリスマスに贈ら<br>れる大きなプレゼント箱です。<br>開封時に、プレゼントの中身を<br>提督が選ぶことができます。　<br>※新春メンテ時に消滅します。", ""],
     "api_id": 80,
     "api_name": "Xmas Select Gift Box",
     "api_price": 0,
@@ -588,35 +588,35 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["美味しい日本の「お米」です。ふっくらと炊き上げて、召し上がれ！※食べ物イベ終了時に消滅します。", ""],
+    "api_description": ["美味しい日本の「お米」です。<br>ふっくらと炊き上げて、召し上<br>がれ！※食べ物イベ終了時に消<br>滅します。", ""],
     "api_id": 85,
     "api_name": "お米",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["梅の実を独特の製法で漬けた「梅干」です。ご飯やおにぎりにもぴったりです※食べ物イベ終了時に消滅します。", ""],
+    "api_description": ["梅の実を独特の製法で漬けた<br>「梅干」です。ご飯やおにぎり<br>にもぴったりです※食べ物イベ<br>終了時に消滅します。", ""],
     "api_id": 86,
     "api_name": "梅干",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["身近な海産物「海苔」。ご飯やおにぎり、お茶漬けのお供にも欠かせません。※食べ物イベ終了時に消滅します。", ""],
+    "api_description": ["身近な海産物「海苔」。ご飯や<br>おにぎり、お茶漬けのお供にも<br>欠かせません。※食べ物イベ終<br>了時に消滅します。", ""],
     "api_id": 87,
     "api_name": "海苔",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["「お茶」は心を落ち着かせてくれます。香り高い日本茶、お茶漬けも美味しい！※食べ物イベ終了時に消滅します。", ""],
+    "api_description": ["「お茶」は心を落ち着かせてく<br>れます。香り高い日本茶、お茶<br>漬けも美味しい！※食べ物イベ<br>終了時に消滅します。", ""],
     "api_id": 88,
     "api_name": "お茶",
     "api_price": 0,
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["あの暖簾をくぐって鳳翔さんの小料理屋へどうぞ。心尽くしアイテムと交換できます。※一定期間後、消滅します。", ""],
+    "api_description": ["あの暖簾をくぐって鳳翔さんの<br>小料理屋へどうぞ。心尽くしア<br>イテムと交換できます。※一定<br>期間後、消滅します。", ""],
     "api_id": 89,
     "api_name": "鳳翔さんの夕食券",
     "api_price": 0,
