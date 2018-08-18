@@ -10235,7 +10235,7 @@
     "api_map_d": [193, 225],
     "api_map_n": [129, 205],
     "api_sortno": 332,
-    "api_version": ["51", "2", "801"],
+    "api_version": ["52", "2", "801"],
     "api_weda": [244, -6],
     "api_wedb": [106, 138]
 }, {
@@ -10275,7 +10275,7 @@
     "api_map_d": [193, 225],
     "api_map_n": [129, 205],
     "api_sortno": 337,
-    "api_version": ["51", "2", "801"],
+    "api_version": ["52", "2", "801"],
     "api_weda": [244, -6],
     "api_wedb": [106, 138]
 }, {
