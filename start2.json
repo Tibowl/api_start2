@@ -211,10 +211,6 @@
         "api_name": "梅雨明けの白露"
     }],
     "api_mst_const": {
-        "api_boko_max_ships": {
-            "api_string_value": "",
-            "api_int_value": 380
-        },
         "api_dpflag_quest": {
             "api_string_value": "",
             "api_int_value": 0
@@ -222,6 +218,10 @@
         "api_parallel_quest_max": {
             "api_string_value": "",
             "api_int_value": 10
+        },
+        "api_boko_max_ships": {
+            "api_string_value": "",
+            "api_int_value": 380
         }
     },
     "api_mst_equip_exslot": [16, 21, 23, 27, 28, 43, 44],
