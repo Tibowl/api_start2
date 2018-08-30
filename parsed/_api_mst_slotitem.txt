@@ -1594,6 +1594,27 @@ QF 4.7inch砲 Mk.XII改: Range: 1
 20連装7inch UP Rocket Launchers: AA: 7
 20連装7inch UP Rocket Launchers: Evas: 2
 20連装7inch UP Rocket Launchers: Rare: 3
+Bofors 15.2cm連装砲 Model 1930: FP: 5
+Bofors 15.2cm連装砲 Model 1930: AA: 4
+Bofors 15.2cm連装砲 Model 1930: Acc: 3
+Bofors 15.2cm連装砲 Model 1930: Evas: 1
+Bofors 15.2cm連装砲 Model 1930: Rare: 3
+Bofors 15.2cm連装砲 Model 1930: Range: 2
+S9 Osprey: AA: 1
+S9 Osprey: LoS: 4
+S9 Osprey: ASW: 2
+S9 Osprey: Acc: 2
+S9 Osprey: Rare: 2
+S9 Osprey: Cost: 3
+S9 Osprey: Dist: 3
+Ju87C改二(KMX搭載機): Dive: 9
+Ju87C改二(KMX搭載機): LoS: 2
+Ju87C改二(KMX搭載機): ASW: 9
+Ju87C改二(KMX搭載機): Acc: 2
+Ju87C改二(KMX搭載機): Evas: 1
+Ju87C改二(KMX搭載機): Rare: 4
+Ju87C改二(KMX搭載機): Cost: 8
+Ju87C改二(KMX搭載機): Dist: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
