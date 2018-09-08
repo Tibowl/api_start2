@@ -2532,6 +2532,13 @@ Commandant Teste改: speed: 5
 大鷹改: AA: 16,42
 大鷹改: luck: 9,54
 大鷹改: speed: 5
+神鷹改: HP: 48,73
+神鷹改: Armor: 22,53
+神鷹改: FP: 0,24
+神鷹改: Torp: 0,0
+神鷹改: AA: 18,48
+神鷹改: luck: 11,58
+神鷹改: speed: 5
 択捉改: HP: 17,28
 択捉改: Armor: 7,33
 択捉改: FP: 5,37
@@ -3449,6 +3456,13 @@ Jervis: speed: 10
 大鷹: AA: 13,27
 大鷹: luck: 6,44
 大鷹: speed: 5
+岸波: HP: 16,34
+岸波: Armor: 6,19
+岸波: FP: 10,31
+岸波: Torp: 24,68
+岸波: AA: 12,43
+岸波: luck: 10,50
+岸波: speed: 10
 大鷹改二: HP: 49,74
 大鷹改二: Armor: 26,55
 大鷹改二: FP: 18,39
@@ -3477,6 +3491,13 @@ Jervis: speed: 10
 涼月: AA: 70,102
 涼月: luck: 27,67
 涼月: speed: 10
+神鷹: HP: 38,59
+神鷹: Armor: 15,35
+神鷹: FP: 0,14
+神鷹: Torp: 0,0
+神鷹: AA: 14,30
+神鷹: luck: 9,49
+神鷹: speed: 5
 Luigi Torelli: HP: 11,21
 Luigi Torelli: Armor: 5,17
 Luigi Torelli: FP: 2,10
@@ -3484,6 +3505,13 @@ Luigi Torelli: Torp: 18,62
 Luigi Torelli: AA: 0,18
 Luigi Torelli: luck: 25,62
 Luigi Torelli: speed: 5
+神鷹改二: HP: 50,75
+神鷹改二: Armor: 26,56
+神鷹改二: FP: 15,37
+神鷹改二: Torp: 0,0
+神鷹改二: AA: 27,58
+神鷹改二: luck: 15,70
+神鷹改二: speed: 5
 涼月改: HP: 38,58
 涼月改: Armor: 16,55
 涼月改: FP: 22,56
@@ -3715,6 +3743,13 @@ Samuel B.Roberts改: speed: 5
 福江改: AA: 12,55
 福江改: luck: 40,84
 福江改: speed: 5
+岸波改: HP: 32,49
+岸波改: Armor: 14,49
+岸波改: FP: 12,50
+岸波改: Torp: 28,80
+岸波改: AA: 18,56
+岸波改: luck: 13,59
+岸波改: speed: 10
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
@@ -4013,3 +4048,25 @@ PT小鬼群: speed: 10
 深海鶴棲姫-壊: speed: 10
 深海鶴棲姫-壊: speed: 10
 深海鶴棲姫-壊: speed: 10
+潜水新棲姫 バカンスmode: speed: 5
+潜水新棲姫 バカンスmode: speed: 5
+潜水新棲姫 バカンスmode: speed: 5
+潜水新棲姫 バカンスmode: speed: 5
+集積地棲姫 バカンスmode: speed: 0
+集積地棲姫 バカンスmode: speed: 0
+集積地棲姫 バカンスmode: speed: 0
+集積地棲姫 バカンスmode-壊: speed: 0
+集積地棲姫 バカンスmode-壊: speed: 0
+集積地棲姫 バカンスmode-壊: speed: 0
+泊地水鬼 バカンスmode: speed: 0
+泊地水鬼 バカンスmode: speed: 0
+泊地水鬼 バカンスmode: speed: 0
+泊地水鬼 バカンスmode: speed: 0
+泊地水鬼 バカンスmode: speed: 0
+泊地水鬼 バカンスmode: speed: 0
+護衛独還姫: speed: 5
+護衛独還姫: speed: 5
+護衛独還姫: speed: 5
+護衛独還姫-壊: speed: 5
+護衛独還姫-壊: speed: 5
+護衛独還姫-壊: speed: 5

@@ -1594,6 +1594,14 @@ QF 4.7inch砲 Mk.XII改: Range: 1
 20連装7inch UP Rocket Launchers: AA: 7
 20連装7inch UP Rocket Launchers: Evas: 2
 20連装7inch UP Rocket Launchers: Rare: 3
+九七式艦攻(九三一空/熟練): Torp: 8
+九七式艦攻(九三一空/熟練): LoS: 3
+九七式艦攻(九三一空/熟練): ASW: 9
+九七式艦攻(九三一空/熟練): Acc: 2
+九七式艦攻(九三一空/熟練): Evas: 1
+九七式艦攻(九三一空/熟練): Rare: 3
+九七式艦攻(九三一空/熟練): Cost: 5
+九七式艦攻(九三一空/熟練): Dist: 4
 Bofors 15.2cm連装砲 Model 1930: FP: 5
 Bofors 15.2cm連装砲 Model 1930: AA: 4
 Bofors 15.2cm連装砲 Model 1930: Acc: 3
@@ -2001,3 +2009,13 @@ Ju87C改二(KMX搭載機): Dist: 4
 深海16inch三連装砲改: Acc: 20
 深海16inch三連装砲改: Rare: 5
 深海16inch三連装砲改: Range: 4
+深海攻撃哨戒鷹改二: FP: 9
+深海攻撃哨戒鷹改二: AA: 10
+深海攻撃哨戒鷹改二: Dive: 27
+深海攻撃哨戒鷹改二: Armor: 3
+深海攻撃哨戒鷹改二: LoS: 5
+深海攻撃哨戒鷹改二: ASW: 29
+深海攻撃哨戒鷹改二: Acc: 13
+深海攻撃哨戒鷹改二: Evas: 5
+深海攻撃哨戒鷹改二: Rare: 5
+深海攻撃哨戒鷹改二: Range: 4
