@@ -4058,12 +4058,12 @@ PT小鬼群: speed: 10
 集積地棲姫 バカンスmode-壊: speed: 0
 集積地棲姫 バカンスmode-壊: speed: 0
 集積地棲姫 バカンスmode-壊: speed: 0
-泊地水鬼 バカンスmode: speed: 0
-泊地水鬼 バカンスmode: speed: 0
-泊地水鬼 バカンスmode: speed: 0
-泊地水鬼 バカンスmode: speed: 0
-泊地水鬼 バカンスmode: speed: 0
-泊地水鬼 バカンスmode: speed: 0
+泊地水鬼 バカンスmode: speed: 5
+泊地水鬼 バカンスmode: speed: 5
+泊地水鬼 バカンスmode: speed: 5
+泊地水鬼 バカンスmode: speed: 5
+泊地水鬼 バカンスmode: speed: 5
+泊地水鬼 バカンスmode: speed: 5
 護衛独還姫: speed: 5
 護衛独還姫: speed: 5
 護衛独還姫: speed: 5
