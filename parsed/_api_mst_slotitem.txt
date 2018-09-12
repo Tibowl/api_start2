@@ -1623,6 +1623,15 @@ Ju87C改二(KMX搭載機): Evas: 1
 Ju87C改二(KMX搭載機): Rare: 4
 Ju87C改二(KMX搭載機): Cost: 8
 Ju87C改二(KMX搭載機): Dist: 4
+Ju87C改二(KMX搭載機/熟練): Dive: 10
+Ju87C改二(KMX搭載機/熟練): LoS: 2
+Ju87C改二(KMX搭載機/熟練): ASW: 10
+Ju87C改二(KMX搭載機/熟練): Acc: 3
+Ju87C改二(KMX搭載機/熟練): Evas: 1
+Ju87C改二(KMX搭載機/熟練): Rare: 5
+Ju87C改二(KMX搭載機/熟練): Range: 3
+Ju87C改二(KMX搭載機/熟練): Cost: 8
+Ju87C改二(KMX搭載機/熟練): Dist: 4
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
@@ -2019,3 +2028,10 @@ Ju87C改二(KMX搭載機): Dist: 4
 深海攻撃哨戒鷹改二: Evas: 5
 深海攻撃哨戒鷹改二: Rare: 5
 深海攻撃哨戒鷹改二: Range: 4
+深海16inch三連装砲改二: FP: 28
+深海16inch三連装砲改二: AA: 5
+深海16inch三連装砲改二: Armor: 6
+深海16inch三連装砲改二: Acc: 24
+深海16inch三連装砲改二: Evas: 3
+深海16inch三連装砲改二: Rare: 5
+深海16inch三連装砲改二: Range: 4

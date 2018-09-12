@@ -3694,6 +3694,48 @@ Samuel B.Roberts: speed: 5
 黒潮改二: AA: 20,65
 黒潮改二: luck: 22,81
 黒潮改二: speed: 10
+Nelson: HP: 82,92
+Nelson: Armor: 74,92
+Nelson: FP: 72,102
+Nelson: Torp: 0,0
+Nelson: AA: 24,82
+Nelson: luck: 24,89
+Nelson: speed: 5
+Gotland: HP: 32,43
+Gotland: Armor: 12,46
+Gotland: FP: 16,48
+Gotland: Torp: 16,68
+Gotland: AA: 18,58
+Gotland: luck: 20,89
+Gotland: speed: 10
+Maestrale: HP: 15,30
+Maestrale: Armor: 7,18
+Maestrale: FP: 9,27
+Maestrale: Torp: 22,58
+Maestrale: AA: 11,41
+Maestrale: luck: 14,74
+Maestrale: speed: 10
+Nelson改: HP: 93,98
+Nelson改: Armor: 84,104
+Nelson改: FP: 81,114
+Nelson改: Torp: 0,0
+Nelson改: AA: 30,92
+Nelson改: luck: 28,98
+Nelson改: speed: 5
+Gotland改: HP: 43,62
+Gotland改: Armor: 18,63
+Gotland改: FP: 17,62
+Gotland改: Torp: 17,70
+Gotland改: AA: 66,102
+Gotland改: luck: 24,98
+Gotland改: speed: 10
+Maestrale改: HP: 29,46
+Maestrale改: Armor: 15,50
+Maestrale改: FP: 13,54
+Maestrale改: Torp: 27,72
+Maestrale改: AA: 22,63
+Maestrale改: luck: 17,84
+Maestrale改: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
@@ -4070,3 +4112,21 @@ PT小鬼群: speed: 10
 護衛独還姫-壊: speed: 5
 護衛独還姫-壊: speed: 5
 護衛独還姫-壊: speed: 5
+船渠棲姫: speed: 5
+船渠棲姫: speed: 5
+船渠棲姫: speed: 5
+船渠棲姫-壊: speed: 5
+船渠棲姫-壊: speed: 5
+船渠棲姫-壊: speed: 5
+戦艦仏棲姫 バカンスmode: speed: 10
+戦艦仏棲姫 バカンスmode: speed: 10
+戦艦仏棲姫 バカンスmode: speed: 10
+戦艦仏棲姫-壊 バカンスmode: speed: 10
+戦艦仏棲姫-壊 バカンスmode: speed: 10
+戦艦仏棲姫-壊 バカンスmode: speed: 10
+欧州水姫: speed: 5
+欧州水姫: speed: 5
+欧州水姫: speed: 5
+欧州水姫-壊: speed: 5
+欧州水姫-壊: speed: 5
+欧州水姫-壊: speed: 5
