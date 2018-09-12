@@ -420,26 +420,26 @@
     "api_sally_flag": [1, 7, 0]
 }, {
     "api_id": 424,
-    "api_infotext": "",
+    "api_infotext": "友軍拠点への海上輸送作戦を<br>実施！欧州特務艦隊を前線に<br>展開、イタリア各港湾部を占<br>拠中の深海勢力を撃滅せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 0,
+    "api_level": 14,
     "api_maparea_id": 42,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "欧州作戦海域方面 地中海マルタ島沖",
     "api_no": 4,
-    "api_opetext": "",
+    "api_opetext": "ジェノヴァの風",
     "api_required_defeat_count": null,
-    "api_sally_flag": [0, 0, 0]
+    "api_sally_flag": [1, 7, 0]
 }, {
     "api_id": 425,
-    "api_infotext": "",
+    "api_infotext": "欧州北大西洋及び北海方面の<br>出撃可能な戦力を結集し、新<br>ライン演習作戦を発動！深海<br>侵攻艦隊敵旗艦を撃滅せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 0,
+    "api_level": 16,
     "api_maparea_id": 42,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "欧州作戦海域方面 北海/北大西洋海域",
     "api_no": 5,
-    "api_opetext": "",
+    "api_opetext": "全力出撃！新ライン演習作戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [0, 0, 0]
+    "api_sally_flag": [0, 7, 0]
 }]
