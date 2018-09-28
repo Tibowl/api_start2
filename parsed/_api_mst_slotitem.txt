@@ -1632,6 +1632,22 @@ Ju87C改二(KMX搭載機/熟練): Rare: 5
 Ju87C改二(KMX搭載機/熟練): Range: 3
 Ju87C改二(KMX搭載機/熟練): Cost: 8
 Ju87C改二(KMX搭載機/熟練): Dist: 4
+GFCS Mk.37: FP: 2
+GFCS Mk.37: AA: 7
+GFCS Mk.37: Armor: 1
+GFCS Mk.37: LoS: 6
+GFCS Mk.37: Acc: 9
+GFCS Mk.37: Evas: 2
+GFCS Mk.37: Rare: 4
+GFCS Mk.37: Range: 2
+5inch単装砲 Mk.30改+GFCS Mk.37: FP: 3
+5inch単装砲 Mk.30改+GFCS Mk.37: AA: 11
+5inch単装砲 Mk.30改+GFCS Mk.37: Armor: 1
+5inch単装砲 Mk.30改+GFCS Mk.37: LoS: 3
+5inch単装砲 Mk.30改+GFCS Mk.37: Acc: 6
+5inch単装砲 Mk.30改+GFCS Mk.37: Evas: 2
+5inch単装砲 Mk.30改+GFCS Mk.37: Rare: 5
+5inch単装砲 Mk.30改+GFCS Mk.37: Range: 2
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
