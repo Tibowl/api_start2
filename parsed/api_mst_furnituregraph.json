@@ -423,7 +423,7 @@
     "api_id": 377,
     "api_no": 75,
     "api_type": 5,
-    "api_version": "2"
+    "api_version": "3"
 }, {
     "api_filename": "077",
     "api_id": 378,
@@ -441,6 +441,12 @@
     "api_id": 385,
     "api_no": 53,
     "api_type": 4,
+    "api_version": "2"
+}, {
+    "api_filename": "084",
+    "api_id": 392,
+    "api_no": 83,
+    "api_type": 3,
     "api_version": "2"
 }, {
     "api_filename": "087",
