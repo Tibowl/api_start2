@@ -1879,25 +1879,25 @@
     "api_weda": [181, -13],
     "api_wedb": [97, 151]
 }, {
-    "api_battle_d": [-97, 87],
-    "api_battle_n": [-97, 87],
-    "api_boko_d": [-75, 96],
-    "api_boko_n": [-72, 96],
-    "api_ensyue_n": [-57, 0],
-    "api_ensyuf_d": [-60, 33],
-    "api_ensyuf_n": [-57, 81],
-    "api_filename": "eeyrwdehbixg",
+    "api_battle_d": [264, 205],
+    "api_battle_n": [238, 196],
+    "api_boko_d": [222, 205],
+    "api_boko_n": [202, 198],
+    "api_ensyue_n": [163, 0],
+    "api_ensyuf_d": [198, 157],
+    "api_ensyuf_n": [184, 148],
+    "api_filename": "eeyrwdehbiha",
     "api_id": 95,
     "api_kaisyu_d": [-40, -36],
     "api_kaisyu_n": [-51, -57],
-    "api_kaizo_d": [-31, 1],
-    "api_kaizo_n": [-45, -12],
-    "api_map_d": [-70, 99],
-    "api_map_n": [-51, 82],
+    "api_kaizo_d": [175, 73],
+    "api_kaizo_n": [163, 76],
+    "api_map_d": [229, 166],
+    "api_map_n": [201, 142],
     "api_sortno": 85,
-    "api_version": ["10", "12", "1026"],
-    "api_weda": [480, 106],
-    "api_wedb": [214, 261]
+    "api_version": ["11", "14", "1030"],
+    "api_weda": [174, 48],
+    "api_wedb": [106, 136]
 }, {
     "api_battle_d": [226, 264],
     "api_battle_n": [190, 91],
@@ -1915,7 +1915,7 @@
     "api_map_d": [205, 237],
     "api_map_n": [150, 55],
     "api_sortno": 86,
-    "api_version": ["13", "13", "1026"],
+    "api_version": ["13", "14", "1030"],
     "api_weda": [223, 145],
     "api_wedb": [97, 145]
 }, {
@@ -1935,7 +1935,7 @@
     "api_map_d": [226, 211],
     "api_map_n": [175, 211],
     "api_sortno": 87,
-    "api_version": ["14", "17", "1026"],
+    "api_version": ["14", "18", "1030"],
     "api_weda": [192, -22],
     "api_wedb": [100, 136]
 }, {
@@ -1955,7 +1955,7 @@
     "api_map_d": [-15, 180],
     "api_map_n": [37, 180],
     "api_sortno": 88,
-    "api_version": ["9", "11", "1026"],
+    "api_version": ["9", "12", "1026"],
     "api_weda": [231, 21],
     "api_wedb": [163, 205]
 }, {
@@ -3975,7 +3975,7 @@
     "api_map_d": [205, 237],
     "api_map_n": [150, 55],
     "api_sortno": 199,
-    "api_version": ["13", "3", "1026"],
+    "api_version": ["13", "14", "1030"],
     "api_weda": [223, 145],
     "api_wedb": [97, 145]
 }, {
@@ -4939,25 +4939,25 @@
     "api_weda": [294, 61],
     "api_wedb": [177, 211]
 }, {
-    "api_battle_d": [-97, 87],
-    "api_battle_n": [-97, 87],
-    "api_boko_d": [-75, 96],
-    "api_boko_n": [-72, 96],
-    "api_ensyue_n": [-57, 0],
-    "api_ensyuf_d": [-60, 33],
-    "api_ensyuf_n": [-57, 81],
-    "api_filename": "xbbfxeemifpv",
+    "api_battle_d": [264, 205],
+    "api_battle_n": [238, 196],
+    "api_boko_d": [222, 205],
+    "api_boko_n": [202, 198],
+    "api_ensyue_n": [163, 0],
+    "api_ensyuf_d": [198, 157],
+    "api_ensyuf_n": [184, 148],
+    "api_filename": "xbbfxeemifha",
     "api_id": 248,
     "api_kaisyu_d": [-40, -36],
     "api_kaisyu_n": [-51, -57],
-    "api_kaizo_d": [-31, 1],
-    "api_kaizo_n": [-45, -12],
-    "api_map_d": [-70, 99],
-    "api_map_n": [-51, 82],
+    "api_kaizo_d": [175, 73],
+    "api_kaizo_n": [163, 76],
+    "api_map_d": [229, 166],
+    "api_map_n": [201, 142],
     "api_sortno": 1348,
-    "api_version": ["10", "13", "1026"],
-    "api_weda": [480, 106],
-    "api_wedb": [214, 261]
+    "api_version": ["11", "14", "1030"],
+    "api_weda": [174, 48],
+    "api_wedb": [106, 136]
 }, {
     "api_battle_d": [226, 264],
     "api_battle_n": [190, 91],
@@ -4975,7 +4975,7 @@
     "api_map_d": [205, 237],
     "api_map_n": [150, 55],
     "api_sortno": 1349,
-    "api_version": ["13", "13", "1026"],
+    "api_version": ["13", "14", "1030"],
     "api_weda": [223, 145],
     "api_wedb": [97, 145]
 }, {
@@ -4995,7 +4995,7 @@
     "api_map_d": [226, 211],
     "api_map_n": [175, 211],
     "api_sortno": 1350,
-    "api_version": ["14", "17", "1026"],
+    "api_version": ["14", "18", "1030"],
     "api_weda": [192, -22],
     "api_wedb": [100, 136]
 }, {
@@ -5015,7 +5015,7 @@
     "api_map_d": [-15, 180],
     "api_map_n": [37, 180],
     "api_sortno": 1351,
-    "api_version": ["9", "11", "1026"],
+    "api_version": ["9", "12", "1026"],
     "api_weda": [231, 21],
     "api_wedb": [163, 205]
 }, {
@@ -9099,25 +9099,25 @@
     "api_weda": [228, -6],
     "api_wedb": [174, 168]
 }, {
-    "api_battle_d": [138, 228],
-    "api_battle_n": [144, 222],
-    "api_boko_d": [198, 246],
-    "api_boko_n": [204, 234],
-    "api_ensyue_n": [120, 0],
-    "api_ensyuf_d": [108, 204],
-    "api_ensyuf_n": [114, 210],
-    "api_filename": "grmdtyheocuc",
+    "api_battle_d": [264, 205],
+    "api_battle_n": [238, 196],
+    "api_boko_d": [222, 205],
+    "api_boko_n": [202, 198],
+    "api_ensyue_n": [163, 0],
+    "api_ensyuf_d": [198, 157],
+    "api_ensyuf_n": [184, 148],
+    "api_filename": "grmdtyheocha",
     "api_id": 463,
     "api_kaisyu_d": [27, 12],
     "api_kaisyu_n": [6, -6],
-    "api_kaizo_d": [108, 168],
-    "api_kaizo_n": [96, 150],
-    "api_map_d": [108, 216],
-    "api_map_n": [114, 210],
+    "api_kaizo_d": [175, 73],
+    "api_kaizo_n": [163, 76],
+    "api_map_d": [229, 166],
+    "api_map_n": [201, 142],
     "api_sortno": 263,
-    "api_version": ["1", "13", "1026"],
-    "api_weda": [210, -6],
-    "api_wedb": [138, 168]
+    "api_version": ["2", "14", "1030"],
+    "api_weda": [174, 48],
+    "api_wedb": [106, 136]
 }, {
     "api_battle_d": [138, 216],
     "api_battle_n": [60, 198],
@@ -9199,25 +9199,25 @@
     "api_weda": [228, -6],
     "api_wedb": [174, 168]
 }, {
-    "api_battle_d": [138, 228],
-    "api_battle_n": [162, 222],
-    "api_boko_d": [192, 246],
-    "api_boko_n": [222, 240],
-    "api_ensyue_n": [126, 0],
-    "api_ensyuf_d": [108, 204],
-    "api_ensyuf_n": [120, 210],
-    "api_filename": "schftfqkstxa",
+    "api_battle_d": [264, 205],
+    "api_battle_n": [238, 196],
+    "api_boko_d": [222, 205],
+    "api_boko_n": [202, 198],
+    "api_ensyue_n": [163, 0],
+    "api_ensyuf_d": [198, 157],
+    "api_ensyuf_n": [184, 148],
+    "api_filename": "schftfqkstha",
     "api_id": 468,
     "api_kaisyu_d": [27, 12],
     "api_kaisyu_n": [12, -3],
-    "api_kaizo_d": [108, 168],
-    "api_kaizo_n": [120, 138],
-    "api_map_d": [108, 216],
-    "api_map_n": [120, 210],
+    "api_kaizo_d": [175, 73],
+    "api_kaizo_n": [163, 76],
+    "api_map_d": [229, 166],
+    "api_map_n": [201, 142],
     "api_sortno": 268,
-    "api_version": ["1", "13", "1026"],
-    "api_weda": [192, -6],
-    "api_wedb": [138, 168]
+    "api_version": ["2", "14", "1030"],
+    "api_weda": [174, 48],
+    "api_wedb": [106, 136]
 }, {
     "api_battle_d": [108, 48],
     "api_battle_n": [96, 156],
@@ -9635,7 +9635,7 @@
     "api_map_d": [226, 211],
     "api_map_n": [175, 211],
     "api_sortno": 289,
-    "api_version": ["14", "17", "1026"],
+    "api_version": ["14", "18", "1030"],
     "api_weda": [192, -22],
     "api_wedb": [100, 136]
 }, {
@@ -9655,7 +9655,7 @@
     "api_map_d": [54, 210],
     "api_map_n": [54, 186],
     "api_sortno": 290,
-    "api_version": ["1", "3", "1026"],
+    "api_version": ["1", "12", "1026"],
     "api_weda": [282, -18],
     "api_wedb": [126, 180]
 }, {
