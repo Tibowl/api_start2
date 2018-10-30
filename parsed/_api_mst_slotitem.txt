@@ -1648,6 +1648,10 @@ GFCS Mk.37: Range: 2
 5inch単装砲 Mk.30改+GFCS Mk.37: Evas: 2
 5inch単装砲 Mk.30改+GFCS Mk.37: Rare: 5
 5inch単装砲 Mk.30改+GFCS Mk.37: Range: 2
+甲標的 丙型: Torp: 14
+甲標的 丙型: Acc: 1
+甲標的 丙型: Evas: 1
+甲標的 丙型: Rare: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
