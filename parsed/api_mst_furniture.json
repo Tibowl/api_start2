@@ -2584,7 +2584,7 @@
     "api_season": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5,
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_active_flag": 0,
     "api_description": "今夜は素敵なパーティしま<br>しょ！主計科さんが腕によ<br>りをかけて作ってくれた聖<br>夜のご馳走。よく焼かれた<br>七面鳥も美味しそう！",
@@ -3117,7 +3117,7 @@
     "api_season": 0,
     "api_title": "温泉岩風呂",
     "api_type": 5,
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_active_flag": 0,
     "api_description": "提督の熱いリクエストで新<br>たに実装された富嶽タイル<br>画です。温泉等との相性は<br>いうことありません。価格<br>もギリギリに抑えました！",

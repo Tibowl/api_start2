@@ -382,4 +382,16 @@
     "api_opetext": "ブルネイ泊地沖哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 72,
+    "api_infotext": "我が機動部隊の出撃拠点である<br>タウイタウイ泊地沖に敵戦力の<br>跳梁が確認されている。哨戒を<br>厳として、これらを制圧せよ！",
+    "api_item": [31, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 7,
+    "api_max_maphp": null,
+    "api_name": "タウイタウイ泊地沖",
+    "api_no": 2,
+    "api_opetext": "セレベス海戦闘哨戒",
+    "api_required_defeat_count": 3,
+    "api_sally_flag": [1, 0, 0]
 }]

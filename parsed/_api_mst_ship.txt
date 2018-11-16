@@ -3673,6 +3673,13 @@ Samuel B.Roberts: Torp: 12,38
 Samuel B.Roberts: AA: 20,40
 Samuel B.Roberts: luck: 30,60
 Samuel B.Roberts: speed: 5
+巻雲改二: HP: 33,56
+巻雲改二: Armor: 15,53
+巻雲改二: FP: 18,64
+巻雲改二: Torp: 30,90
+巻雲改二: AA: 20,65
+巻雲改二: luck: 16,70
+巻雲改二: speed: 10
 福江: HP: 9,18
 福江: Armor: 4,16
 福江: FP: 4,16
