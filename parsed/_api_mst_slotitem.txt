@@ -68,7 +68,8 @@
 流星: Rare: 2
 流星: Cost: 7
 流星: Dist: 6
-九六式艦戦: AA: 2
+九六式艦戦: AA: 3
+九六式艦戦: Evas: 1
 九六式艦戦: Cost: 3
 九六式艦戦: Dist: 3
 零式艦戦21型: AA: 5
@@ -1154,7 +1155,7 @@ Ro.44水上戦闘機bis: Dist: 3
 二式爆雷: ASW: 7
 二式爆雷: Rare: 2
 九六式艦戦改: AA: 4
-九六式艦戦改: Evas: 1
+九六式艦戦改: Evas: 2
 九六式艦戦改: Rare: 2
 九六式艦戦改: Cost: 3
 九六式艦戦改: Dist: 4
@@ -1652,6 +1653,17 @@ GFCS Mk.37: Range: 2
 甲標的 丙型: Acc: 1
 甲標的 丙型: Evas: 1
 甲標的 丙型: Rare: 3
+14cm連装砲改: FP: 5
+14cm連装砲改: Armor: 1
+14cm連装砲改: Acc: 3
+14cm連装砲改: Rare: 2
+14cm連装砲改: Range: 2
+二式陸上偵察機: AA: 3
+二式陸上偵察機: LoS: 8
+二式陸上偵察機: Acc: 2
+二式陸上偵察機: Rare: 2
+二式陸上偵察機: Cost: 7
+二式陸上偵察機: Dist: 8
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2

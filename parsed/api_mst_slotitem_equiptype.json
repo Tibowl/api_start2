@@ -191,6 +191,10 @@
     "api_name": "局地戦闘機",
     "api_show_flg": 0
 }, {
+    "api_id": 49,
+    "api_name": "陸上偵察機",
+    "api_show_flg": 0
+}, {
     "api_id": 50,
     "api_name": "輸送機材",
     "api_show_flg": 0
