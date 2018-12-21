@@ -364,7 +364,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["最大保有艦娘数＋10(最大390)。最大保有アイテム数＋40(最大1680)。", ""],
+    "api_description": ["最大保有艦娘数＋10(最大400)。最大保有アイテム数＋40(最大1720)。", ""],
     "api_id": 53,
     "api_name": "母港拡張",
     "api_price": 0,
@@ -553,7 +553,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["２０１７年のクリスマスに贈ら<br>れる大きなプレゼント箱です。<br>開封時に、プレゼントの中身を<br>提督が選ぶことができます。　<br>※新春メンテ時に消滅します。", ""],
+    "api_description": ["２０１８年のクリスマスに贈ら<br>れる大きなプレゼント箱です。<br>開封時に、プレゼントの中身を<br>提督が選ぶことができます。　<br>※新春メンテ時に消滅します。", ""],
     "api_id": 80,
     "api_name": "Xmas Select Gift Box",
     "api_price": 0,

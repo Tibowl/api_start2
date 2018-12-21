@@ -2298,7 +2298,8 @@
     "api_tais": 7,
     "api_tyku": 0,
     "api_type": [3, 5, 8, 8, 1],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -8418,7 +8419,8 @@
     "api_tais": 9,
     "api_tyku": 0,
     "api_type": [3, 5, 8, 8, 1],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
