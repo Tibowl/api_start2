@@ -1664,6 +1664,20 @@ GFCS Mk.37: Range: 2
 二式陸上偵察機: Rare: 2
 二式陸上偵察機: Cost: 7
 二式陸上偵察機: Dist: 8
+533mm五連装魚雷(初期型): FP: 1
+533mm五連装魚雷(初期型): Torp: 8
+533mm五連装魚雷(初期型): Armor: 1
+533mm五連装魚雷(初期型): Evas: 1
+533mm五連装魚雷(初期型): Rare: 2
+533mm五連装魚雷(初期型): Range: 1
+SG レーダー(初期型): FP: 1
+SG レーダー(初期型): AA: 3
+SG レーダー(初期型): LoS: 8
+SG レーダー(初期型): ASW: 3
+SG レーダー(初期型): Acc: 8
+SG レーダー(初期型): Evas: 6
+SG レーダー(初期型): Rare: 3
+SG レーダー(初期型): Range: 2
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
