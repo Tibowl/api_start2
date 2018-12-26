@@ -1664,6 +1664,20 @@ GFCS Mk.37: Range: 2
 二式陸上偵察機: Rare: 2
 二式陸上偵察機: Cost: 7
 二式陸上偵察機: Dist: 8
+二式陸上偵察機(熟練): AA: 3
+二式陸上偵察機(熟練): Armor: 1
+二式陸上偵察機(熟練): LoS: 9
+二式陸上偵察機(熟練): Acc: 3
+二式陸上偵察機(熟練): Rare: 3
+二式陸上偵察機(熟練): Cost: 7
+二式陸上偵察機(熟練): Dist: 9
+5inch単装砲 Mk.30改: FP: 3
+5inch単装砲 Mk.30改: AA: 7
+5inch単装砲 Mk.30改: Armor: 1
+5inch単装砲 Mk.30改: Acc: 2
+5inch単装砲 Mk.30改: Evas: 2
+5inch単装砲 Mk.30改: Rare: 4
+5inch単装砲 Mk.30改: Range: 1
 533mm五連装魚雷(初期型): FP: 1
 533mm五連装魚雷(初期型): Torp: 8
 533mm五連装魚雷(初期型): Armor: 1
@@ -2081,3 +2095,31 @@ SG レーダー(初期型): Range: 2
 深海16inch三連装砲改二: Evas: 3
 深海16inch三連装砲改二: Rare: 5
 深海16inch三連装砲改二: Range: 4
+深海5inch連装砲C型: FP: 6
+深海5inch連装砲C型: AA: 3
+深海5inch連装砲C型: ASW: 6
+深海5inch連装砲C型: Acc: 18
+深海5inch連装砲C型: Evas: 9
+深海5inch連装砲C型: Rare: 4
+深海5inch連装砲C型: Range: 1
+深海5.5inch連装砲改: FP: 8
+深海5.5inch連装砲改: AA: 4
+深海5.5inch連装砲改: Armor: 4
+深海5.5inch連装砲改: ASW: 6
+深海5.5inch連装砲改: Acc: 19
+深海5.5inch連装砲改: Evas: 7
+深海5.5inch連装砲改: Rare: 4
+深海5.5inch連装砲改: Range: 2
+深海標的: FP: 4
+深海標的: Torp: 18
+深海標的: Acc: 9
+深海標的: Evas: 4
+深海標的: Rare: 4
+深海標的: Range: 4
+深海5inch単装砲 Mk.30: FP: 5
+深海5inch単装砲 Mk.30: AA: 7
+深海5inch単装砲 Mk.30: ASW: 7
+深海5inch単装砲 Mk.30: Acc: 20
+深海5inch単装砲 Mk.30: Evas: 8
+深海5inch単装砲 Mk.30: Rare: 4
+深海5inch単装砲 Mk.30: Range: 2

@@ -3463,6 +3463,13 @@ Jervis: speed: 10
 岸波: AA: 12,43
 岸波: luck: 10,50
 岸波: speed: 10
+早波: HP: 16,34
+早波: Armor: 6,19
+早波: FP: 10,30
+早波: Torp: 24,68
+早波: AA: 12,44
+早波: luck: 9,46
+早波: speed: 10
 大鷹改二: HP: 49,74
 大鷹改二: Armor: 26,55
 大鷹改二: FP: 18,39
@@ -3673,6 +3680,13 @@ Samuel B.Roberts: Torp: 12,38
 Samuel B.Roberts: AA: 20,40
 Samuel B.Roberts: luck: 30,60
 Samuel B.Roberts: speed: 5
+Johnston: HP: 17,35
+Johnston: Armor: 7,20
+Johnston: FP: 12,32
+Johnston: Torp: 20,60
+Johnston: AA: 32,60
+Johnston: luck: 17,70
+Johnston: speed: 10
 巻雲改二: HP: 33,56
 巻雲改二: Armor: 15,53
 巻雲改二: FP: 18,64
@@ -3750,6 +3764,27 @@ Maestrale改: Torp: 27,72
 Maestrale改: AA: 22,63
 Maestrale改: luck: 17,84
 Maestrale改: speed: 10
+日進: HP: 45,65
+日進: Armor: 22,45
+日進: FP: 16,46
+日進: Torp: 0,40
+日進: AA: 20,48
+日進: luck: 9,44
+日進: speed: 10
+峯雲: HP: 16,33
+峯雲: Armor: 6,19
+峯雲: FP: 10,30
+峯雲: Torp: 24,69
+峯雲: AA: 9,40
+峯雲: luck: 6,44
+峯雲: speed: 10
+日進甲: HP: 49,69
+日進甲: Armor: 24,47
+日進甲: FP: 20,60
+日進甲: Torp: 0,88
+日進甲: AA: 25,65
+日進甲: luck: 10,58
+日進甲: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
@@ -3806,6 +3841,34 @@ Samuel B.Roberts改: speed: 5
 岸波改: AA: 18,56
 岸波改: luck: 13,59
 岸波改: speed: 10
+峯雲改: HP: 31,49
+峯雲改: Armor: 14,49
+峯雲改: FP: 12,51
+峯雲改: Torp: 28,79
+峯雲改: AA: 16,50
+峯雲改: luck: 9,54
+峯雲改: speed: 10
+早波改: HP: 32,49
+早波改: Armor: 14,49
+早波改: FP: 12,51
+早波改: Torp: 27,80
+早波改: AA: 18,58
+早波改: luck: 10,55
+早波改: speed: 10
+Johnston改: HP: 34,50
+Johnston改: Armor: 16,52
+Johnston改: FP: 15,55
+Johnston改: Torp: 26,72
+Johnston改: AA: 40,90
+Johnston改: luck: 40,82
+Johnston改: speed: 10
+日進改: HP: 47,67
+日進改: Armor: 24,46
+日進改: FP: 18,54
+日進改: Torp: 0,75
+日進改: AA: 22,62
+日進改: luck: 10,57
+日進改: speed: 10
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10
 駆逐ハ級: speed: 10
@@ -4144,3 +4207,19 @@ PT小鬼群: speed: 10
 欧州水姫-壊: speed: 5
 欧州水姫-壊: speed: 5
 欧州水姫-壊: speed: 5
+深海雨雲姫: speed: 10
+深海雨雲姫: speed: 10
+深海雨雲姫: speed: 10
+深海雨雲姫-壊: speed: 10
+深海雨雲姫-壊: speed: 10
+深海雨雲姫-壊: speed: 10
+深海日棲姫: speed: 10
+深海日棲姫: speed: 10
+深海日棲姫: speed: 10
+深海日棲姫-壊: speed: 10
+深海日棲姫-壊: speed: 10
+深海日棲姫-壊: speed: 10
+駆逐ニ級改: speed: 10
+駆逐ニ級改後期型: speed: 10
+駆逐ニ級改後期型: speed: 10
+駆逐ニ級改後期型: speed: 10
