@@ -2432,14 +2432,14 @@ Warspite改: Armor: 78,93
 Warspite改: FP: 86,106
 Warspite改: Torp: 0,0
 Warspite改: AA: 48,98
-Warspite改: luck: 70,109
+Warspite改: luck: 70,111
 Warspite改: speed: 5
 Aquila改: HP: 48,78
-Aquila改: Armor: 28,57
-Aquila改: FP: 0,24
+Aquila改: Armor: 28,58
+Aquila改: FP: 0,28
 Aquila改: Torp: 0,0
 Aquila改: AA: 30,72
-Aquila改: luck: 7,37
+Aquila改: luck: 7,48
 Aquila改: speed: 10
 水無月改: HP: 24,39
 水無月改: Armor: 11,39
@@ -3783,7 +3783,7 @@ Maestrale改: speed: 10
 日進甲: FP: 20,60
 日進甲: Torp: 0,88
 日進甲: AA: 25,65
-日進甲: luck: 10,58
+日進甲: luck: 10,60
 日進甲: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
@@ -3867,7 +3867,7 @@ Johnston改: speed: 10
 日進改: FP: 18,54
 日進改: Torp: 0,75
 日進改: AA: 22,62
-日進改: luck: 10,57
+日進改: luck: 10,58
 日進改: speed: 10
 駆逐イ級: speed: 10
 駆逐ロ級: speed: 10

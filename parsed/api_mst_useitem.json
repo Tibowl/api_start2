@@ -621,4 +621,11 @@
     "api_name": "鳳翔さんの夕食券",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["「鬼は外！福は内！」<br>季節の大切な行事、節分。今年<br>も豆まきをして、健康に元気に<br>頑張ってまいりましょう！", ""],
+    "api_id": 90,
+    "api_name": "節分の豆",
+    "api_price": 0,
+    "api_usetype": 4
 }]

@@ -394,40 +394,4 @@
     "api_opetext": "セレベス海戦闘哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 431,
-    "api_infotext": "中部ソロモンの友軍前線部隊<br>に補給物資を輸送する。敵の<br>レーダー射撃に注意しつつ、<br>鼠輸送作戦を実施せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 7,
-    "api_maparea_id": 43,
-    "api_max_maphp": 300,
-    "api_name": "ブラケット水道/クラ湾沖",
-    "api_no": 1,
-    "api_opetext": "中部ソロモン海域鼠輸送",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 432,
-    "api_infotext": "ラバウルに基地航空隊戦力と<br>艦隊を集結させ、同方面の敵<br>戦力の漸減を図る。ラバウル<br>航空隊、出撃せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 9,
-    "api_maparea_id": 43,
-    "api_max_maphp": 300,
-    "api_name": "ラバウル/中部ソロモン海域",
-    "api_no": 2,
-    "api_opetext": "六〇三作戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 0]
-}, {
-    "api_id": 433,
-    "api_infotext": "ラバウル航空隊と艦隊の活躍<br>で同方面の航空優勢と制海権<br>確保に成功した。防衛戦力の<br>海上輸送の好機！艦隊抜錨！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 15,
-    "api_maparea_id": 43,
-    "api_max_maphp": 300,
-    "api_name": "中部ソロモン海域 ブーゲンビル島沖",
-    "api_no": 3,
-    "api_opetext": "南海第四守備隊輸送作戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 0]
 }]
