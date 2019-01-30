@@ -1692,6 +1692,15 @@ SG レーダー(初期型): Acc: 8
 SG レーダー(初期型): Evas: 6
 SG レーダー(初期型): Rare: 3
 SG レーダー(初期型): Range: 2
+Re.2001 CB改: FP: 3
+Re.2001 CB改: AA: 4
+Re.2001 CB改: Dive: 6
+Re.2001 CB改: ASW: 3
+Re.2001 CB改: Acc: 1
+Re.2001 CB改: Evas: 2
+Re.2001 CB改: Rare: 4
+Re.2001 CB改: Cost: 6
+Re.2001 CB改: Dist: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
