@@ -1701,6 +1701,17 @@ Re.2001 CB改: Evas: 2
 Re.2001 CB改: Rare: 4
 Re.2001 CB改: Cost: 6
 Re.2001 CB改: Dist: 3
+三式弾改: FP: 3
+三式弾改: AA: 6
+三式弾改: Acc: 1
+三式弾改: Rare: 4
+41cm連装砲改二: FP: 21
+41cm連装砲改二: AA: 5
+41cm連装砲改二: Armor: 2
+41cm連装砲改二: Acc: 5
+41cm連装砲改二: Evas: 1
+41cm連装砲改二: Rare: 5
+41cm連装砲改二: Range: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
