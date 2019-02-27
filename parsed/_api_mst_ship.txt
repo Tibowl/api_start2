@@ -3736,6 +3736,13 @@ Nelson: Torp: 0,0
 Nelson: AA: 24,82
 Nelson: luck: 24,89
 Nelson: speed: 5
+陸奥改二: HP: 91,99
+陸奥改二: Armor: 86,109
+陸奥改二: FP: 91,118
+陸奥改二: Torp: 0,0
+陸奥改二: AA: 38,102
+陸奥改二: luck: 16,88
+陸奥改二: speed: 5
 Gotland: HP: 32,43
 Gotland: Armor: 12,46
 Gotland: FP: 16,48
