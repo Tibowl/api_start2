@@ -469,7 +469,7 @@
     "api_tyku": 0,
     "api_type": [3, 5, 8, 8, 1],
     "api_usebull": "0",
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -1568,7 +1568,7 @@
     "api_tyku": 15,
     "api_type": [3, 5, 6, 6, 20],
     "api_usebull": "0",
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3996,7 +3996,7 @@
     "api_tyku": 1,
     "api_type": [3, 5, 8, 8, 1],
     "api_usebull": "0",
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_atap": 0,
     "api_bakk": 0,
