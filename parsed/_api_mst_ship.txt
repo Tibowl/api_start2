@@ -3806,6 +3806,13 @@ Maestrale改: speed: 10
 日進甲: AA: 25,65
 日進甲: luck: 10,60
 日進甲: speed: 10
+金剛改二丙: HP: 86,99
+金剛改二丙: Armor: 72,88
+金剛改二丙: FP: 76,98
+金剛改二丙: Torp: 20,42
+金剛改二丙: AA: 32,89
+金剛改二丙: luck: 18,98
+金剛改二丙: speed: 10
 Luigi Torelli改: HP: 13,23
 Luigi Torelli改: Armor: 5,18
 Luigi Torelli改: FP: 0,8
