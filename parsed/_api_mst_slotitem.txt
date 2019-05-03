@@ -1720,6 +1720,11 @@ Re.2001 CB改: Dist: 3
 彗星一二型(六三四空/三号爆弾搭載機): Rare: 4
 彗星一二型(六三四空/三号爆弾搭載機): Cost: 5
 彗星一二型(六三四空/三号爆弾搭載機): Dist: 5
+彗星一二型(三一号光電管爆弾搭載機): Dive: 11
+彗星一二型(三一号光電管爆弾搭載機): Acc: 5
+彗星一二型(三一号光電管爆弾搭載機): Rare: 4
+彗星一二型(三一号光電管爆弾搭載機): Cost: 6
+彗星一二型(三一号光電管爆弾搭載機): Dist: 5
 瑞雲改二(六三四空): FP: 2
 瑞雲改二(六三四空): AA: 4
 瑞雲改二(六三四空): Dive: 10
@@ -1773,6 +1778,26 @@ S-51J改: Rare: 7
 35.6cm連装砲改二: Evas: 2
 35.6cm連装砲改二: Rare: 4
 35.6cm連装砲改二: Range: 3
+16inch Mk.I連装砲: FP: 20
+16inch Mk.I連装砲: Armor: 1
+16inch Mk.I連装砲: Acc: 1
+16inch Mk.I連装砲: Evas: 1
+16inch Mk.I連装砲: Rare: 2
+16inch Mk.I連装砲: Range: 3
+16inch Mk.V連装砲: FP: 21
+16inch Mk.V連装砲: AA: 2
+16inch Mk.V連装砲: Armor: 2
+16inch Mk.V連装砲: Acc: 2
+16inch Mk.V連装砲: Evas: 1
+16inch Mk.V連装砲: Rare: 3
+16inch Mk.V連装砲: Range: 3
+16inch Mk.VIII連装砲改: FP: 21
+16inch Mk.VIII連装砲改: AA: 6
+16inch Mk.VIII連装砲改: Armor: 2
+16inch Mk.VIII連装砲改: Acc: 4
+16inch Mk.VIII連装砲改: Evas: 2
+16inch Mk.VIII連装砲改: Rare: 4
+16inch Mk.VIII連装砲改: Range: 3
 5inch単装砲: FP: 1
 5inch単装砲: Range: 1
 5inch連装砲: FP: 2
