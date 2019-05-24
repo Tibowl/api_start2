@@ -3974,6 +3974,13 @@ Fletcher改: Torp 雷装: 26,72
 Fletcher改: AA 対空: 40,91
 Fletcher改: luck 運: 40,100
 Fletcher改: speed 速力: 10
+Colorado改: HP 耐久: 91,98
+Colorado改: Armor 装甲: 83,99
+Colorado改: FP 火力: 80,105
+Colorado改: Torp 雷装: 0,0
+Colorado改: AA 対空: 36,100
+Colorado改: luck 運: 40,110
+Colorado改: speed 速力: 5
 駆逐イ級: speed 速力: 10
 駆逐ロ級: speed 速力: 10
 駆逐ハ級: speed 速力: 10
