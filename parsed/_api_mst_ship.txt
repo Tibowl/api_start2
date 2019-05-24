@@ -3855,6 +3855,13 @@ G.Garibaldi: speed 速力: 10
 赤城改二: AA 対空: 40,85
 赤城改二: luck 運: 20,77
 赤城改二: speed 速力: 10
+Fletcher: HP 耐久: 18,38
+Fletcher: Armor 装甲: 7,20
+Fletcher: FP 火力: 12,31
+Fletcher: Torp 雷装: 20,60
+Fletcher: AA 対空: 32,62
+Fletcher: luck 運: 30,89
+Fletcher: speed 速力: 10
 赤城改二戊: HP 耐久: 81,97
 赤城改二戊: Armor 装甲: 42,81
 赤城改二戊: FP 火力: 0,67
@@ -3862,6 +3869,13 @@ G.Garibaldi: speed 速力: 10
 赤城改二戊: AA 対空: 40,84
 赤城改二戊: luck 運: 20,77
 赤城改二戊: speed 速力: 10
+Colorado: HP 耐久: 77,89
+Colorado: Armor 装甲: 73,90
+Colorado: FP 火力: 78,96
+Colorado: Torp 雷装: 0,0
+Colorado: AA 対空: 28,90
+Colorado: luck 運: 30,99
+Colorado: speed 速力: 5
 Luigi Torelli改: HP 耐久: 13,23
 Luigi Torelli改: Armor 装甲: 5,18
 Luigi Torelli改: FP 火力: 0,8
@@ -3953,6 +3967,13 @@ G.Garibaldi改: Torp 雷装: 22,70
 G.Garibaldi改: AA 対空: 24,70
 G.Garibaldi改: luck 運: 30,100
 G.Garibaldi改: speed 速力: 10
+Fletcher改: HP 耐久: 35,52
+Fletcher改: Armor 装甲: 16,52
+Fletcher改: FP 火力: 15,54
+Fletcher改: Torp 雷装: 26,72
+Fletcher改: AA 対空: 40,91
+Fletcher改: luck 運: 40,100
+Fletcher改: speed 速力: 10
 駆逐イ級: speed 速力: 10
 駆逐ロ級: speed 速力: 10
 駆逐ハ級: speed 速力: 10
@@ -4316,3 +4337,9 @@ PT小鬼群: speed 速力: 10
 北方棲妹-壊: speed 速力: 0
 北方棲妹-壊: speed 速力: 0
 北方棲妹-壊: speed 速力: 0
+太平洋深海棲姫: speed 速力: 5
+太平洋深海棲姫: speed 速力: 5
+太平洋深海棲姫: speed 速力: 5
+太平洋深海棲姫-壊: speed 速力: 5
+太平洋深海棲姫-壊: speed 速力: 5
+太平洋深海棲姫-壊: speed 速力: 5

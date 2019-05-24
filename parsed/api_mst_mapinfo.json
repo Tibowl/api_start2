@@ -432,26 +432,26 @@
     "api_sally_flag": [0, 7, 0]
 }, {
     "api_id": 444,
-    "api_infotext": "",
+    "api_infotext": "機動部隊及び攻略部隊を遥か<br>北太平洋海域に展開、第二次<br>ハワイ作戦を敢行せよ！<br>連合艦隊、作戦開始ッ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 15,
     "api_maparea_id": 44,
     "api_max_maphp": 300,
-    "api_name": "<br>",
+    "api_name": "北太平洋ハワイ諸島戦域",
     "api_no": 4,
-    "api_opetext": "<br>",
+    "api_opetext": "第二次ハワイ作戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [0, 7, 0]
 }, {
     "api_id": 445,
-    "api_infotext": "",
+    "api_infotext": "ハワイ諸島南方沖に異常な海<br>域と深海棲艦隊の集結が確認<br>された。連合艦隊、出撃！<br>暁の水平線に勝利を刻め！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 16,
     "api_maparea_id": 44,
     "api_max_maphp": 300,
-    "api_name": "<br>",
+    "api_name": "北太平洋ハワイ諸島南東沖",
     "api_no": 5,
-    "api_opetext": "<br>",
+    "api_opetext": "波濤の先に――",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [0, 7, 0]
 }]
