@@ -9989,10 +9989,10 @@
     "api_voicef": 3,
     "api_yomi": "かざぐも"
 }, {
-    "api_afterbull": 0,
-    "api_afterfuel": 0,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterbull": 390,
+    "api_afterfuel": 360,
+    "api_afterlv": 82,
+    "api_aftershipid": "587",
     "api_backs": 4,
     "api_broken": [1, 2, 10, 0],
     "api_buildtime": 22,
@@ -16448,6 +16448,36 @@
     "api_voicef": 3,
     "api_yomi": "にっしん"
 }, {
+    "api_afterbull": 0,
+    "api_afterfuel": 0,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_backs": 7,
+    "api_broken": [1, 2, 10, 0],
+    "api_buildtime": 22,
+    "api_bull_max": 20,
+    "api_ctype": 23,
+    "api_fuel_max": 15,
+    "api_getmes": "<br>",
+    "api_houg": [15, 61],
+    "api_id": 587,
+    "api_leng": 1,
+    "api_luck": [20, 85],
+    "api_maxeq": [0, 0, 0, 0, 0],
+    "api_name": "海風改二",
+    "api_powup": [2, 2, 1, 1],
+    "api_raig": [38, 93],
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_sort_id": 15136,
+    "api_sortno": 387,
+    "api_souk": [14, 51],
+    "api_stype": 2,
+    "api_taik": [31, 54],
+    "api_tyku": [19, 69],
+    "api_voicef": 3,
+    "api_yomi": "うみかぜ"
+}, {
     "api_afterbull": 320,
     "api_afterfuel": 400,
     "api_afterlv": 45,
@@ -16476,7 +16506,7 @@
     "api_taik": [37, 55],
     "api_tyku": [20, 60],
     "api_voicef": 1,
-    "api_yomi": "ガルバルディ"
+    "api_yomi": "ガリバルディ"
 }, {
     "api_afterbull": 0,
     "api_afterfuel": 0,
@@ -17016,7 +17046,7 @@
     "api_taik": [52, 63],
     "api_tyku": [24, 70],
     "api_voicef": 3,
-    "api_yomi": "ガルバルディ"
+    "api_yomi": "ガリバルディ"
 }, {
     "api_afterbull": 0,
     "api_afterfuel": 0,

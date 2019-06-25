@@ -3834,6 +3834,13 @@ Maestrale改: speed 速力: 10
 日進甲: AA 対空: 25,65
 日進甲: luck 運: 10,60
 日進甲: speed 速力: 10
+海風改二: HP 耐久: 31,54
+海風改二: Armor 装甲: 14,51
+海風改二: FP 火力: 15,61
+海風改二: Torp 雷装: 38,93
+海風改二: AA 対空: 19,69
+海風改二: luck 運: 20,85
+海風改二: speed 速力: 10
 G.Garibaldi: HP 耐久: 37,55
 G.Garibaldi: Armor 装甲: 33,51
 G.Garibaldi: FP 火力: 28,50

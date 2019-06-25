@@ -628,32 +628,4 @@
     "api_use_fuel": 0.8,
     "api_win_item1": [3, 2],
     "api_win_item2": [1, 2]
-}, {
-    "api_deck_num": 2,
-    "api_details": "支援艦隊を出撃させ、主力艦隊の<br>進撃を援護せよ！<br>(要:駆逐2隻)",
-    "api_difficulty": 1,
-    "api_disp_no": "S1",
-    "api_id": 301,
-    "api_maparea_id": 44,
-    "api_name": "前衛支援任務",
-    "api_return_flag": 0,
-    "api_time": 15,
-    "api_use_bull": 0.8,
-    "api_use_fuel": 0.5,
-    "api_win_item1": [0, 0],
-    "api_win_item2": [0, 0]
-}, {
-    "api_deck_num": 2,
-    "api_details": "主力艦隊支援を行う別動隊を出撃<br>させ、艦隊決戦を援護せよ！<br>(要:駆逐2隻)",
-    "api_difficulty": 1,
-    "api_disp_no": "S2",
-    "api_id": 302,
-    "api_maparea_id": 44,
-    "api_name": "艦隊決戦支援任務",
-    "api_return_flag": 0,
-    "api_time": 30,
-    "api_use_bull": 0.8,
-    "api_use_fuel": 0.5,
-    "api_win_item1": [0, 0],
-    "api_win_item2": [0, 0]
 }]
