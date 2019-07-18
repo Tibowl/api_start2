@@ -6716,7 +6716,7 @@
     "api_stype": 2,
     "api_taik": [32, 49],
     "api_tyku": [16, 59],
-    "api_voicef": 0,
+    "api_voicef": 1,
     "api_yomi": "ゆきかぜ"
 }, {
     "api_afterbull": 0,
