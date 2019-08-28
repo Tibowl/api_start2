@@ -1900,6 +1900,21 @@ S-51J改: Rare レア: 7
 二式12cm迫撃砲改 集中配備: Rare レア: 4
 艦載型 四式20cm対地噴進砲: Armor 装甲: -2
 艦載型 四式20cm対地噴進砲: Rare レア: 4
+Me163B: AA 対空: 2
+Me163B: Acc 砲撃命中: 9
+Me163B: Rare レア: 4
+Me163B: Cost: 4
+Me163B: Dist: 1
+試製 秋水: AA 対空: 2
+試製 秋水: Acc 砲撃命中: 8
+試製 秋水: Rare レア: 4
+試製 秋水: Cost: 4
+試製 秋水: Dist: 1
+秋水: AA 対空: 3
+秋水: Acc 砲撃命中: 9
+秋水: Rare レア: 5
+秋水: Cost: 4
+秋水: Dist: 1
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
