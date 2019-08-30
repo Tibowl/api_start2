@@ -394,4 +394,40 @@
     "api_opetext": "セレベス海戦闘哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 451,
+    "api_infotext": "フランス西部の重要拠点ブレ<br>ストに艦隊を展開！基地航空<br>隊と連携し、侵攻部隊を捕捉<br>これを撃滅せよ！作戦開始！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 45,
+    "api_max_maphp": 300,
+    "api_name": "北大西洋ブレスト沖",
+    "api_no": 1,
+    "api_opetext": "ブレスト防衛作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 452,
+    "api_infotext": "北大西洋の要衝ジブラルタル<br>開放作戦を実施せよ！同海峡<br>を越え、地中海方面への進出<br>を図れ！連合艦隊、出撃！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 13,
+    "api_maparea_id": 45,
+    "api_max_maphp": 300,
+    "api_name": "ジブラルタル海峡沖/地中海",
+    "api_no": 2,
+    "api_opetext": "ジブラルタルを越えて",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7, 0]
+}, {
+    "api_id": 453,
+    "api_infotext": "<br>",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 16,
+    "api_maparea_id": 45,
+    "api_max_maphp": 300,
+    "api_name": "<br>",
+    "api_no": 3,
+    "api_opetext": "<br>",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 0]
 }]

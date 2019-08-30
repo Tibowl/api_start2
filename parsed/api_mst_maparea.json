@@ -26,4 +26,8 @@
     "api_id": 7,
     "api_name": "南西海域",
     "api_type": 0
+}, {
+    "api_id": 45,
+    "api_name": "欧州方面反撃作戦 発動！「シングル作戦」",
+    "api_type": 1
 }]

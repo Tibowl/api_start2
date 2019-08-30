@@ -1900,6 +1900,7 @@ S-51J改: Rare レア: 7
 二式12cm迫撃砲改 集中配備: Rare レア: 4
 艦載型 四式20cm対地噴進砲: Armor 装甲: -2
 艦載型 四式20cm対地噴進砲: Rare レア: 4
+: Rare レア: 5
 Me163B: AA 対空: 2
 Me163B: Acc 砲撃命中: 9
 Me163B: Rare レア: 4
@@ -1915,6 +1916,11 @@ Me163B: Dist: 1
 秋水: Rare レア: 5
 秋水: Cost: 4
 秋水: Dist: 1
+: Rare レア: 5
+: Rare レア: 5
+M4A1 DD: FP 火力: 2
+M4A1 DD: Evas 砲撃回避: -1
+M4A1 DD: Rare レア: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -2357,3 +2363,22 @@ Me163B: Dist: 1
 高速深海魚雷 mod.3: Evas 砲撃回避: 3
 高速深海魚雷 mod.3: Rare レア: 4
 高速深海魚雷 mod.3: Range 射程: 1
+深海空要塞: FP 火力: 17
+深海空要塞: AA 対空: 9
+深海空要塞: Dive 爆撃: 27
+深海空要塞: LoS 索敵: 5
+深海空要塞: Acc 砲撃命中: 3
+深海空要塞: Rare レア: 3
+深海空要塞: Range 射程: 4
+深海空要塞Ace: FP 火力: 17
+深海空要塞Ace: AA 対空: 17
+深海空要塞Ace: Dive 爆撃: 37
+深海空要塞Ace: LoS 索敵: 7
+深海空要塞Ace: Acc 砲撃命中: 7
+深海空要塞Ace: Rare レア: 4
+深海空要塞Ace: Range 射程: 4
+深海6inch三連装新型速射砲: FP 火力: 14
+深海6inch三連装新型速射砲: AA 対空: 13
+深海6inch三連装新型速射砲: Acc 砲撃命中: 9
+深海6inch三連装新型速射砲: Rare レア: 4
+深海6inch三連装新型速射砲: Range 射程: 2
