@@ -14762,6 +14762,36 @@
     "api_voicef": 1,
     "api_yomi": "ジャーヴィス"
 }, {
+    "api_afterbull": 170,
+    "api_afterfuel": 370,
+    "api_afterlv": 55,
+    "api_aftershipid": "893",
+    "api_backs": 6,
+    "api_broken": [1, 1, 6, 1],
+    "api_buildtime": 24,
+    "api_bull_max": 25,
+    "api_ctype": 82,
+    "api_fuel_max": 15,
+    "api_getmes": "Hi！　私の名前はJanus！　そうよ、あのJervisの僚艦の…<br>……え？　知らない？　完っ全にモグリね。いい？<br>しっかり覚えておきなさい！",
+    "api_houg": [12, 33],
+    "api_id": 520,
+    "api_leng": 1,
+    "api_luck": [17, 67],
+    "api_maxeq": [0, 0, 0, 0, 0],
+    "api_name": "Janus",
+    "api_powup": [1, 1, 1, 1],
+    "api_raig": [30, 82],
+    "api_slot_num": 2,
+    "api_soku": 10,
+    "api_sort_id": 33521,
+    "api_sortno": 320,
+    "api_souk": [7, 18],
+    "api_stype": 2,
+    "api_taik": [15, 33],
+    "api_tyku": [22, 42],
+    "api_voicef": 1,
+    "api_yomi": "ジェーナス"
+}, {
     "api_afterbull": 190,
     "api_afterfuel": 350,
     "api_afterlv": 30,
@@ -17257,6 +17287,36 @@
     "api_tyku": [24, 70],
     "api_voicef": 3,
     "api_yomi": "アブルッツィ"
+}, {
+    "api_afterbull": 0,
+    "api_afterfuel": 0,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_backs": 7,
+    "api_broken": [1, 2, 10, 1],
+    "api_buildtime": 24,
+    "api_bull_max": 25,
+    "api_ctype": 82,
+    "api_fuel_max": 15,
+    "api_getmes": "<br>",
+    "api_houg": [14, 53],
+    "api_id": 893,
+    "api_leng": 1,
+    "api_luck": [22, 87],
+    "api_maxeq": [0, 0, 0, 0, 0],
+    "api_name": "Janus改",
+    "api_powup": [1, 1, 1, 1],
+    "api_raig": [40, 90],
+    "api_slot_num": 3,
+    "api_soku": 10,
+    "api_sort_id": 33522,
+    "api_sortno": 1493,
+    "api_souk": [15, 50],
+    "api_stype": 2,
+    "api_taik": [31, 47],
+    "api_tyku": [30, 72],
+    "api_voicef": 3,
+    "api_yomi": "ジェーナス"
 }, {
     "api_afterbull": 0,
     "api_afterfuel": 0,
@@ -20664,6 +20724,60 @@
     "api_yomi": ""
 }, {
     "api_ctype": 1,
+    "api_id": 1883,
+    "api_name": "アンツィオ沖棲姫",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sort_id": 0,
+    "api_stype": 2,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1884,
+    "api_name": "アンツィオ沖棲姫",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sort_id": 0,
+    "api_stype": 2,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1885,
+    "api_name": "アンツィオ沖棲姫",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sort_id": 0,
+    "api_stype": 2,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1886,
+    "api_name": "アンツィオ沖棲姫-壊",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sort_id": 0,
+    "api_stype": 2,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1887,
+    "api_name": "アンツィオ沖棲姫-壊",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sort_id": 0,
+    "api_stype": 2,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1888,
+    "api_name": "アンツィオ沖棲姫-壊",
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sort_id": 0,
+    "api_stype": 2,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
     "api_id": 1889,
     "api_name": "飛行場姫",
     "api_slot_num": 3,
@@ -20683,6 +20797,33 @@
 }, {
     "api_ctype": 1,
     "api_id": 1891,
+    "api_name": "飛行場姫",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1892,
+    "api_name": "飛行場姫",
+    "api_slot_num": 3,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1893,
+    "api_name": "飛行場姫",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1894,
     "api_name": "飛行場姫",
     "api_slot_num": 4,
     "api_soku": 0,
