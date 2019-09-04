@@ -420,14 +420,14 @@
     "api_sally_flag": [0, 7, 0]
 }, {
     "api_id": 453,
-    "api_infotext": "<br>",
+    "api_infotext": "作戦準備は整った。いよいよ<br>イタリア半島開放作戦を実施<br>する！連合艦隊、全力出撃！<br>「シングル作戦」発動せよ！",
     "api_item": [0, 0, 0, 0],
     "api_level": 16,
     "api_maparea_id": 45,
     "api_max_maphp": 300,
-    "api_name": "<br>",
+    "api_name": "地中海/マルタ島沖/アンツィオ沖",
     "api_no": 3,
-    "api_opetext": "<br>",
+    "api_opetext": "発動！「シングル作戦」",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 0]
 }]
