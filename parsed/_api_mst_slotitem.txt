@@ -1900,7 +1900,9 @@ S-51J改: Rare レア: 7
 二式12cm迫撃砲改 集中配備: Rare レア: 4
 艦載型 四式20cm対地噴進砲: Armor 装甲: -2
 艦載型 四式20cm対地噴進砲: Rare レア: 4
-: Rare レア: 5
+四式20cm対地噴進砲 集中配備: FP 火力: 1
+四式20cm対地噴進砲 集中配備: Armor 装甲: -4
+四式20cm対地噴進砲 集中配備: Rare レア: 5
 Me163B: AA 対空: 2
 Me163B: Acc 砲撃命中: 9
 Me163B: Rare レア: 4
@@ -1933,6 +1935,11 @@ Fw190 D-9: Dist: 3
 M4A1 DD: FP 火力: 2
 M4A1 DD: Evas 砲撃回避: -1
 M4A1 DD: Rare レア: 4
+8inch三連装砲 Mk.9: FP 火力: 11
+8inch三連装砲 Mk.9: AA 対空: 1
+8inch三連装砲 Mk.9: Evas 砲撃回避: -1
+8inch三連装砲 Mk.9: Rare レア: 2
+8inch三連装砲 Mk.9: Range 射程: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2

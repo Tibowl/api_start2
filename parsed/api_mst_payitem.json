@@ -1,82 +1,82 @@
 [{
-    "api_description": "補給のお供！燃料パック<br>(燃料を200回復させます)",
+    "api_description": "補給のお供！燃料パック<br>(燃料を250回復させます)",
     "api_id": 1,
-    "api_item": [200, 0, 0, 0, 0, 0, 0, 0],
-    "api_name": "燃料パック200",
+    "api_item": [250, 0, 0, 0, 0, 0, 0, 0],
+    "api_name": "燃料パック250",
     "api_price": 100,
-    "api_shop_description": "補給のお供！燃料パック<br>(燃料を200回復させます)",
+    "api_shop_description": "補給のお供！燃料パック<br>(燃料を250回復させます)",
     "api_type": 0
 }, {
-    "api_description": "補給のお供！弾薬パック<br>(弾薬を200回復させます)",
+    "api_description": "補給のお供！弾薬パック<br>(弾薬を250回復させます)",
     "api_id": 2,
-    "api_item": [0, 200, 0, 0, 0, 0, 0, 0],
-    "api_name": "弾薬パック200",
+    "api_item": [0, 250, 0, 0, 0, 0, 0, 0],
+    "api_name": "弾薬パック250",
     "api_price": 100,
-    "api_shop_description": "補給のお供！弾薬パック<br>(弾薬を200回復させます)",
+    "api_shop_description": "補給のお供！弾薬パック<br>(弾薬を250回復させます)",
     "api_type": 0
 }, {
-    "api_description": "艦の建造に！鋼材パック<br>(鋼材を150回復させます)",
+    "api_description": "艦の建造に！鋼材パック<br>(鋼材を200回復させます)",
     "api_id": 3,
-    "api_item": [0, 0, 150, 0, 0, 0, 0, 0],
-    "api_name": "鋼材パック150",
+    "api_item": [0, 0, 200, 0, 0, 0, 0, 0],
+    "api_name": "鋼材パック200",
     "api_price": 100,
-    "api_shop_description": "艦の建造に！鋼材パック<br>(鋼材を150回復させます)",
+    "api_shop_description": "艦の建造に！鋼材パック<br>(鋼材を200回復させます)",
     "api_type": 0
 }, {
-    "api_description": "航空機関連にボーキサイトパッ<br>ク(ボーキサイトを100回復さ<br>せます)",
+    "api_description": "航空機関連にボーキサイトパッ<br>ク(ボーキサイトを150回復さ<br>せます)",
     "api_id": 4,
-    "api_item": [0, 0, 0, 100, 0, 0, 0, 0],
-    "api_name": "ボーキサイトパック100",
+    "api_item": [0, 0, 0, 150, 0, 0, 0, 0],
+    "api_name": "ボーキサイトパック150",
     "api_price": 100,
-    "api_shop_description": "航空機関連にボーキサイトパック<br>(ボーキサイトを100回復させます)",
+    "api_shop_description": "航空機関連にボーキサイトパック<br>(ボーキサイトを150回復させます)",
     "api_type": 0
 }, {
     "api_description": "建造・開発をバリバリどうぞ！<br>開発資材パック(7回分)",
     "api_id": 5,
     "api_item": [0, 0, 0, 0, 0, 0, 7, 0],
     "api_name": "開発資材パック7",
-    "api_price": 500,
+    "api_price": 400,
     "api_shop_description": "建造・開発をバリバリどうぞ！<br>開発資材パック(7回分)",
     "api_type": 0
 }, {
-    "api_description": "建造時間を劇的に短縮！<br>高速建造材パック(5回分)",
+    "api_description": "建造時間を劇的に短縮！<br>高速建造材パック(6回分)",
     "api_id": 6,
-    "api_item": [0, 0, 0, 0, 5, 0, 0, 0],
-    "api_name": "高速建造材パック5",
+    "api_item": [0, 0, 0, 0, 6, 0, 0, 0],
+    "api_name": "高速建造材パック6",
     "api_price": 300,
-    "api_shop_description": "建造時間を劇的に短縮！<br>高速建造材パック(5回分)",
+    "api_shop_description": "建造時間を劇的に短縮！<br>高速建造材パック(6回分)",
     "api_type": 0
 }, {
-    "api_description": "修理、お待たせしません！<br>高速修復材パック(5回分)",
+    "api_description": "修理、お待たせしません！<br>高速修復材パック(6回分)",
     "api_id": 7,
-    "api_item": [0, 0, 0, 0, 0, 5, 0, 0],
-    "api_name": "高速修復材パック5",
+    "api_item": [0, 0, 0, 0, 0, 6, 0, 0],
+    "api_name": "高速修復材パック6",
     "api_price": 300,
-    "api_shop_description": "修理、お待たせしません！<br>高速修復材パック(5回分)",
+    "api_shop_description": "修理、お待たせしません！<br>高速修復材パック(6回分)",
     "api_type": 0
 }, {
-    "api_description": "お買得！工廠セット(鋼1500，<br>ボ200，弾200，燃200，開発<br>資材2)",
+    "api_description": "お買得！工廠セット(鋼1500，<br>ボ200，弾200，燃200，開発<br>資材3)",
     "api_id": 8,
-    "api_item": [200, 200, 1500, 200, 0, 0, 2, 0],
+    "api_item": [200, 200, 1500, 200, 0, 0, 3, 0],
     "api_name": "お買得！工廠セット",
     "api_price": 700,
-    "api_shop_description": "お買得！工廠セット(鋼1500，ボ200，弾200，燃200，開発資材2)",
+    "api_shop_description": "お買得！工廠セット(鋼1500，ボ200，弾200，燃200，開発資材3)",
     "api_type": 0
 }, {
-    "api_description": "お買得！出撃セット(燃500，<br>弾500，鋼200，高速修復材2)",
+    "api_description": "お買得！出撃セット(燃500，<br>弾500，鋼200，高速修復材3)",
     "api_id": 9,
-    "api_item": [500, 500, 200, 0, 0, 2, 0, 0],
+    "api_item": [500, 500, 200, 0, 0, 3, 0, 0],
     "api_name": "お買得！出撃セット",
     "api_price": 300,
-    "api_shop_description": "お買得！出撃セット(燃500，弾500，鋼200，高速修復材2)",
+    "api_shop_description": "お買得！出撃セット(燃500，弾500，鋼200，高速修復材3)",
     "api_type": 0
 }, {
-    "api_description": "ドック増設セット(鍵1，開発資<br>材5，高速建造5，高速修復5)",
+    "api_description": "ドック増設セット(鍵1，開発資<br>材6，高速建造6，高速修復6)",
     "api_id": 10,
-    "api_item": [0, 0, 0, 0, 5, 5, 5, 0],
+    "api_item": [0, 0, 0, 0, 6, 6, 6, 0],
     "api_name": "ドック増設セット",
     "api_price": 1000,
-    "api_shop_description": "ドック増設セット(鍵1，開発資材<br>5，高速建造5，高速修復5)",
+    "api_shop_description": "ドック増設セット(鍵1，開発資材<br>6，高速建造6，高速修復6)",
     "api_type": 0
 }, {
     "api_description": "大切な艦を轟沈から護ります！<br>応急修理要員(1回分)",
@@ -127,12 +127,12 @@
     "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計420隻まで！ 装備枠も自動的に+40増加します。",
     "api_type": 0
 }, {
-    "api_description": "油の一滴は…燃料不足解消に！<br>タンカー徴用(燃1000)",
+    "api_description": "油の一滴は…燃料不足解消に！<br>タンカー徴用(燃1200)",
     "api_id": 17,
-    "api_item": [1000, 0, 0, 0, 0, 0, 0, 0],
+    "api_item": [1200, 0, 0, 0, 0, 0, 0, 0],
     "api_name": "タンカー徴用",
     "api_price": 300,
-    "api_shop_description": "油の一滴は…燃料不足解消に！<br>タンカー徴用(燃1000)",
+    "api_shop_description": "油の一滴は…燃料不足解消に！<br>タンカー徴用(燃1200)",
     "api_type": 0
 }, {
     "api_description": "給糧艦「間宮」召喚 艦娘の疲れ<br>た心を食糧や甘味でたちまち回<br>復(1艦隊1回分)",
@@ -143,12 +143,12 @@
     "api_shop_description": "給糧艦「間宮」召喚 艦娘の疲れた心を食糧や甘味でたちまち回復(1艦隊1回分)",
     "api_type": 0
 }, {
-    "api_description": "ジュラルミンは航空機の源！<br>アルミ大増産(ボ550)",
+    "api_description": "ジュラルミンは航空機の源！<br>アルミ大増産(ボ650)",
     "api_id": 19,
-    "api_item": [0, 0, 0, 550, 0, 0, 0, 0],
+    "api_item": [0, 0, 0, 650, 0, 0, 0, 0],
     "api_name": "アルミ大量産",
     "api_price": 300,
-    "api_shop_description": "ジュラルミンは航空機の源！<br>アルミ大増産(ボ550)",
+    "api_shop_description": "ジュラルミンは航空機の源！<br>アルミ大増産(ボ650)",
     "api_type": 0
 }, {
     "api_description": "レベルが99になった艦娘とケッ<br>コンカッコカリ！<br>書類一式＆指輪(1回分)",
@@ -219,7 +219,7 @@
     "api_id": 28,
     "api_item": [0, 0, 800, 0, 0, 0, 0, 0],
     "api_name": "「緊急修理資材」セット",
-    "api_price": 700,
+    "api_price": 600,
     "api_shop_description": "工作艦などの艦で緊急泊地修理を実施するための資材セット。<br>※緊急修理資材×３(使用には工作艦等が必要です)※鉄鋼800",
     "api_type": 0
 }]

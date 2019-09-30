@@ -1,12 +1,12 @@
 [{
-    "api_boss_bgm": [118, 2],
+    "api_boss_bgm": [133, 2],
     "api_id": 11,
     "api_map_bgm": [1, 2],
     "api_maparea_id": 1,
-    "api_moving_bgm": 116,
+    "api_moving_bgm": 14,
     "api_no": 1
 }, {
-    "api_boss_bgm": [118, 2],
+    "api_boss_bgm": [133, 2],
     "api_id": 12,
     "api_map_bgm": [1, 2],
     "api_maparea_id": 1,
@@ -15,14 +15,14 @@
 }, {
     "api_boss_bgm": [117, 117],
     "api_id": 13,
-    "api_map_bgm": [23, 2],
+    "api_map_bgm": [25, 2],
     "api_maparea_id": 1,
     "api_moving_bgm": 116,
     "api_no": 3
 }, {
     "api_boss_bgm": [12, 12],
     "api_id": 14,
-    "api_map_bgm": [118, 2],
+    "api_map_bgm": [8, 2],
     "api_maparea_id": 1,
     "api_moving_bgm": 116,
     "api_no": 4
@@ -36,7 +36,7 @@
 }, {
     "api_boss_bgm": [37, 13],
     "api_id": 16,
-    "api_map_bgm": [118, 13],
+    "api_map_bgm": [134, 13],
     "api_maparea_id": 1,
     "api_moving_bgm": 126,
     "api_no": 6
@@ -50,14 +50,14 @@
 }, {
     "api_boss_bgm": [46, 46],
     "api_id": 22,
-    "api_map_bgm": [133, 2],
+    "api_map_bgm": [8, 2],
     "api_maparea_id": 2,
     "api_moving_bgm": 103,
     "api_no": 2
 }, {
     "api_boss_bgm": [3, 3],
     "api_id": 23,
-    "api_map_bgm": [8, 2],
+    "api_map_bgm": [38, 2],
     "api_maparea_id": 2,
     "api_moving_bgm": 119,
     "api_no": 3
@@ -113,7 +113,7 @@
 }, {
     "api_boss_bgm": [8, 8],
     "api_id": 41,
-    "api_map_bgm": [118, 2],
+    "api_map_bgm": [25, 2],
     "api_maparea_id": 4,
     "api_moving_bgm": 95,
     "api_no": 1
@@ -229,25 +229,4 @@
     "api_maparea_id": 7,
     "api_moving_bgm": 43,
     "api_no": 2
-}, {
-    "api_boss_bgm": [143, 143],
-    "api_id": 451,
-    "api_map_bgm": [140, 140],
-    "api_maparea_id": 45,
-    "api_moving_bgm": 139,
-    "api_no": 1
-}, {
-    "api_boss_bgm": [141, 141],
-    "api_id": 452,
-    "api_map_bgm": [140, 140],
-    "api_maparea_id": 45,
-    "api_moving_bgm": 139,
-    "api_no": 2
-}, {
-    "api_boss_bgm": [144, 144],
-    "api_id": 453,
-    "api_map_bgm": [141, 141],
-    "api_maparea_id": 45,
-    "api_moving_bgm": 142,
-    "api_no": 3
 }]
