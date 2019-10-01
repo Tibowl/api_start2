@@ -7996,7 +7996,7 @@
     "api_map_n": [186, 90],
     "api_pa": [0, 0],
     "api_sortno": 1464,
-    "api_version": ["66", "1", "930"],
+    "api_version": ["67", "1", "930"],
     "api_weda": [180, 138],
     "api_wedb": [126, 168]
 }, {
@@ -10726,7 +10726,7 @@
     "api_map_n": [186, 90],
     "api_pa": [0, 0],
     "api_sortno": 335,
-    "api_version": ["66", "1", "930"],
+    "api_version": ["67", "1", "930"],
     "api_weda": [180, 138],
     "api_wedb": [126, 168]
 }, {
