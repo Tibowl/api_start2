@@ -642,4 +642,11 @@
     "api_name": "新型噴進装備開発資材",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["漁場の安全を確保し、鰯漁を支<br>援することで入手した美味しい<br>旬の「鰯」です。※秋刀魚＆鰯<br>祭り終了時に消滅します。", ""],
+    "api_id": 93,
+    "api_name": "鰯",
+    "api_price": 0,
+    "api_usetype": 4
 }]
