@@ -105,7 +105,7 @@
     "api_name": "冬の艦隊"
 }, {
     "api_id": 143,
-    "api_name": "暁の水平戦に(inst.ver)"
+    "api_name": "暁の水平線に(inst.ver)"
 }, {
     "api_id": 205,
     "api_name": "秋月の空"
@@ -235,4 +235,7 @@
 }, {
     "api_id": 247,
     "api_name": "佐世保の時雨"
+}, {
+    "api_id": 248,
+    "api_name": "遥かなるウルシー泊地"
 }]
