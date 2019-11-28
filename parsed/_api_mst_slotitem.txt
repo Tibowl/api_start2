@@ -1953,6 +1953,13 @@ M4A1 DD: Rare レア: 4
 5inch 単装高角砲群: Evas 砲撃回避: 1
 5inch 単装高角砲群: Rare レア: 2
 5inch 単装高角砲群: Range 射程: 1
+6inch 連装速射砲 Mk.XXI: FP 火力: 5
+6inch 連装速射砲 Mk.XXI: AA 対空: 3
+6inch 連装速射砲 Mk.XXI: Armor 装甲: 1
+6inch 連装速射砲 Mk.XXI: Acc 砲撃命中: 2
+6inch 連装速射砲 Mk.XXI: Evas 砲撃回避: 1
+6inch 連装速射砲 Mk.XXI: Rare レア: 2
+6inch 連装速射砲 Mk.XXI: Range 射程: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
