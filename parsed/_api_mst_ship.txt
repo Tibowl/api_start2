@@ -3883,6 +3883,13 @@ G.Garibaldi: speed 速力: 10
 赤城改二: AA 対空: 40,85
 赤城改二: luck 運: 20,77
 赤城改二: speed 速力: 10
+Houston: HP 耐久: 43,56
+Houston: Armor 装甲: 33,47
+Houston: FP 火力: 37,52
+Houston: Torp 雷装: 16,40
+Houston: AA 対空: 20,60
+Houston: luck 運: 12,55
+Houston: speed 速力: 10
 Fletcher: HP 耐久: 18,38
 Fletcher: Armor 装甲: 7,20
 Fletcher: FP 火力: 12,31
@@ -3897,6 +3904,13 @@ Fletcher: speed 速力: 10
 赤城改二戊: AA 対空: 40,84
 赤城改二戊: luck 運: 20,77
 赤城改二戊: speed 速力: 10
+Houston改: HP 耐久: 54,67
+Houston改: Armor 装甲: 40,73
+Houston改: FP 火力: 46,76
+Houston改: Torp 雷装: 20,60
+Houston改: AA 対空: 30,75
+Houston改: luck 運: 20,65
+Houston改: speed 速力: 10
 Colorado: HP 耐久: 77,89
 Colorado: Armor 装甲: 73,90
 Colorado: FP 火力: 78,96
@@ -3904,6 +3918,13 @@ Colorado: Torp 雷装: 0,0
 Colorado: AA 対空: 28,90
 Colorado: luck 運: 30,99
 Colorado: speed 速力: 5
+De Ruyter: HP 耐久: 28,43
+De Ruyter: Armor 装甲: 15,31
+De Ruyter: FP 火力: 21,50
+De Ruyter: Torp 雷装: 0,50
+De Ruyter: AA 対空: 20,70
+De Ruyter: luck 運: 9,49
+De Ruyter: speed 速力: 10
 Luigi Torelli改: HP 耐久: 13,23
 Luigi Torelli改: Armor 装甲: 5,18
 Luigi Torelli改: FP 火力: 0,8
@@ -3918,6 +3939,13 @@ Luigi Torelli改: speed 速力: 5
 伊400改: AA 対空: 0,0
 伊400改: luck 運: 19,58
 伊400改: speed 速力: 5
+De Ruyter改: HP 耐久: 43,60
+De Ruyter改: Armor 装甲: 29,67
+De Ruyter改: FP 火力: 29,70
+De Ruyter改: Torp 雷装: 0,60
+De Ruyter改: AA 対空: 25,75
+De Ruyter改: luck 運: 10,57
+De Ruyter改: speed 速力: 10
 御蔵: HP 耐久: 9,18
 御蔵: Armor 装甲: 4,16
 御蔵: FP 火力: 4,17
@@ -3925,6 +3953,13 @@ Luigi Torelli改: speed 速力: 5
 御蔵: AA 対空: 9,36
 御蔵: luck 運: 12,59
 御蔵: speed 速力: 5
+Perth: HP 耐久: 29,44
+Perth: Armor 装甲: 17,32
+Perth: FP 火力: 24,58
+Perth: Torp 雷装: 20,54
+Perth: AA 対空: 24,66
+Perth: luck 運: 12,55
+Perth: speed 速力: 10
 Grecale: HP 耐久: 15,30
 Grecale: Armor 装甲: 7,18
 Grecale: FP 火力: 9,26
@@ -3939,6 +3974,13 @@ Grecale: speed 速力: 10
 御蔵改: AA 対空: 16,60
 御蔵改: luck 運: 15,64
 御蔵改: speed 速力: 5
+Perth改: HP 耐久: 30,62
+Perth改: Armor 装甲: 27,68
+Perth改: FP 火力: 32,72
+Perth改: Torp 雷装: 24,72
+Perth改: AA 対空: 28,70
+Perth改: luck 運: 22,65
+Perth改: speed 速力: 10
 Grecale改: HP 耐久: 29,46
 Grecale改: Armor 装甲: 15,50
 Grecale改: FP 火力: 12,55
@@ -3946,6 +3988,20 @@ Grecale改: Torp 雷装: 18,68
 Grecale改: AA 対空: 36,80
 Grecale改: luck 運: 40,120
 Grecale改: speed 速力: 10
+神州丸: HP 耐久: 37,49
+神州丸: Armor 装甲: 9,35
+神州丸: FP 火力: 5,22
+神州丸: Torp 雷装: 0,0
+神州丸: AA 対空: 10,32
+神州丸: luck 運: 14,54
+神州丸: speed 速力: 5
+神州丸改: HP 耐久: 39,58
+神州丸改: Armor 装甲: 12,45
+神州丸改: FP 火力: 6,35
+神州丸改: Torp 雷装: 0,0
+神州丸改: AA 対空: 12,44
+神州丸改: luck 運: 18,68
+神州丸改: speed 速力: 5
 日振改: HP 耐久: 18,29
 日振改: Armor 装甲: 7,34
 日振改: FP 火力: 5,38
@@ -4438,3 +4494,14 @@ PT小鬼群: speed 速力: 10
 飛行場姫: speed 速力: 0
 飛行場姫: speed 速力: 0
 飛行場姫: speed 速力: 0
+重巡ネ級改: speed 速力: 10
+重巡ネ級改: speed 速力: 10
+重巡ネ級改: speed 速力: 10
+バタビア沖棲姫: speed 速力: 10
+バタビア沖棲姫: speed 速力: 10
+バタビア沖棲姫: speed 速力: 10
+バタビア沖棲姫-壊: speed 速力: 10
+バタビア沖棲姫-壊: speed 速力: 10
+バタビア沖棲姫-壊: speed 速力: 10
+軽巡ヘ級改: speed 速力: 10
+軽巡ヘ級改: speed 速力: 10

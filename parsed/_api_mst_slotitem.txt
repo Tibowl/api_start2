@@ -1960,6 +1960,19 @@ M4A1 DD: Rare レア: 4
 6inch 連装速射砲 Mk.XXI: Evas 砲撃回避: 1
 6inch 連装速射砲 Mk.XXI: Rare レア: 2
 6inch 連装速射砲 Mk.XXI: Range 射程: 2
+Bofors 15cm連装速射砲 Mk.9 Model 1938: FP 火力: 6
+Bofors 15cm連装速射砲 Mk.9 Model 1938: AA 対空: 5
+Bofors 15cm連装速射砲 Mk.9 Model 1938: Acc 砲撃命中: 3
+Bofors 15cm連装速射砲 Mk.9 Model 1938: Evas 砲撃回避: 2
+Bofors 15cm連装速射砲 Mk.9 Model 1938: Rare レア: 3
+Bofors 15cm連装速射砲 Mk.9 Model 1938: Range 射程: 2
+Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: FP 火力: 7
+Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: AA 対空: 6
+Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Armor 装甲: -1
+Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Acc 砲撃命中: 3
+Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Evas 砲撃回避: 3
+Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Rare レア: 4
+Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Range 射程: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -2442,3 +2455,13 @@ M4A1 DD: Rare レア: 4
 深海4.7inch砲 Mk.XII: Evas 砲撃回避: 6
 深海4.7inch砲 Mk.XII: Rare レア: 4
 深海4.7inch砲 Mk.XII: Range 射程: 1
+深海8inch連装速射砲: FP 火力: 10
+深海8inch連装速射砲: AA 対空: 2
+深海8inch連装速射砲: Acc 砲撃命中: 8
+深海8inch連装速射砲: Rare レア: 3
+深海8inch連装速射砲: Range 射程: 2
+深海8inch三連装砲 Mk.9: FP 火力: 12
+深海8inch三連装砲 Mk.9: AA 対空: 2
+深海8inch三連装砲 Mk.9: Acc 砲撃命中: 9
+深海8inch三連装砲 Mk.9: Rare レア: 4
+深海8inch三連装砲 Mk.9: Range 射程: 2

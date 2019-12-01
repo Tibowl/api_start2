@@ -394,4 +394,76 @@
     "api_opetext": "セレベス海戦闘哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 461,
+    "api_infotext": "「南方作戦」が開始された！<br>バリ島上陸作戦を実施、反撃<br>する敵水上艦隊を捕捉、これ<br>を撃滅せよ。駆逐隊、出撃！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 46,
+    "api_max_maphp": 300,
+    "api_name": "マカッサル沖/バリ島沖",
+    "api_no": 1,
+    "api_opetext": "八駆見参！バリ島沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 462,
+    "api_infotext": "「南方作戦」を推進するため<br>豪州ダーウィン基地とジャワ<br>沖の敵艦隊を攻撃、同方面に<br>おける敵戦力の漸減を図れ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 46,
+    "api_max_maphp": 300,
+    "api_name": "ジャワ沖/ダーウィン沖",
+    "api_no": 2,
+    "api_opetext": "強襲！第二次ジャワ沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 463,
+    "api_infotext": "いよいよ南方ジャワ島方面の<br>作戦を敢行する！巡洋艦戦力<br>を基幹とする艦隊を展開し、<br>敵艦隊戦力を捕捉撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 13,
+    "api_maparea_id": 46,
+    "api_max_maphp": 300,
+    "api_name": "ジャワ海/スラバヤ沖",
+    "api_no": 3,
+    "api_opetext": "激突！スラバヤ沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7, 0]
+}, {
+    "api_id": 464,
+    "api_infotext": "いよいよ決戦！バタビアへの<br>上陸作戦を実施、さらに敵深<br>海合同艦隊残存部隊を撃滅、<br>「南方作戦」を完遂せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 15,
+    "api_maparea_id": 46,
+    "api_max_maphp": 300,
+    "api_name": "バタビア沖",
+    "api_no": 4,
+    "api_opetext": "バタビア沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 0]
+}, {
+    "api_id": 465,
+    "api_infotext": "",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 46,
+    "api_max_maphp": 300,
+    "api_name": "",
+    "api_no": 5,
+    "api_opetext": "",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 0, 0]
+}, {
+    "api_id": 466,
+    "api_infotext": "",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 16,
+    "api_maparea_id": 46,
+    "api_max_maphp": 300,
+    "api_name": "",
+    "api_no": 6,
+    "api_opetext": "",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 0, 0]
 }]
