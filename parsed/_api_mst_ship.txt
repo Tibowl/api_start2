@@ -3757,6 +3757,13 @@ Johnston: speed 速力: 10
 黒潮改二: AA 対空: 20,65
 黒潮改二: luck 運: 22,81
 黒潮改二: speed 速力: 10
+平戸: HP 耐久: 9,18
+平戸: Armor 装甲: 4,16
+平戸: FP 火力: 4,18
+平戸: Torp 雷装: 0,0
+平戸: AA 対空: 7,28
+平戸: luck 運: 11,54
+平戸: speed 速力: 5
 Nelson: HP 耐久: 82,92
 Nelson: Armor 装甲: 74,92
 Nelson: FP 火力: 72,102
@@ -3897,6 +3904,13 @@ Fletcher: Torp 雷装: 20,60
 Fletcher: AA 対空: 32,62
 Fletcher: luck 運: 30,89
 Fletcher: speed 速力: 10
+Atlanta: HP 耐久: 27,41
+Atlanta: Armor 装甲: 15,29
+Atlanta: FP 火力: 16,38
+Atlanta: Torp 雷装: 22,66
+Atlanta: AA 対空: 80,120
+Atlanta: luck 運: 17,47
+Atlanta: speed 速力: 10
 赤城改二戊: HP 耐久: 81,97
 赤城改二戊: Armor 装甲: 42,81
 赤城改二戊: FP 火力: 0,67
@@ -3995,6 +4009,13 @@ Grecale改: speed 速力: 10
 神州丸: AA 対空: 10,32
 神州丸: luck 運: 14,54
 神州丸: speed 速力: 5
+秋霜: HP 耐久: 16,34
+秋霜: Armor 装甲: 6,19
+秋霜: FP 火力: 10,30
+秋霜: Torp 雷装: 24,69
+秋霜: AA 対空: 8,40
+秋霜: luck 運: 11,49
+秋霜: speed 速力: 10
 神州丸改: HP 耐久: 39,58
 神州丸改: Armor 装甲: 12,45
 神州丸改: FP 火力: 6,35
@@ -4030,6 +4051,13 @@ Samuel B.Roberts改: Torp 雷装: 24,70
 Samuel B.Roberts改: AA 対空: 28,60
 Samuel B.Roberts改: luck 運: 40,80
 Samuel B.Roberts改: speed 速力: 5
+平戸改: HP 耐久: 17,28
+平戸改: Armor 装甲: 7,33
+平戸改: FP 火力: 5,37
+平戸改: Torp 雷装: 0,0
+平戸改: AA 対空: 12,55
+平戸改: luck 運: 14,74
+平戸改: speed 速力: 5
 福江改: HP 耐久: 17,28
 福江改: Armor 装甲: 7,34
 福江改: FP 火力: 5,35
@@ -4093,6 +4121,20 @@ L.d.S.D.d.Abruzzi改: Torp 雷装: 22,70
 L.d.S.D.d.Abruzzi改: AA 対空: 24,70
 L.d.S.D.d.Abruzzi改: luck 運: 30,98
 L.d.S.D.d.Abruzzi改: speed 速力: 10
+秋霜改: HP 耐久: 32,49
+秋霜改: Armor 装甲: 14,49
+秋霜改: FP 火力: 11,50
+秋霜改: Torp 雷装: 28,80
+秋霜改: AA 対空: 15,50
+秋霜改: luck 運: 12,59
+秋霜改: speed 速力: 10
+Atlanta改: HP 耐久: 41,59
+Atlanta改: Armor 装甲: 27,61
+Atlanta改: FP 火力: 18,64
+Atlanta改: Torp 雷装: 22,70
+Atlanta改: AA 対空: 82,128
+Atlanta改: luck 運: 18,58
+Atlanta改: speed 速力: 10
 Janus改: HP 耐久: 31,47
 Janus改: Armor 装甲: 15,50
 Janus改: FP 火力: 14,53
@@ -4505,3 +4547,18 @@ PT小鬼群: speed 速力: 10
 バタビア沖棲姫-壊: speed 速力: 10
 軽巡ヘ級改: speed 速力: 10
 軽巡ヘ級改: speed 速力: 10
+空母棲姫改: speed 速力: 10
+空母棲姫改: speed 速力: 10
+空母棲姫改: speed 速力: 10
+防空巡棲姫: speed 速力: 10
+防空巡棲姫: speed 速力: 10
+防空巡棲姫: speed 速力: 10
+防空巡棲姫-壊: speed 速力: 10
+防空巡棲姫-壊: speed 速力: 10
+防空巡棲姫-壊: speed 速力: 10
+潜水棲姫改: speed 速力: 5
+潜水棲姫改: speed 速力: 5
+潜水棲姫改: speed 速力: 5
+潜水棲姫改-壊: speed 速力: 5
+潜水棲姫改-壊: speed 速力: 5
+潜水棲姫改-壊: speed 速力: 5

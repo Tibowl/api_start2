@@ -1973,6 +1973,19 @@ Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Acc 砲�
 Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Evas 砲撃回避: 3
 Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Rare レア: 4
 Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Range 射程: 2
+5inch連装両用砲(集中配備): FP 火力: 5
+5inch連装両用砲(集中配備): AA 対空: 11
+5inch連装両用砲(集中配備): Acc 砲撃命中: 2
+5inch連装両用砲(集中配備): Evas 砲撃回避: 2
+5inch連装両用砲(集中配備): Rare レア: 4
+5inch連装両用砲(集中配備): Range 射程: 2
+GFCS Mk.37+5inch連装両用砲(集中配備): FP 火力: 6
+GFCS Mk.37+5inch連装両用砲(集中配備): AA 対空: 14
+GFCS Mk.37+5inch連装両用砲(集中配備): LoS 索敵: 3
+GFCS Mk.37+5inch連装両用砲(集中配備): Acc 砲撃命中: 6
+GFCS Mk.37+5inch連装両用砲(集中配備): Evas 砲撃回避: 3
+GFCS Mk.37+5inch連装両用砲(集中配備): Rare レア: 5
+GFCS Mk.37+5inch連装両用砲(集中配備): Range 射程: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -2465,3 +2478,15 @@ Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938: Range �
 深海8inch三連装砲 Mk.9: Acc 砲撃命中: 9
 深海8inch三連装砲 Mk.9: Rare レア: 4
 深海8inch三連装砲 Mk.9: Range 射程: 2
+深海5inch連装両用砲(集中配備): FP 火力: 7
+深海5inch連装両用砲(集中配備): AA 対空: 18
+深海5inch連装両用砲(集中配備): Acc 砲撃命中: 7
+深海5inch連装両用砲(集中配備): Evas 砲撃回避: 3
+深海5inch連装両用砲(集中配備): Rare レア: 4
+深海5inch連装両用砲(集中配備): Range 射程: 2
+深海対空レーダーMark.III+FCS: AA 対空: 19
+深海対空レーダーMark.III+FCS: LoS 索敵: 13
+深海対空レーダーMark.III+FCS: ASW 対潜: 11
+深海対空レーダーMark.III+FCS: Acc 砲撃命中: 16
+深海対空レーダーMark.III+FCS: Evas 砲撃回避: 3
+深海対空レーダーMark.III+FCS: Rare レア: 5
