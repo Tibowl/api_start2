@@ -3988,7 +3988,7 @@ Grecale: speed 速力: 10
 御蔵改: AA 対空: 16,60
 御蔵改: luck 運: 15,64
 御蔵改: speed 速力: 5
-Perth改: HP 耐久: 30,62
+Perth改: HP 耐久: 45,62
 Perth改: Armor 装甲: 27,68
 Perth改: FP 火力: 32,72
 Perth改: Torp 雷装: 24,72
