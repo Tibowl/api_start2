@@ -12133,7 +12133,7 @@
     "api_map_n": [37, 189],
     "api_pa": [0, 0],
     "api_sortno": 399,
-    "api_version": ["52", "1", "1220"],
+    "api_version": ["53", "1", "1220"],
     "api_weda": [325, -1],
     "api_wedb": [73, 153]
 }, {
@@ -12196,7 +12196,7 @@
     "api_map_n": [37, 189],
     "api_pa": [0, 0],
     "api_sortno": 1494,
-    "api_version": ["52", "1", "1220"],
+    "api_version": ["53", "1", "1220"],
     "api_weda": [325, -1],
     "api_wedb": [73, 153]
 }, {
