@@ -2947,7 +2947,7 @@
         "api_season": 0,
         "api_title": "提督の麻雀卓",
         "api_type": 5,
-        "api_version": 6
+        "api_version": 7
     }, {
         "api_active_flag": 0,
         "api_description": "名産地から取り寄せた西瓜<br>です。もちろん、西瓜割り<br>用の棒とシートもご用意。<br>艦娘たちと提督の夏休みも<br>これでバッチリです！",
@@ -6601,7 +6601,7 @@
         "api_id": 186,
         "api_no": 22,
         "api_type": 5,
-        "api_version": "11"
+        "api_version": "12"
     }, {
         "api_filename": "036",
         "api_id": 199,
