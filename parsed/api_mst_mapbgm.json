@@ -229,4 +229,11 @@
     "api_maparea_id": 7,
     "api_moving_bgm": 43,
     "api_no": 2
+}, {
+    "api_boss_bgm": [153, 153],
+    "api_id": 471,
+    "api_map_bgm": [152, 152],
+    "api_maparea_id": 47,
+    "api_moving_bgm": 51,
+    "api_no": 1
 }]

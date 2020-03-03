@@ -4590,3 +4590,9 @@ PT小鬼群: speed 速力: 10
 潜水棲姫改-壊: speed 速力: 5
 潜水棲姫改-壊: speed 速力: 5
 潜水棲姫改-壊: speed 速力: 5
+集積地棲姫II: speed 速力: 0
+集積地棲姫II: speed 速力: 0
+集積地棲姫II: speed 速力: 0
+集積地棲姫II-壊: speed 速力: 0
+集積地棲姫II-壊: speed 速力: 0
+集積地棲姫II-壊: speed 速力: 0

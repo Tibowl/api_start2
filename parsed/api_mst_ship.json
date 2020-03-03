@@ -21634,4 +21634,58 @@
     "api_sort_id": 0,
     "api_stype": 13,
     "api_yomi": "flagship"
+}, {
+    "api_ctype": 1,
+    "api_id": 1921,
+    "api_name": "集積地棲姫II",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1922,
+    "api_name": "集積地棲姫II",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1923,
+    "api_name": "集積地棲姫II",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1924,
+    "api_name": "集積地棲姫II-壊",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1925,
+    "api_name": "集積地棲姫II-壊",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
+}, {
+    "api_ctype": 1,
+    "api_id": 1926,
+    "api_name": "集積地棲姫II-壊",
+    "api_slot_num": 4,
+    "api_soku": 0,
+    "api_sort_id": 0,
+    "api_stype": 10,
+    "api_yomi": ""
 }]
