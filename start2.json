@@ -4984,7 +4984,7 @@
         "api_season": 0,
         "api_title": "桜の和のアレンジメント",
         "api_type": 3,
-        "api_version": 4
+        "api_version": 5
     }, {
         "api_active_flag": 1,
         "api_description": "提督のおかげで迎えること<br>ができた「祝四周年」を記<br>念して特型駆逐艦四番艦と<br>その姉妹艦たちが制作した<br>記念のスペシャル掛け軸！",
@@ -7042,7 +7042,7 @@
         "api_id": 342,
         "api_no": 70,
         "api_type": 3,
-        "api_version": "13"
+        "api_version": "14"
     }, {
         "api_filename": "072",
         "api_id": 343,
