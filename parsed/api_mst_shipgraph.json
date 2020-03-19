@@ -11591,6 +11591,27 @@
     "api_weda": [277, -10],
     "api_wedb": [97, 142]
 }, {
+    "api_battle_d": [138, 183],
+    "api_battle_n": [79, 165],
+    "api_boko_d": [72, 184],
+    "api_boko_n": [40, 160],
+    "api_ensyue_n": [37, 0],
+    "api_ensyuf_d": [94, 145],
+    "api_ensyuf_n": [28, 126],
+    "api_filename": "gjbesgkiczwy",
+    "api_id": 569,
+    "api_kaisyu_d": [45, 1],
+    "api_kaisyu_n": [9, -16],
+    "api_kaizo_d": [52, 49],
+    "api_kaizo_n": [27, 58],
+    "api_map_d": [97, 154],
+    "api_map_n": [39, 129],
+    "api_pa": [0, 0],
+    "api_sortno": 369,
+    "api_version": ["51", "1", "313"],
+    "api_weda": [315, 27],
+    "api_wedb": [126, 175]
+}, {
     "api_battle_d": [237, 247],
     "api_battle_n": [237, 247],
     "api_boko_d": [177, 270],

@@ -494,6 +494,9 @@
         "api_equip_type": [1, 5, 12, 14, 15, 17, 20, 21, 23, 27, 29, 30, 33, 36, 37, 39, 43, 46],
         "api_ship_id": 568
     }, {
+        "api_equip_type": [1, 5, 12, 14, 15, 17, 20, 21, 23, 27, 29, 30, 33, 36, 37, 39, 43, 46],
+        "api_ship_id": 569
+    }, {
         "api_equip_type": [2, 3, 4, 10, 12, 13, 16, 17, 18, 19, 20, 21, 23, 25, 28, 29, 33, 34, 36, 37, 38, 39, 40, 42, 43, 45, 46, 93],
         "api_ship_id": 573
     }, {
@@ -4984,7 +4987,7 @@
         "api_season": 0,
         "api_title": "桜の和のアレンジメント",
         "api_type": 3,
-        "api_version": 5
+        "api_version": 6
     }, {
         "api_active_flag": 1,
         "api_description": "提督のおかげで迎えること<br>ができた「祝四周年」を記<br>念して特型駆逐艦四番艦と<br>その姉妹艦たちが制作した<br>記念のスペシャル掛け軸！",
@@ -6688,6 +6691,19 @@
         "api_title": "ホワイトデーの壁飾り",
         "api_type": 3,
         "api_version": 1
+    }, {
+        "api_active_flag": 0,
+        "api_description": "遂に改二改装を迎えた主力<br>オブ主力の駆逐艦娘の私物<br>小物棚です。<br>季節によって、内容が少し<br>かわるかもしれませんね。",
+        "api_id": 474,
+        "api_no": 103,
+        "api_outside_id": 0,
+        "api_price": 11130,
+        "api_rarity": 5,
+        "api_saleflg": 0,
+        "api_season": 0,
+        "api_title": "「沖に立つ波」私物棚",
+        "api_type": 3,
+        "api_version": 1
     }],
     "api_mst_furnituregraph": [{
         "api_filename": "006",
@@ -7042,7 +7058,7 @@
         "api_id": 342,
         "api_no": 70,
         "api_type": 3,
-        "api_version": "14"
+        "api_version": "15"
     }, {
         "api_filename": "072",
         "api_id": 343,
@@ -19428,10 +19444,10 @@
         "api_voicef": 3,
         "api_yomi": "ザラ"
     }, {
-        "api_afterbull": 0,
-        "api_afterfuel": 0,
-        "api_afterlv": 0,
-        "api_aftershipid": "0",
+        "api_afterbull": 390,
+        "api_afterfuel": 390,
+        "api_afterlv": 79,
+        "api_aftershipid": "569",
         "api_backs": 5,
         "api_broken": [1, 2, 10, 0],
         "api_buildtime": 24,
@@ -25286,6 +25302,36 @@
         "api_tyku": [20, 65],
         "api_voicef": 1,
         "api_yomi": "くろしお"
+    }, {
+        "api_afterbull": 0,
+        "api_afterfuel": 0,
+        "api_afterlv": 0,
+        "api_aftershipid": "0",
+        "api_backs": 7,
+        "api_broken": [1, 2, 10, 0],
+        "api_buildtime": 24,
+        "api_bull_max": 20,
+        "api_ctype": 38,
+        "api_fuel_max": 15,
+        "api_getmes": "<br>",
+        "api_houg": [18, 65],
+        "api_id": 569,
+        "api_leng": 1,
+        "api_luck": [22, 88],
+        "api_maxeq": [0, 0, 0, 0, 0],
+        "api_name": "沖波改二",
+        "api_powup": [2, 2, 1, 1],
+        "api_raig": [30, 87],
+        "api_slot_num": 3,
+        "api_soku": 10,
+        "api_sort_id": 16336,
+        "api_sortno": 369,
+        "api_souk": [15, 53],
+        "api_stype": 2,
+        "api_taik": [33, 57],
+        "api_tyku": [18, 71],
+        "api_voicef": 3,
+        "api_yomi": "おきなみ"
     }, {
         "api_afterbull": 105,
         "api_afterfuel": 75,
@@ -42451,6 +42497,27 @@
         "api_weda": [277, -10],
         "api_wedb": [97, 142]
     }, {
+        "api_battle_d": [138, 183],
+        "api_battle_n": [79, 165],
+        "api_boko_d": [72, 184],
+        "api_boko_n": [40, 160],
+        "api_ensyue_n": [37, 0],
+        "api_ensyuf_d": [94, 145],
+        "api_ensyuf_n": [28, 126],
+        "api_filename": "gjbesgkiczwy",
+        "api_id": 569,
+        "api_kaisyu_d": [45, 1],
+        "api_kaisyu_n": [9, -16],
+        "api_kaizo_d": [52, 49],
+        "api_kaizo_n": [27, 58],
+        "api_map_d": [97, 154],
+        "api_map_n": [39, 129],
+        "api_pa": [0, 0],
+        "api_sortno": 369,
+        "api_version": ["51", "1", "313"],
+        "api_weda": [315, 27],
+        "api_wedb": [126, 175]
+    }, {
         "api_battle_d": [237, 247],
         "api_battle_n": [237, 247],
         "api_boko_d": [177, 270],
@@ -48971,6 +49038,17 @@
     }, {
         "api_aviation_mat_count": 0,
         "api_catapult_count": 0,
+        "api_current_ship_id": 452,
+        "api_drawing_count": 0,
+        "api_id": 359,
+        "api_original_ship_id": 452,
+        "api_report_count": 0,
+        "api_sortno": 1439,
+        "api_upgrade_level": 1,
+        "api_upgrade_type": 1
+    }, {
+        "api_aviation_mat_count": 0,
+        "api_catapult_count": 0,
         "api_current_ship_id": 526,
         "api_drawing_count": 0,
         "api_id": 380,
@@ -49153,6 +49231,17 @@
         "api_original_ship_id": 448,
         "api_report_count": 0,
         "api_sortno": 248,
+        "api_upgrade_level": 0,
+        "api_upgrade_type": 1
+    }, {
+        "api_aviation_mat_count": 0,
+        "api_catapult_count": 0,
+        "api_current_ship_id": 0,
+        "api_drawing_count": 0,
+        "api_id": 452,
+        "api_original_ship_id": 452,
+        "api_report_count": 0,
+        "api_sortno": 252,
         "api_upgrade_level": 0,
         "api_upgrade_type": 1
     }, {
@@ -49692,6 +49781,17 @@
         "api_original_ship_id": 19,
         "api_report_count": 0,
         "api_sortno": 368,
+        "api_upgrade_level": 2,
+        "api_upgrade_type": 1
+    }, {
+        "api_aviation_mat_count": 0,
+        "api_catapult_count": 0,
+        "api_current_ship_id": 359,
+        "api_drawing_count": 1,
+        "api_id": 569,
+        "api_original_ship_id": 452,
+        "api_report_count": 1,
+        "api_sortno": 369,
         "api_upgrade_level": 2,
         "api_upgrade_type": 1
     }, {
