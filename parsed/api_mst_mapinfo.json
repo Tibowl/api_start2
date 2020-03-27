@@ -394,16 +394,4 @@
     "api_opetext": "セレベス海戦闘哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 471,
-    "api_infotext": "比島方面への深海侵攻部隊を<br>迎撃する！同方面へ救援物資<br>を輸送、敵物資集積地を破砕<br>及び敵主力を捜索撃滅せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 13,
-    "api_maparea_id": 47,
-    "api_max_maphp": 300,
-    "api_name": "期間限定海域:マニラ沖",
-    "api_no": 1,
-    "api_opetext": "桃の節句！沖に立つ波",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 0]
 }]

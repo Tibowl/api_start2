@@ -2001,6 +2001,24 @@ GFCS Mk.37+5inch連装両用砲(集中配備): Range 射程: 2
 12.7cm連装砲D型改三: Evas 砲撃回避: 2
 12.7cm連装砲D型改三: Rare レア: 4
 12.7cm連装砲D型改三: Range 射程: 1
+Swordfish(水上機型): FP 火力: 2
+Swordfish(水上機型): Torp 雷装: 5
+Swordfish(水上機型): Dive 爆撃: 5
+Swordfish(水上機型): LoS 索敵: 2
+Swordfish(水上機型): ASW 対潜: 4
+Swordfish(水上機型): Acc 砲撃命中: 1
+Swordfish(水上機型): Rare レア: 3
+Swordfish(水上機型): Cost: 5
+Swordfish(水上機型): Dist: 3
+Swordfish Mk.III改(水上機型): FP 火力: 4
+Swordfish Mk.III改(水上機型): Torp 雷装: 6
+Swordfish Mk.III改(水上機型): Dive 爆撃: 7
+Swordfish Mk.III改(水上機型): LoS 索敵: 3
+Swordfish Mk.III改(水上機型): ASW 対潜: 7
+Swordfish Mk.III改(水上機型): Acc 砲撃命中: 2
+Swordfish Mk.III改(水上機型): Rare レア: 4
+Swordfish Mk.III改(水上機型): Cost: 6
+Swordfish Mk.III改(水上機型): Dist: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
