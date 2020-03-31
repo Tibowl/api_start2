@@ -2019,6 +2019,31 @@ Swordfish Mk.III改(水上機型): Acc 砲撃命中: 2
 Swordfish Mk.III改(水上機型): Rare レア: 4
 Swordfish Mk.III改(水上機型): Cost: 6
 Swordfish Mk.III改(水上機型): Dist: 3
+Swordfish Mk.III改(水上機型/熟練): FP 火力: 4
+Swordfish Mk.III改(水上機型/熟練): Torp 雷装: 7
+Swordfish Mk.III改(水上機型/熟練): Dive 爆撃: 8
+Swordfish Mk.III改(水上機型/熟練): LoS 索敵: 4
+Swordfish Mk.III改(水上機型/熟練): ASW 対潜: 8
+Swordfish Mk.III改(水上機型/熟練): Acc 砲撃命中: 3
+Swordfish Mk.III改(水上機型/熟練): Rare レア: 5
+Swordfish Mk.III改(水上機型/熟練): Cost: 5
+Swordfish Mk.III改(水上機型/熟練): Dist: 3
+Swordfish Mk.II改(水偵型): FP 火力: 1
+Swordfish Mk.II改(水偵型): LoS 索敵: 5
+Swordfish Mk.II改(水偵型): ASW 対潜: 6
+Swordfish Mk.II改(水偵型): Acc 砲撃命中: 2
+Swordfish Mk.II改(水偵型): Rare レア: 4
+Swordfish Mk.II改(水偵型): Cost: 5
+Swordfish Mk.II改(水偵型): Dist: 3
+Fairey Seafox改: FP 火力: 2
+Fairey Seafox改: AA 対空: 1
+Fairey Seafox改: LoS 索敵: 6
+Fairey Seafox改: ASW 対潜: 3
+Fairey Seafox改: Acc 砲撃命中: 2
+Fairey Seafox改: Evas 砲撃回避: 1
+Fairey Seafox改: Rare レア: 4
+Fairey Seafox改: Cost: 6
+Fairey Seafox改: Dist: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
