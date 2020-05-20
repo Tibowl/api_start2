@@ -2046,6 +2046,13 @@ Fairey Seafox改: Evas 砲撃回避: 1
 Fairey Seafox改: Rare レア: 4
 Fairey Seafox改: Cost: 6
 Fairey Seafox改: Dist: 3
+天山一二型甲: Torp 雷装: 9
+天山一二型甲: AA 対空: 1
+天山一二型甲: LoS 索敵: 2
+天山一二型甲: ASW 対潜: 4
+天山一二型甲: Rare レア: 3
+天山一二型甲: Cost: 7
+天山一二型甲: Dist: 5
 天山一二型甲改(空六号電探改装備機): Torp 雷装: 11
 天山一二型甲改(空六号電探改装備機): AA 対空: 1
 天山一二型甲改(空六号電探改装備機): LoS 索敵: 5
@@ -2068,6 +2075,20 @@ XF5U: Evas 砲撃回避: 2
 XF5U: Rare レア: 6
 XF5U: Cost: 12
 XF5U: Dist: 4
+533mm五連装魚雷(後期型): FP 火力: 1
+533mm五連装魚雷(後期型): Torp 雷装: 11
+533mm五連装魚雷(後期型): Armor 装甲: 1
+533mm五連装魚雷(後期型): Evas 砲撃回避: 1
+533mm五連装魚雷(後期型): Rare レア: 3
+533mm五連装魚雷(後期型): Range 射程: 1
+RUR-4A Weapon Alpha改: Armor 装甲: 1
+RUR-4A Weapon Alpha改: ASW 対潜: 17
+RUR-4A Weapon Alpha改: Acc 砲撃命中: 1
+RUR-4A Weapon Alpha改: Evas 砲撃回避: 1
+RUR-4A Weapon Alpha改: Rare レア: 5
+対潜短魚雷(試作初期型): Torp 雷装: 2
+対潜短魚雷(試作初期型): ASW 対潜: 20
+対潜短魚雷(試作初期型): Rare レア: 6
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2

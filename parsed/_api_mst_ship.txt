@@ -4065,6 +4065,20 @@ Grecale改: speed 速力: 10
 敷波改二: AA 対空: 16,62
 敷波改二: luck 運: 30,80
 敷波改二: speed 速力: 10
+Fletcher改 Mod.2: HP 耐久: 37,56
+Fletcher改 Mod.2: Armor 装甲: 17,54
+Fletcher改 Mod.2: FP 火力: 16,60
+Fletcher改 Mod.2: Torp 雷装: 29,86
+Fletcher改 Mod.2: AA 対空: 45,92
+Fletcher改 Mod.2: luck 運: 47,113
+Fletcher改 Mod.2: speed 速力: 10
+Fletcher Mk.II: HP 耐久: 38,57
+Fletcher Mk.II: Armor 装甲: 17,56
+Fletcher Mk.II: FP 火力: 16,62
+Fletcher Mk.II: Torp 雷装: 0,82
+Fletcher Mk.II: AA 対空: 50,95
+Fletcher Mk.II: luck 運: 47,113
+Fletcher Mk.II: speed 速力: 10
 Gotland andra: HP 耐久: 47,67
 Gotland andra: Armor 装甲: 22,67
 Gotland andra: FP 火力: 16,60
