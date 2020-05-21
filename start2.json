@@ -254,7 +254,7 @@
     }],
     "api_mst_const": {
         "api_boko_max_ships": {
-            "api_int_value": 440,
+            "api_int_value": 450,
             "api_string_value": ""
         },
         "api_dpflag_quest": {
@@ -43216,7 +43216,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 362,
-        "api_version": ["54", "1", "520"],
+        "api_version": ["55", "1", "520"],
         "api_weda": [223, -21],
         "api_wedb": [112, 165]
     }, {
@@ -44602,7 +44602,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1489,
-        "api_version": ["54", "1", "520"],
+        "api_version": ["55", "1", "520"],
         "api_weda": [223, -21],
         "api_wedb": [112, 165]
     }, {
