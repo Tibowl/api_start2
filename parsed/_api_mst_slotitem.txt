@@ -2109,6 +2109,12 @@ RUR-4A Weapon Alpha改: Rare レア: 5
 16inch三連装砲 Mk.6: Acc 砲撃命中: 2
 16inch三連装砲 Mk.6: Rare レア: 3
 16inch三連装砲 Mk.6: Range 射程: 3
+12cm単装高角砲E型: FP 火力: 1
+12cm単装高角砲E型: AA 対空: 3
+12cm単装高角砲E型: ASW 対潜: 1
+12cm単装高角砲E型: Evas 砲撃回避: 2
+12cm単装高角砲E型: Rare レア: 2
+12cm単装高角砲E型: Range 射程: 1
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
