@@ -6303,4 +6303,30 @@
     "api_title": "「Lucky 13」Desk",
     "api_type": 4,
     "api_version": 1
+}, {
+    "api_active_flag": 0,
+    "api_description": "※",
+    "api_id": 486,
+    "api_no": 69,
+    "api_outside_id": 4,
+    "api_price": 113000,
+    "api_rarity": 5,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "父島の木格子窓",
+    "api_type": 2,
+    "api_version": 1
+}, {
+    "api_active_flag": 0,
+    "api_description": "※",
+    "api_id": 487,
+    "api_no": 106,
+    "api_outside_id": 0,
+    "api_price": 70000,
+    "api_rarity": 6,
+    "api_saleflg": 0,
+    "api_season": 0,
+    "api_title": "「小笠原要塞」掛け軸",
+    "api_type": 3,
+    "api_version": 1
 }]
