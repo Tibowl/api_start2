@@ -2127,6 +2127,12 @@ RUR-4A Weapon Alpha改: Rare レア: 5
 後期型潜水艦搭載電探&逆探: Acc 砲撃命中: 4
 後期型潜水艦搭載電探&逆探: Evas 砲撃回避: 13
 後期型潜水艦搭載電探&逆探: Rare レア: 5
+16inch三連装砲 Mk.6 mod.2: FP 火力: 23
+16inch三連装砲 Mk.6 mod.2: AA 対空: 2
+16inch三連装砲 Mk.6 mod.2: Armor 装甲: 2
+16inch三連装砲 Mk.6 mod.2: Acc 砲撃命中: 3
+16inch三連装砲 Mk.6 mod.2: Rare レア: 4
+16inch三連装砲 Mk.6 mod.2: Range 射程: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
