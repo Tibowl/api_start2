@@ -394,4 +394,88 @@
     "api_opetext": "セレベス海戦闘哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 481,
+    "api_infotext": "我が本土周辺の島嶼防衛強化<br>の一環として千島列島方面へ<br>兵站輸送を実施！敵潜警戒も<br>十分に！キ504船団、抜錨！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 48,
+    "api_max_maphp": 300,
+    "api_name": "オホーツク海千島列島沖",
+    "api_no": 1,
+    "api_opetext": "鎮魂、キ504船団",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 482,
+    "api_infotext": "南西諸島沖縄方面の島嶼防衛<br>作戦を発動する！連合艦隊を<br>もって、同方面に侵攻する敵<br>を迎撃、敵戦力を撃破せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 48,
+    "api_max_maphp": 300,
+    "api_name": "南西諸島沖",
+    "api_no": 2,
+    "api_opetext": "瀬底島、その先へ――",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [0, 7, 0]
+}, {
+    "api_id": 483,
+    "api_infotext": "五島列島沖の海底に謎の動き<br>が観測された。また、敵機動<br>部隊も接近中だ。深海艦隊を<br>捜索、これを捕捉撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 12,
+    "api_maparea_id": 48,
+    "api_max_maphp": 300,
+    "api_name": "四国沖/九州西方五島列島沖",
+    "api_no": 3,
+    "api_opetext": "五島列島沖海底の祈り",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 0]
+}, {
+    "api_id": 484,
+    "api_infotext": "敵侵攻に備え、小笠原諸島の<br>島嶼要塞群防衛力強化の為、<br>輸送部隊を投入する。敵艦隊<br>の動向にも十分注意せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 48,
+    "api_max_maphp": 300,
+    "api_name": "小笠原諸島沖",
+    "api_no": 4,
+    "api_opetext": "反転！敵任務部隊を撃て！",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 0]
+}, {
+    "api_id": 485,
+    "api_infotext": "#E5作戦内容",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 48,
+    "api_max_maphp": 300,
+    "api_name": "#E5",
+    "api_no": 5,
+    "api_opetext": "#E5作戦名",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 486,
+    "api_infotext": "#E6作戦内容",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 48,
+    "api_max_maphp": 300,
+    "api_name": "#E6",
+    "api_no": 6,
+    "api_opetext": "#E6作戦名",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 487,
+    "api_infotext": "#E7作戦内容",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 48,
+    "api_max_maphp": 300,
+    "api_name": "#E7",
+    "api_no": 7,
+    "api_opetext": "#E7作戦名",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
 }]
