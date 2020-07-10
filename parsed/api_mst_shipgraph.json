@@ -3185,7 +3185,7 @@
     "api_pa": [0, 0],
     "api_pab": [0, 0],
     "api_sortno": 145,
-    "api_version": ["60", "55", "520"],
+    "api_version": ["60", "55", "710"],
     "api_weda": [183, 126],
     "api_wedb": [205, 210]
 }, {
@@ -10819,7 +10819,7 @@
     "api_pa": [0, 0],
     "api_pab": [0, 0],
     "api_sortno": 297,
-    "api_version": ["43", "44", "701"],
+    "api_version": ["43", "44", "710"],
     "api_weda": [256, 30],
     "api_wedb": [138, 159]
 }, {
