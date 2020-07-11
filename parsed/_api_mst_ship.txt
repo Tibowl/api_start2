@@ -3946,6 +3946,20 @@ Colorado: Torp 雷装: 0,0
 Colorado: AA 対空: 28,90
 Colorado: luck 運: 30,99
 Colorado: speed 速力: 5
+South Dakota: HP 耐久: 79,92
+South Dakota: Armor 装甲: 77,93
+South Dakota: FP 火力: 81,100
+South Dakota: Torp 雷装: 0,0
+South Dakota: AA 対空: 40,91
+South Dakota: luck 運: 20,79
+South Dakota: speed 速力: 10
+Hornet: HP 耐久: 67,84
+Hornet: Armor 装甲: 38,65
+Hornet: FP 火力: 0,45
+Hornet: Torp 雷装: 0,0
+Hornet: AA 対空: 32,72
+Hornet: luck 運: 28,67
+Hornet: speed 速力: 10
 De Ruyter: HP 耐久: 28,43
 De Ruyter: Armor 装甲: 15,31
 De Ruyter: FP 火力: 21,50
@@ -3988,6 +4002,13 @@ De Ruyter改: speed 速力: 10
 御蔵: AA 対空: 9,36
 御蔵: luck 運: 12,59
 御蔵: speed 速力: 5
+屋代: HP 耐久: 9,18
+屋代: Armor 装甲: 4,16
+屋代: FP 火力: 4,16
+屋代: Torp 雷装: 0,0
+屋代: AA 対空: 9,37
+屋代: luck 運: 20,80
+屋代: speed 速力: 5
 Perth: HP 耐久: 29,44
 Perth: Armor 装甲: 17,32
 Perth: FP 火力: 24,58
@@ -4002,6 +4023,13 @@ Grecale: Torp 雷装: 22,57
 Grecale: AA 対空: 10,40
 Grecale: luck 運: 14,90
 Grecale: speed 速力: 10
+Helena: HP 耐久: 39,56
+Helena: Armor 装甲: 17,40
+Helena: FP 火力: 30,60
+Helena: Torp 雷装: 0,32
+Helena: AA 対空: 30,72
+Helena: luck 運: 9,59
+Helena: speed 速力: 10
 御蔵改: HP 耐久: 17,28
 御蔵改: Armor 装甲: 7,33
 御蔵改: FP 火力: 5,37
@@ -4009,6 +4037,13 @@ Grecale: speed 速力: 10
 御蔵改: AA 対空: 16,60
 御蔵改: luck 運: 15,64
 御蔵改: speed 速力: 5
+屋代改: HP 耐久: 17,28
+屋代改: Armor 装甲: 7,33
+屋代改: FP 火力: 5,36
+屋代改: Torp 雷装: 0,0
+屋代改: AA 対空: 16,62
+屋代改: luck 運: 30,98
+屋代改: speed 速力: 5
 Perth改: HP 耐久: 45,62
 Perth改: Armor 装甲: 27,68
 Perth改: FP 火力: 32,72
@@ -4023,6 +4058,13 @@ Grecale改: Torp 雷装: 18,68
 Grecale改: AA 対空: 36,80
 Grecale改: luck 運: 40,120
 Grecale改: speed 速力: 10
+Helena改: HP 耐久: 53,67
+Helena改: Armor 装甲: 27,69
+Helena改: FP 火力: 36,78
+Helena改: Torp 雷装: 0,38
+Helena改: AA 対空: 40,86
+Helena改: luck 運: 13,69
+Helena改: speed 速力: 10
 神州丸: HP 耐久: 37,49
 神州丸: Armor 装甲: 9,35
 神州丸: FP 火力: 5,22
@@ -4100,6 +4142,13 @@ Gotland andra: speed 速力: 10
 薄雲: AA 対空: 10,39
 薄雲: luck 運: 7,49
 薄雲: speed 速力: 10
+有明: HP 耐久: 16,31
+有明: Armor 装甲: 6,19
+有明: FP 火力: 10,29
+有明: Torp 雷装: 27,70
+有明: AA 対空: 8,38
+有明: luck 運: 10,49
+有明: speed 速力: 10
 迅鯨: HP 耐久: 32,48
 迅鯨: Armor 装甲: 5,28
 迅鯨: FP 火力: 6,32
@@ -4247,6 +4296,13 @@ Atlanta改: Torp 雷装: 22,70
 Atlanta改: AA 対空: 82,128
 Atlanta改: luck 運: 18,58
 Atlanta改: speed 速力: 10
+South Dakota改: HP 耐久: 91,100
+South Dakota改: Armor 装甲: 86,108
+South Dakota改: FP 火力: 86,109
+South Dakota改: Torp 雷装: 0,0
+South Dakota改: AA 対空: 58,108
+South Dakota改: luck 運: 36,98
+South Dakota改: speed 速力: 10
 薄雲改: HP 耐久: 30,49
 薄雲改: Armor 装甲: 13,49
 薄雲改: FP 火力: 12,49
@@ -4268,6 +4324,20 @@ Atlanta改: speed 速力: 10
 松改: AA 対空: 30,74
 松改: luck 運: 18,68
 松改: speed 速力: 10
+有明改: HP 耐久: 30,48
+有明改: Armor 装甲: 12,49
+有明改: FP 火力: 7,48
+有明改: Torp 雷装: 20,78
+有明改: AA 対空: 12,54
+有明改: luck 運: 12,59
+有明改: speed 速力: 10
+Hornet改: HP 耐久: 81,92
+Hornet改: Armor 装甲: 45,84
+Hornet改: FP 火力: 0,55
+Hornet改: Torp 雷装: 0,0
+Hornet改: AA 対空: 42,86
+Hornet改: luck 運: 30,80
+Hornet改: speed 速力: 10
 Janus改: HP 耐久: 31,47
 Janus改: Armor 装甲: 15,50
 Janus改: FP 火力: 14,53
@@ -4727,3 +4797,29 @@ PT小鬼群: speed 速力: 10
 駆逐林棲姫-壊: speed 速力: 5
 駆逐ナ級後期型II: speed 速力: 10
 駆逐ナ級後期型II: speed 速力: 10
+重巡ネ級改 夏mode: speed 速力: 10
+重巡ネ級改 夏mode: speed 速力: 10
+重巡ネ級改 夏mode: speed 速力: 10
+重巡ネ級改II 夏mode: speed 速力: 10
+軽巡棲姫II: speed 速力: 10
+軽巡棲姫II: speed 速力: 10
+軽巡棲姫II: speed 速力: 10
+軽巡棲姫II: speed 速力: 10
+空母夏姫: speed 速力: 10
+空母夏姫: speed 速力: 10
+空母夏姫: speed 速力: 10
+空母夏姫II: speed 速力: 10
+南方戦艦新棲姫: speed 速力: 10
+南方戦艦新棲姫: speed 速力: 10
+南方戦艦新棲姫: speed 速力: 10
+南方戦艦新棲姫-壊: speed 速力: 10
+南方戦艦新棲姫-壊: speed 速力: 10
+南方戦艦新棲姫-壊: speed 速力: 10
+南太平洋空母棲姫: speed 速力: 10
+南太平洋空母棲姫: speed 速力: 10
+南太平洋空母棲姫: speed 速力: 10
+南太平洋空母棲姫-壊: speed 速力: 10
+南太平洋空母棲姫-壊: speed 速力: 10
+南太平洋空母棲姫-壊: speed 速力: 10
+潜水夏姫II: speed 速力: 5
+潜水夏姫II: speed 速力: 5

@@ -2133,6 +2133,19 @@ RUR-4A Weapon Alpha改: Rare レア: 5
 16inch三連装砲 Mk.6 mod.2: Acc 砲撃命中: 3
 16inch三連装砲 Mk.6 mod.2: Rare レア: 4
 16inch三連装砲 Mk.6 mod.2: Range 射程: 3
+6inch三連装速射砲 Mk.16: FP 火力: 7
+6inch三連装速射砲 Mk.16: AA 対空: 2
+6inch三連装速射砲 Mk.16: Armor 装甲: 1
+6inch三連装速射砲 Mk.16: Acc 砲撃命中: 2
+6inch三連装速射砲 Mk.16: Rare レア: 3
+6inch三連装速射砲 Mk.16: Range 射程: 2
+6inch三連装速射砲 Mk.16 mod.2: FP 火力: 8
+6inch三連装速射砲 Mk.16 mod.2: AA 対空: 3
+6inch三連装速射砲 Mk.16 mod.2: Armor 装甲: 1
+6inch三連装速射砲 Mk.16 mod.2: Acc 砲撃命中: 4
+6inch三連装速射砲 Mk.16 mod.2: Evas 砲撃回避: 1
+6inch三連装速射砲 Mk.16 mod.2: Rare レア: 4
+6inch三連装速射砲 Mk.16 mod.2: Range 射程: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -2665,3 +2678,14 @@ RUR-4A Weapon Alpha改: Rare レア: 5
 深海5inch連装高角砲改二: Evas 砲撃回避: 2
 深海5inch連装高角砲改二: Rare レア: 4
 深海5inch連装高角砲改二: Range 射程: 1
+深海夜間航空作戦装備: FP 火力: 3
+深海夜間航空作戦装備: Acc 砲撃命中: 3
+深海夜間航空作戦装備: Rare レア: 4
+深海夜間航空作戦装備: Range 射程: 4
+深海16inch三連装砲 Mk6: FP 火力: 25
+深海16inch三連装砲 Mk6: AA 対空: 3
+深海16inch三連装砲 Mk6: Armor 装甲: 3
+深海16inch三連装砲 Mk6: Acc 砲撃命中: 25
+深海16inch三連装砲 Mk6: Evas 砲撃回避: 4
+深海16inch三連装砲 Mk6: Rare レア: 4
+深海16inch三連装砲 Mk6: Range 射程: 3
