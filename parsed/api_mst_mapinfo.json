@@ -444,38 +444,38 @@
     "api_sally_flag": [1, 7, 0]
 }, {
     "api_id": 485,
-    "api_infotext": "#E5作戦内容",
+    "api_infotext": "南方戦線での島嶼部海上輸送<br>作戦を実施する！コロンバン<br>ガラ島周辺の制海権を確保、<br>ツルブへの輸送を実施せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 13,
     "api_maparea_id": 48,
     "api_max_maphp": 300,
-    "api_name": "#E5",
+    "api_name": "ニューブリテン島沖 ソロモン諸島西部沖",
     "api_no": 5,
-    "api_opetext": "#E5作戦名",
+    "api_opetext": "南方戦線 島嶼海上輸送作戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 0]
 }, {
     "api_id": 486,
-    "api_infotext": "#E6作戦内容",
+    "api_infotext": "ソロモン諸島周辺に敵の新型<br>戦艦が投入された！同海域の<br>制海権を確保するため、水上<br>打撃部隊を投入する。抜錨！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 15,
     "api_maparea_id": 48,
     "api_max_maphp": 300,
-    "api_name": "#E6",
+    "api_name": "ソロモン諸島沖",
     "api_no": 6,
-    "api_opetext": "#E6作戦名",
+    "api_opetext": "鉄底海峡の死闘",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [0, 7, 0]
 }, {
     "api_id": 487,
-    "api_infotext": "#E7作戦内容",
+    "api_infotext": "遂に敵は虎の子たる空母機動<br>部隊を南方に投入してきた！<br>我が機動部隊精鋭全力でこれ<br>を邀撃！雌雄を決する！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 17,
     "api_maparea_id": 48,
     "api_max_maphp": 300,
-    "api_name": "#E7",
+    "api_name": "ソロモン諸島沖 サンタ・クルーズ諸島沖",
     "api_no": 7,
-    "api_opetext": "#E7作戦名",
+    "api_opetext": "決戦！南太平洋海戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 0]
 }]
