@@ -2146,6 +2146,15 @@ RUR-4A Weapon Alpha改: Rare レア: 5
 6inch三連装速射砲 Mk.16 mod.2: Evas 砲撃回避: 1
 6inch三連装速射砲 Mk.16 mod.2: Rare レア: 4
 6inch三連装速射砲 Mk.16 mod.2: Range 射程: 2
+銀河(江草隊): Torp 雷装: 15
+銀河(江草隊): AA 対空: 3
+銀河(江草隊): Dive 爆撃: 15
+銀河(江草隊): LoS 索敵: 4
+銀河(江草隊): ASW 対潜: 4
+銀河(江草隊): Acc 砲撃命中: 3
+銀河(江草隊): Rare レア: 5
+銀河(江草隊): Cost: 13
+銀河(江草隊): Dist: 7
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
