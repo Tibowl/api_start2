@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ..
+cd apistart2
 if [ -f raw.json ]; then
     echo "Beautify..."
     rm parsed/*
