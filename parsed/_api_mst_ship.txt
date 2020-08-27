@@ -2401,7 +2401,7 @@ Zara改: speed 速力: 10
 沖波改: speed 速力: 10
 Iowa改: HP 耐久: 92,103
 Iowa改: Armor 装甲: 89,107
-Iowa改: FP 火力: 90,115
+Iowa改: FP 火力: 90,116
 Iowa改: Torp 雷装: 0,0
 Iowa改: AA 対空: 82,120
 Iowa改: luck 運: 40,99
@@ -3995,6 +3995,13 @@ De Ruyter改: Torp 雷装: 0,60
 De Ruyter改: AA 対空: 25,75
 De Ruyter改: luck 運: 10,57
 De Ruyter改: speed 速力: 10
+加賀改二戊: HP 耐久: 84,98
+加賀改二戊: Armor 装甲: 41,80
+加賀改二戊: FP 火力: 0,62
+加賀改二戊: Torp 雷装: 0,0
+加賀改二戊: AA 対空: 36,84
+加賀改二戊: luck 運: 18,74
+加賀改二戊: speed 速力: 10
 御蔵: HP 耐久: 9,18
 御蔵: Armor 装甲: 4,16
 御蔵: FP 火力: 4,17
@@ -4184,6 +4191,13 @@ Gotland andra: speed 速力: 10
 松: AA 対空: 20,60
 松: luck 運: 14,58
 松: speed 速力: 10
+加賀改二護: HP 耐久: 84,98
+加賀改二護: Armor 装甲: 41,84
+加賀改二護: FP 火力: 36,60
+加賀改二護: Torp 雷装: 0,0
+加賀改二護: AA 対空: 40,84
+加賀改二護: luck 運: 18,74
+加賀改二護: speed 速力: 10
 日振改: HP 耐久: 18,29
 日振改: Armor 装甲: 7,34
 日振改: FP 火力: 5,38
@@ -4303,6 +4317,13 @@ South Dakota改: Torp 雷装: 0,0
 South Dakota改: AA 対空: 58,108
 South Dakota改: luck 運: 36,98
 South Dakota改: speed 速力: 10
+加賀改二: HP 耐久: 84,98
+加賀改二: Armor 装甲: 41,80
+加賀改二: FP 火力: 0,56
+加賀改二: Torp 雷装: 0,0
+加賀改二: AA 対空: 36,84
+加賀改二: luck 運: 18,74
+加賀改二: speed 速力: 10
 薄雲改: HP 耐久: 30,49
 薄雲改: Armor 装甲: 13,49
 薄雲改: FP 火力: 12,49

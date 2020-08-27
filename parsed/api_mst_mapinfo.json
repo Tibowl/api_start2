@@ -133,7 +133,7 @@
 }, {
     "api_id": 31,
     "api_infotext": "北方海域に艦隊を進出させ、<br>モーレイ海を哨戒せよ！",
-    "api_item": [33, 0, 0, 0],
+    "api_item": [32, 0, 0, 0],
     "api_level": 4,
     "api_maparea_id": 3,
     "api_max_maphp": null,
@@ -145,7 +145,7 @@
 }, {
     "api_id": 32,
     "api_infotext": "駆逐艦を主力とした高速艦隊で、<br>敵に包囲された北方海域キス島に<br>突入！守備隊を無事収容せよ！",
-    "api_item": [33, 10, 0, 0],
+    "api_item": [32, 10, 0, 0],
     "api_level": 5,
     "api_maparea_id": 3,
     "api_max_maphp": null,
@@ -289,7 +289,7 @@
 }, {
     "api_id": 54,
     "api_infotext": "南方海域に有力な艦隊を投入し<br>鼠輸送作戦を敢行、可能であれ<br>ば同方面の敵艦隊も撃滅せよ！",
-    "api_item": [0, 0, 0, 0],
+    "api_item": [32, 0, 0, 0],
     "api_level": 10,
     "api_maparea_id": 5,
     "api_max_maphp": null,
@@ -301,7 +301,7 @@
 }, {
     "api_id": 55,
     "api_infotext": "南方海域に敵の有力な機動部隊<br>の接近が確認された。空母機動<br>部隊を以て、これを迎撃せよ！",
-    "api_item": [0, 0, 0, 0],
+    "api_item": [31, 0, 0, 0],
     "api_level": 12,
     "api_maparea_id": 5,
     "api_max_maphp": null,
@@ -337,7 +337,7 @@
 }, {
     "api_id": 63,
     "api_infotext": "飛行艇または水上偵察機を装備<br>した水上機母艦・軽巡・駆逐艦<br>による艦隊を同方面へ進出、航<br>空偵察「Ｋ作戦」を実施せよ！",
-    "api_item": [34, 32, 0, 0],
+    "api_item": [34, 32, 3, 0],
     "api_level": 7,
     "api_maparea_id": 6,
     "api_max_maphp": null,
@@ -394,88 +394,4 @@
     "api_opetext": "セレベス海戦闘哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 481,
-    "api_infotext": "我が本土周辺の島嶼防衛強化<br>の一環として千島列島方面へ<br>兵站輸送を実施！敵潜警戒も<br>十分に！キ504船団、抜錨！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 7,
-    "api_maparea_id": 48,
-    "api_max_maphp": 300,
-    "api_name": "オホーツク海千島列島沖",
-    "api_no": 1,
-    "api_opetext": "鎮魂、キ504船団",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 482,
-    "api_infotext": "南西諸島沖縄方面の島嶼防衛<br>作戦を発動する！連合艦隊を<br>もって、同方面に侵攻する敵<br>を迎撃、敵戦力を撃破せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 9,
-    "api_maparea_id": 48,
-    "api_max_maphp": 300,
-    "api_name": "南西諸島沖",
-    "api_no": 2,
-    "api_opetext": "瀬底島、その先へ――",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [0, 7, 0]
-}, {
-    "api_id": 483,
-    "api_infotext": "五島列島沖の海底に謎の動き<br>が観測された。また、敵機動<br>部隊も接近中だ。深海艦隊を<br>捜索、これを捕捉撃滅せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 12,
-    "api_maparea_id": 48,
-    "api_max_maphp": 300,
-    "api_name": "四国沖/九州西方五島列島沖",
-    "api_no": 3,
-    "api_opetext": "五島列島沖海底の祈り",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 0]
-}, {
-    "api_id": 484,
-    "api_infotext": "敵侵攻に備え、小笠原諸島の<br>島嶼要塞群防衛力強化の為、<br>輸送部隊を投入する。敵艦隊<br>の動向にも十分注意せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 14,
-    "api_maparea_id": 48,
-    "api_max_maphp": 300,
-    "api_name": "小笠原諸島沖",
-    "api_no": 4,
-    "api_opetext": "反転！敵任務部隊を撃て！",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 0]
-}, {
-    "api_id": 485,
-    "api_infotext": "南方戦線での島嶼部海上輸送<br>作戦を実施する！コロンバン<br>ガラ島周辺の制海権を確保、<br>ツルブへの輸送を実施せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 13,
-    "api_maparea_id": 48,
-    "api_max_maphp": 300,
-    "api_name": "ニューブリテン島沖 ソロモン諸島西部沖",
-    "api_no": 5,
-    "api_opetext": "南方戦線 島嶼海上輸送作戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 0]
-}, {
-    "api_id": 486,
-    "api_infotext": "ソロモン諸島周辺に敵の新型<br>戦艦が投入された！同海域の<br>制海権を確保するため、水上<br>打撃部隊を投入する。抜錨！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 15,
-    "api_maparea_id": 48,
-    "api_max_maphp": 300,
-    "api_name": "ソロモン諸島沖",
-    "api_no": 6,
-    "api_opetext": "鉄底海峡の死闘",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [0, 7, 0]
-}, {
-    "api_id": 487,
-    "api_infotext": "遂に敵は虎の子たる空母機動<br>部隊を南方に投入してきた！<br>我が機動部隊精鋭全力でこれ<br>を邀撃！雌雄を決する！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 17,
-    "api_maparea_id": 48,
-    "api_max_maphp": 300,
-    "api_name": "ソロモン諸島沖 サンタ・クルーズ諸島沖",
-    "api_no": 7,
-    "api_opetext": "決戦！南太平洋海戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 0]
 }]

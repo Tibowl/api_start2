@@ -2155,6 +2155,15 @@ RUR-4A Weapon Alpha改: Rare レア: 5
 銀河(江草隊): Rare レア: 5
 銀河(江草隊): Cost: 13
 銀河(江草隊): Dist: 7
+TBM-3W+3S: FP 火力: 3
+TBM-3W+3S: Torp 雷装: 10
+TBM-3W+3S: Dive 爆撃: 7
+TBM-3W+3S: LoS 索敵: 10
+TBM-3W+3S: ASW 対潜: 13
+TBM-3W+3S: Acc 砲撃命中: 3
+TBM-3W+3S: Rare レア: 6
+TBM-3W+3S: Cost: 12
+TBM-3W+3S: Dist: 5
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
