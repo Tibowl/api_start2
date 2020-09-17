@@ -649,4 +649,11 @@
     "api_name": "鰯",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["新型兵装の開発及び実戦配備　<br>に必要な技術図面と資材です。<br>※装備改修等で使用すること　<br>で、各種新型兵装の開発及び　<br>実戦配備が可能となります。", ""],
+    "api_id": 94,
+    "api_name": "新型兵装資材",
+    "api_price": 0,
+    "api_usetype": 0
 }]

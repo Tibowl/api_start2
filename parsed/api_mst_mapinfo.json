@@ -394,4 +394,16 @@
     "api_opetext": "セレベス海戦闘哨戒",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 73,
+    "api_infotext": "精強な重巡及び駆逐艦を中核<br>とする小艦隊でマラッカ海峡<br>を突破する。ペナン島沖の敵<br>戦力を撃破して、前進せよ！",
+    "api_item": [34, 31, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 7,
+    "api_max_maphp": null,
+    "api_name": "ペナン島沖",
+    "api_no": 3,
+    "api_opetext": "マラッカ海峡を抜けて",
+    "api_required_defeat_count": 3,
+    "api_sally_flag": [1, 0, 0]
 }]

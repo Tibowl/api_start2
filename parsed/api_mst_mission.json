@@ -809,6 +809,24 @@
     "api_win_item2": [0, 0],
     "api_win_mat_level": [1, 0, 0, 1]
 }, {
+    "api_damage_type": 2,
+    "api_deck_num": 5,
+    "api_details": "精強な重巡戦隊と水雷戦隊を中核<br>とした有力なる艦隊で、南西海域<br>深部を哨戒、敵艦隊を捜索！発見<br>次第、これを撃滅せよ！<br>【月一回実施可能・交戦遠征】",
+    "api_difficulty": 9,
+    "api_disp_no": "46",
+    "api_id": 46,
+    "api_maparea_id": 7,
+    "api_name": "南西海域戦闘哨戒",
+    "api_reset_type": 1,
+    "api_return_flag": 1,
+    "api_sample_fleet": [5, 5, 3, 2, 2, 0],
+    "api_time": 210,
+    "api_use_bull": 0.95,
+    "api_use_fuel": 0.75,
+    "api_win_item1": [3, 3],
+    "api_win_item2": [4, 1],
+    "api_win_mat_level": [2, 0, 1, 2]
+}, {
     "api_damage_type": 0,
     "api_deck_num": 4,
     "api_details": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！",
@@ -1060,4 +1078,22 @@
     "api_win_item1": [12, 2],
     "api_win_item2": [4, 1],
     "api_win_mat_level": [0, 3, 3, 4]
+}, {
+    "api_damage_type": 2,
+    "api_deck_num": 5,
+    "api_details": "精鋭駆逐艦を連ねて輸送ドラム缶<br>満載し、南方への強行鼠輸送作戦<br>を遂行せよ！敵の待ち伏せも予想<br>される。戦闘準備も怠るな！<br>【月一回実施可能・交戦遠征】",
+    "api_difficulty": 9,
+    "api_disp_no": "E2",
+    "api_id": 142,
+    "api_maparea_id": 5,
+    "api_name": "強行鼠輸送作戦",
+    "api_reset_type": 1,
+    "api_return_flag": 1,
+    "api_sample_fleet": [2, 2, 2, 2, 2, 0],
+    "api_time": 185,
+    "api_use_bull": 0.95,
+    "api_use_fuel": 0.9,
+    "api_win_item1": [1, 2],
+    "api_win_item2": [4, 1],
+    "api_win_mat_level": [0, 2, 0, 0]
 }]
