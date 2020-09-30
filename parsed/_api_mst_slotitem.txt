@@ -2164,6 +2164,13 @@ TBM-3W+3S: Acc 砲撃命中: 3
 TBM-3W+3S: Rare レア: 6
 TBM-3W+3S: Cost: 12
 TBM-3W+3S: Dist: 5
+16inch三連装砲 Mk.6+GFCS: FP 火力: 23
+16inch三連装砲 Mk.6+GFCS: AA 対空: 3
+16inch三連装砲 Mk.6+GFCS: Armor 装甲: 2
+16inch三連装砲 Mk.6+GFCS: Acc 砲撃命中: 6
+16inch三連装砲 Mk.6+GFCS: Evas 砲撃回避: 1
+16inch三連装砲 Mk.6+GFCS: Rare レア: 5
+16inch三連装砲 Mk.6+GFCS: Range 射程: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
