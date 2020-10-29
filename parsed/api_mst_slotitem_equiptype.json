@@ -203,6 +203,10 @@
     "api_name": "潜水艦装備",
     "api_show_flg": 0
 }, {
+    "api_id": 53,
+    "api_name": "大型陸上機",
+    "api_show_flg": 0
+}, {
     "api_id": 56,
     "api_name": "噴式戦闘機",
     "api_show_flg": 0
