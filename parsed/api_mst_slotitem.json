@@ -6458,7 +6458,8 @@
     "api_tais": 7,
     "api_tyku": 1,
     "api_type": [5, 7, 10, 10, 2],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -6486,7 +6487,8 @@
     "api_tais": 8,
     "api_tyku": 1,
     "api_type": [5, 7, 10, 10, 2],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -7832,7 +7834,8 @@
     "api_tais": 4,
     "api_tyku": 1,
     "api_type": [3, 5, 7, 7, 16],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -7860,7 +7863,8 @@
     "api_tais": 5,
     "api_tyku": 2,
     "api_type": [3, 5, 7, 7, 16],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -8579,7 +8583,8 @@
     "api_tais": 2,
     "api_tyku": 3,
     "api_type": [3, 5, 7, 7, 16],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -8607,7 +8612,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [3, 5, 7, 7, 16],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -9229,7 +9235,8 @@
     "api_tais": 6,
     "api_tyku": 0,
     "api_type": [3, 5, 8, 46, 11],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -10037,7 +10044,8 @@
     "api_tais": 7,
     "api_tyku": 1,
     "api_type": [3, 5, 8, 46, 1],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -10625,6 +10633,58 @@
     "api_tais": 0,
     "api_tyku": 2,
     "api_type": [26, 46, 53, 49, 41],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 2, 3, 0],
+    "api_houg": 3,
+    "api_houk": 0,
+    "api_houm": 2,
+    "api_id": 397,
+    "api_leng": 1,
+    "api_luck": 0,
+    "api_name": "現地改装12.7cm連装高角砲",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 4,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 397,
+    "api_souk": 1,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 6,
+    "api_type": [1, 1, 1, 16, 0],
+    "api_usebull": "0"
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 2, 3, 0],
+    "api_houg": 2,
+    "api_houk": 2,
+    "api_houm": 1,
+    "api_id": 398,
+    "api_leng": 1,
+    "api_luck": 0,
+    "api_name": "現地改装10cm連装高角砲",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 4,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 398,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 8,
+    "api_type": [1, 1, 1, 16, 0],
     "api_usebull": "0"
 }, {
     "api_atap": 0,
