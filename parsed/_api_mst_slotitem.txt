@@ -2220,6 +2220,13 @@ TBM-3W+3S: Dist: 5
 現地改装10cm連装高角砲: Evas 砲撃回避: 2
 現地改装10cm連装高角砲: Rare レア: 4
 現地改装10cm連装高角砲: Range 射程: 1
+6inch Mk.XXIII三連装砲: FP 火力: 7
+6inch Mk.XXIII三連装砲: AA 対空: 2
+6inch Mk.XXIII三連装砲: Armor 装甲: 1
+6inch Mk.XXIII三連装砲: Acc 砲撃命中: 1
+6inch Mk.XXIII三連装砲: Evas 砲撃回避: 1
+6inch Mk.XXIII三連装砲: Rare レア: 2
+6inch Mk.XXIII三連装砲: Range 射程: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
