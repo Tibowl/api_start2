@@ -2227,6 +2227,20 @@ TBM-3W+3S: Dist: 5
 6inch Mk.XXIII三連装砲: Evas 砲撃回避: 1
 6inch Mk.XXIII三連装砲: Rare レア: 2
 6inch Mk.XXIII三連装砲: Range 射程: 2
+533mm 三連装魚雷(53-39型): FP 火力: 1
+533mm 三連装魚雷(53-39型): Torp 雷装: 6
+533mm 三連装魚雷(53-39型): Acc 砲撃命中: 1
+533mm 三連装魚雷(53-39型): Evas 砲撃回避: 2
+533mm 三連装魚雷(53-39型): Rare レア: 3
+533mm 三連装魚雷(53-39型): Range 射程: 1
+Do 17 Z-2: AA 対空: 2
+Do 17 Z-2: Dive 爆撃: 11
+Do 17 Z-2: LoS 索敵: 2
+Do 17 Z-2: ASW 対潜: 5
+Do 17 Z-2: Rare レア: 2
+Do 17 Z-2: Cost: 13
+Do 17 Z-2: Dist: 4
+寒冷地装備&甲板要員: Rare レア: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
