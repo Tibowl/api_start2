@@ -258,10 +258,10 @@
     "api_moving_bgm": 164,
     "api_no": 3
 }, {
-    "api_boss_bgm": [1, 1],
+    "api_boss_bgm": [169, 169],
     "api_id": 494,
-    "api_map_bgm": [1, 1],
+    "api_map_bgm": [168, 168],
     "api_maparea_id": 49,
-    "api_moving_bgm": 1,
+    "api_moving_bgm": 167,
     "api_no": 4
 }]

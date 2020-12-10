@@ -444,14 +444,14 @@
     "api_sally_flag": [0, 7, 0]
 }, {
     "api_id": 494,
-    "api_infotext": "",
+    "api_infotext": "台湾方面への輸送船団護衛を<br>完遂後、比島方面の防衛強化<br>のため多号作戦を実施、機を<br>捉え、反撃作戦を実施せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 16,
     "api_maparea_id": 49,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "ルソン島沖/オルモック沖",
     "api_no": 4,
-    "api_opetext": "",
+    "api_opetext": "竹の輝き",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 0]
 }]
