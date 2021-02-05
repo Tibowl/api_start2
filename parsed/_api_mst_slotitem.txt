@@ -2275,6 +2275,12 @@ Do 217 K-2+Fritz-X: Acc 砲撃命中: 2
 Do 217 K-2+Fritz-X: Rare レア: 5
 Do 217 K-2+Fritz-X: Cost: 17
 Do 217 K-2+Fritz-X: Dist: 4
+15.2cm連装砲改二: FP 火力: 6
+15.2cm連装砲改二: AA 対空: 4
+15.2cm連装砲改二: Armor 装甲: 1
+15.2cm連装砲改二: Acc 砲撃命中: 4
+15.2cm連装砲改二: Rare レア: 4
+15.2cm連装砲改二: Range 射程: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
