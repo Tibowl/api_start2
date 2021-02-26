@@ -303,6 +303,9 @@
     }, {
         "api_ship_ids": [136, 148, 153, 156, 183, 321, 546],
         "api_slotitem_id": 275
+    }, {
+        "api_ship_ids": [621, 626],
+        "api_slotitem_id": 408
     }],
     "api_mst_equip_ship": [{
         "api_equip_type": [2, 3, 4, 10, 12, 13, 16, 17, 18, 19, 20, 21, 23, 28, 29, 33, 34, 36, 38, 39, 40, 42, 43, 93],
@@ -66316,6 +66319,58 @@
         "api_tais": 0,
         "api_tyku": 4,
         "api_type": [1, 1, 2, 2, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [2, 3, 3, 1],
+        "api_houg": 1,
+        "api_houk": 0,
+        "api_houm": 0,
+        "api_id": 408,
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "装甲艇(AB艇)",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 2,
+        "api_sakb": 0,
+        "api_saku": 1,
+        "api_soku": 0,
+        "api_sortno": 408,
+        "api_souk": 1,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [8, 47, 24, 20, 0],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [1, 2, 2, 2],
+        "api_houg": 1,
+        "api_houk": 0,
+        "api_houm": 1,
+        "api_id": 409,
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "武装大発",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 2,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 409,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 0,
+        "api_tyku": 1,
+        "api_type": [8, 47, 24, 20, 0],
         "api_usebull": "0"
     }, {
         "api_atap": 0,

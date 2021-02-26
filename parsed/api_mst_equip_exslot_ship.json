@@ -10,4 +10,7 @@
 }, {
     "api_ship_ids": [136, 148, 153, 156, 183, 321, 546],
     "api_slotitem_id": 275
+}, {
+    "api_ship_ids": [621, 626],
+    "api_slotitem_id": 408
 }]

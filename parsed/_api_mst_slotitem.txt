@@ -2281,6 +2281,14 @@ Do 217 K-2+Fritz-X: Dist: 4
 15.2cm連装砲改二: Acc 砲撃命中: 4
 15.2cm連装砲改二: Rare レア: 4
 15.2cm連装砲改二: Range 射程: 2
+装甲艇(AB艇): FP 火力: 1
+装甲艇(AB艇): Armor 装甲: 1
+装甲艇(AB艇): LoS 索敵: 1
+装甲艇(AB艇): Rare レア: 2
+武装大発: FP 火力: 1
+武装大発: AA 対空: 1
+武装大発: Acc 砲撃命中: 1
+武装大発: Rare レア: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
