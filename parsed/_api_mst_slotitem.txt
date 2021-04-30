@@ -2299,6 +2299,21 @@ Do 217 K-2+Fritz-X: Dist: 4
 42号対空電探改二: Acc 砲撃命中: 8
 42号対空電探改二: Evas 砲撃回避: -1
 42号対空電探改二: Rare レア: 4
+水雷戦隊 熟練見張員: Torp 雷装: 3
+水雷戦隊 熟練見張員: AA 対空: 1
+水雷戦隊 熟練見張員: LoS 索敵: 2
+水雷戦隊 熟練見張員: Acc 砲撃命中: 2
+水雷戦隊 熟練見張員: Evas 砲撃回避: 3
+水雷戦隊 熟練見張員: Rare レア: 4
+水雷戦隊 熟練見張員: Range 射程: 2
+SOC Seagull: Dive 爆撃: 1
+SOC Seagull: LoS 索敵: 4
+SOC Seagull: ASW 対潜: 1
+SOC Seagull: Acc 砲撃命中: 2
+SOC Seagull: Evas 砲撃回避: 1
+SOC Seagull: Rare レア: 3
+SOC Seagull: Cost: 3
+SOC Seagull: Dist: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
