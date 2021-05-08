@@ -656,4 +656,11 @@
     "api_name": "新型兵装資材",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["旗艦潜水母艦によって指揮され<br>た潜水艦隊が潜水艦隊攻撃実施<br>時に使用する補給物資です。<br>※同攻撃実施で消費します。", ""],
+    "api_id": 95,
+    "api_name": "潜水艦補給物資",
+    "api_price": 0,
+    "api_usetype": 0
 }]

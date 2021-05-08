@@ -2306,6 +2306,10 @@ Do 217 K-2+Fritz-X: Dist: 4
 水雷戦隊 熟練見張員: Evas 砲撃回避: 3
 水雷戦隊 熟練見張員: Rare レア: 4
 水雷戦隊 熟練見張員: Range 射程: 2
+精鋭水雷戦隊 司令部: Torp 雷装: 3
+精鋭水雷戦隊 司令部: LoS 索敵: 1
+精鋭水雷戦隊 司令部: Acc 砲撃命中: 2
+精鋭水雷戦隊 司令部: Rare レア: 5
 SOC Seagull: Dive 爆撃: 1
 SOC Seagull: LoS 索敵: 4
 SOC Seagull: ASW 対潜: 1
@@ -2314,6 +2318,13 @@ SOC Seagull: Evas 砲撃回避: 1
 SOC Seagull: Rare レア: 3
 SOC Seagull: Cost: 3
 SOC Seagull: Dist: 3
+SO3C Seamew改: AA 対空: 1
+SO3C Seamew改: LoS 索敵: 7
+SO3C Seamew改: ASW 対潜: 2
+SO3C Seamew改: Acc 砲撃命中: 3
+SO3C Seamew改: Rare レア: 4
+SO3C Seamew改: Cost: 5
+SO3C Seamew改: Dist: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -2857,3 +2868,8 @@ SOC Seagull: Dist: 3
 深海16inch三連装砲 Mk6: Evas 砲撃回避: 4
 深海16inch三連装砲 Mk6: Rare レア: 4
 深海16inch三連装砲 Mk6: Range 射程: 3
+深海カモメ水偵: LoS 索敵: 6
+深海カモメ水偵: ASW 対潜: 4
+深海カモメ水偵: Acc 砲撃命中: 4
+深海カモメ水偵: Evas 砲撃回避: 3
+深海カモメ水偵: Rare レア: 2
