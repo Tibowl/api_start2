@@ -444,26 +444,26 @@
     "api_sally_flag": [1, 7, 0]
 }, {
     "api_id": 504,
-    "api_infotext": "",
+    "api_infotext": "ラバウルに進出した遊撃部隊<br>と基地航空隊、そして各艦隊<br>を連携させ、敵攻勢を迎撃！<br>敵の空襲にも十分注意せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 16,
     "api_maparea_id": 50,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "ラバウル沖/ビスマルク諸島沖/ソロモン諸島沖",
     "api_no": 4,
-    "api_opetext": "",
+    "api_opetext": "ラバウル空襲！ 遊撃部隊、出撃せり！",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 505,
-    "api_infotext": "",
+    "api_infotext": "いよいよソロモン方面に侵攻<br>した敵戦力と雌雄を決する時<br>が来た！我が最精鋭二水戦出<br>撃！ルンガ沖の暁に勝利を！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 17,
     "api_maparea_id": 50,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "アイアンボトムサウンド",
     "api_no": 5,
-    "api_opetext": "",
+    "api_opetext": "第二次ルンガ沖夜戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]
