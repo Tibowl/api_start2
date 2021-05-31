@@ -2346,6 +2346,16 @@ SO3C Seamew改: Dist: 4
 零式艦戦22型(251空): Rare レア: 5
 零式艦戦22型(251空): Cost: 4
 零式艦戦22型(251空): Dist: 7
+SBD-5: FP 火力: 1
+SBD-5: AA 対空: 2
+SBD-5: Dive 爆撃: 7
+SBD-5: LoS 索敵: 3
+SBD-5: ASW 対潜: 4
+SBD-5: Acc 砲撃命中: 2
+SBD-5: Evas 砲撃回避: 3
+SBD-5: Rare レア: 3
+SBD-5: Cost: 5
+SBD-5: Dist: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
