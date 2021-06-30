@@ -2356,6 +2356,26 @@ SBD-5: Evas 砲撃回避: 3
 SBD-5: Rare レア: 3
 SBD-5: Cost: 5
 SBD-5: Dist: 4
+SB2C-3: FP 火力: 1
+SB2C-3: AA 対空: 2
+SB2C-3: Dive 爆撃: 11
+SB2C-3: LoS 索敵: 3
+SB2C-3: ASW 対潜: 5
+SB2C-3: Acc 砲撃命中: 1
+SB2C-3: Evas 砲撃回避: 1
+SB2C-3: Rare レア: 4
+SB2C-3: Cost: 6
+SB2C-3: Dist: 5
+SB2C-5: FP 火力: 2
+SB2C-5: AA 対空: 2
+SB2C-5: Dive 爆撃: 12
+SB2C-5: LoS 索敵: 4
+SB2C-5: ASW 対潜: 6
+SB2C-5: Acc 砲撃命中: 2
+SB2C-5: Evas 砲撃回避: 2
+SB2C-5: Rare レア: 5
+SB2C-5: Cost: 7
+SB2C-5: Dist: 6
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
