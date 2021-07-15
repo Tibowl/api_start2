@@ -2351,11 +2351,11 @@ Libeccio改: speed 速力: 10
 速吸改: luck 運: 8,44
 速吸改: speed 速力: 5
 Graf Zeppelin改: HP 耐久: 78,92
-Graf Zeppelin改: Armor 装甲: 42,80
-Graf Zeppelin改: FP 火力: 15,50
+Graf Zeppelin改: Armor 装甲: 42,81
+Graf Zeppelin改: FP 火力: 15,52
 Graf Zeppelin改: Torp 雷装: 0,0
 Graf Zeppelin改: AA 対空: 44,80
-Graf Zeppelin改: luck 運: 7,47
+Graf Zeppelin改: luck 運: 7,48
 Graf Zeppelin改: speed 速力: 10
 嵐改: HP 耐久: 32,49
 嵐改: Armor 装甲: 14,49
@@ -2436,10 +2436,10 @@ Warspite改: luck 運: 70,111
 Warspite改: speed 速力: 5
 Aquila改: HP 耐久: 48,78
 Aquila改: Armor 装甲: 28,58
-Aquila改: FP 火力: 0,28
+Aquila改: FP 火力: 0,31
 Aquila改: Torp 雷装: 0,0
 Aquila改: AA 対空: 30,72
-Aquila改: luck 運: 7,48
+Aquila改: luck 運: 7,49
 Aquila改: speed 速力: 10
 水無月改: HP 耐久: 24,39
 水無月改: Armor 装甲: 11,39
@@ -2611,7 +2611,7 @@ Richelieu改: luck 運: 24,95
 Richelieu改: speed 速力: 10
 Ark Royal改: HP 耐久: 71,90
 Ark Royal改: Armor 装甲: 28,70
-Ark Royal改: FP 火力: 0,50
+Ark Royal改: FP 火力: 0,51
 Ark Royal改: Torp 雷装: 0,0
 Ark Royal改: AA 対空: 36,82
 Ark Royal改: luck 運: 13,68
@@ -4562,6 +4562,13 @@ Sheffield改: speed 速力: 10
 竹改: AA 対空: 28,71
 竹改: luck 運: 38,108
 竹改: speed 速力: 10
+Gambier Bay Mk.II: HP 耐久: 53,73
+Gambier Bay Mk.II: Armor 装甲: 17,61
+Gambier Bay Mk.II: FP 火力: 3,55
+Gambier Bay Mk.II: Torp 雷装: 0,0
+Gambier Bay Mk.II: AA 対空: 25,67
+Gambier Bay Mk.II: luck 運: 16,73
+Gambier Bay Mk.II: speed 速力: 5
 桃改: HP 耐久: 26,45
 桃改: Armor 装甲: 12,55
 桃改: FP 火力: 7,41

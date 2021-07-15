@@ -207,12 +207,12 @@
     "api_shop_description": "練度30以上の艦娘を補強増設改修できます。(1回分)",
     "api_type": 0
 }, {
-    "api_description": "飛行場などの設営/拡張に必要<br>です。<br>(※最大計10個まで保有可能)",
+    "api_description": "飛行場などの設営/拡張に必要<br>です。<br>(※最大計99個まで保有可能)",
     "api_id": 27,
     "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
     "api_name": "設営隊",
     "api_price": 800,
-    "api_shop_description": "飛行場などの設営/拡張に必要です。<br>(※最大計10個まで保有可能)",
+    "api_shop_description": "飛行場などの設営/拡張に必要です。<br>(※最大計99個まで保有可能)",
     "api_type": 0
 }, {
     "api_description": "工作艦などの艦で緊急泊地修理<br>を実施するための資材セット。<br>※緊急修理資材×３<br>(使用には工作艦等が必要です)※鉄鋼800",

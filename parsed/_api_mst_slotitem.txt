@@ -2376,6 +2376,13 @@ SB2C-5: Evas 砲撃回避: 2
 SB2C-5: Rare レア: 5
 SB2C-5: Cost: 7
 SB2C-5: Dist: 6
+FR-1 Fireball: FP 火力: 2
+FR-1 Fireball: AA 対空: 11
+FR-1 Fireball: Acc 砲撃命中: 1
+FR-1 Fireball: Evas 砲撃回避: 3
+FR-1 Fireball: Rare レア: 5
+FR-1 Fireball: Cost: 9
+FR-1 Fireball: Dist: 5
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
