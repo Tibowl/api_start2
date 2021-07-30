@@ -2383,6 +2383,29 @@ FR-1 Fireball: Evas 砲撃回避: 3
 FR-1 Fireball: Rare レア: 5
 FR-1 Fireball: Cost: 9
 FR-1 Fireball: Dist: 5
+Fulmar(戦闘偵察/熟練): FP 火力: 2
+Fulmar(戦闘偵察/熟練): AA 対空: 4
+Fulmar(戦闘偵察/熟練): LoS 索敵: 4
+Fulmar(戦闘偵察/熟練): ASW 対潜: 3
+Fulmar(戦闘偵察/熟練): Acc 砲撃命中: 3
+Fulmar(戦闘偵察/熟練): Evas 砲撃回避: 3
+Fulmar(戦闘偵察/熟練): Rare レア: 3
+Fulmar(戦闘偵察/熟練): Cost: 4
+Fulmar(戦闘偵察/熟練): Dist: 4
+Barracuda Mk.II: Torp 雷装: 7
+Barracuda Mk.II: LoS 索敵: 2
+Barracuda Mk.II: ASW 対潜: 5
+Barracuda Mk.II: Acc 砲撃命中: 1
+Barracuda Mk.II: Rare レア: 2
+Barracuda Mk.II: Cost: 7
+Barracuda Mk.II: Dist: 4
+Barracuda Mk.III: Torp 雷装: 6
+Barracuda Mk.III: LoS 索敵: 3
+Barracuda Mk.III: ASW 対潜: 9
+Barracuda Mk.III: Acc 砲撃命中: 1
+Barracuda Mk.III: Rare レア: 3
+Barracuda Mk.III: Cost: 8
+Barracuda Mk.III: Dist: 5
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
