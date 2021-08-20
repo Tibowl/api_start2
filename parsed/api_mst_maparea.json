@@ -26,4 +26,8 @@
     "api_id": 7,
     "api_name": "南西海域",
     "api_type": 0
+}, {
+    "api_id": 51,
+    "api_name": "増援輸送作戦！地中海の戦い",
+    "api_type": 1
 }]

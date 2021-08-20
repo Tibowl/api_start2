@@ -2406,6 +2406,51 @@ Barracuda Mk.III: Acc 砲撃命中: 1
 Barracuda Mk.III: Rare レア: 3
 Barracuda Mk.III: Cost: 8
 Barracuda Mk.III: Dist: 5
+305mm/46 連装砲: FP 火力: 13
+305mm/46 連装砲: Armor 装甲: 1
+305mm/46 連装砲: Acc 砲撃命中: 1
+305mm/46 連装砲: Evas 砲撃回避: 2
+305mm/46 連装砲: Rare レア: 2
+305mm/46 連装砲: Range 射程: 3
+305mm/46 三連装砲: FP 火力: 14
+305mm/46 三連装砲: Armor 装甲: 1
+305mm/46 三連装砲: Acc 砲撃命中: 2
+305mm/46 三連装砲: Evas 砲撃回避: 1
+305mm/46 三連装砲: Rare レア: 3
+305mm/46 三連装砲: Range 射程: 3
+320mm/44 連装砲: FP 火力: 15
+320mm/44 連装砲: Armor 装甲: 1
+320mm/44 連装砲: Acc 砲撃命中: 1
+320mm/44 連装砲: Evas 砲撃回避: 2
+320mm/44 連装砲: Rare レア: 3
+320mm/44 連装砲: Range 射程: 3
+320mm/44 三連装砲: FP 火力: 16
+320mm/44 三連装砲: Armor 装甲: 1
+320mm/44 三連装砲: Acc 砲撃命中: 2
+320mm/44 三連装砲: Evas 砲撃回避: 1
+320mm/44 三連装砲: Rare レア: 4
+320mm/44 三連装砲: Range 射程: 3
+65mm/64 単装速射砲改: FP 火力: 1
+65mm/64 単装速射砲改: AA 対空: 9
+65mm/64 単装速射砲改: Evas 砲撃回避: 1
+65mm/64 単装速射砲改: Rare レア: 4
+65mm/64 単装速射砲改: Range 射程: 1
+SM.79: Torp 雷装: 9
+SM.79: AA 対空: 2
+SM.79: Dive 爆撃: 13
+SM.79: LoS 索敵: 2
+SM.79: ASW 対潜: 3
+SM.79: Rare レア: 2
+SM.79: Cost: 11
+SM.79: Dist: 7
+SM.79 bis: Torp 雷装: 12
+SM.79 bis: AA 対空: 3
+SM.79 bis: Dive 爆撃: 14
+SM.79 bis: LoS 索敵: 3
+SM.79 bis: ASW 対潜: 4
+SM.79 bis: Rare レア: 3
+SM.79 bis: Cost: 13
+SM.79 bis: Dist: 8
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -2967,3 +3012,29 @@ Barracuda Mk.III: Dist: 5
 深海6inch三連装主砲 Mk.16: Acc 砲撃命中: 9
 深海6inch三連装主砲 Mk.16: Rare レア: 3
 深海6inch三連装主砲 Mk.16: Range 射程: 2
+地中海12inch/46 連装砲: FP 火力: 14
+地中海12inch/46 連装砲: Armor 装甲: 3
+地中海12inch/46 連装砲: Acc 砲撃命中: 8
+地中海12inch/46 連装砲: Evas 砲撃回避: 4
+地中海12inch/46 連装砲: Rare レア: 2
+地中海12inch/46 連装砲: Range 射程: 3
+地中海12inch/46 三連装砲: FP 火力: 17
+地中海12inch/46 三連装砲: Armor 装甲: 3
+地中海12inch/46 三連装砲: Acc 砲撃命中: 9
+地中海12inch/46 三連装砲: Evas 砲撃回避: 3
+地中海12inch/46 三連装砲: Rare レア: 3
+地中海12inch/46 三連装砲: Range 射程: 3
+地中海12.6inch/44 連装砲: FP 火力: 16
+地中海12.6inch/44 連装砲: Torp 雷装: 7
+地中海12.6inch/44 連装砲: Armor 装甲: 3
+地中海12.6inch/44 連装砲: Acc 砲撃命中: 10
+地中海12.6inch/44 連装砲: Evas 砲撃回避: 5
+地中海12.6inch/44 連装砲: Rare レア: 3
+地中海12.6inch/44 連装砲: Range 射程: 3
+地中海12.6inch/44 三連装砲: FP 火力: 19
+地中海12.6inch/44 三連装砲: Torp 雷装: 7
+地中海12.6inch/44 三連装砲: Armor 装甲: 3
+地中海12.6inch/44 三連装砲: Acc 砲撃命中: 11
+地中海12.6inch/44 三連装砲: Evas 砲撃回避: 4
+地中海12.6inch/44 三連装砲: Rare レア: 4
+地中海12.6inch/44 三連装砲: Range 射程: 3
