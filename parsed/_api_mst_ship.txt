@@ -4611,27 +4611,27 @@ Honolulu改: Torp 雷装: 0,40
 Honolulu改: AA 対空: 36,80
 Honolulu改: luck 運: 27,87
 Honolulu改: speed 速力: 10
-Conte di Cavour: HP 耐久: 0,0
-Conte di Cavour: Armor 装甲: 0,0
-Conte di Cavour: FP 火力: 0,0
-Conte di Cavour: Torp 雷装: 0,0
-Conte di Cavour: AA 対空: 0,0
-Conte di Cavour: luck 運: 0,0
-Conte di Cavour: speed 速力: 0
-Conte di Cavour改: HP 耐久: 0,0
-Conte di Cavour改: Armor 装甲: 0,0
-Conte di Cavour改: FP 火力: 0,0
+Conte di Cavour: HP 耐久: 57,76
+Conte di Cavour: Armor 装甲: 50,67
+Conte di Cavour: FP 火力: 53,75
+Conte di Cavour: Torp 雷装: 8,12
+Conte di Cavour: AA 対空: 15,49
+Conte di Cavour: luck 運: 22,77
+Conte di Cavour: speed 速力: 5
+Conte di Cavour改: HP 耐久: 73,85
+Conte di Cavour改: Armor 装甲: 53,87
+Conte di Cavour改: FP 火力: 62,91
 Conte di Cavour改: Torp 雷装: 0,0
-Conte di Cavour改: AA 対空: 0,0
-Conte di Cavour改: luck 運: 0,0
-Conte di Cavour改: speed 速力: 0
-Conte di Cavour nuovo: HP 耐久: 0,0
-Conte di Cavour nuovo: Armor 装甲: 0,0
-Conte di Cavour nuovo: FP 火力: 0,0
-Conte di Cavour nuovo: Torp 雷装: 0,0
-Conte di Cavour nuovo: AA 対空: 0,0
-Conte di Cavour nuovo: luck 運: 0,0
-Conte di Cavour nuovo: speed 速力: 0
+Conte di Cavour改: AA 対空: 40,76
+Conte di Cavour改: luck 運: 23,87
+Conte di Cavour改: speed 速力: 10
+Conte di Cavour nuovo: HP 耐久: 78,91
+Conte di Cavour nuovo: Armor 装甲: 57,91
+Conte di Cavour nuovo: FP 火力: 64,95
+Conte di Cavour nuovo: Torp 雷装: 8,30
+Conte di Cavour nuovo: AA 対空: 48,90
+Conte di Cavour nuovo: luck 運: 24,88
+Conte di Cavour nuovo: speed 速力: 10
 伊203: HP 耐久: 12,22
 伊203: Armor 装甲: 4,16
 伊203: FP 火力: 1,3
