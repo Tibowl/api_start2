@@ -432,14 +432,14 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 513,
-    "api_infotext": "",
+    "api_infotext": "地中海の戦いの生命線となる<br>マルタ島への本格的増援輸送<br>作戦、「ペデスタル作戦」を<br>開始する！艦隊、出撃せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 16,
+    "api_level": 17,
     "api_maparea_id": 51,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "ジブラルタル沖/地中海/マルタ島沖",
     "api_no": 3,
-    "api_opetext": "",
+    "api_opetext": "増援輸送！ペデスタル作戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 1]
+    "api_sally_flag": [1, 7, 1]
 }]

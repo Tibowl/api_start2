@@ -4212,6 +4212,13 @@ Gotland andra: speed 速力: 10
 第四号海防艦: AA 対空: 5,19
 第四号海防艦: luck 運: 18,76
 第四号海防艦: speed 速力: 5
+第三〇号海防艦: HP 耐久: 9,16
+第三〇号海防艦: Armor 装甲: 4,15
+第三〇号海防艦: FP 火力: 3,15
+第三〇号海防艦: Torp 雷装: 0,0
+第三〇号海防艦: AA 対空: 4,21
+第三〇号海防艦: luck 運: 17,77
+第三〇号海防艦: speed 速力: 5
 迅鯨改: HP 耐久: 38,58
 迅鯨改: Armor 装甲: 17,34
 迅鯨改: FP 火力: 8,40
@@ -4611,6 +4618,20 @@ Honolulu改: Torp 雷装: 0,40
 Honolulu改: AA 対空: 36,80
 Honolulu改: luck 運: 27,87
 Honolulu改: speed 速力: 10
+第三〇号海防艦改: HP 耐久: 15,23
+第三〇号海防艦改: Armor 装甲: 5,28
+第三〇号海防艦改: FP 火力: 4,28
+第三〇号海防艦改: Torp 雷装: 0,0
+第三〇号海防艦改: AA 対空: 10,45
+第三〇号海防艦改: luck 運: 20,81
+第三〇号海防艦改: speed 速力: 5
+Victorious改: HP 耐久: 74,91
+Victorious改: Armor 装甲: 49,85
+Victorious改: FP 火力: 0,55
+Victorious改: Torp 雷装: 0,0
+Victorious改: AA 対空: 40,84
+Victorious改: luck 運: 22,110
+Victorious改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -4646,6 +4667,13 @@ Conte di Cavour nuovo: speed 速力: 10
 龍鳳改二戊: AA 対空: 30,72
 龍鳳改二戊: luck 運: 42,98
 龍鳳改二戊: speed 速力: 5
+Victorious: HP 耐久: 59,85
+Victorious: Armor 装甲: 38,80
+Victorious: FP 火力: 0,38
+Victorious: Torp 雷装: 0,0
+Victorious: AA 対空: 32,77
+Victorious: luck 運: 10,90
+Victorious: speed 速力: 10
 伊203改: HP 耐久: 13,23
 伊203改: Armor 装甲: 4,18
 伊203改: FP 火力: 1,4
@@ -5201,3 +5229,17 @@ PT小鬼群: speed 速力: 10
 地中海弩級水姫-壊: speed 速力: 5
 地中海弩級水姫-壊: speed 速力: 5
 地中海弩級水姫-壊: speed 速力: 5
+深海地中海棲姫 バカンスmode: speed 速力: 10
+深海地中海棲姫 バカンスmode: speed 速力: 10
+深海地中海棲姫 バカンスmode: speed 速力: 10
+深海地中海棲姫 バカンスmode-壊: speed 速力: 10
+深海地中海棲姫 バカンスmode-壊: speed 速力: 10
+深海地中海棲姫 バカンスmode-壊: speed 速力: 10
+欧州装甲空母棲姫: speed 速力: 10
+欧州装甲空母棲姫: speed 速力: 10
+欧州装甲空母棲姫: speed 速力: 10
+欧州装甲空母棲姫-壊: speed 速力: 10
+欧州装甲空母棲姫-壊: speed 速力: 10
+欧州装甲空母棲姫-壊: speed 速力: 10
+飛行場姫: speed 速力: 0
+飛行場姫: speed 速力: 0

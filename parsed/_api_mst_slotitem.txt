@@ -2451,6 +2451,39 @@ SM.79 bis: ASW 対潜: 4
 SM.79 bis: Rare レア: 3
 SM.79 bis: Cost: 13
 SM.79 bis: Dist: 8
+SM.79 bis(熟練): Torp 雷装: 13
+SM.79 bis(熟練): AA 対空: 3
+SM.79 bis(熟練): Dive 爆撃: 14
+SM.79 bis(熟練): LoS 索敵: 3
+SM.79 bis(熟練): ASW 対潜: 4
+SM.79 bis(熟練): Acc 砲撃命中: 2
+SM.79 bis(熟練): Rare レア: 4
+SM.79 bis(熟練): Cost: 14
+SM.79 bis(熟練): Dist: 8
+Corsair Mk.II: FP 火力: 1
+Corsair Mk.II: AA 対空: 10
+Corsair Mk.II: LoS 索敵: 1
+Corsair Mk.II: Evas 砲撃回避: 1
+Corsair Mk.II: Rare レア: 4
+Corsair Mk.II: Cost: 9
+Corsair Mk.II: Dist: 6
+Corsair Mk.II(Ace): FP 火力: 2
+Corsair Mk.II(Ace): AA 対空: 11
+Corsair Mk.II(Ace): LoS 索敵: 2
+Corsair Mk.II(Ace): Acc 砲撃命中: 2
+Corsair Mk.II(Ace): Evas 砲撃回避: 2
+Corsair Mk.II(Ace): Rare レア: 5
+Corsair Mk.II(Ace): Cost: 9
+Corsair Mk.II(Ace): Dist: 6
+大発動艇(II号戦車/北アフリカ仕様): FP 火力: 1
+大発動艇(II号戦車/北アフリカ仕様): Acc 砲撃命中: 1
+大発動艇(II号戦車/北アフリカ仕様): Rare レア: 3
+試製 陣風: AA 対空: 13
+試製 陣風: Acc 砲撃命中: 1
+試製 陣風: Evas 砲撃回避: 1
+試製 陣風: Rare レア: 5
+試製 陣風: Cost: 9
+試製 陣風: Dist: 5
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -3038,3 +3071,26 @@ SM.79 bis: Dist: 8
 地中海12.6inch/44 三連装砲: Evas 砲撃回避: 4
 地中海12.6inch/44 三連装砲: Rare レア: 4
 地中海12.6inch/44 三連装砲: Range 射程: 3
+夜猫深海艦戦II: FP 火力: 3
+夜猫深海艦戦II: AA 対空: 13
+夜猫深海艦戦II: LoS 索敵: 2
+夜猫深海艦戦II: Acc 砲撃命中: 4
+夜猫深海艦戦II: Evas 砲撃回避: 3
+夜猫深海艦戦II: Rare レア: 6
+夜猫深海艦戦II: Range 射程: 1
+夜深海艦爆II: FP 火力: 4
+夜深海艦爆II: AA 対空: 6
+夜深海艦爆II: Dive 爆撃: 17
+夜深海艦爆II: LoS 索敵: 6
+夜深海艦爆II: ASW 対潜: 12
+夜深海艦爆II: Acc 砲撃命中: 5
+夜深海艦爆II: Rare レア: 6
+夜深海艦爆II: Range 射程: 2
+夜復讐深海艦攻II: FP 火力: 5
+夜復讐深海艦攻II: Torp 雷装: 17
+夜復讐深海艦攻II: AA 対空: 7
+夜復讐深海艦攻II: LoS 索敵: 7
+夜復讐深海艦攻II: ASW 対潜: 13
+夜復讐深海艦攻II: Acc 砲撃命中: 6
+夜復讐深海艦攻II: Rare レア: 6
+夜復讐深海艦攻II: Range 射程: 2
