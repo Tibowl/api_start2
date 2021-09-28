@@ -406,40 +406,4 @@
     "api_opetext": "マラッカ海峡を抜けて",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 511,
-    "api_infotext": "スエズ運河より地中海方面へ<br>進出！周辺海域を制圧しつつ<br>マルタ島への増援輸送作戦を<br>実施せよ！特務艦隊、出撃！",
-    "api_item": [32, 0, 0, 0],
-    "api_level": 8,
-    "api_maparea_id": 51,
-    "api_max_maphp": 300,
-    "api_name": "アレクサンドリア沖/クレタ島沖",
-    "api_no": 1,
-    "api_opetext": "MA3作戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 1]
-}, {
-    "api_id": 512,
-    "api_infotext": "地中海の要衝マルタ島へ基地<br>航空隊を進出し、これと協同<br>して地中海の敵港湾拠点及び<br>敵水上艦隊主力を撃滅せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 13,
-    "api_maparea_id": 51,
-    "api_max_maphp": 300,
-    "api_name": "地中海/マルタ島沖/ティレニア海",
-    "api_no": 2,
-    "api_opetext": "カラブリア岬沖海戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 1]
-}, {
-    "api_id": 513,
-    "api_infotext": "地中海の戦いの生命線となる<br>マルタ島への本格的増援輸送<br>作戦、「ペデスタル作戦」を<br>開始する！艦隊、出撃せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 17,
-    "api_maparea_id": 51,
-    "api_max_maphp": 300,
-    "api_name": "ジブラルタル沖/地中海/マルタ島沖",
-    "api_no": 3,
-    "api_opetext": "増援輸送！ペデスタル作戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 1]
 }]

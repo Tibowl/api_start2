@@ -2484,6 +2484,11 @@ Corsair Mk.II(Ace): Dist: 6
 試製 陣風: Rare レア: 5
 試製 陣風: Cost: 9
 試製 陣風: Dist: 5
+三式水中探信儀改: Armor 装甲: 1
+三式水中探信儀改: ASW 対潜: 11
+三式水中探信儀改: Acc 砲撃命中: 2
+三式水中探信儀改: Evas 砲撃回避: 1
+三式水中探信儀改: Rare レア: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
