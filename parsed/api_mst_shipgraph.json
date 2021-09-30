@@ -589,7 +589,7 @@
     "api_pa": [-475, 25],
     "api_pab": [0, 0],
     "api_sortno": 27,
-    "api_version": ["42", "21", "928"],
+    "api_version": ["43", "21", "928"],
     "api_weda": [528, 142],
     "api_wedb": [160, 163]
 }, {
@@ -6309,7 +6309,7 @@
     "api_pa": [-475, 25],
     "api_pab": [0, 0],
     "api_sortno": 1387,
-    "api_version": ["42", "21", "928"],
+    "api_version": ["43", "21", "928"],
     "api_weda": [439, 73],
     "api_wedb": [169, 187]
 }, {
@@ -8949,7 +8949,7 @@
     "api_pa": [286, 361],
     "api_pab": [0, 0],
     "api_sortno": 212,
-    "api_version": ["42", "21", "928"],
+    "api_version": ["43", "21", "928"],
     "api_weda": [480, 96],
     "api_wedb": [192, 168]
 }, {
