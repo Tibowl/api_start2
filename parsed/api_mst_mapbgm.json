@@ -1,7 +1,7 @@
 [{
     "api_boss_bgm": [3, 3],
     "api_id": 11,
-    "api_map_bgm": [118, 2],
+    "api_map_bgm": [1, 2],
     "api_maparea_id": 1,
     "api_moving_bgm": 14,
     "api_no": 1
@@ -113,7 +113,7 @@
 }, {
     "api_boss_bgm": [8, 8],
     "api_id": 41,
-    "api_map_bgm": [46, 2],
+    "api_map_bgm": [30, 2],
     "api_maparea_id": 4,
     "api_moving_bgm": 95,
     "api_no": 1
