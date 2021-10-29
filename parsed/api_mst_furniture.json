@@ -2987,7 +2987,7 @@
     "api_season": 19,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 36
+    "api_version": 37
 }, {
     "api_active_flag": 0,
     "api_description": "振り返れば、こんなところ<br>まで…提督の皆さん、あり<br>がとうございました！記念<br>の掛け軸を書いた艦娘も今<br>から一杯やるみたいです！",
@@ -6406,7 +6406,7 @@
     "api_season": 0,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 14
+    "api_version": 15
 }, {
     "api_active_flag": 0,
     "api_description": "秋の季節にぴったりの竹製<br>の床です。鎮守府に落ち着<br>いた雰囲気と、微妙にボコ<br>ボコした感触が足裏を刺激<br>して提督の健康にも最適！",
@@ -6731,7 +6731,7 @@
     "api_season": 42,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 8
+    "api_version": 9
 }, {
     "api_active_flag": 0,
     "api_description": "海防艦が節分豆撒きの兵站<br>確保や諸々の準備のために<br>使用する節分棚と同作業台<br>です。節分特注家具ですが<br>職人ダイナミック割引可！",
@@ -7198,6 +7198,19 @@
     "api_saleflg": 1,
     "api_season": 0,
     "api_title": "32駆ハロウィン私物棚",
+    "api_type": 3,
+    "api_version": 1
+}, {
+    "api_active_flag": 1,
+    "api_description": "頑張りましたね！大湊から<br>出撃し、三陸沖、そして…<br>北海道根室沖での新秋刀魚<br>奇跡の大漁、おめでとう…<br>ございますっ！大漁です！",
+    "api_id": 555,
+    "api_no": 122,
+    "api_outside_id": 0,
+    "api_price": 0,
+    "api_rarity": 6,
+    "api_saleflg": 0,
+    "api_season": 44,
+    "api_title": "二一式大漁旗",
     "api_type": 3,
     "api_version": 1
 }]

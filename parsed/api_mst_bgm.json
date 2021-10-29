@@ -125,6 +125,9 @@
     "api_id": 149,
     "api_name": "連合艦隊の出撃"
 }, {
+    "api_id": 150,
+    "api_name": "根室沖の輝き"
+}, {
     "api_id": 205,
     "api_name": "秋月の空"
 }, {
@@ -283,4 +286,10 @@
 }, {
     "api_id": 257,
     "api_name": "ペデスタル作戦"
+}, {
+    "api_id": 258,
+    "api_name": "Trick or Fleet!"
+}, {
+    "api_id": 259,
+    "api_name": "根室沖の輝き"
 }]

@@ -406,4 +406,28 @@
     "api_opetext": "マラッカ海峡を抜けて",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 521,
+    "api_infotext": "大湊より、精鋭戦隊を出撃！<br>三陸沖から北海道根室沖海域<br>の安全を確保、秋刀魚漁支援<br>を実施せよ！艦隊、抜錨ッ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 6,
+    "api_maparea_id": 52,
+    "api_max_maphp": 300,
+    "api_name": "三陸沖/北海道根室半島沖",
+    "api_no": 1,
+    "api_opetext": "北海道沖秋刀魚漁支援",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 522,
+    "api_infotext": "#E2",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 8,
+    "api_maparea_id": 52,
+    "api_max_maphp": 300,
+    "api_name": "#E2",
+    "api_no": 2,
+    "api_opetext": "#E2",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
 }]

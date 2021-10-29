@@ -26,4 +26,8 @@
     "api_id": 7,
     "api_name": "南西海域",
     "api_type": 0
+}, {
+    "api_id": 52,
+    "api_name": "帰ってきた鎮守府秋刀魚祭り",
+    "api_type": 1
 }]
