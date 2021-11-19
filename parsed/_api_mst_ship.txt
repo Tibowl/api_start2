@@ -2049,6 +2049,13 @@ Z3 zwei: speed 速力: 10
 千代田航改二: AA 対空: 30,72
 千代田航改二: luck 運: 13,59
 千代田航改二: speed 速力: 10
+Scamp: HP 耐久: 13,18
+Scamp: Armor 装甲: 4,20
+Scamp: FP 火力: 1,11
+Scamp: Torp 雷装: 35,73
+Scamp: AA 対空: 0,0
+Scamp: luck 運: 11,55
+Scamp: speed 速力: 5
 初風改: HP 耐久: 32,49
 初風改: Armor 装甲: 14,49
 初風改: FP 火力: 12,49
@@ -4653,6 +4660,20 @@ Victorious改: Torp 雷装: 0,0
 Victorious改: AA 対空: 40,84
 Victorious改: luck 運: 22,110
 Victorious改: speed 速力: 10
+昭南改: HP 耐久: 18,29
+昭南改: Armor 装甲: 7,34
+昭南改: FP 火力: 5,37
+昭南改: Torp 雷装: 0,0
+昭南改: AA 対空: 18,63
+昭南改: luck 運: 12,67
+昭南改: speed 速力: 5
+Scamp改: HP 耐久: 17,23
+Scamp改: Armor 装甲: 6,23
+Scamp改: FP 火力: 2,13
+Scamp改: Torp 雷装: 40,82
+Scamp改: AA 対空: 0,0
+Scamp改: luck 運: 17,72
+Scamp改: speed 速力: 5
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -4716,6 +4737,13 @@ Janus改: Torp 雷装: 40,90
 Janus改: AA 対空: 30,72
 Janus改: luck 運: 22,87
 Janus改: speed 速力: 10
+昭南: HP 耐久: 9,18
+昭南: Armor 装甲: 4,17
+昭南: FP 火力: 4,18
+昭南: Torp 雷装: 0,0
+昭南: AA 対空: 10,38
+昭南: luck 運: 9,57
+昭南: speed 速力: 5
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
@@ -5264,3 +5292,13 @@ PT小鬼群: speed 速力: 10
 欧州装甲空母棲姫-壊: speed 速力: 10
 飛行場姫: speed 速力: 0
 飛行場姫: speed 速力: 0
+潜水新棲姫: speed 速力: 5
+駆逐ナ級IIe(量産型): speed 速力: 10
+駆逐ナ級IIe(量産型): speed 速力: 10
+駆逐ナ級IIe(量産型): speed 速力: 10
+潜水鮫水鬼: speed 速力: 5
+潜水鮫水鬼: speed 速力: 5
+潜水鮫水鬼: speed 速力: 5
+潜水鮫水鬼-壊: speed 速力: 5
+潜水鮫水鬼-壊: speed 速力: 5
+潜水鮫水鬼-壊: speed 速力: 5

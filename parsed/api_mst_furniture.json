@@ -2580,11 +2580,11 @@
     "api_outside_id": 0,
     "api_price": 8000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5,
-    "api_version": 18
+    "api_version": 19
 }, {
     "api_active_flag": 0,
     "api_description": "今夜は素敵なパーティしま<br>しょ！主計科さんが腕によ<br>りをかけて作ってくれた聖<br>夜のご馳走。よく焼かれた<br>七面鳥も美味しそう！",
@@ -2840,7 +2840,7 @@
     "api_outside_id": 4,
     "api_price": 27000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 3,
     "api_title": "秋の気配な窓",
     "api_type": 2,
@@ -2987,7 +2987,7 @@
     "api_season": 19,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 37
+    "api_version": 38
 }, {
     "api_active_flag": 0,
     "api_description": "振り返れば、こんなところ<br>まで…提督の皆さん、あり<br>がとうございました！記念<br>の掛け軸を書いた艦娘も今<br>から一杯やるみたいです！",
@@ -3117,7 +3117,7 @@
     "api_season": 0,
     "api_title": "温泉岩風呂",
     "api_type": 5,
-    "api_version": 18
+    "api_version": 19
 }, {
     "api_active_flag": 0,
     "api_description": "提督の熱いリクエストで新<br>たに実装された富嶽タイル<br>画です。温泉等との相性は<br>いうことありません。価格<br>もギリギリに抑えました！",
@@ -3334,7 +3334,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 21,
     "api_title": "鎮守府秋祭りの屋台",
     "api_type": 5,
@@ -3347,7 +3347,7 @@
     "api_outside_id": 0,
     "api_price": 30000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 21,
     "api_title": "鎮守府秋祭りの射的",
     "api_type": 5,
@@ -3763,7 +3763,7 @@
     "api_outside_id": 0,
     "api_price": 4800,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "海軍基地航空隊の机",
     "api_type": 5,
@@ -4062,7 +4062,7 @@
     "api_outside_id": 4,
     "api_price": 2400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "すすきの窓",
     "api_type": 2,
@@ -5583,7 +5583,7 @@
     "api_outside_id": 0,
     "api_price": 1980,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "花飾りのステンドグラス",
     "api_type": 3,
@@ -6181,7 +6181,7 @@
     "api_outside_id": 0,
     "api_price": 155000,
     "api_rarity": 6,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "北欧艦娘の食卓",
     "api_type": 5,
@@ -6406,7 +6406,7 @@
     "api_season": 0,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 15
+    "api_version": 16
 }, {
     "api_active_flag": 0,
     "api_description": "秋の季節にぴったりの竹製<br>の床です。鎮守府に落ち着<br>いた雰囲気と、微妙にボコ<br>ボコした感触が足裏を刺激<br>して提督の健康にも最適！",
@@ -6493,7 +6493,7 @@
     "api_outside_id": 4,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "サツマイモのお洒落窓",
     "api_type": 2,
@@ -6727,11 +6727,11 @@
     "api_outside_id": 4,
     "api_price": 5000,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 42,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 9
+    "api_version": 10
 }, {
     "api_active_flag": 0,
     "api_description": "海防艦が節分豆撒きの兵站<br>確保や諸々の準備のために<br>使用する節分棚と同作業台<br>です。節分特注家具ですが<br>職人ダイナミック割引可！",
@@ -6844,7 +6844,7 @@
     "api_outside_id": 0,
     "api_price": 9000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "天津風と提督のテーブル",
     "api_type": 5,
@@ -7104,7 +7104,7 @@
     "api_outside_id": 10,
     "api_price": 120210,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_season": 0,
     "api_title": "窓の無い部屋",
     "api_type": 2,
@@ -7182,7 +7182,7 @@
     "api_outside_id": 4,
     "api_price": 110310,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "ハロウィンの窓",
     "api_type": 2,
@@ -7195,7 +7195,7 @@
     "api_outside_id": 0,
     "api_price": 3200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_season": 0,
     "api_title": "32駆ハロウィン私物棚",
     "api_type": 3,
