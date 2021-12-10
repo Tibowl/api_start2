@@ -406,40 +406,4 @@
     "api_opetext": "マラッカ海峡を抜けて",
     "api_required_defeat_count": 3,
     "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 521,
-    "api_infotext": "大湊より、出撃！三陸沖から<br>北海道根室沖の海域を哨戒、<br>北方近海の安全確保を図れ！<br>第百四戦隊、抜錨ッ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 6,
-    "api_maparea_id": 52,
-    "api_max_maphp": 300,
-    "api_name": "三陸沖/北海道根室半島沖",
-    "api_no": 1,
-    "api_opetext": "北方近海の哨戒",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 522,
-    "api_infotext": "昭南(シンガポール)より日本<br>本土方面に戦略物資を輸送す<br>る南号作戦を実施せよ！対潜<br>警戒を厳に！ヒ船団、抜錨！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 12,
-    "api_maparea_id": 52,
-    "api_max_maphp": 300,
-    "api_name": "昭南方面～本土航路",
-    "api_no": 2,
-    "api_opetext": "南号作戦",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
-}, {
-    "api_id": 523,
-    "api_infotext": "八丈島の防備を固め、同海域<br>周辺の敵潜水艦を制圧！また<br>呉より来援する連合艦隊と共<br>に敵機動部隊群を迎撃せよ！",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 16,
-    "api_maparea_id": 52,
-    "api_max_maphp": 300,
-    "api_name": "八丈島沖/房総半島東方沖",
-    "api_no": 3,
-    "api_opetext": "八丈島沖絶対哨戒線",
-    "api_required_defeat_count": null,
-    "api_sally_flag": [1, 7, 1]
 }]

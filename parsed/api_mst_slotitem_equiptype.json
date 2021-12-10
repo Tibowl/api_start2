@@ -97,7 +97,7 @@
 }, {
     "api_id": 25,
     "api_name": "オートジャイロ",
-    "api_show_flg": 1
+    "api_show_flg": 0
 }, {
     "api_id": 26,
     "api_name": "対潜哨戒機",
