@@ -456,26 +456,26 @@
     "api_sally_flag": [0, 7, 0]
 }, {
     "api_id": 534,
-    "api_infotext": "#E4",
+    "api_infotext": "第十六戦隊で南西方面の基地<br>航空隊を圧迫する敵地上戦力<br>を撃破！その後、昭南マニラ<br>間の船団護衛を実施せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 15,
     "api_maparea_id": 53,
     "api_max_maphp": 300,
-    "api_name": "#E4",
+    "api_name": "昭南～マニラ航路",
     "api_no": 4,
-    "api_opetext": "#E4",
+    "api_opetext": "シマ船団護衛作戦",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 0, 0]
 }, {
     "api_id": 535,
-    "api_infotext": "#E5",
+    "api_infotext": "九州沖に出撃した敵機動部隊<br>を捜索撃滅しつつ、敵超重爆<br>より北九州の空を防空せよ！<br>艦隊及び防空迎撃隊、出撃！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 17,
     "api_maparea_id": 53,
     "api_max_maphp": 300,
-    "api_name": "#E5",
+    "api_name": "東シナ海～北九州沖",
     "api_no": 5,
-    "api_opetext": "#E5",
+    "api_opetext": "北九州防空戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]
