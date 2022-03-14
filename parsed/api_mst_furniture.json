@@ -2987,7 +2987,7 @@
     "api_season": 19,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 44
+    "api_version": 45
 }, {
     "api_active_flag": 0,
     "api_description": "振り返れば、こんなところ<br>まで…提督の皆さん、あり<br>がとうございました！記念<br>の掛け軸を書いた艦娘も今<br>から一杯やるみたいです！",
@@ -4443,7 +4443,7 @@
     "api_season": 0,
     "api_title": "桜の和のアレンジメント",
     "api_type": 3,
-    "api_version": 13
+    "api_version": 14
 }, {
     "api_active_flag": 1,
     "api_description": "提督のおかげで迎えること<br>ができた「祝四周年」を記<br>念して特型駆逐艦四番艦と<br>その姉妹艦たちが制作した<br>記念のスペシャル掛け軸！",
@@ -6406,7 +6406,7 @@
     "api_season": 0,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 22
+    "api_version": 23
 }, {
     "api_active_flag": 0,
     "api_description": "秋の季節にぴったりの竹製<br>の床です。鎮守府に落ち着<br>いた雰囲気と、微妙にボコ<br>ボコした感触が足裏を刺激<br>して提督の健康にも最適！",
