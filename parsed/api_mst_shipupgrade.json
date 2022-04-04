@@ -1334,6 +1334,18 @@
     "api_arms_mat_count": 0,
     "api_aviation_mat_count": 0,
     "api_catapult_count": 0,
+    "api_current_ship_id": 486,
+    "api_drawing_count": 0,
+    "api_id": 368,
+    "api_original_ship_id": 486,
+    "api_report_count": 0,
+    "api_sortno": 1448,
+    "api_upgrade_level": 1,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 0,
+    "api_aviation_mat_count": 0,
+    "api_catapult_count": 0,
     "api_current_ship_id": 457,
     "api_drawing_count": 0,
     "api_id": 369,
@@ -1808,6 +1820,18 @@
     "api_original_ship_id": 479,
     "api_report_count": 0,
     "api_sortno": 279,
+    "api_upgrade_level": 0,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 0,
+    "api_aviation_mat_count": 0,
+    "api_catapult_count": 0,
+    "api_current_ship_id": 0,
+    "api_drawing_count": 0,
+    "api_id": 486,
+    "api_original_ship_id": 486,
+    "api_report_count": 0,
+    "api_sortno": 286,
     "api_upgrade_level": 0,
     "api_upgrade_type": 1
 }, {
@@ -2589,6 +2613,18 @@
     "api_report_count": 0,
     "api_sortno": 446,
     "api_upgrade_level": 4,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 0,
+    "api_aviation_mat_count": 0,
+    "api_catapult_count": 0,
+    "api_current_ship_id": 368,
+    "api_drawing_count": 1,
+    "api_id": 647,
+    "api_original_ship_id": 486,
+    "api_report_count": 0,
+    "api_sortno": 447,
+    "api_upgrade_level": 2,
     "api_upgrade_type": 1
 }, {
     "api_arms_mat_count": 0,
