@@ -3756,7 +3756,7 @@
         "api_season": 19,
         "api_title": "鎮守府カウンターバー",
         "api_type": 2,
-        "api_version": 46
+        "api_version": 47
     }, {
         "api_active_flag": 0,
         "api_description": "振り返れば、こんなところ<br>まで…提督の皆さん、あり<br>がとうございました！記念<br>の掛け軸を書いた艦娘も今<br>から一杯やるみたいです！",
@@ -7175,7 +7175,7 @@
         "api_season": 0,
         "api_title": "海防艦の汎用円形机",
         "api_type": 5,
-        "api_version": 24
+        "api_version": 25
     }, {
         "api_active_flag": 0,
         "api_description": "秋の季節にぴったりの竹製<br>の床です。鎮守府に落ち着<br>いた雰囲気と、微妙にボコ<br>ボコした感触が足裏を刺激<br>して提督の健康にも最適！",
@@ -7500,7 +7500,7 @@
         "api_season": 42,
         "api_title": "潜水艦隊の窓",
         "api_type": 2,
-        "api_version": 17
+        "api_version": 18
     }, {
         "api_active_flag": 0,
         "api_description": "海防艦が節分豆撒きの兵站<br>確保や諸々の準備のために<br>使用する節分棚と同作業台<br>です。節分特注家具ですが<br>職人ダイナミック割引可！",
@@ -8308,7 +8308,7 @@
         "api_id": 230,
         "api_no": 35,
         "api_type": 2,
-        "api_version": "87"
+        "api_version": "88"
     }, {
         "api_filename": "042",
         "api_id": 235,
@@ -8728,7 +8728,7 @@
         "api_id": 493,
         "api_no": 93,
         "api_type": 5,
-        "api_version": "24"
+        "api_version": "25"
     }, {
         "api_filename": "110",
         "api_id": 497,
@@ -8752,7 +8752,7 @@
         "api_id": 518,
         "api_no": 75,
         "api_type": 2,
-        "api_version": "17"
+        "api_version": "18"
     }, {
         "api_filename": "074",
         "api_id": 523,
