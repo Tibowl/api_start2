@@ -4751,6 +4751,20 @@ Scamp改: speed 速力: 5
 玉波改: AA 対空: 18,58
 玉波改: luck 運: 10,56
 玉波改: speed 速力: 10
+伊201改: HP 耐久: 13,23
+伊201改: Armor 装甲: 4,18
+伊201改: FP 火力: 1,4
+伊201改: Torp 雷装: 22,68
+伊201改: AA 対空: 0,5
+伊201改: luck 運: 24,87
+伊201改: speed 速力: 5
+早潮改: HP 耐久: 32,49
+早潮改: Armor 装甲: 14,49
+早潮改: FP 火力: 13,48
+早潮改: Torp 雷装: 28,79
+早潮改: AA 対空: 14,50
+早潮改: luck 運: 12,63
+早潮改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -4772,6 +4786,13 @@ Conte di Cavour nuovo: Torp 雷装: 8,30
 Conte di Cavour nuovo: AA 対空: 48,90
 Conte di Cavour nuovo: luck 運: 24,88
 Conte di Cavour nuovo: speed 速力: 10
+伊201: HP 耐久: 12,22
+伊201: Armor 装甲: 4,16
+伊201: FP 火力: 1,3
+伊201: Torp 雷装: 20,63
+伊201: AA 対空: 0,5
+伊201: luck 運: 24,79
+伊201: speed 速力: 5
 伊203: HP 耐久: 12,22
 伊203: Armor 装甲: 4,16
 伊203: FP 火力: 1,3
@@ -4800,6 +4821,13 @@ Victorious: Torp 雷装: 0,0
 Victorious: AA 対空: 32,77
 Victorious: luck 運: 10,90
 Victorious: speed 速力: 10
+早潮: HP 耐久: 16,34
+早潮: Armor 装甲: 6,19
+早潮: FP 火力: 10,29
+早潮: Torp 雷装: 24,69
+早潮: AA 対空: 8,38
+早潮: luck 運: 9,48
+早潮: speed 速力: 10
 伊203改: HP 耐久: 13,23
 伊203改: Armor 装甲: 4,18
 伊203改: FP 火力: 1,4
@@ -5446,3 +5474,13 @@ PT小鬼群: speed 速力: 10
 集積地棲姫III: speed 速力: 0
 集積地棲姫III-壊: speed 速力: 0
 重巡ネ級改: speed 速力: 10
+飛行場姫(哨戒機配備): speed 速力: 0
+飛行場姫(哨戒機配備): speed 速力: 0
+飛行場姫(哨戒機配備): speed 速力: 0
+飛行場姫: speed 速力: 0
+飛行場姫: speed 速力: 0
+飛行場姫: speed 速力: 0
+外南洋駆逐棲姫: speed 速力: 10
+外南洋駆逐棲姫: speed 速力: 10
+外南洋駆逐棲姫-壊: speed 速力: 10
+外南洋駆逐棲姫-壊: speed 速力: 10

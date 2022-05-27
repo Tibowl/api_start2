@@ -418,4 +418,64 @@
     "api_opetext": "ヒ船団海上護衛作戦",
     "api_required_defeat_count": 5,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 541,
+    "api_infotext": "Ｒ方面作戦の拠点基地となる<br>ラバウルに艦隊を進出せよ。<br>敵潜水艦、空襲などへの警戒<br>も厳に。艦隊、抜錨！",
+    "api_item": [32, 0, 0, 0],
+    "api_level": 6,
+    "api_maparea_id": 54,
+    "api_max_maphp": 300,
+    "api_name": "ニューブリテン島ラバウル沖",
+    "api_no": 1,
+    "api_opetext": "ラバウル基地への進出",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 542,
+    "api_infotext": "ラバウルより進発、ショート<br>ランド及びレカタ方面に水上<br>機基地を設営すべく輸送作戦<br>を実施せよ！警戒を厳に！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 54,
+    "api_max_maphp": 300,
+    "api_name": "ショートランド沖/レカタ沖",
+    "api_no": 2,
+    "api_opetext": "進出！R方面航空部隊",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 1]
+}, {
+    "api_id": 543,
+    "api_infotext": "ビスマルク海を越えてラエへ<br>増援輸送作戦を実施せよ！<br>戦局により、敵基地航空牽制<br>のため、連合艦隊投入も実施！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 54,
+    "api_max_maphp": 300,
+    "api_name": "ビスマルク海/ダンピール海峡沖",
+    "api_no": 3,
+    "api_opetext": "死闘！ 東部ニューギニア方面護衛隊",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 544,
+    "api_infotext": "",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 54,
+    "api_max_maphp": 300,
+    "api_name": "",
+    "api_no": 4,
+    "api_opetext": "",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 545,
+    "api_infotext": "",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 54,
+    "api_max_maphp": 300,
+    "api_name": "",
+    "api_no": 5,
+    "api_opetext": "",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
 }]
