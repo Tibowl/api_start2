@@ -456,26 +456,26 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 544,
-    "api_infotext": "",
+    "api_infotext": "南西諸島への本格侵攻を開始<br>した敵を、我が第二艦隊主力<br>によって迎撃する！作戦に先<br>駆けて前路掃蕩を実施せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 15,
     "api_maparea_id": 54,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "豊後水道/佐世保沖/坊ノ岬沖",
     "api_no": 4,
-    "api_opetext": "",
+    "api_opetext": "豊後水道を抜けて",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 545,
-    "api_infotext": "",
+    "api_infotext": "いよいよ決戦！大和を中核と<br>した、我が第二艦隊の精鋭が<br>沖縄救援に突入する！各艦隊<br>と基地航空との連携も重要！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 17,
     "api_maparea_id": 54,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "坊ノ岬沖/台湾沖/南西諸島海域",
     "api_no": 5,
-    "api_opetext": "",
+    "api_opetext": "血戦！異聞坊ノ岬沖海戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]

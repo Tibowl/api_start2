@@ -264,4 +264,18 @@
     "api_maparea_id": 54,
     "api_moving_bgm": 201,
     "api_no": 3
+}, {
+    "api_boss_bgm": [204, 204],
+    "api_id": 544,
+    "api_map_bgm": [203, 203],
+    "api_maparea_id": 54,
+    "api_moving_bgm": 205,
+    "api_no": 4
+}, {
+    "api_boss_bgm": [207, 207],
+    "api_id": 545,
+    "api_map_bgm": [206, 206],
+    "api_maparea_id": 54,
+    "api_moving_bgm": 205,
+    "api_no": 5
 }]
