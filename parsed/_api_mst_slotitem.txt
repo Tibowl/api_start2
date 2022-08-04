@@ -2697,6 +2697,10 @@ Loire 130M: Acc 砲撃命中: 2
 Loire 130M: Rare レア: 3
 Loire 130M: Cost: 9
 Loire 130M: Dist: 3
+Mk.32 対潜魚雷(Mk.2落射機): Torp 雷装: 1
+Mk.32 対潜魚雷(Mk.2落射機): ASW 対潜: 19
+Mk.32 対潜魚雷(Mk.2落射機): Acc 砲撃命中: 1
+Mk.32 対潜魚雷(Mk.2落射機): Rare レア: 5
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
