@@ -418,4 +418,76 @@
     "api_opetext": "ヒ船団海上護衛作戦",
     "api_required_defeat_count": 5,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 551,
+    "api_infotext": "反攻上陸作戦「トーチ作戦」<br>に参加するため、遠征艦隊を<br>西方に派遣する！同進路上の<br>前路掃討を実施せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 6,
+    "api_maparea_id": 55,
+    "api_max_maphp": 300,
+    "api_name": "インド洋/アラビア海",
+    "api_no": 1,
+    "api_opetext": "遠征艦隊、西へ！",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 552,
+    "api_infotext": "海上輸送によって航空基地を<br>前進し、艦隊主力を展開して<br>アデン湾周辺の安全を確保！<br>スエズ運河へ前進せよ！",
+    "api_item": [31, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 55,
+    "api_max_maphp": 300,
+    "api_name": "アラビア海/アデン湾/紅海",
+    "api_no": 2,
+    "api_opetext": "アデン湾を抜けて",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 0]
+}, {
+    "api_id": 553,
+    "api_infotext": "スエズ運河を抜けて、地中海<br>方面へ進出！基地航空隊と連<br>携し、アレクサンドリアより<br>進発、地中海を突破せよ！",
+    "api_item": [32, 0, 0, 0],
+    "api_level": 13,
+    "api_maparea_id": 55,
+    "api_max_maphp": 300,
+    "api_name": "スエズ湾/地中海",
+    "api_no": 3,
+    "api_opetext": "アレクサンドリアの風",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 0]
+}, {
+    "api_id": 554,
+    "api_infotext": "#E4作戦内容",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 55,
+    "api_max_maphp": 300,
+    "api_name": "#E4目的地",
+    "api_no": 4,
+    "api_opetext": "#E4作戦名",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 555,
+    "api_infotext": "#E5作戦内容",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 55,
+    "api_max_maphp": 300,
+    "api_name": "#E5目的地",
+    "api_no": 5,
+    "api_opetext": "#E5作戦名",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 556,
+    "api_infotext": "#E6作戦内容",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 55,
+    "api_max_maphp": 300,
+    "api_name": "#E6目的地",
+    "api_no": 6,
+    "api_opetext": "#E6作戦名",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 0]
 }]

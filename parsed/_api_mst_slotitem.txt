@@ -2701,6 +2701,42 @@ Mk.32 対潜魚雷(Mk.2落射機): Torp 雷装: 1
 Mk.32 対潜魚雷(Mk.2落射機): ASW 対潜: 19
 Mk.32 対潜魚雷(Mk.2落射機): Acc 砲撃命中: 1
 Mk.32 対潜魚雷(Mk.2落射機): Rare レア: 5
+F4U-2 Night Corsair: FP 火力: 1
+F4U-2 Night Corsair: AA 対空: 9
+F4U-2 Night Corsair: LoS 索敵: 2
+F4U-2 Night Corsair: ASW 対潜: 5
+F4U-2 Night Corsair: Acc 砲撃命中: 1
+F4U-2 Night Corsair: Evas 砲撃回避: 2
+F4U-2 Night Corsair: Rare レア: 5
+F4U-2 Night Corsair: Cost: 9
+F4U-2 Night Corsair: Dist: 6
+F4U-4: FP 火力: 2
+F4U-4: AA 対空: 10
+F4U-4: Dive 爆撃: 6
+F4U-4: LoS 索敵: 2
+F4U-4: ASW 対潜: 3
+F4U-4: Evas 砲撃回避: 1
+F4U-4: Rare レア: 5
+F4U-4: Cost: 9
+F4U-4: Dist: 6
+熟練甲板要員: FP 火力: 2
+熟練甲板要員: AA 対空: 1
+熟練甲板要員: Armor 装甲: 1
+熟練甲板要員: LoS 索敵: 1
+熟練甲板要員: Acc 砲撃命中: 1
+熟練甲板要員: Evas 砲撃回避: 1
+熟練甲板要員: Rare レア: 3
+熟練甲板要員+航空整備員: FP 火力: 7
+熟練甲板要員+航空整備員: Torp 雷装: 1
+熟練甲板要員+航空整備員: AA 対空: 1
+熟練甲板要員+航空整備員: Dive 爆撃: 1
+熟練甲板要員+航空整備員: Armor 装甲: 1
+熟練甲板要員+航空整備員: LoS 索敵: 1
+熟練甲板要員+航空整備員: ASW 対潜: 1
+熟練甲板要員+航空整備員: Acc 砲撃命中: 1
+熟練甲板要員+航空整備員: Evas 砲撃回避: 1
+熟練甲板要員+航空整備員: Rare レア: 4
+熟練甲板要員+航空整備員: Range 射程: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2

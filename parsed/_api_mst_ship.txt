@@ -3890,6 +3890,13 @@ Maestrale改: speed 速力: 10
 日進: AA 対空: 20,48
 日進: luck 運: 9,44
 日進: speed 速力: 10
+夏雲: HP 耐久: 16,33
+夏雲: Armor 装甲: 6,19
+夏雲: FP 火力: 10,31
+夏雲: Torp 雷装: 24,68
+夏雲: AA 対空: 9,39
+夏雲: luck 運: 6,43
+夏雲: speed 速力: 10
 峯雲: HP 耐久: 16,33
 峯雲: Armor 装甲: 6,19
 峯雲: FP 火力: 10,30
@@ -4765,6 +4772,13 @@ Scamp改: speed 速力: 5
 早潮改: AA 対空: 14,50
 早潮改: luck 運: 12,63
 早潮改: speed 速力: 10
+夏雲改: HP 耐久: 31,49
+夏雲改: Armor 装甲: 14,49
+夏雲改: FP 火力: 12,52
+夏雲改: Torp 雷装: 28,78
+夏雲改: AA 対空: 13,52
+夏雲改: luck 運: 8,53
+夏雲改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -4940,6 +4954,34 @@ Samuel B.Roberts Mk.II: Torp 雷装: 24,70
 Samuel B.Roberts Mk.II: AA 対空: 29,68
 Samuel B.Roberts Mk.II: luck 運: 40,87
 Samuel B.Roberts Mk.II: speed 速力: 10
+鵜来: HP 耐久: 9,17
+鵜来: Armor 装甲: 4,16
+鵜来: FP 火力: 4,18
+鵜来: Torp 雷装: 0,0
+鵜来: AA 対空: 9,37
+鵜来: luck 運: 35,79
+鵜来: speed 速力: 5
+Langley: HP 耐久: 31,41
+Langley: Armor 装甲: 14,30
+Langley: FP 火力: 14,32
+Langley: Torp 雷装: 0,0
+Langley: AA 対空: 32,52
+Langley: luck 運: 27,87
+Langley: speed 速力: 10
+鵜来改: HP 耐久: 17,28
+鵜来改: Armor 装甲: 6,33
+鵜来改: FP 火力: 4,34
+鵜来改: Torp 雷装: 0,0
+鵜来改: AA 対空: 17,60
+鵜来改: luck 運: 38,99
+鵜来改: speed 速力: 5
+Langley改: HP 耐久: 44,70
+Langley改: Armor 装甲: 22,60
+Langley改: FP 火力: 18,40
+Langley改: Torp 雷装: 0,0
+Langley改: AA 対空: 34,58
+Langley改: luck 運: 35,97
+Langley改: speed 速力: 10
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
@@ -5554,3 +5596,14 @@ PT小鬼群: speed 速力: 10
 近代化戦艦棲姫-壊: speed 速力: 5
 近代化戦艦棲姫-壊: speed 速力: 5
 近代化戦艦棲姫-壊: speed 速力: 5
+空母ヲ級改II: speed 速力: 10
+空母ヲ級改II: speed 速力: 10
+空母夏姫II: speed 速力: 10
+空母夏姫II: speed 速力: 10
+空母夏姫II: speed 速力: 10
+高速軽空母水鬼: speed 速力: 10
+高速軽空母水鬼: speed 速力: 10
+高速軽空母水鬼: speed 速力: 10
+高速軽空母水鬼-壊: speed 速力: 10
+高速軽空母水鬼-壊: speed 速力: 10
+高速軽空母水鬼-壊: speed 速力: 10
