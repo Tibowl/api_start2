@@ -2737,6 +2737,15 @@ F4U-4: Dist: 6
 熟練甲板要員+航空整備員: Evas 砲撃回避: 1
 熟練甲板要員+航空整備員: Rare レア: 4
 熟練甲板要員+航空整備員: Range 射程: 4
+Mosquito FB Mk.IV: Torp 雷装: 5
+Mosquito FB Mk.IV: AA 対空: 5
+Mosquito FB Mk.IV: Dive 爆撃: 18
+Mosquito FB Mk.IV: LoS 索敵: 5
+Mosquito FB Mk.IV: ASW 対潜: 4
+Mosquito FB Mk.IV: Acc 砲撃命中: 1
+Mosquito FB Mk.IV: Rare レア: 4
+Mosquito FB Mk.IV: Cost: 14
+Mosquito FB Mk.IV: Dist: 7
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
