@@ -456,38 +456,38 @@
     "api_sally_flag": [1, 7, 0]
 }, {
     "api_id": 554,
-    "api_infotext": "#E4作戦内容",
+    "api_infotext": "北アフリカ方面への反攻上陸<br>「トーチ作戦」を開始する！<br>英国及び米東海岸方面からも<br>艦隊進発！作戦開始位置へ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 12,
     "api_maparea_id": 55,
     "api_max_maphp": 300,
-    "api_name": "#E4目的地",
+    "api_name": "大西洋/ジブラルタル沖",
     "api_no": 4,
-    "api_opetext": "#E4作戦名",
+    "api_opetext": "トーチ作戦任務部隊、抜錨！",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 555,
-    "api_infotext": "#E5作戦内容",
+    "api_infotext": "いよいよ北アフリカ沿岸へ着<br>上陸作戦を開始する！兵力を<br>陸揚げした後、敵地上戦力を<br>撃滅せよ！敵反撃に注意を！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 15,
     "api_maparea_id": 55,
     "api_max_maphp": 300,
-    "api_name": "#E5目的地",
+    "api_name": "ジブラルタル沖/北アフリカ沖",
     "api_no": 5,
-    "api_opetext": "#E5作戦名",
+    "api_opetext": "反攻上陸！トーチ作戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 556,
-    "api_infotext": "#E6作戦内容",
+    "api_infotext": "大反攻上陸作戦「トーチ」の<br>総仕上げ、要衝カサブランカ<br>攻略作戦を実施する！戦艦を<br>含む在泊艦隊を無力化せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 17,
     "api_maparea_id": 55,
     "api_max_maphp": 300,
-    "api_name": "#E6目的地",
+    "api_name": "カサブランカ沖",
     "api_no": 6,
-    "api_opetext": "#E6作戦名",
+    "api_opetext": "カサブランカ沖海戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]

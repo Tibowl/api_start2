@@ -4779,6 +4779,27 @@ Scamp改: speed 速力: 5
 夏雲改: AA 対空: 13,52
 夏雲改: luck 運: 8,53
 夏雲改: speed 速力: 10
+Brooklyn改: HP 耐久: 53,67
+Brooklyn改: Armor 装甲: 26,67
+Brooklyn改: FP 火力: 33,77
+Brooklyn改: Torp 雷装: 0,39
+Brooklyn改: AA 対空: 36,80
+Brooklyn改: luck 運: 37,97
+Brooklyn改: speed 速力: 10
+Ranger改: HP 耐久: 64,84
+Ranger改: Armor 装甲: 18,58
+Ranger改: FP 火力: 0,47
+Ranger改: Torp 雷装: 0,0
+Ranger改: AA 対空: 30,82
+Ranger改: luck 運: 32,92
+Ranger改: speed 速力: 10
+Jean Bart改: HP 耐久: 88,98
+Jean Bart改: Armor 装甲: 77,96
+Jean Bart改: FP 火力: 70,97
+Jean Bart改: Torp 雷装: 0,0
+Jean Bart改: AA 対空: 24,76
+Jean Bart改: luck 運: 22,94
+Jean Bart改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -4877,6 +4898,13 @@ Janus改: speed 速力: 10
 昭南: AA 対空: 10,38
 昭南: luck 運: 9,57
 昭南: speed 速力: 5
+Brooklyn: HP 耐久: 38,56
+Brooklyn: Armor 装甲: 16,39
+Brooklyn: FP 火力: 29,59
+Brooklyn: Torp 雷装: 0,33
+Brooklyn: AA 対空: 26,70
+Brooklyn: luck 運: 17,77
+Brooklyn: speed 速力: 10
 山汐丸: HP 耐久: 36,48
 山汐丸: Armor 装甲: 7,19
 山汐丸: FP 火力: 2,15
@@ -4982,6 +5010,34 @@ Langley改: Torp 雷装: 0,0
 Langley改: AA 対空: 34,58
 Langley改: luck 運: 35,97
 Langley改: speed 速力: 10
+Ranger: HP 耐久: 48,78
+Ranger: Armor 装甲: 17,39
+Ranger: FP 火力: 0,27
+Ranger: Torp 雷装: 0,0
+Ranger: AA 対空: 28,70
+Ranger: luck 運: 20,72
+Ranger: speed 速力: 10
+Massachusetts: HP 耐久: 79,92
+Massachusetts: Armor 装甲: 77,92
+Massachusetts: FP 火力: 80,101
+Massachusetts: Torp 雷装: 0,0
+Massachusetts: AA 対空: 40,90
+Massachusetts: luck 運: 18,88
+Massachusetts: speed 速力: 10
+Jean Bart: HP 耐久: 84,93
+Jean Bart: Armor 装甲: 70,89
+Jean Bart: FP 火力: 61,95
+Jean Bart: Torp 雷装: 0,0
+Jean Bart: AA 対空: 18,68
+Jean Bart: luck 運: 15,75
+Jean Bart: speed 速力: 10
+Massachusetts改: HP 耐久: 91,101
+Massachusetts改: Armor 装甲: 86,109
+Massachusetts改: FP 火力: 84,108
+Massachusetts改: Torp 雷装: 0,0
+Massachusetts改: AA 対空: 60,108
+Massachusetts改: luck 運: 45,125
+Massachusetts改: speed 速力: 10
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
@@ -5607,3 +5663,23 @@ PT小鬼群: speed 速力: 10
 高速軽空母水鬼-壊: speed 速力: 10
 高速軽空母水鬼-壊: speed 速力: 10
 高速軽空母水鬼-壊: speed 速力: 10
+試作空母姫 バカンスmode: speed 速力: 10
+試作空母姫 バカンスmode: speed 速力: 10
+試作空母姫 バカンスmode: speed 速力: 10
+試作空母姫 バカンスmode-壊: speed 速力: 10
+試作空母姫 バカンスmode-壊: speed 速力: 10
+試作空母姫 バカンスmode-壊: speed 速力: 10
+戦艦未完棲姫: speed 速力: 10
+戦艦未完棲姫: speed 速力: 10
+戦艦未完棲姫: speed 速力: 10
+戦艦未完棲姫-壊: speed 速力: 10
+戦艦未完棲姫-壊: speed 速力: 10
+戦艦未完棲姫-壊: speed 速力: 10
+集積地棲姫III バカンスmode: speed 速力: 5
+集積地棲姫III バカンスmode-壊: speed 速力: 5
+集積地棲姫III バカンスmode: speed 速力: 5
+集積地棲姫III バカンスmode-壊: speed 速力: 5
+集積地棲姫III バカンスmode: speed 速力: 5
+集積地棲姫III バカンスmode-壊: speed 速力: 5
+集積地棲姫III バカンスmode: speed 速力: 5
+集積地棲姫III バカンスmode-壊: speed 速力: 5

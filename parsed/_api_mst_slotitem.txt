@@ -2719,6 +2719,26 @@ F4U-4: Evas 砲撃回避: 1
 F4U-4: Rare レア: 5
 F4U-4: Cost: 9
 F4U-4: Dist: 6
+AU-1: FP 火力: 3
+AU-1: Torp 雷装: 6
+AU-1: AA 対空: 9
+AU-1: Dive 爆撃: 12
+AU-1: LoS 索敵: 2
+AU-1: ASW 対潜: 5
+AU-1: Evas 砲撃回避: 1
+AU-1: Rare レア: 6
+AU-1: Cost: 10
+AU-1: Dist: 6
+F4U-7: FP 火力: 3
+F4U-7: Torp 雷装: 8
+F4U-7: AA 対空: 10
+F4U-7: Dive 爆撃: 11
+F4U-7: LoS 索敵: 2
+F4U-7: ASW 対潜: 4
+F4U-7: Evas 砲撃回避: 2
+F4U-7: Rare レア: 7
+F4U-7: Cost: 11
+F4U-7: Dist: 6
 熟練甲板要員: FP 火力: 2
 熟練甲板要員: AA 対空: 1
 熟練甲板要員: Armor 装甲: 1
@@ -2737,15 +2757,32 @@ F4U-4: Dist: 6
 熟練甲板要員+航空整備員: Evas 砲撃回避: 1
 熟練甲板要員+航空整備員: Rare レア: 4
 熟練甲板要員+航空整備員: Range 射程: 4
-Mosquito FB Mk.IV: Torp 雷装: 5
-Mosquito FB Mk.IV: AA 対空: 5
-Mosquito FB Mk.IV: Dive 爆撃: 18
-Mosquito FB Mk.IV: LoS 索敵: 5
-Mosquito FB Mk.IV: ASW 対潜: 4
-Mosquito FB Mk.IV: Acc 砲撃命中: 1
-Mosquito FB Mk.IV: Rare レア: 4
-Mosquito FB Mk.IV: Cost: 14
-Mosquito FB Mk.IV: Dist: 7
+Mosquito FB Mk.VI: Torp 雷装: 5
+Mosquito FB Mk.VI: AA 対空: 5
+Mosquito FB Mk.VI: Dive 爆撃: 18
+Mosquito FB Mk.VI: LoS 索敵: 5
+Mosquito FB Mk.VI: ASW 対潜: 4
+Mosquito FB Mk.VI: Acc 砲撃命中: 1
+Mosquito FB Mk.VI: Rare レア: 4
+Mosquito FB Mk.VI: Cost: 14
+Mosquito FB Mk.VI: Dist: 7
+Mosquito PR Mk.IV: Armor 装甲: 2
+Mosquito PR Mk.IV: LoS 索敵: 9
+Mosquito PR Mk.IV: Acc 砲撃命中: 2
+Mosquito PR Mk.IV: Rare レア: 3
+Mosquito PR Mk.IV: Cost: 13
+Mosquito PR Mk.IV: Dist: 9
+Mosquito TR Mk.33: Torp 雷装: 8
+Mosquito TR Mk.33: AA 対空: 5
+Mosquito TR Mk.33: LoS 索敵: 6
+Mosquito TR Mk.33: ASW 対潜: 6
+Mosquito TR Mk.33: Acc 砲撃命中: 1
+Mosquito TR Mk.33: Rare レア: 4
+Mosquito TR Mk.33: Cost: 14
+Mosquito TR Mk.33: Dist: 7
+特大発動艇+Ⅲ号戦車(北アフリカ仕様): FP 火力: 1
+特大発動艇+Ⅲ号戦車(北アフリカ仕様): AA 対空: 1
+特大発動艇+Ⅲ号戦車(北アフリカ仕様): Rare レア: 5
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
