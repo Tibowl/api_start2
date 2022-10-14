@@ -663,4 +663,11 @@
     "api_name": "潜水艦補給物資",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["艦娘が丹精込めて畑で栽培した<br>国産の南瓜です。甘みも抜群で<br>ケーキや羊羹にも最適です。<br>※限定任務終了で消滅します。", ""],
+    "api_id": 96,
+    "api_name": "南瓜",
+    "api_price": 0,
+    "api_usetype": 4
 }]
