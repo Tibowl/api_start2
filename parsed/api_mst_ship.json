@@ -4210,7 +4210,7 @@
     "api_ctype": 23,
     "api_fuel_max": 15,
     "api_getmes": "<br>",
-    "api_houg": [13, 61],
+    "api_houg": [13, 62],
     "api_id": 145,
     "api_leng": 1,
     "api_luck": [50, 88],
@@ -9610,7 +9610,7 @@
     "api_ctype": 18,
     "api_fuel_max": 15,
     "api_getmes": "<br>",
-    "api_houg": [12, 49],
+    "api_houg": [12, 50],
     "api_id": 327,
     "api_leng": 1,
     "api_luck": [12, 59],
@@ -9647,7 +9647,7 @@
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "山雲改",
     "api_powup": [1, 1, 1, 1],
-    "api_raig": [28, 79],
+    "api_raig": [28, 80],
     "api_slot_num": 3,
     "api_soku": 10,
     "api_sort_id": 15222,
@@ -9655,7 +9655,7 @@
     "api_souk": [14, 48],
     "api_stype": 2,
     "api_taik": [31, 49],
-    "api_tyku": [16, 49],
+    "api_tyku": [16, 50],
     "api_voicef": 3,
     "api_yomi": "やまぐも"
 }, {
@@ -14114,7 +14114,7 @@
     "api_ctype": 18,
     "api_fuel_max": 15,
     "api_getmes": "<br>",
-    "api_houg": [19, 68],
+    "api_houg": [19, 69],
     "api_id": 489,
     "api_leng": 1,
     "api_luck": [18, 77],
@@ -14129,7 +14129,7 @@
     "api_souk": [15, 54],
     "api_stype": 2,
     "api_taik": [31, 54],
-    "api_tyku": [20, 64],
+    "api_tyku": [20, 65],
     "api_voicef": 1,
     "api_yomi": "みちしお"
 }, {
