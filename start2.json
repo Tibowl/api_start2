@@ -482,6 +482,12 @@
         "api_equip_type": [3, 4, 10, 11, 12, 13, 16, 17, 18, 19, 20, 21, 23, 28, 29, 33, 34, 36, 39, 40, 42, 43, 93, 95],
         "api_ship_id": 392
     }, {
+        "api_equip_type": [2, 3, 4, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 23, 25, 28, 29, 33, 34, 35, 36, 37, 39, 40, 42, 43, 45, 50, 93, 95],
+        "api_ship_id": 411
+    }, {
+        "api_equip_type": [2, 3, 4, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 23, 25, 28, 29, 33, 34, 35, 36, 37, 39, 40, 42, 43, 45, 50, 93, 95],
+        "api_ship_id": 412
+    }, {
         "api_equip_type": [1, 5, 12, 14, 15, 17, 20, 21, 23, 24, 29, 30, 33, 36, 37, 39, 43, 46],
         "api_ship_id": 418
     }, {
@@ -77772,6 +77778,32 @@
         "api_tais": 3,
         "api_tyku": 7,
         "api_type": [3, 5, 7, 7, 12],
+        "api_usebull": "0"
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [1, 4, 0, 1],
+        "api_houg": 0,
+        "api_houk": 1,
+        "api_houm": 1,
+        "api_id": 488,
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "二式爆雷改二",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 3,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 488,
+        "api_souk": 1,
+        "api_taik": 0,
+        "api_tais": 8,
+        "api_tyku": 0,
+        "api_type": [7, 32, 15, 17, 0],
         "api_usebull": "0"
     }, {
         "api_atap": 0,
