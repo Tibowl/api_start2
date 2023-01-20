@@ -418,4 +418,16 @@
     "api_opetext": "ヒ船団海上護衛作戦",
     "api_required_defeat_count": 5,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 75,
+    "api_infotext": "ジャワ島東部に攻略部隊を揚陸<br>する！有力なる艦隊でスラバヤ<br>沖にて敵の迎撃戦力を撃破し、<br>敵残存艦隊も猛追！撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 11,
+    "api_maparea_id": 7,
+    "api_max_maphp": null,
+    "api_name": "ジャワ島沖",
+    "api_no": 5,
+    "api_opetext": "スラバヤ沖海戦・バタビア沖海戦",
+    "api_required_defeat_count": 2,
+    "api_sally_flag": [1, 0, 0]
 }]
