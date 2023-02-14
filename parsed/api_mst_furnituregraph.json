@@ -75,7 +75,7 @@
     "api_id": 186,
     "api_no": 22,
     "api_type": 5,
-    "api_version": "24"
+    "api_version": "25"
 }, {
     "api_filename": "036",
     "api_id": 199,
@@ -435,7 +435,7 @@
     "api_id": 377,
     "api_no": 75,
     "api_type": 5,
-    "api_version": "22"
+    "api_version": "23"
 }, {
     "api_filename": "077",
     "api_id": 378,
@@ -561,7 +561,7 @@
     "api_id": 493,
     "api_no": 93,
     "api_type": 5,
-    "api_version": "33"
+    "api_version": "34"
 }, {
     "api_filename": "110",
     "api_id": 497,
@@ -579,7 +579,7 @@
     "api_id": 512,
     "api_no": 95,
     "api_type": 5,
-    "api_version": "6"
+    "api_version": "7"
 }, {
     "api_filename": "075",
     "api_id": 515,
@@ -591,7 +591,7 @@
     "api_id": 518,
     "api_no": 75,
     "api_type": 2,
-    "api_version": "26"
+    "api_version": "27"
 }, {
     "api_filename": "074",
     "api_id": 523,
@@ -639,5 +639,11 @@
     "api_id": 578,
     "api_no": 129,
     "api_type": 3,
+    "api_version": "1"
+}, {
+    "api_filename": "089",
+    "api_id": 588,
+    "api_no": 88,
+    "api_type": 2,
     "api_version": "1"
 }]
