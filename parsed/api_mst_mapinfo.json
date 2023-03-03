@@ -456,14 +456,14 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 563,
-    "api_infotext": "",
+    "api_infotext": "いよいよ敵機動部隊が呉方面<br>及び関東地区への空襲を開始<br>した。我が全戦力を挙げて、<br>これを邀撃する！艦隊出撃！",
     "api_item": [0, 0, 0, 0],
     "api_level": 14,
     "api_maparea_id": 56,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "九州沖/四国沖/八丈島沖",
     "api_no": 3,
-    "api_opetext": "",
+    "api_opetext": "敵空襲部隊を討て！",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 1]
 }, {

@@ -5080,6 +5080,20 @@ Heywood L.E.: Torp 雷装: 20,61
 Heywood L.E.: AA 対空: 32,62
 Heywood L.E.: luck 運: 18,77
 Heywood L.E.: speed 速力: 10
+熊野丸: HP 耐久: 38,49
+熊野丸: Armor 装甲: 11,34
+熊野丸: FP 火力: 4,24
+熊野丸: Torp 雷装: 0,0
+熊野丸: AA 対空: 15,32
+熊野丸: luck 運: 17,57
+熊野丸: speed 速力: 5
+熊野丸改: HP 耐久: 40,59
+熊野丸改: Armor 装甲: 14,46
+熊野丸改: FP 火力: 12,37
+熊野丸改: Torp 雷装: 0,0
+熊野丸改: AA 対空: 17,41
+熊野丸改: luck 運: 22,72
+熊野丸改: speed 速力: 5
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
@@ -5725,3 +5739,9 @@ PT小鬼群: speed 速力: 10
 集積地棲姫III バカンスmode-壊: speed 速力: 5
 集積地棲姫III バカンスmode: speed 速力: 5
 集積地棲姫III バカンスmode-壊: speed 速力: 5
+戦標船改装棲姫: speed 速力: 5
+戦標船改装棲姫: speed 速力: 5
+戦標船改装棲姫: speed 速力: 5
+戦標船改装棲姫-壊: speed 速力: 5
+戦標船改装棲姫-壊: speed 速力: 5
+戦標船改装棲姫-壊: speed 速力: 5
