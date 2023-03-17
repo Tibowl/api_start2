@@ -468,28 +468,28 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 564,
-    "api_infotext": "",
+    "api_infotext": "小笠原方面及び硫黄島の防備<br>を固めるため、横須賀鎮守府<br>配備の艦艇を中心に伊号輸送<br>作戦を実施する！艦隊抜錨！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 9,
     "api_maparea_id": 56,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "小笠原諸島航路/父島沖",
     "api_no": 4,
-    "api_opetext": "",
+    "api_opetext": "伊号輸送作戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 0, 1]
 }, {
     "api_id": 565,
-    "api_infotext": "",
+    "api_infotext": "小笠原方面の要衝、硫黄島に<br>侵攻部隊が襲来した！有力な<br>基地航空部隊を前線に展開、<br>艦隊と共にこれを邀撃せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 15,
     "api_maparea_id": 56,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "父島沖/硫黄島沖",
     "api_no": 5,
-    "api_opetext": "",
+    "api_opetext": "出撃！八幡部隊",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 566,
     "api_infotext": "",
@@ -501,5 +501,5 @@
     "api_no": 6,
     "api_opetext": "",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]

@@ -4821,6 +4821,13 @@ Heywood L.E.改: Torp 雷装: 26,73
 Heywood L.E.改: AA 対空: 40,90
 Heywood L.E.改: luck 運: 38,100
 Heywood L.E.改: speed 速力: 10
+第百一号輸送艦改: HP 耐久: 40,59
+第百一号輸送艦改: Armor 装甲: 14,46
+第百一号輸送艦改: FP 火力: 12,37
+第百一号輸送艦改: Torp 雷装: 0,0
+第百一号輸送艦改: AA 対空: 17,41
+第百一号輸送艦改: luck 運: 22,72
+第百一号輸送艦改: speed 速力: 5
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -4954,6 +4961,13 @@ Brooklyn: speed 速力: 10
 天霧改二: AA 対空: 15,60
 天霧改二: luck 運: 33,88
 天霧改二: speed 速力: 10
+能美: HP 耐久: 9,18
+能美: Armor 装甲: 4,16
+能美: FP 火力: 4,16
+能美: Torp 雷装: 0,0
+能美: AA 対空: 9,36
+能美: luck 運: 13,67
+能美: speed 速力: 5
 倉橋: HP 耐久: 9,18
 倉橋: Armor 装甲: 4,16
 倉橋: FP 火力: 4,17
@@ -4968,6 +4982,13 @@ Brooklyn: speed 速力: 10
 天霧改二丁: AA 対空: 14,65
 天霧改二丁: luck 運: 33,88
 天霧改二丁: speed 速力: 10
+能美改: HP 耐久: 17,28
+能美改: Armor 装甲: 7,33
+能美改: FP 火力: 5,35
+能美改: Torp 雷装: 0,0
+能美改: AA 対空: 16,61
+能美改: luck 運: 16,76
+能美改: speed 速力: 5
 倉橋改: HP 耐久: 17,28
 倉橋改: Armor 装甲: 7,33
 倉橋改: FP 火力: 5,36
@@ -5024,6 +5045,13 @@ Samuel B.Roberts Mk.II: speed 速力: 10
 鵜来: AA 対空: 9,37
 鵜来: luck 運: 35,79
 鵜来: speed 速力: 5
+Tuscaloosa: HP 耐久: 43,55
+Tuscaloosa: Armor 装甲: 34,49
+Tuscaloosa: FP 火力: 36,52
+Tuscaloosa: Torp 雷装: 0,45
+Tuscaloosa: AA 対空: 18,60
+Tuscaloosa: luck 運: 17,77
+Tuscaloosa: speed 速力: 10
 Langley: HP 耐久: 31,41
 Langley: Armor 装甲: 14,30
 Langley: FP 火力: 14,32
@@ -5038,6 +5066,13 @@ Langley: speed 速力: 10
 鵜来改: AA 対空: 17,60
 鵜来改: luck 運: 38,99
 鵜来改: speed 速力: 5
+Tuscaloosa改: HP 耐久: 53,65
+Tuscaloosa改: Armor 装甲: 41,75
+Tuscaloosa改: FP 火力: 45,77
+Tuscaloosa改: Torp 雷装: 0,62
+Tuscaloosa改: AA 対空: 32,79
+Tuscaloosa改: luck 運: 20,90
+Tuscaloosa改: speed 速力: 10
 Langley改: HP 耐久: 44,70
 Langley改: Armor 装甲: 22,60
 Langley改: FP 火力: 18,40
@@ -5087,6 +5122,13 @@ Heywood L.E.: speed 速力: 10
 熊野丸: AA 対空: 15,32
 熊野丸: luck 運: 17,57
 熊野丸: speed 速力: 5
+第百一号輸送艦: HP 耐久: 38,49
+第百一号輸送艦: Armor 装甲: 11,34
+第百一号輸送艦: FP 火力: 4,24
+第百一号輸送艦: Torp 雷装: 0,0
+第百一号輸送艦: AA 対空: 15,32
+第百一号輸送艦: luck 運: 17,57
+第百一号輸送艦: speed 速力: 5
 熊野丸改: HP 耐久: 40,59
 熊野丸改: Armor 装甲: 14,46
 熊野丸改: FP 火力: 12,37
@@ -5745,3 +5787,15 @@ PT小鬼群: speed 速力: 10
 戦標船改装棲姫-壊: speed 速力: 5
 戦標船改装棲姫-壊: speed 速力: 5
 戦標船改装棲姫-壊: speed 速力: 5
+深海重巡水姫: speed 速力: 10
+深海重巡水姫: speed 速力: 10
+深海重巡水姫: speed 速力: 10
+深海重巡水姫-壊: speed 速力: 10
+深海重巡水姫-壊: speed 速力: 10
+深海重巡水姫-壊: speed 速力: 10
+深海擱座揚陸姫: speed 速力: 10
+深海擱座揚陸姫: speed 速力: 10
+深海擱座揚陸姫: speed 速力: 10
+深海擱座揚陸姫-壊: speed 速力: 10
+深海擱座揚陸姫-壊: speed 速力: 10
+深海擱座揚陸姫-壊: speed 速力: 10
