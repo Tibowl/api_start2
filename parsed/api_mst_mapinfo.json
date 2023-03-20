@@ -492,14 +492,14 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 566,
-    "api_infotext": "",
+    "api_infotext": "いよいよ決戦だ！艦隊の全力<br>を挙げて硫黄島に向い、現地<br>で奮戦を続ける小笠原兵団を<br>救援する！艦隊、出撃せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 17,
     "api_maparea_id": 56,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "硫黄島沖",
     "api_no": 6,
-    "api_opetext": "",
+    "api_opetext": "決戦！硫黄島逆上陸作戦",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 1]
 }]
