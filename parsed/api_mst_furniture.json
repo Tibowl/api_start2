@@ -2415,7 +2415,7 @@
     "api_season": 0,
     "api_title": "提督の麻雀卓",
     "api_type": 5,
-    "api_version": 21
+    "api_version": 22
 }, {
     "api_active_flag": 0,
     "api_description": "名産地から取り寄せた西瓜<br>です。もちろん、西瓜割り<br>用の棒とシートもご用意。<br>艦娘たちと提督の夏休みも<br>これでバッチリです！",
@@ -2584,7 +2584,7 @@
     "api_season": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5,
-    "api_version": 25
+    "api_version": 26
 }, {
     "api_active_flag": 0,
     "api_description": "今夜は素敵なパーティしま<br>しょ！主計科さんが腕によ<br>りをかけて作ってくれた聖<br>夜のご馳走。よく焼かれた<br>七面鳥も美味しそう！",
@@ -2987,7 +2987,7 @@
     "api_season": 19,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 53
+    "api_version": 54
 }, {
     "api_active_flag": 0,
     "api_description": "振り返れば、こんなところ<br>まで…提督の皆さん、あり<br>がとうございました！記念<br>の掛け軸を書いた艦娘も今<br>から一杯やるみたいです！",
@@ -3117,7 +3117,7 @@
     "api_season": 0,
     "api_title": "温泉岩風呂",
     "api_type": 5,
-    "api_version": 25
+    "api_version": 26
 }, {
     "api_active_flag": 0,
     "api_description": "提督の熱いリクエストで新<br>たに実装された富嶽タイル<br>画です。温泉等との相性は<br>いうことありません。価格<br>もギリギリに抑えました！",
@@ -6406,7 +6406,7 @@
     "api_season": 0,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 36
+    "api_version": 37
 }, {
     "api_active_flag": 0,
     "api_description": "秋の季節にぴったりの竹製<br>の床です。鎮守府に落ち着<br>いた雰囲気と、微妙にボコ<br>ボコした感触が足裏を刺激<br>して提督の健康にも最適！",
@@ -6653,7 +6653,7 @@
     "api_season": 0,
     "api_title": "蜜柑と特注鎮守府ちゃぶ台",
     "api_type": 5,
-    "api_version": 8
+    "api_version": 9
 }, {
     "api_active_flag": 0,
     "api_description": "鎮守府といえばやはり畳！<br>でも提督も艦娘もふかふか<br>が実は大好き！そんな鎮守<br>府のために生まれた牛柄の<br>ふかふか…モー最高です！",
@@ -6731,7 +6731,7 @@
     "api_season": 42,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 28
+    "api_version": 29
 }, {
     "api_active_flag": 0,
     "api_description": "海防艦が節分豆撒きの兵站<br>確保や諸々の準備のために<br>使用する節分棚と同作業台<br>です。節分特注家具ですが<br>職人ダイナミック割引可！",
@@ -7576,7 +7576,7 @@
     "api_season": 0,
     "api_title": "榛名の白い窓",
     "api_type": 2,
-    "api_version": 1
+    "api_version": 2
 }, {
     "api_active_flag": 0,
     "api_description": "米国生まれのある正規空母<br>が個人的に運用している棚<br>です。リーチインクーラー<br>も完備した単艦個人酒保！<br>ダイナミック割引も可能！",
@@ -7641,5 +7641,18 @@
     "api_season": 47,
     "api_title": "Valentine Window",
     "api_type": 2,
+    "api_version": 1
+}, {
+    "api_active_flag": 1,
+    "api_description": "遂に遂に艦隊は、十周年！<br>艦隊の十周年を記念して、<br>主力オブ主力の駆逐艦たち<br>第十駆逐隊の面々が用意し<br>た記念の掛け軸です！",
+    "api_id": 589,
+    "api_no": 132,
+    "api_outside_id": 0,
+    "api_price": 180000,
+    "api_rarity": 6,
+    "api_saleflg": 0,
+    "api_season": 48,
+    "api_title": "「十周年記念」掛け軸",
+    "api_type": 3,
     "api_version": 1
 }]

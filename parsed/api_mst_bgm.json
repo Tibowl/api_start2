@@ -137,6 +137,9 @@
     "api_id": 153,
     "api_name": "Valentine’s Sea"
 }, {
+    "api_id": 154,
+    "api_name": "艦隊10周年の抜錨"
+}, {
     "api_id": 205,
     "api_name": "秋月の空"
 }, {
@@ -325,4 +328,10 @@
 }, {
     "api_id": 267,
     "api_name": "未来(いま)"
+}, {
+    "api_id": 268,
+    "api_name": "艦隊10周年の抜錨"
+}, {
+    "api_id": 269,
+    "api_name": "夜の祈り"
 }]
