@@ -670,4 +670,11 @@
     "api_name": "南瓜",
     "api_price": 0,
     "api_usetype": 4
+}, {
+    "api_category": 0,
+    "api_description": ["艦娘が集めたり、作ったりした<br>「てるてる坊主」です。　　　<br>複数集めると梅雨明け頃に何か<br>少しいいコトあるかも！　　　<br>※夏本格到来時に消滅します。", ""],
+    "api_id": 97,
+    "api_name": "てるてる坊主",
+    "api_price": 0,
+    "api_usetype": 0
 }]

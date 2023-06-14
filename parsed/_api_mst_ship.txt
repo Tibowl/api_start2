@@ -5157,6 +5157,13 @@ Heywood L.E.: speed 速力: 10
 深雪改二: AA 対空: 33,82
 深雪改二: luck 運: 15,74
 深雪改二: speed 速力: 10
+時雨改三: HP 耐久: 34,54
+時雨改三: Armor 装甲: 15,57
+時雨改三: FP 火力: 16,67
+時雨改三: Torp 雷装: 31,91
+時雨改三: AA 対空: 31,87
+時雨改三: luck 運: 55,97
+時雨改三: speed 速力: 10
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
