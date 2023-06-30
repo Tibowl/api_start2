@@ -2932,6 +2932,15 @@ Mosquito TR Mk.33: Dist: 7
 電探装備マスト(13号改+22号電探改四): Acc 砲撃命中: 6
 電探装備マスト(13号改+22号電探改四): Evas 砲撃回避: 2
 電探装備マスト(13号改+22号電探改四): Rare レア: 4
+14inch/45 連装砲: FP 火力: 16
+14inch/45 連装砲: Armor 装甲: 1
+14inch/45 連装砲: Evas 砲撃回避: 1
+14inch/45 連装砲: Rare レア: 1
+14inch/45 連装砲: Range 射程: 3
+14inch/45 三連装砲: FP 火力: 19
+14inch/45 三連装砲: Armor 装甲: 1
+14inch/45 三連装砲: Rare レア: 2
+14inch/45 三連装砲: Range 射程: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
