@@ -81,7 +81,7 @@
     "api_id": 199,
     "api_no": 35,
     "api_type": 5,
-    "api_version": "40"
+    "api_version": "41"
 }, {
     "api_filename": "035",
     "api_id": 206,
@@ -141,7 +141,7 @@
     "api_id": 230,
     "api_no": 35,
     "api_type": 2,
-    "api_version": "102"
+    "api_version": "103"
 }, {
     "api_filename": "042",
     "api_id": 235,
@@ -159,7 +159,7 @@
     "api_id": 240,
     "api_no": 49,
     "api_type": 5,
-    "api_version": "40"
+    "api_version": "41"
 }, {
     "api_filename": "037",
     "api_id": 244,
@@ -268,6 +268,12 @@
     "api_no": 41,
     "api_type": 0,
     "api_version": "1"
+}, {
+    "api_filename": "044",
+    "api_id": 301,
+    "api_no": 43,
+    "api_type": 4,
+    "api_version": "2"
 }, {
     "api_filename": "045",
     "api_id": 310,
@@ -453,13 +459,13 @@
     "api_id": 385,
     "api_no": 53,
     "api_type": 4,
-    "api_version": "11"
+    "api_version": "12"
 }, {
     "api_filename": "084",
     "api_id": 392,
     "api_no": 83,
     "api_type": 3,
-    "api_version": "19"
+    "api_version": "20"
 }, {
     "api_filename": "087",
     "api_id": 395,
@@ -561,7 +567,7 @@
     "api_id": 493,
     "api_no": 93,
     "api_type": 5,
-    "api_version": "39"
+    "api_version": "40"
 }, {
     "api_filename": "110",
     "api_id": 497,
@@ -591,7 +597,7 @@
     "api_id": 518,
     "api_no": 75,
     "api_type": 2,
-    "api_version": "31"
+    "api_version": "32"
 }, {
     "api_filename": "074",
     "api_id": 523,
@@ -645,7 +651,7 @@
     "api_id": 583,
     "api_no": 87,
     "api_type": 2,
-    "api_version": "3"
+    "api_version": "4"
 }, {
     "api_filename": "089",
     "api_id": 588,
@@ -656,6 +662,18 @@
     "api_filename": "133",
     "api_id": 589,
     "api_no": 132,
+    "api_type": 3,
+    "api_version": "1"
+}, {
+    "api_filename": "092",
+    "api_id": 600,
+    "api_no": 91,
+    "api_type": 2,
+    "api_version": "1"
+}, {
+    "api_filename": "135",
+    "api_id": 601,
+    "api_no": 134,
     "api_type": 3,
     "api_version": "1"
 }]
