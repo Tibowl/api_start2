@@ -2941,6 +2941,20 @@ Mosquito TR Mk.33: Dist: 7
 14inch/45 三連装砲: Armor 装甲: 1
 14inch/45 三連装砲: Rare レア: 2
 14inch/45 三連装砲: Range 射程: 3
+12cm単装高角砲E型改: FP 火力: 1
+12cm単装高角砲E型改: AA 対空: 4
+12cm単装高角砲E型改: Armor 装甲: 1
+12cm単装高角砲E型改: ASW 対潜: 2
+12cm単装高角砲E型改: Acc 砲撃命中: 1
+12cm単装高角砲E型改: Evas 砲撃回避: 3
+12cm単装高角砲E型改: Rare レア: 3
+12cm単装高角砲E型改: Range 射程: 1
+Walrus: LoS 索敵: 4
+Walrus: ASW 対潜: 4
+Walrus: Acc 砲撃命中: 1
+Walrus: Rare レア: 3
+Walrus: Cost: 10
+Walrus: Dist: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
