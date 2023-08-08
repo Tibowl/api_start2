@@ -26,4 +26,8 @@
     "api_id": 7,
     "api_name": "南西海域",
     "api_type": 0
+}, {
+    "api_id": 57,
+    "api_name": "船団護衛！輸送航路防衛戦",
+    "api_type": 1
 }]
