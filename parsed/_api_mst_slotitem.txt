@@ -2964,6 +2964,25 @@ Walrus: Dist: 3
 21inch艦首魚雷発射管4門(後期型): Evas 砲撃回避: 5
 21inch艦首魚雷発射管4門(後期型): Rare レア: 3
 21inch艦首魚雷発射管4門(後期型): Range 射程: 1
+阻塞気球: Evas 砲撃回避: 1
+阻塞気球: Rare レア: 2
+特大発動艇+Ⅲ号戦車J型: FP 火力: 2
+特大発動艇+Ⅲ号戦車J型: AA 対空: 1
+特大発動艇+Ⅲ号戦車J型: Acc 砲撃命中: 1
+特大発動艇+Ⅲ号戦車J型: Rare レア: 5
+Sea Otter: LoS 索敵: 5
+Sea Otter: ASW 対潜: 6
+Sea Otter: Acc 砲撃命中: 2
+Sea Otter: Rare レア: 4
+Sea Otter: Cost: 11
+Sea Otter: Dist: 4
+Me 262 A-1a/R1: AA 対空: 15
+Me 262 A-1a/R1: Dive 爆撃: 3
+Me 262 A-1a/R1: Acc 砲撃命中: 6
+Me 262 A-1a/R1: Evas 砲撃回避: 1
+Me 262 A-1a/R1: Rare レア: 6
+Me 262 A-1a/R1: Cost: 13
+Me 262 A-1a/R1: Dist: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -3702,3 +3721,25 @@ Walrus: Dist: 3
 深海水中探信儀 & 深海調整電探: Evas 砲撃回避: 8
 深海水中探信儀 & 深海調整電探: Rare レア: 3
 深海水中探信儀 & 深海調整電探: Range 射程: 2
+深海観測阻塞気球: FP 火力: 1
+深海観測阻塞気球: Armor 装甲: 1
+深海観測阻塞気球: Acc 砲撃命中: 3
+深海観測阻塞気球: Evas 砲撃回避: 3
+深海観測阻塞気球: Rare レア: 3
+深海標準14inch/45 連装砲: FP 火力: 16
+深海標準14inch/45 連装砲: Armor 装甲: 3
+深海標準14inch/45 連装砲: Acc 砲撃命中: 4
+深海標準14inch/45 連装砲: Evas 砲撃回避: 2
+深海標準14inch/45 連装砲: Rare レア: 2
+深海標準14inch/45 連装砲: Range 射程: 3
+深海標準14inch/45 三連装砲: FP 火力: 19
+深海標準14inch/45 三連装砲: Armor 装甲: 4
+深海標準14inch/45 三連装砲: Acc 砲撃命中: 6
+深海標準14inch/45 三連装砲: Evas 砲撃回避: 1
+深海標準14inch/45 三連装砲: Rare レア: 3
+深海標準14inch/45 三連装砲: Range 射程: 3
+深海3.7cm FlaK: FP 火力: 1
+深海3.7cm FlaK: AA 対空: 8
+深海3.7cm FlaK: Acc 砲撃命中: 4
+深海3.7cm FlaK: Evas 砲撃回避: 1
+深海3.7cm FlaK: Rare レア: 3

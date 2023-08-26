@@ -3834,6 +3834,13 @@ Nelson: Torp 雷装: 0,0
 Nelson: AA 対空: 24,82
 Nelson: luck 運: 24,89
 Nelson: speed 速力: 5
+Rodney: HP 耐久: 82,92
+Rodney: Armor 装甲: 74,92
+Rodney: FP 火力: 72,102
+Rodney: Torp 雷装: 0,0
+Rodney: AA 対空: 24,82
+Rodney: luck 運: 24,89
+Rodney: speed 速力: 5
 陸奥改二: HP 耐久: 91,99
 陸奥改二: Armor 装甲: 86,109
 陸奥改二: FP 火力: 91,118
@@ -3862,6 +3869,13 @@ Nelson改: Torp 雷装: 0,0
 Nelson改: AA 対空: 30,92
 Nelson改: luck 運: 28,98
 Nelson改: speed 速力: 5
+Rodney改: HP 耐久: 93,98
+Rodney改: Armor 装甲: 84,104
+Rodney改: FP 火力: 81,114
+Rodney改: Torp 雷装: 0,0
+Rodney改: AA 対空: 30,92
+Rodney改: luck 運: 28,98
+Rodney改: speed 速力: 5
 朝霜改二: HP 耐久: 33,57
 朝霜改二: Armor 装甲: 15,55
 朝霜改二: FP 火力: 18,68
@@ -4856,6 +4870,13 @@ Heywood L.E.改: speed 速力: 10
 稲木改: AA 対空: 18,66
 稲木改: luck 運: 13,73
 稲木改: speed 速力: 5
+C.Cappellini改: HP 耐久: 11,21
+C.Cappellini改: Armor 装甲: 5,19
+C.Cappellini改: FP 火力: 0,2
+C.Cappellini改: Torp 雷装: 0,33
+C.Cappellini改: AA 対空: 0,18
+C.Cappellini改: luck 運: 35,77
+C.Cappellini改: speed 速力: 5
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -5003,6 +5024,13 @@ Salmon改: speed 速力: 5
 山汐丸: AA 対空: 16,30
 山汐丸: luck 運: 3,33
 山汐丸: speed 速力: 5
+Javelin: HP 耐久: 15,33
+Javelin: Armor 装甲: 7,18
+Javelin: FP 火力: 12,34
+Javelin: Torp 雷装: 30,83
+Javelin: AA 対空: 22,41
+Javelin: luck 運: 30,80
+Javelin: speed 速力: 10
 天霧改二: HP 耐久: 31,54
 天霧改二: Armor 装甲: 14,52
 天霧改二: FP 火力: 13,62
@@ -5024,6 +5052,13 @@ Salmon改: speed 速力: 5
 倉橋: AA 対空: 9,36
 倉橋: luck 運: 18,78
 倉橋: speed 速力: 5
+Javelin改: HP 耐久: 31,47
+Javelin改: Armor 装甲: 15,50
+Javelin改: FP 火力: 14,54
+Javelin改: Torp 雷装: 40,91
+Javelin改: AA 対空: 30,71
+Javelin改: luck 運: 39,91
+Javelin改: speed 速力: 10
 天霧改二丁: HP 耐久: 31,54
 天霧改二丁: Armor 装甲: 13,53
 天霧改二丁: FP 火力: 13,58
@@ -5108,6 +5143,13 @@ Tuscaloosa: Torp 雷装: 0,45
 Tuscaloosa: AA 対空: 18,60
 Tuscaloosa: luck 運: 17,77
 Tuscaloosa: speed 速力: 10
+Nevada: HP 耐久: 74,87
+Nevada: Armor 装甲: 71,87
+Nevada: FP 火力: 72,92
+Nevada: Torp 雷装: 0,0
+Nevada: AA 対空: 20,78
+Nevada: luck 運: 33,103
+Nevada: speed 速力: 5
 Langley: HP 耐久: 31,41
 Langley: Armor 装甲: 14,30
 Langley: FP 火力: 14,32
@@ -5129,6 +5171,13 @@ Tuscaloosa改: Torp 雷装: 0,62
 Tuscaloosa改: AA 対空: 32,79
 Tuscaloosa改: luck 運: 20,90
 Tuscaloosa改: speed 速力: 10
+Nevada改: HP 耐久: 89,95
+Nevada改: Armor 装甲: 78,95
+Nevada改: FP 火力: 77,97
+Nevada改: Torp 雷装: 0,0
+Nevada改: AA 対空: 33,90
+Nevada改: luck 運: 40,112
+Nevada改: speed 速力: 5
 Langley改: HP 耐久: 44,70
 Langley改: Armor 装甲: 22,60
 Langley改: FP 火力: 18,40
@@ -5150,6 +5199,13 @@ Massachusetts: Torp 雷装: 0,0
 Massachusetts: AA 対空: 40,90
 Massachusetts: luck 運: 18,88
 Massachusetts: speed 速力: 10
+C.Cappellini: HP 耐久: 10,20
+C.Cappellini: Armor 装甲: 5,18
+C.Cappellini: FP 火力: 5,19
+C.Cappellini: Torp 雷装: 19,65
+C.Cappellini: AA 対空: 0,15
+C.Cappellini: luck 運: 33,73
+C.Cappellini: speed 速力: 5
 Jean Bart: HP 耐久: 84,93
 Jean Bart: Armor 装甲: 70,89
 Jean Bart: FP 火力: 61,95
@@ -5157,6 +5213,13 @@ Jean Bart: Torp 雷装: 0,0
 Jean Bart: AA 対空: 18,68
 Jean Bart: luck 運: 15,75
 Jean Bart: speed 速力: 10
+Nevada改 Mod.2: HP 耐久: 90,96
+Nevada改 Mod.2: Armor 装甲: 80,96
+Nevada改 Mod.2: FP 火力: 82,103
+Nevada改 Mod.2: Torp 雷装: 0,0
+Nevada改 Mod.2: AA 対空: 50,96
+Nevada改 Mod.2: luck 運: 45,118
+Nevada改 Mod.2: speed 速力: 5
 Massachusetts改: HP 耐久: 91,101
 Massachusetts改: Armor 装甲: 86,109
 Massachusetts改: FP 火力: 84,108
@@ -5164,6 +5227,20 @@ Massachusetts改: Torp 雷装: 0,0
 Massachusetts改: AA 対空: 60,108
 Massachusetts改: luck 運: 45,125
 Massachusetts改: speed 速力: 10
+UIT-24: HP 耐久: 12,22
+UIT-24: Armor 装甲: 5,20
+UIT-24: FP 火力: 3,14
+UIT-24: Torp 雷装: 0,56
+UIT-24: AA 対空: 0,25
+UIT-24: luck 運: 36,83
+UIT-24: speed 速力: 5
+伊503: HP 耐久: 13,23
+伊503: Armor 装甲: 5,22
+伊503: FP 火力: 4,18
+伊503: Torp 雷装: 32,70
+伊503: AA 対空: 0,29
+伊503: luck 運: 43,93
+伊503: speed 速力: 5
 Heywood L.E.: HP 耐久: 17,35
 Heywood L.E.: Armor 装甲: 7,20
 Heywood L.E.: FP 火力: 12,30
@@ -5918,3 +5995,28 @@ PT小鬼群: speed 速力: 10
 深海釧路沖棲雲姫-壊: speed 速力: 10
 深海釧路沖棲雲姫-壊: speed 速力: 10
 深海釧路沖棲雲姫-壊: speed 速力: 10
+トーチカ小鬼: speed 速力: 0
+トーチカ小鬼: speed 速力: 0
+対空小鬼: speed 速力: 0
+対空小鬼: speed 速力: 0
+標準型戦艦棲姫: speed 速力: 5
+標準型戦艦棲姫: speed 速力: 5
+標準型戦艦棲姫: speed 速力: 5
+標準型戦艦棲姫-壊: speed 速力: 5
+標準型戦艦棲姫-壊: speed 速力: 5
+標準型戦艦棲姫-壊: speed 速力: 5
+トーチカ要塞棲姫: speed 速力: 0
+トーチカ要塞棲姫: speed 速力: 0
+トーチカ要塞棲姫-壊: speed 速力: 0
+トーチカ要塞棲姫-壊: speed 速力: 0
+Schnellboot小鬼群: speed 速力: 10
+Schnellboot小鬼群: speed 速力: 10
+Schnellboot小鬼群: speed 速力: 10
+トーチカ小鬼: speed 速力: 0
+トーチカ小鬼: speed 速力: 0
+#E7新敵: speed 速力: 10
+#E7新敵: speed 速力: 10
+#E7新敵: speed 速力: 10
+#E7新敵-壊: speed 速力: 10
+#E7新敵-壊: speed 速力: 10
+#E7新敵-壊: speed 速力: 10

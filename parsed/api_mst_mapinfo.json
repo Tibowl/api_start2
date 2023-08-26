@@ -480,28 +480,28 @@
     "api_sally_flag": [1, 0, 1]
 }, {
     "api_id": 575,
-    "api_infotext": "",
+    "api_infotext": "大西洋の壁を乗り越え、欧州<br>反攻大作戦を支援するため、<br>我が艦隊を大西洋方面に派遣<br>する。艦隊、抜錨せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 0,
+    "api_level": 13,
     "api_maparea_id": 57,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "大西洋/イギリス海峡沖",
     "api_no": 5,
-    "api_opetext": "",
+    "api_opetext": "大西洋の壁",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 0, 1]
 }, {
     "api_id": 576,
-    "api_infotext": "",
+    "api_infotext": "ノルマンディー上陸作戦実施<br>に先立ち、周辺部の敵戦力の<br>無力化と上陸部隊の事前演習<br>を実施する！作戦発動用意！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 0,
+    "api_level": 15,
     "api_maparea_id": 57,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "ポートランド島沖/ライム湾",
     "api_no": 6,
-    "api_opetext": "",
+    "api_opetext": "タイガー演習",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 0, 1]
 }, {
     "api_id": 577,
     "api_infotext": "",
@@ -513,5 +513,5 @@
     "api_no": 7,
     "api_opetext": "",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]
