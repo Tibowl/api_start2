@@ -504,14 +504,14 @@
     "api_sally_flag": [1, 0, 1]
 }, {
     "api_id": 577,
-    "api_infotext": "",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 0,
+    "api_infotext": "全ての作戦準備は整った！<br>今こそノルマンディー上陸<br>作戦を実施する時！全艦隊<br>発進せよ！暁に勝利を！",
+    "api_item": [32, 0, 0, 0],
+    "api_level": 18,
     "api_maparea_id": 57,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "ノルマンディー沖",
     "api_no": 7,
-    "api_opetext": "",
+    "api_opetext": "ノルマンディー上陸作戦",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 1]
 }]
