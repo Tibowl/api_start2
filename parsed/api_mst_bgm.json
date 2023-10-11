@@ -334,4 +334,10 @@
 }, {
     "api_id": 269,
     "api_name": "夜の祈り"
+}, {
+    "api_id": 270,
+    "api_name": "Fleet Halloween Pumpkin"
+}, {
+    "api_id": 271,
+    "api_name": "清霜の朝"
 }]

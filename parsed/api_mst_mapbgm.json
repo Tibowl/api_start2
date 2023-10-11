@@ -1,7 +1,7 @@
 [{
     "api_boss_bgm": [118, 118],
     "api_id": 11,
-    "api_map_bgm": [30, 2],
+    "api_map_bgm": [237, 2],
     "api_maparea_id": 1,
     "api_moving_bgm": 14,
     "api_no": 1
@@ -22,7 +22,7 @@
 }, {
     "api_boss_bgm": [6, 12],
     "api_id": 14,
-    "api_map_bgm": [8, 2],
+    "api_map_bgm": [236, 2],
     "api_maparea_id": 1,
     "api_moving_bgm": 173,
     "api_no": 4
@@ -50,21 +50,21 @@
 }, {
     "api_boss_bgm": [46, 46],
     "api_id": 22,
-    "api_map_bgm": [162, 2],
+    "api_map_bgm": [237, 2],
     "api_maparea_id": 2,
     "api_moving_bgm": 30,
     "api_no": 2
 }, {
     "api_boss_bgm": [3, 3],
     "api_id": 23,
-    "api_map_bgm": [29, 2],
+    "api_map_bgm": [236, 2],
     "api_maparea_id": 2,
     "api_moving_bgm": 103,
     "api_no": 3
 }, {
     "api_boss_bgm": [4, 5],
     "api_id": 24,
-    "api_map_bgm": [31, 2],
+    "api_map_bgm": [237, 2],
     "api_maparea_id": 2,
     "api_moving_bgm": 103,
     "api_no": 4
@@ -134,7 +134,7 @@
 }, {
     "api_boss_bgm": [94, 94],
     "api_id": 44,
-    "api_map_bgm": [39, 4],
+    "api_map_bgm": [236, 4],
     "api_maparea_id": 4,
     "api_moving_bgm": 98,
     "api_no": 4
@@ -225,7 +225,7 @@
 }, {
     "api_boss_bgm": [114, 114],
     "api_id": 72,
-    "api_map_bgm": [105, 105],
+    "api_map_bgm": [236, 105],
     "api_maparea_id": 7,
     "api_moving_bgm": 43,
     "api_no": 2
@@ -250,53 +250,4 @@
     "api_maparea_id": 7,
     "api_moving_bgm": 149,
     "api_no": 5
-}, {
-    "api_boss_bgm": [230, 230],
-    "api_id": 571,
-    "api_map_bgm": [228, 229],
-    "api_maparea_id": 57,
-    "api_moving_bgm": 228,
-    "api_no": 1
-}, {
-    "api_boss_bgm": [230, 230],
-    "api_id": 572,
-    "api_map_bgm": [228, 229],
-    "api_maparea_id": 57,
-    "api_moving_bgm": 228,
-    "api_no": 2
-}, {
-    "api_boss_bgm": [230, 230],
-    "api_id": 573,
-    "api_map_bgm": [228, 229],
-    "api_maparea_id": 57,
-    "api_moving_bgm": 228,
-    "api_no": 3
-}, {
-    "api_boss_bgm": [231, 231],
-    "api_id": 574,
-    "api_map_bgm": [230, 230],
-    "api_maparea_id": 57,
-    "api_moving_bgm": 229,
-    "api_no": 4
-}, {
-    "api_boss_bgm": [231, 231],
-    "api_id": 575,
-    "api_map_bgm": [233, 233],
-    "api_maparea_id": 57,
-    "api_moving_bgm": 232,
-    "api_no": 5
-}, {
-    "api_boss_bgm": [234, 234],
-    "api_id": 576,
-    "api_map_bgm": [229, 229],
-    "api_maparea_id": 57,
-    "api_moving_bgm": 232,
-    "api_no": 6
-}, {
-    "api_boss_bgm": [235, 235],
-    "api_id": 577,
-    "api_map_bgm": [234, 234],
-    "api_maparea_id": 57,
-    "api_moving_bgm": 233,
-    "api_no": 7
 }]
