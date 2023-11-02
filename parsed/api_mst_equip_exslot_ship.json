@@ -1,6 +1,7 @@
 {
     "10": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "593": 1,
@@ -12,6 +13,7 @@
     },
     "12": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "911": 1,
@@ -25,6 +27,7 @@
             "54": 1,
             "101": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "961": 1
@@ -37,6 +40,7 @@
             "38": 1,
             "101": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "591": 1,
@@ -49,6 +53,7 @@
     },
     "33": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "99": 1
@@ -56,6 +61,7 @@
     },
     "34": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "316": 1,
@@ -65,6 +71,7 @@
     },
     "35": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "5": 1,
@@ -78,6 +85,7 @@
         "api_ctypes": {
             "41": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "488": 1,
             "501": 1,
@@ -102,6 +110,7 @@
             "43": 1,
             "52": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "136": 1,
             "148": 1,
@@ -117,6 +126,7 @@
     },
     "87": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "316": 1,
@@ -130,6 +140,7 @@
             "38": 1,
             "101": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "591": 1,
@@ -146,6 +157,7 @@
             "54": 1,
             "101": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "961": 1
@@ -154,6 +166,7 @@
     },
     "130": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "593": 1,
@@ -165,6 +178,7 @@
     },
     "142": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "911": 1,
@@ -176,6 +190,7 @@
         "api_ctypes": {
             "41": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "488": 1,
             "501": 1,
@@ -197,6 +212,7 @@
     },
     "226": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "145": 1,
             "961": 1
@@ -207,6 +223,7 @@
     },
     "227": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "145": 1,
             "961": 1
@@ -217,6 +234,7 @@
     },
     "234": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "911": 1,
@@ -230,6 +248,7 @@
             "38": 1,
             "101": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "591": 1,
@@ -245,6 +264,7 @@
             "43": 1,
             "52": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "136": 1,
             "148": 1,
@@ -260,6 +280,7 @@
     },
     "317": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "5": 1,
@@ -271,6 +292,7 @@
     },
     "408": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "621": 1,
             "626": 1
@@ -279,6 +301,7 @@
     },
     "410": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "593": 1,
             "954": 1
@@ -287,6 +310,7 @@
     },
     "411": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "593": 1,
             "954": 1
@@ -303,11 +327,13 @@
             "52": 1,
             "54": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": null
     },
     "442": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "13": 1,
@@ -316,6 +342,7 @@
     },
     "443": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "13": 1,
@@ -328,6 +355,7 @@
             "54": 1,
             "101": 1
         },
+        "api_req_level": 0,
         "api_ship_ids": {
             "229": 1,
             "961": 1
@@ -336,6 +364,7 @@
     },
     "460": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "911": 1,
@@ -345,6 +374,7 @@
     },
     "463": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "911": 1,
@@ -354,6 +384,7 @@
     },
     "464": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "546": 1,
             "593": 1,
@@ -365,6 +396,7 @@
     },
     "477": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "7": 1,
@@ -374,6 +406,7 @@
     },
     "478": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "7": 1,
@@ -383,6 +416,7 @@
     },
     "483": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": {
             "5": 1,
@@ -394,6 +428,7 @@
     },
     "488": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "145": 1,
             "961": 1
@@ -404,6 +439,7 @@
     },
     "506": {
         "api_ctypes": null,
+        "api_req_level": 0,
         "api_ship_ids": {
             "147": 1,
             "235": 1,
@@ -419,6 +455,23 @@
             "656": 1,
             "955": 1,
             "960": 1,
+            "961": 1
+        },
+        "api_stypes": null
+    },
+    "517": {
+        "api_ctypes": {
+            "30": 1,
+            "38": 1,
+            "101": 1
+        },
+        "api_req_level": 4,
+        "api_ship_ids": {
+            "229": 1,
+            "591": 1,
+            "592": 1,
+            "593": 1,
+            "954": 1,
             "961": 1
         },
         "api_stypes": null
