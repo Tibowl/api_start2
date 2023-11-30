@@ -9289,7 +9289,7 @@
         "api_season": 0,
         "api_title": "謎のXmasカーペット",
         "api_type": 0,
-        "api_version": 1
+        "api_version": 2
     }],
     "api_mst_furnituregraph": [{
         "api_filename": "006",
@@ -79597,7 +79597,7 @@
         "api_baku": 15,
         "api_broken": [9, 7, 0, 17],
         "api_cost": 13,
-        "api_distance": 7,
+        "api_distance": 8,
         "api_houg": 0,
         "api_houk": 0,
         "api_houm": 3,
@@ -82680,7 +82680,7 @@
         "api_baku": 15,
         "api_broken": [9, 7, 0, 17],
         "api_cost": 13,
-        "api_distance": 6,
+        "api_distance": 7,
         "api_houg": 0,
         "api_houk": 0,
         "api_houm": 2,

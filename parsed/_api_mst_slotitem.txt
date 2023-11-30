@@ -2180,7 +2180,7 @@ RUR-4A Weapon Alpha改: Rare レア: 5
 銀河(江草隊): Acc 砲撃命中: 3
 銀河(江草隊): Rare レア: 5
 銀河(江草隊): Cost: 13
-銀河(江草隊): Dist: 7
+銀河(江草隊): Dist: 8
 TBM-3W+3S: FP 火力: 3
 TBM-3W+3S: Torp 雷装: 10
 TBM-3W+3S: Dive 爆撃: 7
@@ -2922,7 +2922,7 @@ Mosquito TR Mk.33: Dist: 7
 銀河(熟練): Acc 砲撃命中: 2
 銀河(熟練): Rare レア: 5
 銀河(熟練): Cost: 13
-銀河(熟練): Dist: 6
+銀河(熟練): Dist: 7
 25mm対空機銃増備: AA 対空: 7
 25mm対空機銃増備: Evas 砲撃回避: 2
 25mm対空機銃増備: Rare レア: 3
