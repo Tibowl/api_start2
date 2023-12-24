@@ -344,7 +344,7 @@
     }],
     "api_mst_const": {
         "api_boko_max_ships": {
-            "api_int_value": 600,
+            "api_int_value": 610,
             "api_string_value": ""
         },
         "api_dpflag_quest": {
@@ -11969,12 +11969,12 @@
         "api_shop_description": "特注家具を製作できます！<br>特注家具職人(1回分)",
         "api_type": 0
     }, {
-        "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計600隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
+        "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計610隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
         "api_id": 16,
         "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
         "api_name": "母港拡張",
         "api_price": 1000,
-        "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計600隻まで！ 装備枠も自動的に+40増加します。",
+        "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計610隻まで！ 装備枠も自動的に+40増加します。",
         "api_type": 0
     }, {
         "api_description": "油の一滴は…燃料不足解消に！<br>タンカー徴用(燃1200)",
@@ -89822,7 +89822,7 @@
         "api_usetype": 0
     }, {
         "api_category": 0,
-        "api_description": ["令和四年２０２２年クリスマス<br>に贈られる大きなプレゼント箱<br>です。開封時に、プレゼントの<br>中身は提督が好きなものを選ぶ<br>ことができます。", ""],
+        "api_description": ["令和五年２０２３年の冬、クリ<br>スマスに贈られる、少し大きな<br>プレゼント箱です。開封時に、<br>プレゼントの中身は提督が好き<br>なものを選ぶことができます。", ""],
         "api_id": 80,
         "api_name": "Xmas Select Gift Box",
         "api_price": 0,
