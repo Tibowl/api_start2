@@ -186,6 +186,24 @@
         },
         "api_stypes": null
     },
+    "210": {
+        "api_ctypes": null,
+        "api_req_level": 0,
+        "api_ship_ids": null,
+        "api_stypes": {
+            "13": 1,
+            "14": 1
+        }
+    },
+    "211": {
+        "api_ctypes": null,
+        "api_req_level": 0,
+        "api_ship_ids": null,
+        "api_stypes": {
+            "13": 1,
+            "14": 1
+        }
+    },
     "220": {
         "api_ctypes": {
             "41": 1
@@ -290,6 +308,15 @@
             "10": 1
         }
     },
+    "384": {
+        "api_ctypes": null,
+        "api_req_level": 0,
+        "api_ship_ids": null,
+        "api_stypes": {
+            "13": 1,
+            "14": 1
+        }
+    },
     "408": {
         "api_ctypes": null,
         "api_req_level": 0,
@@ -361,6 +388,15 @@
             "961": 1
         },
         "api_stypes": null
+    },
+    "458": {
+        "api_ctypes": null,
+        "api_req_level": 0,
+        "api_ship_ids": null,
+        "api_stypes": {
+            "13": 1,
+            "14": 1
+        }
     },
     "460": {
         "api_ctypes": null,
@@ -474,6 +510,15 @@
             "954": 1,
             "961": 1
         },
+        "api_stypes": null
+    },
+    "519": {
+        "api_ctypes": {
+            "114": 1,
+            "122": 1
+        },
+        "api_req_level": 0,
+        "api_ship_ids": null,
         "api_stypes": null
     }
 }
