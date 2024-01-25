@@ -544,6 +544,30 @@
     "api_catapult_count": 0,
     "api_current_ship_id": 0,
     "api_drawing_count": 0,
+    "api_id": 120,
+    "api_original_ship_id": 120,
+    "api_report_count": 0,
+    "api_sortno": 116,
+    "api_upgrade_level": 0,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 0,
+    "api_aviation_mat_count": 0,
+    "api_catapult_count": 0,
+    "api_current_ship_id": 120,
+    "api_drawing_count": 0,
+    "api_id": 121,
+    "api_original_ship_id": 120,
+    "api_report_count": 0,
+    "api_sortno": 117,
+    "api_upgrade_level": 1,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 0,
+    "api_aviation_mat_count": 0,
+    "api_catapult_count": 0,
+    "api_current_ship_id": 0,
+    "api_drawing_count": 0,
     "api_id": 124,
     "api_original_ship_id": 124,
     "api_report_count": 0,
@@ -2148,6 +2172,30 @@
     "api_upgrade_type": 1
 }, {
     "api_arms_mat_count": 0,
+    "api_aviation_mat_count": 2,
+    "api_catapult_count": 0,
+    "api_current_ship_id": 121,
+    "api_drawing_count": 1,
+    "api_id": 502,
+    "api_original_ship_id": 120,
+    "api_report_count": 1,
+    "api_sortno": 302,
+    "api_upgrade_level": 2,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 0,
+    "api_aviation_mat_count": 0,
+    "api_catapult_count": 0,
+    "api_current_ship_id": 507,
+    "api_drawing_count": 0,
+    "api_id": 502,
+    "api_original_ship_id": 120,
+    "api_report_count": 0,
+    "api_sortno": 302,
+    "api_upgrade_level": 4,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 0,
     "api_aviation_mat_count": 0,
     "api_catapult_count": 0,
     "api_current_ship_id": 129,
@@ -2204,6 +2252,18 @@
     "api_original_ship_id": 70,
     "api_report_count": 0,
     "api_sortno": 306,
+    "api_upgrade_level": 3,
+    "api_upgrade_type": 1
+}, {
+    "api_arms_mat_count": 1,
+    "api_aviation_mat_count": 0,
+    "api_catapult_count": 0,
+    "api_current_ship_id": 502,
+    "api_drawing_count": 0,
+    "api_id": 507,
+    "api_original_ship_id": 120,
+    "api_report_count": 0,
+    "api_sortno": 307,
     "api_upgrade_level": 3,
     "api_upgrade_type": 1
 }, {
