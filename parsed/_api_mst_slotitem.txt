@@ -3014,12 +3014,34 @@ SJレーダー+潜水艦司令塔装備: Rare レア: 4
 紫雲(熟練): Rare レア: 5
 紫雲(熟練): Cost: 10
 紫雲(熟練): Dist: 5
+零式小型水上機: Dive 爆撃: 1
+零式小型水上機: LoS 索敵: 3
+零式小型水上機: ASW 対潜: 1
+零式小型水上機: Evas 砲撃回避: 1
+零式小型水上機: Rare レア: 1
+零式小型水上機: Cost: 4
+零式小型水上機: Dist: 3
+零式小型水上機(熟練): Dive 爆撃: 1
+零式小型水上機(熟練): LoS 索敵: 4
+零式小型水上機(熟練): ASW 対潜: 2
+零式小型水上機(熟練): Acc 砲撃命中: 1
+零式小型水上機(熟練): Evas 砲撃回避: 2
+零式小型水上機(熟練): Rare レア: 3
+零式小型水上機(熟練): Cost: 4
+零式小型水上機(熟練): Dist: 3
 12cm単装高角砲+25mm機銃増備: FP 火力: 1
 12cm単装高角砲+25mm機銃増備: AA 対空: 5
 12cm単装高角砲+25mm機銃増備: ASW 対潜: 1
 12cm単装高角砲+25mm機銃増備: Evas 砲撃回避: 2
 12cm単装高角砲+25mm機銃増備: Rare レア: 2
 12cm単装高角砲+25mm機銃増備: Range 射程: 1
+特四式内火艇: Torp 雷装: 1
+特四式内火艇: AA 対空: 1
+特四式内火艇: Rare レア: 4
+特四式内火艇改: Torp 雷装: 3
+特四式内火艇改: AA 対空: 2
+特四式内火艇改: Acc 砲撃命中: 1
+特四式内火艇改: Rare レア: 5
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -3780,3 +3802,35 @@ SJレーダー+潜水艦司令塔装備: Rare レア: 4
 深海3.7cm FlaK: Acc 砲撃命中: 4
 深海3.7cm FlaK: Evas 砲撃回避: 1
 深海3.7cm FlaK: Rare レア: 3
+深海5inch単装砲 Mk.30+GFCS: FP 火力: 6
+深海5inch単装砲 Mk.30+GFCS: AA 対空: 12
+深海5inch単装砲 Mk.30+GFCS: ASW 対潜: 9
+深海5inch単装砲 Mk.30+GFCS: Acc 砲撃命中: 22
+深海5inch単装砲 Mk.30+GFCS: Evas 砲撃回避: 9
+深海5inch単装砲 Mk.30+GFCS: Rare レア: 5
+深海5inch単装砲 Mk.30+GFCS: Range 射程: 2
+深海533mm 5連装魚雷+深海SG: Torp 雷装: 18
+深海533mm 5連装魚雷+深海SG: LoS 索敵: 12
+深海533mm 5連装魚雷+深海SG: ASW 対潜: 4
+深海533mm 5連装魚雷+深海SG: Acc 砲撃命中: 12
+深海533mm 5連装魚雷+深海SG: Evas 砲撃回避: 4
+深海533mm 5連装魚雷+深海SG: Rare レア: 5
+深海533mm 5連装魚雷+深海SG: Range 射程: 2
+深海Hedgehog Mk.10: ASW 対潜: 22
+深海Hedgehog Mk.10: Acc 砲撃命中: 4
+深海Hedgehog Mk.10: Evas 砲撃回避: 2
+深海Hedgehog Mk.10: Rare レア: 5
+GFCS+深海5inch連装砲 Mk.32: FP 火力: 11
+GFCS+深海5inch連装砲 Mk.32: AA 対空: 19
+GFCS+深海5inch連装砲 Mk.32: ASW 対潜: 11
+GFCS+深海5inch連装砲 Mk.32: Acc 砲撃命中: 23
+GFCS+深海5inch連装砲 Mk.32: Evas 砲撃回避: 7
+GFCS+深海5inch連装砲 Mk.32: Rare レア: 5
+GFCS+深海5inch連装砲 Mk.32: Range 射程: 2
+深海対戦回転翼海鴎: FP 火力: 8
+深海対戦回転翼海鴎: Dive 爆撃: 18
+深海対戦回転翼海鴎: LoS 索敵: 4
+深海対戦回転翼海鴎: ASW 対潜: 18
+深海対戦回転翼海鴎: Acc 砲撃命中: 18
+深海対戦回転翼海鴎: Rare レア: 5
+深海対戦回転翼海鴎: Range 射程: 3
