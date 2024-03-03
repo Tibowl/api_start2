@@ -17247,6 +17247,28 @@
     "api_weda": [261, -46],
     "api_wedb": [130, 214]
 }, {
+    "api_battle_d": [285, 223],
+    "api_battle_n": [169, 228],
+    "api_boko_d": [249, 235],
+    "api_boko_n": [138, 244],
+    "api_ensyue_n": [145, 0],
+    "api_ensyuf_d": [262, 181],
+    "api_ensyuf_n": [148, 183],
+    "api_filename": "dmjndywdalef",
+    "api_id": 972,
+    "api_kaisyu_d": [51, 34],
+    "api_kaisyu_n": [46, -36],
+    "api_kaizo_d": [238, 81],
+    "api_kaizo_n": [130, 121],
+    "api_map_d": [265, 198],
+    "api_map_n": [151, 199],
+    "api_pa": [0, 0],
+    "api_pab": [0, 0],
+    "api_sortno": 572,
+    "api_version": ["51", "1", "229"],
+    "api_weda": [169, -52],
+    "api_wedb": [139, 220]
+}, {
     "api_battle_d": [91, 207],
     "api_battle_n": [106, 219],
     "api_boko_d": [55, 214],
@@ -17268,6 +17290,28 @@
     "api_version": ["51", "1", "229"],
     "api_weda": [261, -46],
     "api_wedb": [130, 214]
+}, {
+    "api_battle_d": [285, 223],
+    "api_battle_n": [169, 228],
+    "api_boko_d": [249, 235],
+    "api_boko_n": [138, 244],
+    "api_ensyue_n": [145, 0],
+    "api_ensyuf_d": [262, 181],
+    "api_ensyuf_n": [148, 183],
+    "api_filename": "pokiuobqgepg",
+    "api_id": 977,
+    "api_kaisyu_d": [51, 34],
+    "api_kaisyu_n": [46, -36],
+    "api_kaizo_d": [238, 81],
+    "api_kaizo_n": [130, 121],
+    "api_map_d": [265, 198],
+    "api_map_n": [151, 199],
+    "api_pa": [0, 0],
+    "api_pab": [0, 0],
+    "api_sortno": 577,
+    "api_version": ["51", "1", "229"],
+    "api_weda": [169, -52],
+    "api_wedb": [139, 220]
 }, {
     "api_battle_d": [0, 72],
     "api_battle_n": [-88, 58],
@@ -21605,40 +21649,76 @@
     "api_id": 2221,
     "api_version": ["1", "1", "1"]
 }, {
-    "api_battle_d": [120, 142],
-    "api_battle_n": [120, 142],
+    "api_battle_d": [-58, 126],
+    "api_battle_n": [-58, 126],
     "api_filename": "wpnxzxsyesri",
     "api_id": 2222,
     "api_version": ["1", "1", "1"]
 }, {
-    "api_battle_d": [120, 142],
-    "api_battle_n": [120, 142],
+    "api_battle_d": [-58, 126],
+    "api_battle_n": [-58, 126],
     "api_filename": "leusbvlwqbws",
     "api_id": 2223,
     "api_version": ["1", "1", "1"]
 }, {
-    "api_battle_d": [120, 142],
-    "api_battle_n": [120, 142],
+    "api_battle_d": [-58, 126],
+    "api_battle_n": [-58, 126],
     "api_filename": "wjjlvqigfdgx",
     "api_id": 2224,
     "api_version": ["1", "1", "1"]
 }, {
-    "api_battle_d": [120, 142],
-    "api_battle_n": [120, 142],
+    "api_battle_d": [133, 126],
+    "api_battle_n": [133, 126],
     "api_filename": "muccgcrbbrax",
     "api_id": 2225,
     "api_version": ["1", "1", "1"]
 }, {
-    "api_battle_d": [120, 142],
-    "api_battle_n": [120, 142],
+    "api_battle_d": [133, 126],
+    "api_battle_n": [133, 126],
     "api_filename": "htprkjpyhvpm",
     "api_id": 2226,
     "api_version": ["1", "1", "1"]
 }, {
-    "api_battle_d": [120, 142],
-    "api_battle_n": [120, 142],
+    "api_battle_d": [133, 126],
+    "api_battle_n": [133, 126],
     "api_filename": "edhijnpeofaq",
     "api_id": 2227,
+    "api_version": ["1", "1", "1"]
+}, {
+    "api_battle_d": [13, 211],
+    "api_battle_n": [13, 211],
+    "api_filename": "gzhhmcvkufnn",
+    "api_id": 2228,
+    "api_version": ["1", "1", "1"]
+}, {
+    "api_battle_d": [13, 211],
+    "api_battle_n": [13, 211],
+    "api_filename": "kcfqobbhnwrh",
+    "api_id": 2229,
+    "api_version": ["1", "1", "1"]
+}, {
+    "api_battle_d": [13, 211],
+    "api_battle_n": [13, 211],
+    "api_filename": "fbvepygrbtpn",
+    "api_id": 2230,
+    "api_version": ["1", "1", "1"]
+}, {
+    "api_battle_d": [13, 211],
+    "api_battle_n": [13, 211],
+    "api_filename": "ddyhmkivcbku",
+    "api_id": 2231,
+    "api_version": ["1", "1", "1"]
+}, {
+    "api_battle_d": [13, 211],
+    "api_battle_n": [13, 211],
+    "api_filename": "pfujhqfcrybm",
+    "api_id": 2232,
+    "api_version": ["1", "1", "1"]
+}, {
+    "api_battle_d": [13, 211],
+    "api_battle_n": [13, 211],
+    "api_filename": "zujhnquiipbo",
+    "api_id": 2233,
     "api_version": ["1", "1", "1"]
 }, {
     "api_filename": "nilcwbbbxtxq",

@@ -468,14 +468,14 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 584,
-    "api_infotext": "#E4",
+    "api_infotext": "竜巻作戦によって前線を大<br>きく押し戻した。今こそ、<br>総力決戦「新Z作戦改」で<br>敵を撃滅する！全力出撃！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 12,
+    "api_level": 17,
     "api_maparea_id": 58,
     "api_max_maphp": 300,
-    "api_name": "#E4",
+    "api_name": "サイパン沖/マーシャル諸島沖正面",
     "api_no": 4,
-    "api_opetext": "#E4",
+    "api_opetext": "新Z作戦改",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]
