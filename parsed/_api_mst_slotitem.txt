@@ -3042,6 +3042,27 @@ SJレーダー+潜水艦司令塔装備: Rare レア: 4
 特四式内火艇改: AA 対空: 2
 特四式内火艇改: Acc 砲撃命中: 1
 特四式内火艇改: Rare レア: 5
+Type281 レーダー: AA 対空: 7
+Type281 レーダー: LoS 索敵: 8
+Type281 レーダー: Acc 砲撃命中: 1
+Type281 レーダー: Evas 砲撃回避: 2
+Type281 レーダー: Rare レア: 3
+Type274 射撃管制レーダー: FP 火力: 2
+Type274 射撃管制レーダー: AA 対空: 3
+Type274 射撃管制レーダー: Armor 装甲: 1
+Type274 射撃管制レーダー: LoS 索敵: 5
+Type274 射撃管制レーダー: Acc 砲撃命中: 8
+Type274 射撃管制レーダー: Evas 砲撃回避: 2
+Type274 射撃管制レーダー: Rare レア: 4
+Type274 射撃管制レーダー: Range 射程: 2
+12.7cm連装砲C型改三H: FP 火力: 3
+12.7cm連装砲C型改三H: AA 対空: 5
+12.7cm連装砲C型改三H: Armor 装甲: 1
+12.7cm連装砲C型改三H: ASW 対潜: 3
+12.7cm連装砲C型改三H: Acc 砲撃命中: 1
+12.7cm連装砲C型改三H: Evas 砲撃回避: 1
+12.7cm連装砲C型改三H: Rare レア: 4
+12.7cm連装砲C型改三H: Range 射程: 1
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
