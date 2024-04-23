@@ -2987,7 +2987,7 @@
     "api_saleflg": 1,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 67
+    "api_version": 68
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 109,
@@ -4443,7 +4443,7 @@
     "api_saleflg": 1,
     "api_title": "桜の和のアレンジメント",
     "api_type": 3,
-    "api_version": 25
+    "api_version": 27
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -8018,5 +8018,18 @@
     "api_saleflg": 1,
     "api_title": "春気分の読書艦娘窓",
     "api_type": 2,
+    "api_version": 1
+}, {
+    "api_active_flag": 1,
+    "api_bgm_id": 149,
+    "api_description": "艦隊はまさかの十一周年！<br>艦隊十一周年を記念して、<br>第十一駆逐隊のメンバーが<br>用意してくれた、古くて新<br>しい記念の掛け軸です！",
+    "api_id": 618,
+    "api_no": 139,
+    "api_outside_id": 0,
+    "api_price": 180000,
+    "api_rarity": 6,
+    "api_saleflg": 0,
+    "api_title": "「11周年記念」掛け軸",
+    "api_type": 3,
     "api_version": 1
 }]

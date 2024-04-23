@@ -170,6 +170,15 @@
         },
         "api_stypes": null
     },
+    "124": {
+        "api_ctypes": {
+            "47": 1,
+            "55": 1
+        },
+        "api_req_level": 7,
+        "api_ship_ids": null,
+        "api_stypes": null
+    },
     "130": {
         "api_ctypes": null,
         "api_req_level": 0,
