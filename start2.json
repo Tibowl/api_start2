@@ -350,6 +350,9 @@
     }, {
         "api_id": 273,
         "api_name": "海原へ"
+    }, {
+        "api_id": 274,
+        "api_name": "海に吹く碧の風"
     }],
     "api_mst_const": {
         "api_boko_max_ships": {
@@ -1535,7 +1538,7 @@
         "api_outside_id": 0,
         "api_price": 1700,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "桜舞う春のフローリング",
         "api_type": 0,
         "api_version": 1
@@ -1548,7 +1551,7 @@
         "api_outside_id": 0,
         "api_price": 1300,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "新緑のフローリング",
         "api_type": 0,
         "api_version": 1
@@ -1678,7 +1681,7 @@
         "api_outside_id": 0,
         "api_price": 20000,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "桜の床",
         "api_type": 0,
         "api_version": 1
@@ -1782,7 +1785,7 @@
         "api_outside_id": 0,
         "api_price": 1500,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "真っ白なフワフワ絨毯",
         "api_type": 0,
         "api_version": 1
@@ -1808,7 +1811,7 @@
         "api_outside_id": 0,
         "api_price": 1500,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春色の床",
         "api_type": 0,
         "api_version": 1
@@ -1821,7 +1824,7 @@
         "api_outside_id": 0,
         "api_price": 500,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "青畳",
         "api_type": 0,
         "api_version": 1
@@ -1899,7 +1902,7 @@
         "api_outside_id": 0,
         "api_price": 9300,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "飛行甲板",
         "api_type": 0,
         "api_version": 1
@@ -1912,7 +1915,7 @@
         "api_outside_id": 0,
         "api_price": 100,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "友達お泊りの布団",
         "api_type": 0,
         "api_version": 2
@@ -1951,7 +1954,7 @@
         "api_outside_id": 0,
         "api_price": 450,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "戦艦タイルの床",
         "api_type": 0,
         "api_version": 1
@@ -2042,7 +2045,7 @@
         "api_outside_id": 0,
         "api_price": 1000,
         "api_rarity": 2,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春仕様の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -2224,7 +2227,7 @@
         "api_outside_id": 0,
         "api_price": 1000,
         "api_rarity": 2,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "木板の壁",
         "api_type": 1,
         "api_version": 1
@@ -2276,7 +2279,7 @@
         "api_outside_id": 0,
         "api_price": 900,
         "api_rarity": 2,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "新緑の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -2354,7 +2357,7 @@
         "api_outside_id": 0,
         "api_price": 1900,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "沈丁花の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -2380,7 +2383,7 @@
         "api_outside_id": 0,
         "api_price": 200,
         "api_rarity": 2,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "コンクリート壁",
         "api_type": 1,
         "api_version": 1
@@ -2393,7 +2396,7 @@
         "api_outside_id": 0,
         "api_price": 250,
         "api_rarity": 2,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "ピンクコンクリ壁",
         "api_type": 1,
         "api_version": 1
@@ -2445,7 +2448,7 @@
         "api_outside_id": 1,
         "api_price": 50,
         "api_rarity": 1,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "緑カーテンの窓",
         "api_type": 2,
         "api_version": 1
@@ -2809,7 +2812,7 @@
         "api_outside_id": 4,
         "api_price": 40000,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春の高級窓",
         "api_type": 2,
         "api_version": 1
@@ -3017,7 +3020,7 @@
         "api_outside_id": 0,
         "api_price": 2400,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "「なのです」掛け軸",
         "api_type": 3,
         "api_version": 1
@@ -3095,7 +3098,7 @@
         "api_outside_id": 0,
         "api_price": 150,
         "api_rarity": 2,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "アレンジメント",
         "api_type": 3,
         "api_version": 1
@@ -3186,7 +3189,7 @@
         "api_outside_id": 0,
         "api_price": 400,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "戦艦映画ポスター",
         "api_type": 3,
         "api_version": 1
@@ -3524,7 +3527,7 @@
         "api_outside_id": 0,
         "api_price": 700,
         "api_rarity": 2,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "模様替えお掃除セット",
         "api_type": 4,
         "api_version": 1
@@ -3537,7 +3540,7 @@
         "api_outside_id": 0,
         "api_price": 1700,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "しょうぶ和箪笥",
         "api_type": 4,
         "api_version": 1
@@ -3719,7 +3722,7 @@
         "api_outside_id": 0,
         "api_price": 188000,
         "api_rarity": 6,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "秘書艦と提督の机",
         "api_type": 5,
         "api_version": 12
@@ -3758,7 +3761,7 @@
         "api_outside_id": 0,
         "api_price": 40000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "教室セット「教卓」",
         "api_type": 5,
         "api_version": 1
@@ -3810,7 +3813,7 @@
         "api_outside_id": 0,
         "api_price": 2000,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "ちゃぶ台セット",
         "api_type": 5,
         "api_version": 3
@@ -3888,7 +3891,7 @@
         "api_outside_id": 0,
         "api_price": 2000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "床の間",
         "api_type": 5,
         "api_version": 1
@@ -3953,7 +3956,7 @@
         "api_outside_id": 0,
         "api_price": 9000,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "金剛の紅茶セット",
         "api_type": 5,
         "api_version": 1
@@ -4135,7 +4138,7 @@
         "api_outside_id": 0,
         "api_price": 50000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "教室セット「黒板」",
         "api_type": 3,
         "api_version": 1
@@ -4564,7 +4567,7 @@
         "api_outside_id": 0,
         "api_price": 1700,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春色の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -5149,7 +5152,7 @@
         "api_outside_id": 0,
         "api_price": 400,
         "api_rarity": 2,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "卯月の床",
         "api_type": 0,
         "api_version": 1
@@ -5162,7 +5165,7 @@
         "api_outside_id": 0,
         "api_price": 1400,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "卯月の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -5175,7 +5178,7 @@
         "api_outside_id": 4,
         "api_price": 4000,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "卯月の窓",
         "api_type": 2,
         "api_version": 1
@@ -5188,7 +5191,7 @@
         "api_outside_id": 0,
         "api_price": 104000,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "卯月の掛け軸",
         "api_type": 3,
         "api_version": 1
@@ -5201,7 +5204,7 @@
         "api_outside_id": 0,
         "api_price": 3400,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "卯月の机",
         "api_type": 5,
         "api_version": 1
@@ -5227,7 +5230,7 @@
         "api_outside_id": 0,
         "api_price": 1500,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "皐月の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -5240,7 +5243,7 @@
         "api_outside_id": 4,
         "api_price": 1750,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "皐月の窓",
         "api_type": 2,
         "api_version": 1
@@ -5253,7 +5256,7 @@
         "api_outside_id": 0,
         "api_price": 3500,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "皐月の机",
         "api_type": 5,
         "api_version": 1
@@ -5357,7 +5360,7 @@
         "api_outside_id": 0,
         "api_price": 160000,
         "api_rarity": 5,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "藤と水面の床",
         "api_type": 0,
         "api_version": 1
@@ -5591,7 +5594,7 @@
         "api_outside_id": 0,
         "api_price": 1500,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "提督座布団",
         "api_type": 5,
         "api_version": 1
@@ -5604,7 +5607,7 @@
         "api_outside_id": 0,
         "api_price": 4000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "提督文机",
         "api_type": 5,
         "api_version": 1
@@ -5929,7 +5932,7 @@
         "api_outside_id": 0,
         "api_price": 1300,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "桜色の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -5942,7 +5945,7 @@
         "api_outside_id": 0,
         "api_price": 2200,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "桜の和のアレンジメント",
         "api_type": 3,
         "api_version": 27
@@ -6410,7 +6413,7 @@
         "api_outside_id": 0,
         "api_price": 1700,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春の座布団",
         "api_type": 5,
         "api_version": 1
@@ -6423,7 +6426,7 @@
         "api_outside_id": 0,
         "api_price": 6340,
         "api_rarity": 6,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "「瑞雲」の壁板",
         "api_type": 1,
         "api_version": 1
@@ -6488,7 +6491,7 @@
         "api_outside_id": 0,
         "api_price": 1900,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "鉄製の床材",
         "api_type": 0,
         "api_version": 1
@@ -6592,7 +6595,7 @@
         "api_outside_id": 0,
         "api_price": 136000,
         "api_rarity": 5,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "大型生花アレンジメント",
         "api_type": 3,
         "api_version": 23
@@ -7099,7 +7102,7 @@
         "api_outside_id": 0,
         "api_price": 2000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "皐月の季節のお茶セット",
         "api_type": 4,
         "api_version": 1
@@ -7476,7 +7479,7 @@
         "api_outside_id": 0,
         "api_price": 1923,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "夕張の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -7801,7 +7804,7 @@
         "api_outside_id": 0,
         "api_price": 2200,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "「Lucky 13」Desk",
         "api_type": 4,
         "api_version": 1
@@ -7908,7 +7911,7 @@
         "api_saleflg": 0,
         "api_title": "海防艦の汎用円形机",
         "api_type": 5,
-        "api_version": 50
+        "api_version": 51
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -8233,7 +8236,7 @@
         "api_saleflg": 1,
         "api_title": "潜水艦隊の窓",
         "api_type": 2,
-        "api_version": 42
+        "api_version": 43
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -8360,7 +8363,7 @@
         "api_outside_id": 0,
         "api_price": 2000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "竹模様細工の床",
         "api_type": 0,
         "api_version": 1
@@ -8386,7 +8389,7 @@
         "api_outside_id": 0,
         "api_price": 1500,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "萩の壁",
         "api_type": 1,
         "api_version": 1
@@ -8399,7 +8402,7 @@
         "api_outside_id": 0,
         "api_price": 800,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "筍と竹の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -8438,7 +8441,7 @@
         "api_outside_id": 0,
         "api_price": 6340,
         "api_rarity": 5,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "瑞雲隊整備棚",
         "api_type": 4,
         "api_version": 1
@@ -8464,7 +8467,7 @@
         "api_outside_id": 0,
         "api_price": 1300,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春風感じる日用品棚",
         "api_type": 4,
         "api_version": 1
@@ -8477,7 +8480,7 @@
         "api_outside_id": 0,
         "api_price": 3900,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "お花見の準備机",
         "api_type": 5,
         "api_version": 1
@@ -8542,7 +8545,7 @@
         "api_outside_id": 0,
         "api_price": 2200,
         "api_rarity": 5,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "二水戦の小物壁棚",
         "api_type": 3,
         "api_version": 1
@@ -8672,7 +8675,7 @@
         "api_outside_id": 0,
         "api_price": 110000,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "ケーキディスプレイ",
         "api_type": 3,
         "api_version": 1
@@ -8828,7 +8831,7 @@
         "api_outside_id": 0,
         "api_price": 1900,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "桜カーペット",
         "api_type": 0,
         "api_version": 1
@@ -8841,7 +8844,7 @@
         "api_outside_id": 0,
         "api_price": 800,
         "api_rarity": 2,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春の花壁紙",
         "api_type": 1,
         "api_version": 1
@@ -8854,7 +8857,7 @@
         "api_outside_id": 12,
         "api_price": 2300,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "ハーブティーと花の窓",
         "api_type": 2,
         "api_version": 1
@@ -9166,7 +9169,7 @@
         "api_outside_id": 0,
         "api_price": 1505,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "鯉のぼりの床板",
         "api_type": 0,
         "api_version": 1
@@ -9179,7 +9182,7 @@
         "api_outside_id": 0,
         "api_price": 2000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "菖蒲の壁",
         "api_type": 1,
         "api_version": 1
@@ -9283,7 +9286,7 @@
         "api_outside_id": 0,
         "api_price": 700,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "いい風感じる壁紙",
         "api_type": 1,
         "api_version": 1
@@ -9481,7 +9484,7 @@
         "api_saleflg": 0,
         "api_title": "七駆の私物棚",
         "api_type": 3,
-        "api_version": 1
+        "api_version": 2
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -9491,7 +9494,7 @@
         "api_outside_id": 0,
         "api_price": 1800,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "桜並木の石畳",
         "api_type": 0,
         "api_version": 1
@@ -9504,7 +9507,7 @@
         "api_outside_id": 0,
         "api_price": 980,
         "api_rarity": 2,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "海が見える桜の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -9517,7 +9520,7 @@
         "api_outside_id": 2,
         "api_price": 3000,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "春気分の読書艦娘窓",
         "api_type": 2,
         "api_version": 1
@@ -9526,13 +9529,39 @@
         "api_bgm_id": 149,
         "api_description": "艦隊はまさかの十一周年！<br>艦隊十一周年を記念して、<br>第十一駆逐隊のメンバーが<br>用意してくれた、古くて新<br>しい記念の掛け軸です！",
         "api_id": 618,
-        "api_no": 139,
+        "api_no": 140,
         "api_outside_id": 0,
         "api_price": 180000,
         "api_rarity": 6,
         "api_saleflg": 0,
         "api_title": "「11周年記念」掛け軸",
         "api_type": 3,
+        "api_version": 1
+    }, {
+        "api_active_flag": 1,
+        "api_bgm_id": 274,
+        "api_description": "鎮守府の家具職人たちが腕<br>によりをかけて制作した特<br>注の五月飾りです。小さな<br>艦娘たちが強く大きく育つ<br>祈りが込められています。",
+        "api_id": 619,
+        "api_no": 141,
+        "api_outside_id": 0,
+        "api_price": 5050,
+        "api_rarity": 5,
+        "api_saleflg": 1,
+        "api_title": "海防艦の五月飾り",
+        "api_type": 3,
+        "api_version": 1
+    }, {
+        "api_active_flag": 1,
+        "api_bgm_id": 0,
+        "api_description": "菖蒲の季節を愉しむ提督と<br>秘書艦娘の執務机です。<br>美味しい柏餅で仕事の合間<br>に艦娘と美味しい息抜き。<br>職人ダイナミック割引可！",
+        "api_id": 620,
+        "api_no": 106,
+        "api_outside_id": 0,
+        "api_price": 150500,
+        "api_rarity": 5,
+        "api_saleflg": 1,
+        "api_title": "菖蒲と柏餅の提督秘書机",
+        "api_type": 5,
         "api_version": 1
     }],
     "api_mst_furnituregraph": [{
@@ -10274,7 +10303,7 @@
     "api_mst_mapbgm": [{
         "api_boss_bgm": [133, 2],
         "api_id": 11,
-        "api_map_bgm": [14, 2],
+        "api_map_bgm": [245, 2],
         "api_maparea_id": 1,
         "api_moving_bgm": 27,
         "api_no": 1
@@ -10304,7 +10333,7 @@
         "api_id": 15,
         "api_map_bgm": [7, 226],
         "api_maparea_id": 1,
-        "api_moving_bgm": 116,
+        "api_moving_bgm": 245,
         "api_no": 5
     }, {
         "api_boss_bgm": [37, 226],
@@ -55929,49 +55958,49 @@
         "api_weda": [100, -10],
         "api_wedb": [121, 198]
     }, {
-        "api_battle_d": [264, 223],
-        "api_battle_n": [277, 256],
-        "api_boko_d": [160, 268],
-        "api_boko_n": [213, 277],
-        "api_ensyue_n": [238, 0],
-        "api_ensyuf_d": [205, 166],
-        "api_ensyuf_n": [240, 202],
-        "api_filename": "zhnvmyoxuein",
+        "api_battle_d": [279, 226],
+        "api_battle_n": [279, 226],
+        "api_boko_d": [235, 247],
+        "api_boko_n": [235, 247],
+        "api_ensyue_n": [259, 0],
+        "api_ensyuf_d": [258, 198],
+        "api_ensyuf_n": [258, 198],
+        "api_filename": "zhnvmyoxuesp",
         "api_id": 637,
         "api_kaisyu_d": [61, -1],
         "api_kaisyu_n": [52, -15],
-        "api_kaizo_d": [172, 70],
-        "api_kaizo_n": [229, 150],
-        "api_map_d": [211, 208],
-        "api_map_n": [232, 222],
+        "api_kaizo_d": [223, 85],
+        "api_kaizo_n": [238, 121],
+        "api_map_d": [244, 225],
+        "api_map_n": [244, 225],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 437,
-        "api_version": ["96", "1", "423"],
-        "api_weda": [81, -45],
-        "api_wedb": [124, 181]
+        "api_version": ["97", "1", "423"],
+        "api_weda": [78, -40],
+        "api_wedb": [126, 211]
     }, {
-        "api_battle_d": [156, 259],
-        "api_battle_n": [318, 250],
-        "api_boko_d": [66, 325],
-        "api_boko_n": [238, 279],
-        "api_ensyue_n": [255, 0],
-        "api_ensyuf_d": [121, 217],
-        "api_ensyuf_n": [259, 205],
-        "api_filename": "nvgghdxdncdj",
+        "api_battle_d": [207, 250],
+        "api_battle_n": [222, 226],
+        "api_boko_d": [157, 283],
+        "api_boko_n": [184, 240],
+        "api_ensyue_n": [216, 0],
+        "api_ensyuf_d": [181, 217],
+        "api_ensyuf_n": [202, 196],
+        "api_filename": "nvgghdxdncsp",
         "api_id": 638,
         "api_kaisyu_d": [31, -61],
         "api_kaisyu_n": [12, -58],
-        "api_kaizo_d": [76, 118],
-        "api_kaizo_n": [253, 150],
-        "api_map_d": [120, 255],
-        "api_map_n": [258, 226],
+        "api_kaizo_d": [153, 112],
+        "api_kaizo_n": [199, 118],
+        "api_map_d": [181, 252],
+        "api_map_n": [207, 223],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 438,
-        "api_version": ["85", "1", "423"],
-        "api_weda": [79, -42],
-        "api_wedb": [112, 181]
+        "api_version": ["86", "1", "423"],
+        "api_weda": [127, -37],
+        "api_wedb": [130, 229]
     }, {
         "api_battle_d": [235, 211],
         "api_battle_n": [252, 220],
@@ -57117,27 +57146,27 @@
         "api_weda": [117, 79],
         "api_wedb": [150, 139]
     }, {
-        "api_battle_d": [264, 223],
-        "api_battle_n": [277, 256],
-        "api_boko_d": [160, 268],
-        "api_boko_n": [213, 277],
-        "api_ensyue_n": [238, 0],
-        "api_ensyuf_d": [205, 166],
-        "api_ensyuf_n": [240, 202],
-        "api_filename": "ujwdmefevbuy",
+        "api_battle_d": [279, 226],
+        "api_battle_n": [279, 226],
+        "api_boko_d": [235, 247],
+        "api_boko_n": [235, 247],
+        "api_ensyue_n": [259, 0],
+        "api_ensyuf_d": [258, 198],
+        "api_ensyuf_n": [258, 198],
+        "api_filename": "ujwdmefevbsp",
         "api_id": 701,
         "api_kaisyu_d": [61, -1],
         "api_kaisyu_n": [52, -15],
-        "api_kaizo_d": [172, 70],
-        "api_kaizo_n": [229, 150],
-        "api_map_d": [211, 208],
-        "api_map_n": [232, 222],
+        "api_kaizo_d": [223, 85],
+        "api_kaizo_n": [238, 121],
+        "api_map_d": [244, 225],
+        "api_map_n": [244, 225],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1701,
-        "api_version": ["96", "1", "423"],
-        "api_weda": [81, -45],
-        "api_wedb": [124, 181]
+        "api_version": ["97", "1", "423"],
+        "api_weda": [78, -40],
+        "api_wedb": [126, 211]
     }, {
         "api_battle_d": [118, 151],
         "api_battle_n": [220, 31],
@@ -57359,27 +57388,27 @@
         "api_weda": [466, -21],
         "api_wedb": [114, 184]
     }, {
-        "api_battle_d": [156, 259],
-        "api_battle_n": [318, 250],
-        "api_boko_d": [66, 325],
-        "api_boko_n": [238, 279],
-        "api_ensyue_n": [255, 0],
-        "api_ensyuf_d": [121, 217],
-        "api_ensyuf_n": [259, 205],
-        "api_filename": "pjbmgnhmdomg",
+        "api_battle_d": [207, 250],
+        "api_battle_n": [222, 226],
+        "api_boko_d": [157, 283],
+        "api_boko_n": [184, 240],
+        "api_ensyue_n": [216, 0],
+        "api_ensyuf_d": [181, 217],
+        "api_ensyuf_n": [202, 196],
+        "api_filename": "pjbmgnhmdosp",
         "api_id": 712,
         "api_kaisyu_d": [31, -61],
         "api_kaisyu_n": [12, -58],
-        "api_kaizo_d": [76, 118],
-        "api_kaizo_n": [253, 150],
-        "api_map_d": [120, 255],
-        "api_map_n": [258, 226],
+        "api_kaizo_d": [153, 112],
+        "api_kaizo_n": [199, 118],
+        "api_map_d": [181, 252],
+        "api_map_n": [207, 223],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1712,
-        "api_version": ["85", "1", "423"],
-        "api_weda": [79, -42],
-        "api_wedb": [112, 181]
+        "api_version": ["86", "1", "423"],
+        "api_weda": [127, -37],
+        "api_wedb": [130, 229]
     }, {
         "api_battle_d": [205, 163],
         "api_battle_n": [171, 121],
@@ -57469,27 +57498,27 @@
         "api_weda": [82, 168],
         "api_wedb": [141, 181]
     }, {
-        "api_battle_d": [145, 220],
-        "api_battle_n": [178, 207],
-        "api_boko_d": [90, 256],
-        "api_boko_n": [139, 225],
+        "api_battle_d": [166, 204],
+        "api_battle_n": [166, 204],
+        "api_boko_d": [139, 214],
+        "api_boko_n": [139, 214],
         "api_ensyue_n": [151, 0],
-        "api_ensyuf_d": [118, 190],
-        "api_ensyuf_n": [157, 169],
-        "api_filename": "ccuyfhwwjoho",
+        "api_ensyuf_d": [142, 172],
+        "api_ensyuf_n": [142, 172],
+        "api_filename": "ccuyfhwwjosp",
         "api_id": 717,
         "api_kaisyu_d": [67, -31],
         "api_kaisyu_n": [61, -25],
-        "api_kaizo_d": [88, 79],
-        "api_kaizo_n": [142, 94],
-        "api_map_d": [109, 205],
-        "api_map_n": [145, 181],
+        "api_kaizo_d": [112, 60],
+        "api_kaizo_n": [127, 94],
+        "api_map_d": [138, 190],
+        "api_map_n": [138, 190],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1717,
-        "api_version": ["76", "1", "423"],
-        "api_weda": [196, -31],
-        "api_wedb": [138, 211]
+        "api_version": ["77", "1", "423"],
+        "api_weda": [187, -19],
+        "api_wedb": [139, 175]
     }, {
         "api_battle_d": [160, 166],
         "api_battle_n": [187, 196],
@@ -58283,27 +58312,27 @@
         "api_weda": [390, -27],
         "api_wedb": [109, 175]
     }, {
-        "api_battle_d": [145, 220],
-        "api_battle_n": [178, 207],
-        "api_boko_d": [90, 256],
-        "api_boko_n": [139, 225],
+        "api_battle_d": [166, 204],
+        "api_battle_n": [166, 204],
+        "api_boko_d": [139, 214],
+        "api_boko_n": [139, 214],
         "api_ensyue_n": [151, 0],
-        "api_ensyuf_d": [118, 190],
-        "api_ensyuf_n": [157, 169],
-        "api_filename": "rlqgnglcevfl",
+        "api_ensyuf_d": [142, 172],
+        "api_ensyuf_n": [142, 172],
+        "api_filename": "rlqgnglcevsp",
         "api_id": 900,
         "api_kaisyu_d": [67, -31],
         "api_kaisyu_n": [61, -25],
-        "api_kaizo_d": [88, 79],
-        "api_kaizo_n": [142, 94],
-        "api_map_d": [109, 205],
-        "api_map_n": [145, 181],
+        "api_kaizo_d": [112, 60],
+        "api_kaizo_n": [127, 94],
+        "api_map_d": [138, 190],
+        "api_map_n": [138, 190],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 500,
-        "api_version": ["76", "1", "423"],
-        "api_weda": [196, -31],
-        "api_wedb": [138, 211]
+        "api_version": ["77", "1", "423"],
+        "api_weda": [187, -19],
+        "api_wedb": [139, 175]
     }, {
         "api_battle_d": [139, 237],
         "api_battle_n": [231, 217],
@@ -67197,6 +67226,10 @@
     }, {
         "api_filename": "flmpfmtbovqo",
         "api_id": 5841,
+        "api_version": ["61", "1", "1"]
+    }, {
+        "api_filename": "slpqumcuudnj",
+        "api_id": 5842,
         "api_version": ["61", "1", "1"]
     }],
     "api_mst_shipupgrade": [{
