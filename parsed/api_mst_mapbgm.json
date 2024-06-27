@@ -1,16 +1,16 @@
 [{
-    "api_boss_bgm": [155, 2],
+    "api_boss_bgm": [118, 2],
     "api_id": 11,
-    "api_map_bgm": [154, 2],
+    "api_map_bgm": [118, 2],
     "api_maparea_id": 1,
     "api_moving_bgm": 14,
     "api_no": 1
 }, {
-    "api_boss_bgm": [156, 30],
+    "api_boss_bgm": [118, 2],
     "api_id": 12,
     "api_map_bgm": [30, 2],
     "api_maparea_id": 1,
-    "api_moving_bgm": 154,
+    "api_moving_bgm": 14,
     "api_no": 2
 }, {
     "api_boss_bgm": [117, 117],
@@ -31,7 +31,7 @@
     "api_id": 15,
     "api_map_bgm": [7, 226],
     "api_maparea_id": 1,
-    "api_moving_bgm": 154,
+    "api_moving_bgm": 118,
     "api_no": 5
 }, {
     "api_boss_bgm": [37, 226],
