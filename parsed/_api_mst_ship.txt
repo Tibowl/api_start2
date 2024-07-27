@@ -5428,7 +5428,7 @@ Gloire改: Armor 装甲: 24,66
 Gloire改: FP 火力: 30,75
 Gloire改: Torp 雷装: 12,60
 Gloire改: AA 対空: 38,76
-Gloire改: luck 運: 38,96
+Gloire改: luck 運: 35,97
 Gloire改: speed 速力: 10
 伊36: HP 耐久: 14,18
 伊36: Armor 装甲: 4,19
