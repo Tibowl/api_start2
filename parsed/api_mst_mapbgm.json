@@ -272,17 +272,17 @@
     "api_moving_bgm": 247,
     "api_no": 3
 }, {
-    "api_boss_bgm": [243, 243],
+    "api_boss_bgm": [252, 252],
     "api_id": 594,
-    "api_map_bgm": [241, 241],
+    "api_map_bgm": [251, 251],
     "api_maparea_id": 59,
-    "api_moving_bgm": 240,
+    "api_moving_bgm": 250,
     "api_no": 4
 }, {
-    "api_boss_bgm": [243, 243],
+    "api_boss_bgm": [253, 253],
     "api_id": 595,
-    "api_map_bgm": [241, 241],
+    "api_map_bgm": [252, 252],
     "api_maparea_id": 59,
-    "api_moving_bgm": 240,
+    "api_moving_bgm": 251,
     "api_no": 5
 }]

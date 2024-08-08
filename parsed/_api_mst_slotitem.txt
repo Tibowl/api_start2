@@ -3109,6 +3109,67 @@ Loire 130M改(熟練): Acc 砲撃命中: 3
 Loire 130M改(熟練): Rare レア: 4
 Loire 130M改(熟練): Cost: 9
 Loire 130M改(熟練): Dist: 3
+SOC Seagull 後期型(熟練): Dive 爆撃: 2
+SOC Seagull 後期型(熟練): LoS 索敵: 7
+SOC Seagull 後期型(熟練): ASW 対潜: 3
+SOC Seagull 後期型(熟練): Acc 砲撃命中: 3
+SOC Seagull 後期型(熟練): Evas 砲撃回避: 2
+SOC Seagull 後期型(熟練): Rare レア: 4
+SOC Seagull 後期型(熟練): Cost: 3
+SOC Seagull 後期型(熟練): Dist: 4
+零式水上偵察機11型甲改二: FP 火力: 1
+零式水上偵察機11型甲改二: AA 対空: 1
+零式水上偵察機11型甲改二: LoS 索敵: 7
+零式水上偵察機11型甲改二: ASW 対潜: 4
+零式水上偵察機11型甲改二: Acc 砲撃命中: 3
+零式水上偵察機11型甲改二: Rare レア: 5
+零式水上偵察機11型甲改二: Cost: 5
+零式水上偵察機11型甲改二: Dist: 7
+SBD(Yellow Wings): FP 火力: 1
+SBD(Yellow Wings): AA 対空: 2
+SBD(Yellow Wings): Dive 爆撃: 7
+SBD(Yellow Wings): LoS 索敵: 2
+SBD(Yellow Wings): ASW 対潜: 3
+SBD(Yellow Wings): Acc 砲撃命中: 1
+SBD(Yellow Wings): Evas 砲撃回避: 2
+SBD(Yellow Wings): Rare レア: 2
+SBD(Yellow Wings): Cost: 5
+SBD(Yellow Wings): Dist: 4
+TBD(Yellow Wings): FP 火力: 1
+TBD(Yellow Wings): Torp 雷装: 6
+TBD(Yellow Wings): LoS 索敵: 2
+TBD(Yellow Wings): ASW 対潜: 4
+TBD(Yellow Wings): Rare レア: 2
+TBD(Yellow Wings): Cost: 5
+TBD(Yellow Wings): Dist: 4
+SBD VS-2(偵察飛行隊): FP 火力: 2
+SBD VS-2(偵察飛行隊): AA 対空: 2
+SBD VS-2(偵察飛行隊): Dive 爆撃: 6
+SBD VS-2(偵察飛行隊): LoS 索敵: 6
+SBD VS-2(偵察飛行隊): ASW 対潜: 5
+SBD VS-2(偵察飛行隊): Acc 砲撃命中: 3
+SBD VS-2(偵察飛行隊): Evas 砲撃回避: 3
+SBD VS-2(偵察飛行隊): Rare レア: 3
+SBD VS-2(偵察飛行隊): Cost: 5
+SBD VS-2(偵察飛行隊): Dist: 4
+SBD VB-2(爆撃飛行隊): FP 火力: 3
+SBD VB-2(爆撃飛行隊): AA 対空: 2
+SBD VB-2(爆撃飛行隊): Dive 爆撃: 8
+SBD VB-2(爆撃飛行隊): LoS 索敵: 2
+SBD VB-2(爆撃飛行隊): ASW 対潜: 4
+SBD VB-2(爆撃飛行隊): Acc 砲撃命中: 2
+SBD VB-2(爆撃飛行隊): Evas 砲撃回避: 3
+SBD VB-2(爆撃飛行隊): Rare レア: 3
+SBD VB-2(爆撃飛行隊): Cost: 5
+SBD VB-2(爆撃飛行隊): Dist: 4
+天山一二型甲改二(村田隊/電探装備): Torp 雷装: 16
+天山一二型甲改二(村田隊/電探装備): AA 対空: 1
+天山一二型甲改二(村田隊/電探装備): LoS 索敵: 6
+天山一二型甲改二(村田隊/電探装備): ASW 対潜: 7
+天山一二型甲改二(村田隊/電探装備): Acc 砲撃命中: 3
+天山一二型甲改二(村田隊/電探装備): Rare レア: 5
+天山一二型甲改二(村田隊/電探装備): Cost: 8
+天山一二型甲改二(村田隊/電探装備): Dist: 6
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -3907,3 +3968,27 @@ GFCS+深海5inch連装砲 Mk.32: Range 射程: 2
 15.2cm深海三連装砲: Acc 砲撃命中: 3
 15.2cm深海三連装砲: Rare レア: 3
 15.2cm深海三連装砲: Range 射程: 2
+深海野牛艦戦 Mk.II: FP 火力: 1
+深海野牛艦戦 Mk.II: AA 対空: 11
+深海野牛艦戦 Mk.II: LoS 索敵: 2
+深海野牛艦戦 Mk.II: Acc 砲撃命中: 3
+深海野牛艦戦 Mk.II: Evas 砲撃回避: 3
+深海野牛艦戦 Mk.II: Rare レア: 6
+深海野牛艦戦 Mk.II: Range 射程: 1
+深海不屈艦爆 Mk.II: FP 火力: 2
+深海不屈艦爆 Mk.II: AA 対空: 6
+深海不屈艦爆 Mk.II: Dive 爆撃: 13
+深海不屈艦爆 Mk.II: LoS 索敵: 7
+深海不屈艦爆 Mk.II: ASW 対潜: 11
+深海不屈艦爆 Mk.II: Acc 砲撃命中: 8
+深海不屈艦爆 Mk.II: Evas 砲撃回避: 3
+深海不屈艦爆 Mk.II: Rare レア: 6
+深海不屈艦爆 Mk.II: Range 射程: 2
+深海打撃艦攻 Mk.II: FP 火力: 3
+深海打撃艦攻 Mk.II: Torp 雷装: 11
+深海打撃艦攻 Mk.II: AA 対空: 3
+深海打撃艦攻 Mk.II: LoS 索敵: 4
+深海打撃艦攻 Mk.II: ASW 対潜: 12
+深海打撃艦攻 Mk.II: Acc 砲撃命中: 6
+深海打撃艦攻 Mk.II: Rare レア: 6
+深海打撃艦攻 Mk.II: Range 射程: 2

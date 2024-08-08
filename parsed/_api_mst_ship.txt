@@ -4905,6 +4905,20 @@ Valiant改: Torp 雷装: 0,0
 Valiant改: AA 対空: 56,92
 Valiant改: luck 運: 40,105
 Valiant改: speed 速力: 5
+Phoenix改: HP 耐久: 53,67
+Phoenix改: Armor 装甲: 26,68
+Phoenix改: FP 火力: 33,77
+Phoenix改: Torp 雷装: 0,39
+Phoenix改: AA 対空: 36,79
+Phoenix改: luck 運: 38,98
+Phoenix改: speed 速力: 10
+Lexington改: HP 耐久: 89,98
+Lexington改: Armor 装甲: 50,80
+Lexington改: FP 火力: 30,55
+Lexington改: Torp 雷装: 0,0
+Lexington改: AA 対空: 50,84
+Lexington改: luck 運: 17,74
+Lexington改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -5332,6 +5346,13 @@ Heywood L.E.: speed 速力: 10
 天津風改二: AA 対空: 26,72
 天津風改二: luck 運: 19,91
 天津風改二: speed 速力: 10
+Phoenix: HP 耐久: 38,56
+Phoenix: Armor 装甲: 16,39
+Phoenix: FP 火力: 29,59
+Phoenix: Torp 雷装: 0,33
+Phoenix: AA 対空: 26,69
+Phoenix: luck 運: 19,79
+Phoenix: speed 速力: 10
 朝日: HP 耐久: 36,44
 朝日: Armor 装甲: 20,29
 朝日: FP 火力: 2,8
@@ -5353,6 +5374,13 @@ Heywood L.E.: speed 速力: 10
 清霜改二: AA 対空: 20,75
 清霜改二: luck 運: 27,89
 清霜改二: speed 速力: 10
+General Belgrano: HP 耐久: 55,70
+General Belgrano: Armor 装甲: 55,72
+General Belgrano: FP 火力: 60,80
+General Belgrano: Torp 雷装: 0,45
+General Belgrano: AA 対空: 85,100
+General Belgrano: luck 運: 39,99
+General Belgrano: speed 速力: 10
 朝日改: HP 耐久: 37,45
 朝日改: Armor 装甲: 23,34
 朝日改: FP 火力: 1,6
@@ -5402,6 +5430,13 @@ Gloire: Torp 雷装: 12,48
 Gloire: AA 対空: 32,68
 Gloire: luck 運: 22,82
 Gloire: speed 速力: 10
+Lexington: HP 耐久: 84,94
+Lexington: Armor 装甲: 40,64
+Lexington: FP 火力: 30,46
+Lexington: Torp 雷装: 0,0
+Lexington: AA 対空: 36,72
+Lexington: luck 運: 15,70
+Lexington: speed 速力: 10
 Mogador改: HP 耐久: 38,57
 Mogador改: Armor 装甲: 29,57
 Mogador改: FP 火力: 40,72
@@ -6217,3 +6252,18 @@ Schnellboot小鬼群: speed 速力: 10
 港湾棲姫 休日mode: speed 速力: 0
 港湾棲姫 休日mode-壊: speed 速力: 0
 港湾棲姫 休日mode-壊: speed 速力: 0
+太平洋飛行場姫: speed 速力: 0
+太平洋飛行場姫: speed 速力: 0
+太平洋飛行場姫: speed 速力: 0
+集積地棲姫V バカンスmode: speed 速力: 0
+集積地棲姫V バカンスmode-壊: speed 速力: 0
+集積地棲姫V バカンスmode: speed 速力: 0
+集積地棲姫V バカンスmode-壊: speed 速力: 0
+集積地棲姫V バカンスmode: speed 速力: 0
+集積地棲姫V バカンスmode-壊: speed 速力: 0
+深海珊瑚海水鬼: speed 速力: 10
+深海珊瑚海水鬼: speed 速力: 10
+深海珊瑚海水鬼: speed 速力: 10
+深海珊瑚海水鬼-壊: speed 速力: 10
+深海珊瑚海水鬼-壊: speed 速力: 10
+深海珊瑚海水鬼-壊: speed 速力: 10

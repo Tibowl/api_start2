@@ -698,4 +698,11 @@
     "api_name": "海外艦最新技術",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["夜間作戦適性を持ち、その上で<br>厳しい訓練を重ねた、夜間作戦<br>可能な精鋭の熟練航空機搭乗員<br>です。(※部隊編成時に同航空隊<br>と一体化して、消滅します)", ""],
+    "api_id": 101,
+    "api_name": "夜間熟練搭乗員",
+    "api_price": 0,
+    "api_usetype": 0
 }]

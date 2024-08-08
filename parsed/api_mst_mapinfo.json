@@ -468,26 +468,26 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 594,
-    "api_infotext": "E4",
+    "api_infotext": "太平洋南部戦域への敵侵攻<br>艦隊を捕捉、タウイタウイ<br>からの増援により、これを<br>撃滅せよ！艦隊、出撃！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 16,
     "api_maparea_id": 59,
     "api_max_maphp": 300,
-    "api_name": "E4",
+    "api_name": "太平洋南部/ダバオ沖/ビアク島沖",
     "api_no": 4,
-    "api_opetext": "E4",
+    "api_opetext": "ビアク沖遭遇戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 595,
-    "api_infotext": "E5",
+    "api_infotext": "太平洋戦域の反攻作戦、新<br>MO作戦を実施する！<br>我が精鋭機動部隊、出撃！<br>暁の水平線に勝利を！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_level": 18,
     "api_maparea_id": 59,
     "api_max_maphp": 300,
-    "api_name": "E5",
+    "api_name": "ラバウル沖/珊瑚海方面",
     "api_no": 5,
-    "api_opetext": "E4",
+    "api_opetext": "第二次珊瑚海海戦",
     "api_required_defeat_count": null,
-    "api_sally_flag": [1, 0, 0]
+    "api_sally_flag": [1, 7, 1]
 }]
