@@ -4632,6 +4632,13 @@ L.d.S.D.d.Abruzzi改: Torp 雷装: 22,70
 L.d.S.D.d.Abruzzi改: AA 対空: 24,70
 L.d.S.D.d.Abruzzi改: luck 運: 30,98
 L.d.S.D.d.Abruzzi改: speed 速力: 10
+霧島改二丙: HP 耐久: 85,98
+霧島改二丙: Armor 装甲: 71,92
+霧島改二丙: FP 火力: 79,106
+霧島改二丙: Torp 雷装: 17,40
+霧島改二丙: AA 対空: 32,82
+霧島改二丙: luck 運: 16,90
+霧島改二丙: speed 速力: 10
 秋霜改: HP 耐久: 32,49
 秋霜改: Armor 装甲: 14,49
 秋霜改: FP 火力: 11,50
