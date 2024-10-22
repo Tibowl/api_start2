@@ -5381,6 +5381,13 @@ Phoenix: speed 速力: 10
 清霜改二: AA 対空: 20,75
 清霜改二: luck 運: 27,89
 清霜改二: speed 速力: 10
+早霜改二: HP 耐久: 33,56
+早霜改二: Armor 装甲: 15,53
+早霜改二: FP 火力: 18,67
+早霜改二: Torp 雷装: 29,84
+早霜改二: AA 対空: 20,72
+早霜改二: luck 運: 18,78
+早霜改二: speed 速力: 10
 General Belgrano: HP 耐久: 55,70
 General Belgrano: Armor 装甲: 55,72
 General Belgrano: FP 火力: 60,80

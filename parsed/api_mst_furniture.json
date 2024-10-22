@@ -397,7 +397,7 @@
     "api_outside_id": 0,
     "api_price": 9300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "飛行甲板",
     "api_type": 0,
     "api_version": 1
@@ -449,7 +449,7 @@
     "api_outside_id": 0,
     "api_price": 450,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "戦艦タイルの床",
     "api_type": 0,
     "api_version": 1
@@ -1242,7 +1242,7 @@
     "api_outside_id": 3,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "昔ながらのすりガラス",
     "api_type": 2,
     "api_version": 1
@@ -2061,7 +2061,7 @@
     "api_outside_id": 0,
     "api_price": 30000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "教室セット「机」",
     "api_type": 4,
     "api_version": 1
@@ -2256,7 +2256,7 @@
     "api_outside_id": 0,
     "api_price": 40000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "教室セット「教卓」",
     "api_type": 5,
     "api_version": 1
@@ -2633,7 +2633,7 @@
     "api_outside_id": 0,
     "api_price": 50000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "教室セット「黒板」",
     "api_type": 3,
     "api_version": 1
@@ -2841,7 +2841,7 @@
     "api_outside_id": 4,
     "api_price": 27000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "秋の気配な窓",
     "api_type": 2,
     "api_version": 1
@@ -3114,7 +3114,7 @@
     "api_outside_id": 0,
     "api_price": 9500,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "温泉岩風呂",
     "api_type": 5,
     "api_version": 35
@@ -4898,7 +4898,7 @@
     "api_saleflg": 0,
     "api_title": "Caféテーブルセット",
     "api_type": 5,
-    "api_version": 30
+    "api_version": 31
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -5077,7 +5077,7 @@
     "api_outside_id": 0,
     "api_price": 2100,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "白露の特注壁板",
     "api_type": 1,
     "api_version": 1
@@ -5805,7 +5805,7 @@
     "api_outside_id": 0,
     "api_price": 1980,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "柿の床板",
     "api_type": 0,
     "api_version": 1
@@ -5831,7 +5831,7 @@
     "api_outside_id": 0,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "柿の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -5870,7 +5870,7 @@
     "api_outside_id": 0,
     "api_price": 110000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "提督用秋の読書本棚",
     "api_type": 4,
     "api_version": 1
@@ -5974,7 +5974,7 @@
     "api_outside_id": 0,
     "api_price": 1923,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "夕張の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -6169,7 +6169,7 @@
     "api_outside_id": 0,
     "api_price": 4700,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "北欧艦娘の私物棚",
     "api_type": 3,
     "api_version": 1
@@ -6377,7 +6377,7 @@
     "api_outside_id": 4,
     "api_price": 3900,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "初秋を楽しむ木製窓",
     "api_type": 2,
     "api_version": 1
@@ -6520,7 +6520,7 @@
     "api_outside_id": 0,
     "api_price": 600,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "栗の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -6533,7 +6533,7 @@
     "api_outside_id": 4,
     "api_price": 3600,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "モンブラン仕様の窓",
     "api_type": 2,
     "api_version": 1
@@ -6728,7 +6728,7 @@
     "api_outside_id": 4,
     "api_price": 5000,
     "api_rarity": 6,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
     "api_version": 46
@@ -7079,7 +7079,7 @@
     "api_outside_id": 0,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "夜空の壁",
     "api_type": 1,
     "api_version": 1
@@ -7183,7 +7183,7 @@
     "api_outside_id": 4,
     "api_price": 110310,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "ハロウィンの窓",
     "api_type": 2,
     "api_version": 1
@@ -7196,7 +7196,7 @@
     "api_outside_id": 0,
     "api_price": 3200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "32駆ハロウィン私物棚",
     "api_type": 3,
     "api_version": 1
@@ -7573,7 +7573,7 @@
     "api_outside_id": 4,
     "api_price": 2023,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "榛名の白い窓",
     "api_type": 2,
     "api_version": 9
@@ -7820,7 +7820,7 @@
     "api_outside_id": 0,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "Halloweenの床",
     "api_type": 0,
     "api_version": 1
@@ -7833,7 +7833,7 @@
     "api_outside_id": 0,
     "api_price": 2023,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "Halloweenの壁",
     "api_type": 1,
     "api_version": 1
@@ -7963,10 +7963,10 @@
     "api_outside_id": 3,
     "api_price": 223000,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "主力オブ主力な季節の窓",
     "api_type": 2,
-    "api_version": 1
+    "api_version": 2
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -8213,5 +8213,18 @@
     "api_saleflg": 0,
     "api_title": "提督と第三戦隊のテーブル",
     "api_type": 5,
+    "api_version": 1
+}, {
+    "api_active_flag": 0,
+    "api_bgm_id": 0,
+    "api_description": "秋南瓜祭りの季節。仮装の<br>準備に余念のない艦娘達の<br>ために、職人が特注で用意<br>したHalloweenです！<br>※ダイナミック割引可能！",
+    "api_id": 633,
+    "api_no": 145,
+    "api_outside_id": 0,
+    "api_price": 110310,
+    "api_rarity": 5,
+    "api_saleflg": 1,
+    "api_title": "艦隊Halloween飾り",
+    "api_type": 3,
     "api_version": 1
 }]
