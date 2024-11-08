@@ -423,7 +423,7 @@
     "api_outside_id": 0,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "コンクリート床",
     "api_type": 0,
     "api_version": 1
@@ -878,7 +878,7 @@
     "api_outside_id": 0,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "コンクリート壁",
     "api_type": 1,
     "api_version": 1
@@ -943,7 +943,7 @@
     "api_outside_id": 1,
     "api_price": 50,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "緑カーテンの窓",
     "api_type": 2,
     "api_version": 1
@@ -2311,7 +2311,7 @@
     "api_saleflg": 0,
     "api_title": "ちゃぶ台セット",
     "api_type": 5,
-    "api_version": 3
+    "api_version": 4
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 110,
@@ -2360,7 +2360,7 @@
     "api_outside_id": 0,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "羽毛布団と枕",
     "api_type": 5,
     "api_version": 1
@@ -2584,7 +2584,7 @@
     "api_saleflg": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5,
-    "api_version": 35
+    "api_version": 36
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -2815,7 +2815,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "秋刀魚の食卓",
     "api_type": 5,
     "api_version": 1
@@ -2987,7 +2987,7 @@
     "api_saleflg": 1,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 71
+    "api_version": 72
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 109,
@@ -3117,7 +3117,7 @@
     "api_saleflg": 1,
     "api_title": "温泉岩風呂",
     "api_type": 5,
-    "api_version": 35
+    "api_version": 36
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -3400,7 +3400,7 @@
     "api_outside_id": 0,
     "api_price": 3800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府秋刀魚祭り",
     "api_type": 5,
     "api_version": 1
@@ -4898,7 +4898,7 @@
     "api_saleflg": 0,
     "api_title": "Caféテーブルセット",
     "api_type": 5,
-    "api_version": 31
+    "api_version": 32
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -4921,7 +4921,7 @@
     "api_outside_id": 0,
     "api_price": 6340,
     "api_rarity": 6,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "「瑞雲」の壁板",
     "api_type": 1,
     "api_version": 1
@@ -5142,7 +5142,7 @@
     "api_outside_id": 0,
     "api_price": 110000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "秋刀魚祭りの壁",
     "api_type": 1,
     "api_version": 1
@@ -5155,7 +5155,7 @@
     "api_outside_id": 0,
     "api_price": 110000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "秋刀魚祭りの床板",
     "api_type": 0,
     "api_version": 1
@@ -5818,7 +5818,7 @@
     "api_outside_id": 0,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "葡萄のカーペット",
     "api_type": 0,
     "api_version": 1
@@ -5844,7 +5844,7 @@
     "api_outside_id": 0,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "白煉瓦作りの葡萄の壁",
     "api_type": 1,
     "api_version": 1
@@ -5857,7 +5857,7 @@
     "api_outside_id": 7,
     "api_price": 8800,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府の艦娘秋窓",
     "api_type": 2,
     "api_version": 1
@@ -6390,7 +6390,7 @@
     "api_outside_id": 0,
     "api_price": 8800,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "提督と秘書艦の木机",
     "api_type": 5,
     "api_version": 1
@@ -6406,7 +6406,7 @@
     "api_saleflg": 1,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 54
+    "api_version": 55
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6442,7 +6442,7 @@
     "api_outside_id": 0,
     "api_price": 1900,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "中秋の壁",
     "api_type": 1,
     "api_version": 1
@@ -6468,7 +6468,7 @@
     "api_outside_id": 0,
     "api_price": 119440,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "「秋霜」文机と栗饅頭",
     "api_type": 4,
     "api_version": 1
@@ -6481,7 +6481,7 @@
     "api_outside_id": 0,
     "api_price": 1900,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "栗の水墨画と秋飾り棚",
     "api_type": 3,
     "api_version": 1
@@ -6494,7 +6494,7 @@
     "api_outside_id": 4,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "サツマイモのお洒落窓",
     "api_type": 2,
     "api_version": 1
@@ -6653,7 +6653,7 @@
     "api_saleflg": 1,
     "api_title": "蜜柑と特注鎮守府ちゃぶ台",
     "api_type": 5,
-    "api_version": 17
+    "api_version": 18
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6731,7 +6731,7 @@
     "api_saleflg": 0,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 46
+    "api_version": 47
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -7118,7 +7118,7 @@
     "api_outside_id": 0,
     "api_price": 0,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "呉「大和」感謝の掛け軸",
     "api_type": 3,
     "api_version": 1
@@ -7144,7 +7144,7 @@
     "api_outside_id": 0,
     "api_price": 1700,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府林檎飴＆型抜き",
     "api_type": 4,
     "api_version": 1
@@ -7183,7 +7183,7 @@
     "api_outside_id": 4,
     "api_price": 110310,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ハロウィンの窓",
     "api_type": 2,
     "api_version": 1
@@ -7196,7 +7196,7 @@
     "api_outside_id": 0,
     "api_price": 3200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "32駆ハロウィン私物棚",
     "api_type": 3,
     "api_version": 1
@@ -7482,7 +7482,7 @@
     "api_outside_id": 0,
     "api_price": 123000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "フランス艦 les meuble",
     "api_type": 4,
     "api_version": 1
@@ -7586,7 +7586,7 @@
     "api_outside_id": 0,
     "api_price": 170000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Rangerの単艦個人酒保",
     "api_type": 3,
     "api_version": 1
@@ -7820,7 +7820,7 @@
     "api_outside_id": 0,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Halloweenの床",
     "api_type": 0,
     "api_version": 1
@@ -7833,7 +7833,7 @@
     "api_outside_id": 0,
     "api_price": 2023,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Halloweenの壁",
     "api_type": 1,
     "api_version": 1
@@ -7859,7 +7859,7 @@
     "api_outside_id": 0,
     "api_price": 3800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府お芋備蓄の祭壇",
     "api_type": 3,
     "api_version": 1
@@ -7872,7 +7872,7 @@
     "api_outside_id": 0,
     "api_price": 104050,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府お芋の会",
     "api_type": 5,
     "api_version": 1
@@ -7966,7 +7966,7 @@
     "api_saleflg": 1,
     "api_title": "主力オブ主力な季節の窓",
     "api_type": 2,
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -8106,7 +8106,7 @@
     "api_outside_id": 0,
     "api_price": 133000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "提督と大淀秘書机",
     "api_type": 5,
     "api_version": 3
@@ -8145,7 +8145,7 @@
     "api_outside_id": 0,
     "api_price": 161000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "初月のしんがり桐箪笥",
     "api_type": 4,
     "api_version": 1
@@ -8223,8 +8223,21 @@
     "api_outside_id": 0,
     "api_price": 110310,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "艦隊Halloween飾り",
+    "api_type": 3,
+    "api_version": 1
+}, {
+    "api_active_flag": 1,
+    "api_bgm_id": 156,
+    "api_description": "十二年目の海、その秋刀魚<br>漁は最上型の出番ですわ！<br>最上型重巡四姉妹が大漁と<br>五穀豊穣、艦隊安全を祈願<br>する、くまりんこ大漁旗！",
+    "api_id": 634,
+    "api_no": 146,
+    "api_outside_id": 0,
+    "api_price": 202400,
+    "api_rarity": 6,
+    "api_saleflg": 0,
+    "api_title": "二四式大漁旗",
     "api_type": 3,
     "api_version": 1
 }]
