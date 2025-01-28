@@ -14377,7 +14377,7 @@
     "api_tyku": 11,
     "api_type": [1, 1, 1, 16, 0],
     "api_usebull": "0",
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -14861,6 +14861,33 @@
     "api_tais": 6,
     "api_tyku": 0,
     "api_type": [3, 5, 7, 58, 58],
+    "api_usebull": "0",
+    "api_version": 2
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 0,
+    "api_broken": [0, 2, 4, 1],
+    "api_houg": 2,
+    "api_houk": 0,
+    "api_houm": 1,
+    "api_id": 553,
+    "api_leng": 1,
+    "api_luck": 0,
+    "api_name": "10cm連装高角砲改",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 3,
+    "api_sakb": 0,
+    "api_saku": 0,
+    "api_soku": 0,
+    "api_sortno": 553,
+    "api_souk": 1,
+    "api_taik": 0,
+    "api_tais": 0,
+    "api_tyku": 7,
+    "api_type": [1, 1, 1, 16, 0],
     "api_usebull": "0",
     "api_version": 2
 }, {
