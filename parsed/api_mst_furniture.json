@@ -189,7 +189,7 @@
     "api_outside_id": 0,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "冬のカーペット",
     "api_type": 0,
     "api_version": 1
@@ -280,7 +280,7 @@
     "api_outside_id": 0,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "真っ白なフワフワ絨毯",
     "api_type": 0,
     "api_version": 1
@@ -969,7 +969,7 @@
     "api_outside_id": 4,
     "api_price": 2000,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府新年飾り",
     "api_type": 2,
     "api_version": 1
@@ -1255,7 +1255,7 @@
     "api_outside_id": 1,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "艦娘による冬の窓",
     "api_type": 2,
     "api_version": 2
@@ -1268,7 +1268,7 @@
     "api_outside_id": 4,
     "api_price": 2220,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "冬のステンドグラス",
     "api_type": 2,
     "api_version": 1
@@ -1879,7 +1879,7 @@
     "api_outside_id": 0,
     "api_price": 300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "クラシックシェルフ",
     "api_type": 4,
     "api_version": 1
@@ -1931,7 +1931,7 @@
     "api_outside_id": 0,
     "api_price": 150,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "折り畳み机",
     "api_type": 4,
     "api_version": 1
@@ -1957,7 +1957,7 @@
     "api_outside_id": 0,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ハンガーラック",
     "api_type": 4,
     "api_version": 1
@@ -2776,7 +2776,7 @@
     "api_outside_id": 0,
     "api_price": 1900,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "書斎本棚",
     "api_type": 4,
     "api_version": 1
@@ -2893,7 +2893,7 @@
     "api_outside_id": 0,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "冬の飾り付け",
     "api_type": 3,
     "api_version": 1
@@ -2906,7 +2906,7 @@
     "api_outside_id": 0,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "白と青のツリー",
     "api_type": 5,
     "api_version": 1
@@ -2958,7 +2958,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "年越し蕎麦",
     "api_type": 5,
     "api_version": 1
@@ -2971,7 +2971,7 @@
     "api_outside_id": 0,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "門松",
     "api_type": 4,
     "api_version": 1
@@ -2987,7 +2987,7 @@
     "api_saleflg": 1,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 73
+    "api_version": 74
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 109,
@@ -3465,7 +3465,7 @@
     "api_outside_id": 0,
     "api_price": 3000,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "七面鳥のディナー",
     "api_type": 5,
     "api_version": 1
@@ -3517,10 +3517,10 @@
     "api_outside_id": 0,
     "api_price": 20160,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "年末年始の提督大奮発",
     "api_type": 5,
-    "api_version": 25
+    "api_version": 26
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -4141,7 +4141,7 @@
     "api_outside_id": 4,
     "api_price": 148000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "ラヂオと高級職人窓",
     "api_type": 2,
     "api_version": 1
@@ -4154,7 +4154,7 @@
     "api_outside_id": 0,
     "api_price": 3700,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "トリコロールツリー",
     "api_type": 5,
     "api_version": 1
@@ -4167,7 +4167,7 @@
     "api_outside_id": 0,
     "api_price": 2500,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ローストビーフディナー",
     "api_type": 5,
     "api_version": 1
@@ -4193,7 +4193,7 @@
     "api_outside_id": 0,
     "api_price": 1800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府大掃除道具",
     "api_type": 4,
     "api_version": 1
@@ -4713,7 +4713,7 @@
     "api_outside_id": 0,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "クリスマスのマット",
     "api_type": 0,
     "api_version": 1
@@ -4752,7 +4752,7 @@
     "api_outside_id": 0,
     "api_price": 120170,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "煉瓦作りのクリスマス壁",
     "api_type": 1,
     "api_version": 1
@@ -4882,7 +4882,7 @@
     "api_outside_id": 0,
     "api_price": 121400,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "鎮守府Café",
     "api_type": 4,
     "api_version": 1
@@ -4898,7 +4898,7 @@
     "api_saleflg": 0,
     "api_title": "Caféテーブルセット",
     "api_type": 5,
-    "api_version": 33
+    "api_version": 34
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -5207,7 +5207,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "石製の床とカーペット",
     "api_type": 0,
     "api_version": 1
@@ -5220,7 +5220,7 @@
     "api_outside_id": 0,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "石製の壁",
     "api_type": 1,
     "api_version": 1
@@ -5233,7 +5233,7 @@
     "api_outside_id": 0,
     "api_price": 4800,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "艦娘特製冬の提督室壁",
     "api_type": 1,
     "api_version": 1
@@ -5246,7 +5246,7 @@
     "api_outside_id": 0,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "冬の北方海域図",
     "api_type": 3,
     "api_version": 1
@@ -5259,7 +5259,7 @@
     "api_outside_id": 0,
     "api_price": 148000,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "工廠製シチューストーブ",
     "api_type": 4,
     "api_version": 1
@@ -5272,7 +5272,7 @@
     "api_outside_id": 0,
     "api_price": 8800,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "提督の編み物チェア",
     "api_type": 5,
     "api_version": 1
@@ -5896,7 +5896,7 @@
     "api_outside_id": 8,
     "api_price": 1980,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "冬の鎮守府野菜窓",
     "api_type": 2,
     "api_version": 1
@@ -5909,7 +5909,7 @@
     "api_outside_id": 0,
     "api_price": 120200,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "艦娘衣裳の裁縫道具",
     "api_type": 4,
     "api_version": 1
@@ -5922,7 +5922,7 @@
     "api_outside_id": 0,
     "api_price": 2020,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "風雲の原稿支援物資庫",
     "api_type": 4,
     "api_version": 1
@@ -5935,7 +5935,7 @@
     "api_outside_id": 0,
     "api_price": 4700,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "艦娘かるたセット",
     "api_type": 5,
     "api_version": 1
@@ -6159,7 +6159,7 @@
     "api_saleflg": 0,
     "api_title": "「沖に立つ波」私物棚",
     "api_type": 3,
-    "api_version": 1
+    "api_version": 2
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6406,7 +6406,7 @@
     "api_saleflg": 1,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 56
+    "api_version": 57
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6533,7 +6533,7 @@
     "api_outside_id": 4,
     "api_price": 3600,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "モンブラン仕様の窓",
     "api_type": 2,
     "api_version": 1
@@ -6585,7 +6585,7 @@
     "api_outside_id": 0,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "星の降る街の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -6598,7 +6598,7 @@
     "api_outside_id": 4,
     "api_price": 2700,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "トナカイ仕様のXmas窓",
     "api_type": 2,
     "api_version": 1
@@ -6653,7 +6653,7 @@
     "api_saleflg": 1,
     "api_title": "蜜柑と特注鎮守府ちゃぶ台",
     "api_type": 5,
-    "api_version": 19
+    "api_version": 20
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6689,10 +6689,10 @@
     "api_outside_id": 7,
     "api_price": 3600,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "ミニ門松と干支の窓",
     "api_type": 2,
-    "api_version": 3
+    "api_version": 4
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6731,7 +6731,7 @@
     "api_saleflg": 0,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 48
+    "api_version": 49
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -7222,7 +7222,7 @@
     "api_outside_id": 0,
     "api_price": 112240,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Xmas母港オルゴール",
     "api_type": 3,
     "api_version": 1
@@ -7521,7 +7521,7 @@
     "api_outside_id": 0,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Xmasマットonマット",
     "api_type": 0,
     "api_version": 1
@@ -7534,7 +7534,7 @@
     "api_outside_id": 0,
     "api_price": 1400,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Xmasのツリー模様赤壁",
     "api_type": 1,
     "api_version": 1
@@ -7898,7 +7898,7 @@
     "api_outside_id": 0,
     "api_price": 1224,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Xmasのフロア",
     "api_type": 0,
     "api_version": 1
@@ -7911,7 +7911,7 @@
     "api_outside_id": 0,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "Xmasオーナメントの壁",
     "api_type": 1,
     "api_version": 1
@@ -7924,7 +7924,7 @@
     "api_outside_id": 0,
     "api_price": 1225,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "緑と赤のXmas wall",
     "api_type": 1,
     "api_version": 1
@@ -7937,7 +7937,7 @@
     "api_outside_id": 0,
     "api_price": 112240,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "謎のXmasカーペット",
     "api_type": 0,
     "api_version": 2
@@ -7966,7 +7966,7 @@
     "api_saleflg": 1,
     "api_title": "主力オブ主力な季節の窓",
     "api_type": 2,
-    "api_version": 4
+    "api_version": 5
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -7979,7 +7979,7 @@
     "api_saleflg": 1,
     "api_title": "七駆の私物棚",
     "api_type": 3,
-    "api_version": 6
+    "api_version": 7
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -8098,7 +8098,7 @@
     "api_type": 4,
     "api_version": 1
 }, {
-    "api_active_flag": 0,
+    "api_active_flag": 1,
     "api_bgm_id": 0,
     "api_description": "提督と任務娘…じゃない…<br>第一艦隊旗艦としても優秀<br>なある軽巡の執務机です。<br>季節毎に、お茶菓子が変化<br>するとかしないとか……。",
     "api_id": 624,
@@ -8109,7 +8109,7 @@
     "api_saleflg": 0,
     "api_title": "提督と大淀秘書机",
     "api_type": 5,
-    "api_version": 4
+    "api_version": 5
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -8197,7 +8197,7 @@
     "api_outside_id": 0,
     "api_price": 108000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府艦内神社",
     "api_type": 3,
     "api_version": 1
@@ -8239,5 +8239,57 @@
     "api_saleflg": 0,
     "api_title": "二四式大漁旗",
     "api_type": 3,
+    "api_version": 1
+}, {
+    "api_active_flag": 0,
+    "api_bgm_id": 0,
+    "api_description": "年末年始を落ち着いて艦娘<br>たちと迎える。そんな提督<br>にぴったりな年越しの壁。<br>年越しの床と小型囲炉裏に<br>も最適。静かな日々を。",
+    "api_id": 635,
+    "api_no": 108,
+    "api_outside_id": 0,
+    "api_price": 1880,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "年越しの壁",
+    "api_type": 1,
+    "api_version": 1
+}, {
+    "api_active_flag": 0,
+    "api_bgm_id": 0,
+    "api_description": "寒い冬を越えて新しき年に<br>向かって艦娘たちと静かに<br>過ごす時間。それはそれで<br>良きもの。そんな年越しの<br>床と内蔵小型囲炉裏です。",
+    "api_id": 636,
+    "api_no": 90,
+    "api_outside_id": 0,
+    "api_price": 1880,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "年越しの床と小型囲炉裏",
+    "api_type": 0,
+    "api_version": 1
+}, {
+    "api_active_flag": 0,
+    "api_bgm_id": 0,
+    "api_description": "津軽海峡ではないけれど冬<br>景色の海も良きものです。<br>壁一面に描かれた雪景色の<br>海と港。さぁ、提督はどん<br>な部屋を作りますか？",
+    "api_id": 637,
+    "api_no": 109,
+    "api_outside_id": 0,
+    "api_price": 120250,
+    "api_rarity": 6,
+    "api_saleflg": 1,
+    "api_title": "雪景色の海壁",
+    "api_type": 1,
+    "api_version": 1
+}, {
+    "api_active_flag": 0,
+    "api_bgm_id": 0,
+    "api_description": "山々の自然、深々と降る雪<br>と神社へ繋がる路の鳥居。<br>そこに作られたかまくら。<br>かつてあった日本の故郷の<br>冬景色を、今、鎮守府に。",
+    "api_id": 638,
+    "api_no": 110,
+    "api_outside_id": 0,
+    "api_price": 202500,
+    "api_rarity": 6,
+    "api_saleflg": 1,
+    "api_title": "雪景色かまくらと鳥居の壁",
+    "api_type": 1,
     "api_version": 1
 }]

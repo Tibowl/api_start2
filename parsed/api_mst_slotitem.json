@@ -951,7 +951,8 @@
     "api_tais": 0,
     "api_tyku": 5,
     "api_type": [4, 28, 18, 12, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -977,7 +978,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [4, 25, 19, 13, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -2740,7 +2742,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [11, 21, 33, 27, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -3146,7 +3149,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [4, 25, 19, 13, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -8597,7 +8601,8 @@
     "api_tais": 0,
     "api_tyku": 6,
     "api_type": [4, 28, 18, 12, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -9870,7 +9875,8 @@
     "api_tais": 0,
     "api_tyku": 0,
     "api_type": [4, 25, 19, 13, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -13005,7 +13011,8 @@
     "api_tais": 0,
     "api_tyku": 7,
     "api_type": [4, 28, 18, 12, 0],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
@@ -14767,6 +14774,93 @@
     "api_tais": 10,
     "api_tyku": 0,
     "api_type": [3, 16, 26, 22, 54],
+    "api_usebull": "0",
+    "api_version": 2
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 4,
+    "api_broken": [1, 1, 0, 1],
+    "api_cost": 2,
+    "api_distance": 3,
+    "api_houg": 0,
+    "api_houk": 0,
+    "api_houm": 0,
+    "api_id": 550,
+    "api_leng": 0,
+    "api_luck": 0,
+    "api_name": "試製 明星(増加試作機)",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 2,
+    "api_sakb": 0,
+    "api_saku": 1,
+    "api_soku": 0,
+    "api_sortno": 550,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 4,
+    "api_tyku": 0,
+    "api_type": [3, 5, 7, 7, 57],
+    "api_usebull": "0",
+    "api_version": 2
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 5,
+    "api_broken": [1, 2, 0, 1],
+    "api_cost": 3,
+    "api_distance": 4,
+    "api_houg": 0,
+    "api_houk": 0,
+    "api_houm": 0,
+    "api_id": 551,
+    "api_leng": 0,
+    "api_luck": 0,
+    "api_name": "明星改",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 3,
+    "api_sakb": 0,
+    "api_saku": 2,
+    "api_soku": 0,
+    "api_sortno": 551,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 5,
+    "api_tyku": 0,
+    "api_type": [3, 5, 7, 7, 40],
+    "api_usebull": "0",
+    "api_version": 2
+}, {
+    "api_atap": 0,
+    "api_bakk": 0,
+    "api_baku": 6,
+    "api_broken": [2, 2, 0, 1],
+    "api_cost": 4,
+    "api_distance": 4,
+    "api_houg": 0,
+    "api_houk": 0,
+    "api_houm": 1,
+    "api_id": 552,
+    "api_leng": 0,
+    "api_luck": 0,
+    "api_name": "九九式練爆二二型改(夜間装備実験機)",
+    "api_raig": 0,
+    "api_raik": 0,
+    "api_raim": 0,
+    "api_rare": 4,
+    "api_sakb": 0,
+    "api_saku": 4,
+    "api_soku": 0,
+    "api_sortno": 552,
+    "api_souk": 0,
+    "api_taik": 0,
+    "api_tais": 6,
+    "api_tyku": 0,
+    "api_type": [3, 5, 7, 58, 58],
     "api_usebull": "0",
     "api_version": 2
 }, {
