@@ -7,9 +7,9 @@ else
 fi
 
 if [ -z "$2" ]; then
-    ldate="date -I"
+    ldate=`date -I`
 else
-    ldate=`$2`
+    ldate="$2"
 fi
 
 cd ..
