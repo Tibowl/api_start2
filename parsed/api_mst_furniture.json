@@ -2987,7 +2987,7 @@
     "api_saleflg": 1,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 75
+    "api_version": 76
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 109,
@@ -3520,7 +3520,7 @@
     "api_saleflg": 1,
     "api_title": "年末年始の提督大奮発",
     "api_type": 5,
-    "api_version": 27
+    "api_version": 28
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6406,7 +6406,7 @@
     "api_saleflg": 1,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 58
+    "api_version": 59
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6731,7 +6731,7 @@
     "api_saleflg": 0,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 50
+    "api_version": 51
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
