@@ -18,7 +18,7 @@ if [ -f "$ifile" ]; then
     echo "Beautify..."
     rm parsed/*
     mkdir parsed
-	`node ../JSFormatter/handleStart2.js $ifile start2.json`
+	node ../JSFormatter/handleStart2.js $ifile start2.json
 	if [ -f start2.json ]; then
         rm $ifile
         git add -u :/
