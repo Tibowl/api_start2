@@ -332,7 +332,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "白い高級大理石床",
     "api_type": 0,
     "api_version": 1
@@ -735,7 +735,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "高級木材の壁",
     "api_type": 1,
     "api_version": 1
@@ -982,7 +982,7 @@
     "api_outside_id": 4,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "破魔矢の窓",
     "api_type": 2,
     "api_version": 1
@@ -2100,7 +2100,7 @@
     "api_outside_id": 0,
     "api_price": 200,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "だるま",
     "api_type": 4,
     "api_version": 1
@@ -2412,7 +2412,7 @@
     "api_outside_id": 0,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "提督の麻雀卓",
     "api_type": 5,
     "api_version": 28
@@ -2945,7 +2945,7 @@
     "api_outside_id": 0,
     "api_price": 800,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "しめ飾り",
     "api_type": 3,
     "api_version": 1
@@ -2958,7 +2958,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "年越し蕎麦",
     "api_type": 5,
     "api_version": 1
@@ -2987,7 +2987,7 @@
     "api_saleflg": 1,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 74
+    "api_version": 75
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 109,
@@ -3413,7 +3413,7 @@
     "api_outside_id": 0,
     "api_price": 55000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "北方迷彩な桐箪笥",
     "api_type": 4,
     "api_version": 1
@@ -3520,7 +3520,7 @@
     "api_saleflg": 1,
     "api_title": "年末年始の提督大奮発",
     "api_type": 5,
-    "api_version": 26
+    "api_version": 27
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -4193,7 +4193,7 @@
     "api_outside_id": 0,
     "api_price": 1800,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "鎮守府大掃除道具",
     "api_type": 4,
     "api_version": 1
@@ -5909,7 +5909,7 @@
     "api_outside_id": 0,
     "api_price": 120200,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "艦娘衣裳の裁縫道具",
     "api_type": 4,
     "api_version": 1
@@ -5922,7 +5922,7 @@
     "api_outside_id": 0,
     "api_price": 2020,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "風雲の原稿支援物資庫",
     "api_type": 4,
     "api_version": 1
@@ -6406,7 +6406,7 @@
     "api_saleflg": 1,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 57
+    "api_version": 58
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6494,7 +6494,7 @@
     "api_outside_id": 4,
     "api_price": 4000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "サツマイモのお洒落窓",
     "api_type": 2,
     "api_version": 1
@@ -6653,7 +6653,7 @@
     "api_saleflg": 1,
     "api_title": "蜜柑と特注鎮守府ちゃぶ台",
     "api_type": 5,
-    "api_version": 20
+    "api_version": 21
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6702,7 +6702,7 @@
     "api_outside_id": 0,
     "api_price": 2021,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "焼き餅セット",
     "api_type": 4,
     "api_version": 1
@@ -6731,7 +6731,7 @@
     "api_saleflg": 0,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 49
+    "api_version": 50
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -7118,7 +7118,7 @@
     "api_outside_id": 0,
     "api_price": 0,
     "api_rarity": 6,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "呉「大和」感謝の掛け軸",
     "api_type": 3,
     "api_version": 1
@@ -7966,7 +7966,7 @@
     "api_saleflg": 1,
     "api_title": "主力オブ主力な季節の窓",
     "api_type": 2,
-    "api_version": 5
+    "api_version": 6
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -7979,7 +7979,7 @@
     "api_saleflg": 1,
     "api_title": "七駆の私物棚",
     "api_type": 3,
-    "api_version": 7
+    "api_version": 8
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -8249,7 +8249,7 @@
     "api_outside_id": 0,
     "api_price": 1880,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "年越しの壁",
     "api_type": 1,
     "api_version": 1
@@ -8262,7 +8262,7 @@
     "api_outside_id": 0,
     "api_price": 1880,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "年越しの床と小型囲炉裏",
     "api_type": 0,
     "api_version": 1
@@ -8291,5 +8291,18 @@
     "api_saleflg": 1,
     "api_title": "雪景色かまくらと鳥居の壁",
     "api_type": 1,
+    "api_version": 1
+}, {
+    "api_active_flag": 1,
+    "api_bgm_id": 147,
+    "api_description": "刻をこえて……令和七年の<br>現代も横浜港で静かに海を<br>見守り続ける姉を持つ、潜<br>水母艦が平安を祈る、迎春<br>の恭賀新年掛け軸です。",
+    "api_id": 639,
+    "api_no": 147,
+    "api_outside_id": 0,
+    "api_price": 2025,
+    "api_rarity": 6,
+    "api_saleflg": 0,
+    "api_title": "恭賀新年！平安掛け軸",
+    "api_type": 3,
     "api_version": 1
 }]
