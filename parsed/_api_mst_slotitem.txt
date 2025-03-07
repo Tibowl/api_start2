@@ -3215,6 +3215,17 @@ SBD VB-2(爆撃飛行隊): Dist: 4
 九七式艦攻改(北東海軍航空隊): Rare レア: 3
 九七式艦攻改(北東海軍航空隊): Cost: 5
 九七式艦攻改(北東海軍航空隊): Dist: 4
+18cm/57 三連装主砲: FP 火力: 9
+18cm/57 三連装主砲: AA 対空: 2
+18cm/57 三連装主砲: Armor 装甲: 1
+18cm/57 三連装主砲: Rare レア: 3
+18cm/57 三連装主砲: Range 射程: 2
+10cm/56 単装高角砲(集中配備): FP 火力: 3
+10cm/56 単装高角砲(集中配備): AA 対空: 9
+10cm/56 単装高角砲(集中配備): LoS 索敵: 1
+10cm/56 単装高角砲(集中配備): Acc 砲撃命中: 1
+10cm/56 単装高角砲(集中配備): Rare レア: 3
+10cm/56 単装高角砲(集中配備): Range 射程: 1
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -4037,3 +4048,18 @@ GFCS+深海5inch連装砲 Mk.32: Range 射程: 2
 深海打撃艦攻 Mk.II: Acc 砲撃命中: 6
 深海打撃艦攻 Mk.II: Rare レア: 6
 深海打撃艦攻 Mk.II: Range 射程: 2
+深海5inch連装砲 Mk.30+GFCS: FP 火力: 10
+深海5inch連装砲 Mk.30+GFCS: AA 対空: 16
+深海5inch連装砲 Mk.30+GFCS: ASW 対潜: 10
+深海5inch連装砲 Mk.30+GFCS: Acc 砲撃命中: 24
+深海5inch連装砲 Mk.30+GFCS: Evas 砲撃回避: 9
+深海5inch連装砲 Mk.30+GFCS: Rare レア: 6
+深海5inch連装砲 Mk.30+GFCS: Range 射程: 2
+深海18cm三連装砲+深海SG: FP 火力: 15
+深海18cm三連装砲+深海SG: AA 対空: 8
+深海18cm三連装砲+深海SG: Armor 装甲: 3
+深海18cm三連装砲+深海SG: ASW 対潜: 6
+深海18cm三連装砲+深海SG: Acc 砲撃命中: 18
+深海18cm三連装砲+深海SG: Evas 砲撃回避: 3
+深海18cm三連装砲+深海SG: Rare レア: 5
+深海18cm三連装砲+深海SG: Range 射程: 3
