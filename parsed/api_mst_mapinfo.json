@@ -468,26 +468,38 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 604,
-    "api_infotext": "#E4",
+    "api_infotext": "敵深海勢力がミンドロ島へ<br>の上陸侵攻を開始！これに<br>対応するために、南西方面<br>より艦隊戦力を展開せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 15,
+    "api_level": 14,
     "api_maparea_id": 60,
     "api_max_maphp": 300,
-    "api_name": "#E4",
+    "api_name": "カムラン湾沖/昭南方面航路/南シナ海",
     "api_no": 4,
-    "api_opetext": "#E4",
+    "api_opetext": "南沙諸島沖の戦雲",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 605,
-    "api_infotext": "#E5",
+    "api_infotext": "ミンドロ島への反撃作戦の<br>中核となる礼号作戦部隊は<br>敵サンホセ泊地へ突入！<br>敵物資集積地を撃破せよ！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 15,
+    "api_level": 16,
     "api_maparea_id": 60,
     "api_max_maphp": 300,
-    "api_name": "#E5",
+    "api_name": "ミンドロ島沖/キャビテ沖/サンホセ沖",
     "api_no": 5,
-    "api_opetext": "#E5",
+    "api_opetext": "第二次礼号作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 606,
+    "api_infotext": "礼号作戦部隊は見事作戦を<br>成功させ帰投中！第四航空<br>戦隊は同隊を収容し、追撃<br>の敵任務部隊を撃滅せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 18,
+    "api_maparea_id": 60,
+    "api_max_maphp": 300,
+    "api_name": "南沙諸島沖/カムラン湾沖",
+    "api_no": 6,
+    "api_opetext": "第二遊撃部隊の帰投",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 1]
 }]
