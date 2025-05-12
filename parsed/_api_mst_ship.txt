@@ -1337,17 +1337,17 @@ Z3 zwei: speed 速力: 10
 綾波改二: speed 速力: 10
 飛龍改二: HP 耐久: 67,89
 飛龍改二: Armor 装甲: 37,76
-飛龍改二: FP 火力: 0,67
+飛龍改二: FP 火力: 0,69
 飛龍改二: Torp 雷装: 0,0
 飛龍改二: AA 対空: 33,82
-飛龍改二: luck 運: 50,93
+飛龍改二: luck 運: 53,98
 飛龍改二: speed 速力: 10
 蒼龍改二: HP 耐久: 67,89
 蒼龍改二: Armor 装甲: 36,75
-蒼龍改二: FP 火力: 0,63
+蒼龍改二: FP 火力: 0,65
 蒼龍改二: Torp 雷装: 0,0
 蒼龍改二: AA 対空: 34,84
-蒼龍改二: luck 運: 15,60
+蒼龍改二: luck 運: 17,68
 蒼龍改二: speed 速力: 10
 霰改二: HP 耐久: 31,53
 霰改二: Armor 装甲: 14,53
@@ -4933,6 +4933,13 @@ Lexington改: speed 速力: 10
 榧改: AA 対空: 28,78
 榧改: luck 運: 20,80
 榧改: speed 速力: 10
+Richard P.Leary改: HP 耐久: 34,50
+Richard P.Leary改: Armor 装甲: 16,52
+Richard P.Leary改: FP 火力: 15,53
+Richard P.Leary改: Torp 雷装: 26,75
+Richard P.Leary改: AA 対空: 42,91
+Richard P.Leary改: luck 運: 39,107
+Richard P.Leary改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -5318,6 +5325,13 @@ Heywood L.E.: Torp 雷装: 20,61
 Heywood L.E.: AA 対空: 32,62
 Heywood L.E.: luck 運: 18,77
 Heywood L.E.: speed 速力: 10
+Richard P.Leary: HP 耐久: 17,35
+Richard P.Leary: Armor 装甲: 7,20
+Richard P.Leary: FP 火力: 12,30
+Richard P.Leary: Torp 雷装: 20,62
+Richard P.Leary: AA 対空: 32,63
+Richard P.Leary: luck 運: 19,79
+Richard P.Leary: speed 速力: 10
 熊野丸: HP 耐久: 38,49
 熊野丸: Armor 装甲: 11,34
 熊野丸: FP 火力: 4,24
@@ -5535,6 +5549,13 @@ Gloire改: speed 速力: 10
 藤波改二: AA 対空: 28,79
 藤波改二: luck 運: 21,88
 藤波改二: speed 速力: 10
+浜波改二: HP 耐久: 33,56
+浜波改二: Armor 装甲: 15,53
+浜波改二: FP 火力: 18,63
+浜波改二: Torp 雷装: 30,89
+浜波改二: AA 対空: 28,80
+浜波改二: luck 運: 22,89
+浜波改二: speed 速力: 10
 Wahoo: HP 耐久: 13,18
 Wahoo: Armor 装甲: 4,20
 Wahoo: FP 火力: 2,12
