@@ -3243,6 +3243,22 @@ SBD VB-2(爆撃飛行隊): Dist: 4
 零式艦戦62型改(熟練/夜間爆戦): Rare レア: 5
 零式艦戦62型改(熟練/夜間爆戦): Cost: 5
 零式艦戦62型改(熟練/夜間爆戦): Dist: 5
+Ju87 D-4(Fliegerass): FP 火力: 4
+Ju87 D-4(Fliegerass): Torp 雷装: 7
+Ju87 D-4(Fliegerass): AA 対空: 1
+Ju87 D-4(Fliegerass): LoS 索敵: 3
+Ju87 D-4(Fliegerass): ASW 対潜: 7
+Ju87 D-4(Fliegerass): Acc 砲撃命中: 3
+Ju87 D-4(Fliegerass): Rare レア: 4
+Ju87 D-4(Fliegerass): Cost: 6
+Ju87 D-4(Fliegerass): Dist: 4
+Bf109 T-3(G): FP 火力: 1
+Bf109 T-3(G): AA 対空: 9
+Bf109 T-3(G): Acc 砲撃命中: 2
+Bf109 T-3(G): Evas 砲撃回避: 4
+Bf109 T-3(G): Rare レア: 4
+Bf109 T-3(G): Cost: 6
+Bf109 T-3(G): Dist: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
