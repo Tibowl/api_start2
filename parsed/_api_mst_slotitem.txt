@@ -3259,6 +3259,14 @@ Bf109 T-3(G): Evas 砲撃回避: 4
 Bf109 T-3(G): Rare レア: 4
 Bf109 T-3(G): Cost: 6
 Bf109 T-3(G): Dist: 2
+Ho229: FP 火力: 3
+Ho229: AA 対空: 8
+Ho229: Dive 爆撃: 16
+Ho229: LoS 索敵: 3
+Ho229: Rare レア: 6
+Ho229: Range 射程: 5
+Ho229: Cost: 14
+Ho229: Dist: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
