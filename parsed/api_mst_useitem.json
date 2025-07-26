@@ -676,7 +676,7 @@
     "api_id": 97,
     "api_name": "てるてる坊主",
     "api_price": 0,
-    "api_usetype": 4
+    "api_usetype": 0
 }, {
     "api_category": 0,
     "api_description": ["旗艦に付与されます(既に同様 <br>のものが付与されている場合は<br>上書きして付与されます)。　 <br>※艦娘の能力が微上昇します。", ""],
