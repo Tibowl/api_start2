@@ -26,4 +26,8 @@
     "api_id": 7,
     "api_name": "南西海域",
     "api_type": 0
+}, {
+    "api_id": 61,
+    "api_name": "逆転！ナルヴィク攻防戦",
+    "api_type": 1
 }]

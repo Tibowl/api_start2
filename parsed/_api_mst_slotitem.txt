@@ -3267,6 +3267,34 @@ Ho229: Rare レア: 6
 Ho229: Range 射程: 5
 Ho229: Cost: 14
 Ho229: Dist: 4
+Do 217 E-5+TV誘導型 Hs293D: Torp 雷装: 14
+Do 217 E-5+TV誘導型 Hs293D: AA 対空: 4
+Do 217 E-5+TV誘導型 Hs293D: Dive 爆撃: 24
+Do 217 E-5+TV誘導型 Hs293D: LoS 索敵: 3
+Do 217 E-5+TV誘導型 Hs293D: Acc 砲撃命中: 4
+Do 217 E-5+TV誘導型 Hs293D: Rare レア: 5
+Do 217 E-5+TV誘導型 Hs293D: Cost: 16
+Do 217 E-5+TV誘導型 Hs293D: Dist: 4
+21cm単装主砲: FP 火力: 6
+21cm単装主砲: Armor 装甲: 1
+21cm単装主砲: Rare レア: 1
+21cm単装主砲: Range 射程: 2
+15cm単装副砲: FP 火力: 2
+15cm単装副砲: Acc 砲撃命中: 1
+15cm単装副砲: Rare レア: 1
+15cm単装副砲: Range 射程: 1
+10.2cm三連装副砲: FP 火力: 4
+10.2cm三連装副砲: AA 対空: 1
+10.2cm三連装副砲: Acc 砲撃命中: 1
+10.2cm三連装副砲: Rare レア: 1
+10.2cm三連装副砲: Range 射程: 1
+Sea Gladiator: AA 対空: 2
+Sea Gladiator: Armor 装甲: 1
+Sea Gladiator: LoS 索敵: 1
+Sea Gladiator: Evas 砲撃回避: 1
+Sea Gladiator: Rare レア: 1
+Sea Gladiator: Cost: 3
+Sea Gladiator: Dist: 2
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -4104,3 +4132,24 @@ GFCS+深海5inch連装砲 Mk.32: Range 射程: 2
 深海18cm三連装砲+深海SG: Evas 砲撃回避: 3
 深海18cm三連装砲+深海SG: Rare レア: 5
 深海18cm三連装砲+深海SG: Range 射程: 3
+深海8.25inch単装主砲: FP 火力: 9
+深海8.25inch単装主砲: AA 対空: 1
+深海8.25inch単装主砲: Armor 装甲: 2
+深海8.25inch単装主砲: ASW 対潜: 1
+深海8.25inch単装主砲: Acc 砲撃命中: 2
+深海8.25inch単装主砲: Rare レア: 2
+深海8.25inch単装主砲: Range 射程: 2
+深海6inch副砲群: FP 火力: 7
+深海6inch副砲群: AA 対空: 2
+深海6inch副砲群: ASW 対潜: 3
+深海6inch副砲群: Acc 砲撃命中: 3
+深海6inch副砲群: Evas 砲撃回避: 2
+深海6inch副砲群: Rare レア: 2
+深海6inch副砲群: Range 射程: 2
+深海4inch三連装副砲: FP 火力: 6
+深海4inch三連装副砲: AA 対空: 4
+深海4inch三連装副砲: ASW 対潜: 4
+深海4inch三連装副砲: Acc 砲撃命中: 4
+深海4inch三連装副砲: Evas 砲撃回避: 4
+深海4inch三連装副砲: Rare レア: 2
+深海4inch三連装副砲: Range 射程: 2

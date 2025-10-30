@@ -430,4 +430,52 @@
     "api_opetext": "スラバヤ沖海戦・バタビア沖海戦",
     "api_required_defeat_count": 2,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 611,
+    "api_infotext": "深海棲艦によるノルウェー<br>侵攻ヴェーザー演習作戦が<br>開始された！欧州遠征部隊<br>の全力でこれを破砕せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 7,
+    "api_maparea_id": 61,
+    "api_max_maphp": 300,
+    "api_name": "ノルウェー沖/ナルヴィク沖",
+    "api_no": 1,
+    "api_opetext": "ヴェーザー演習作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 1]
+}, {
+    "api_id": 612,
+    "api_infotext": "北欧の戦略要衝、ナルヴィ<br>ク防衛作戦を実施する！同<br>地に陸戦部隊と救援物資を<br>揚陸！敵侵攻を阻止せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 61,
+    "api_max_maphp": 300,
+    "api_name": "ナルヴィク沖",
+    "api_no": 2,
+    "api_opetext": "ナルヴィク防衛戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 613,
+    "api_infotext": "敵決戦兵力がナルヴィク沖<br>に集結中！艦隊決戦により<br>これを撃滅せよ！欧州遠征<br>艦隊出撃ッ！暁に勝利を！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 61,
+    "api_max_maphp": 300,
+    "api_name": "ノルウェー沖",
+    "api_no": 3,
+    "api_opetext": "異聞ノルウェー沖海戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 614,
+    "api_infotext": "E4",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 14,
+    "api_maparea_id": 61,
+    "api_max_maphp": 300,
+    "api_name": "E4",
+    "api_no": 4,
+    "api_opetext": "E4",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
 }]

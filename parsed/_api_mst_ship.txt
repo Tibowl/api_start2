@@ -4940,6 +4940,34 @@ Richard P.Leary改: Torp 雷装: 26,75
 Richard P.Leary改: AA 対空: 42,91
 Richard P.Leary改: luck 運: 39,107
 Richard P.Leary改: speed 速力: 10
+Norge改: HP 耐久: 36,43
+Norge改: Armor 装甲: 21,33
+Norge改: FP 火力: 19,39
+Norge改: Torp 雷装: 12,29
+Norge改: AA 対空: 7,14
+Norge改: luck 運: 4,28
+Norge改: speed 速力: 5
+Eidsvold改: HP 耐久: 36,43
+Eidsvold改: Armor 装甲: 21,32
+Eidsvold改: FP 火力: 19,40
+Eidsvold改: Torp 雷装: 12,28
+Eidsvold改: AA 対空: 7,14
+Eidsvold改: luck 運: 6,29
+Eidsvold改: speed 速力: 5
+Glorious改: HP 耐久: 67,87
+Glorious改: Armor 装甲: 57,77
+Glorious改: FP 火力: 65,88
+Glorious改: Torp 雷装: 0,32
+Glorious改: AA 対空: 36,78
+Glorious改: luck 運: 10,48
+Glorious改: speed 速力: 10
+Glorious改: HP 耐久: 67,87
+Glorious改: Armor 装甲: 43,63
+Glorious改: FP 火力: 0,30
+Glorious改: Torp 雷装: 0,0
+Glorious改: AA 対空: 36,78
+Glorious改: luck 運: 10,48
+Glorious改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -5612,6 +5640,20 @@ Wahoo改: speed 速力: 5
 杉改: AA 対空: 28,80
 杉改: luck 運: 21,83
 杉改: speed 速力: 10
+Norge: HP 耐久: 22,33
+Norge: Armor 装甲: 18,27
+Norge: FP 火力: 18,30
+Norge: Torp 雷装: 10,28
+Norge: AA 対空: 6,12
+Norge: luck 運: 3,18
+Norge: speed 速力: 5
+Eidsvold: HP 耐久: 22,33
+Eidsvold: Armor 装甲: 18,26
+Eidsvold: FP 火力: 18,31
+Eidsvold: Torp 雷装: 10,27
+Eidsvold: AA 対空: 6,12
+Eidsvold: luck 運: 3,19
+Eidsvold: speed 速力: 5
 大泊改: HP 耐久: 22,33
 大泊改: Armor 装甲: 12,36
 大泊改: FP 火力: 3,17
@@ -5661,6 +5703,20 @@ Minneapolis改: Torp 雷装: 0,63
 Minneapolis改: AA 対空: 32,79
 Minneapolis改: luck 運: 18,92
 Minneapolis改: speed 速力: 10
+Glorious: HP 耐久: 55,78
+Glorious: Armor 装甲: 49,59
+Glorious: FP 火力: 65,86
+Glorious: Torp 雷装: 16,32
+Glorious: AA 対空: 24,70
+Glorious: luck 運: 6,39
+Glorious: speed 速力: 10
+Glorious: HP 耐久: 55,78
+Glorious: Armor 装甲: 39,49
+Glorious: FP 火力: 0,23
+Glorious: Torp 雷装: 0,0
+Glorious: AA 対空: 28,70
+Glorious: luck 運: 6,39
+Glorious: speed 速力: 10
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
@@ -6476,3 +6532,30 @@ Schnellboot小鬼群: speed 速力: 10
 重巡新棲姫-壊: speed 速力: 10
 重巡新棲姫-壊: speed 速力: 10
 重巡新棲姫-壊: speed 速力: 10
+軽巡ム級: speed 速力: 10
+軽巡ム級: speed 速力: 10
+軽巡ム級: speed 速力: 10
+軽巡ム級-壊: speed 速力: 10
+軽巡ム級-壊: speed 速力: 10
+軽巡ム級-壊: speed 速力: 10
+フィヨルド棲姫: speed 速力: 5
+フィヨルド棲姫: speed 速力: 5
+フィヨルド棲姫: speed 速力: 5
+フィヨルド棲姫-壊: speed 速力: 5
+フィヨルド棲姫-壊: speed 速力: 5
+フィヨルド棲姫-壊: speed 速力: 5
+深海上陸小鬼: speed 速力: 0
+深海上陸小鬼: speed 速力: 0
+深海上陸小鬼: speed 速力: 0
+フィヨルド単騎: speed 速力: 5
+フィヨルド単騎: speed 速力: 5
+フィヨルド単騎: speed 速力: 5
+フィヨルド単騎-壊: speed 速力: 5
+フィヨルド単騎-壊: speed 速力: 5
+フィヨルド単騎-壊: speed 速力: 5
+巡洋戦艦水姫: speed 速力: 10
+巡洋戦艦水姫: speed 速力: 10
+巡洋戦艦水姫: speed 速力: 10
+巡洋戦艦水姫-壊: speed 速力: 10
+巡洋戦艦水姫-壊: speed 速力: 10
+巡洋戦艦水姫-壊: speed 速力: 10
