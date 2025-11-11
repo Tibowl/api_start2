@@ -468,14 +468,26 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 614,
-    "api_infotext": "E4",
+    "api_infotext": "太平洋戦線で、敵機動部隊<br>及び敵潜水艦部隊に攻勢の<br>兆候が確認されている！<br>南沙方面の艦隊に警戒を！",
     "api_item": [0, 0, 0, 0],
-    "api_level": 14,
+    "api_level": 15,
     "api_maparea_id": 61,
     "api_max_maphp": 300,
-    "api_name": "E4",
+    "api_name": "南沙諸島沖/仏印沖",
     "api_no": 4,
-    "api_opetext": "E4",
+    "api_opetext": "野埼の遭難",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 615,
+    "api_infotext": "遂に深海機動部隊主力が<br>我が本土方面に一大攻勢<br>をかけてきた！全稼働艦<br>隊出撃！敵を要撃せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 18,
+    "api_maparea_id": 61,
+    "api_max_maphp": 300,
+    "api_name": "銚子沖/北海道沖/三陸沖太平洋",
+    "api_no": 5,
+    "api_opetext": "第38任務部隊猛攻への反撃",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 1]
 }]

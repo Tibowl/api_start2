@@ -4968,6 +4968,13 @@ Glorious改: Torp 雷装: 0,0
 Glorious改: AA 対空: 36,78
 Glorious改: luck 運: 10,48
 Glorious改: speed 速力: 10
+樫改: HP 耐久: 27,45
+樫改: Armor 装甲: 12,55
+樫改: FP 火力: 7,41
+樫改: Torp 雷装: 16,74
+樫改: AA 対空: 28,79
+樫改: luck 運: 21,82
+樫改: speed 速力: 10
 Conte di Cavour: HP 耐久: 57,76
 Conte di Cavour: Armor 装甲: 50,67
 Conte di Cavour: FP 火力: 53,75
@@ -5591,6 +5598,13 @@ Wahoo: Torp 雷装: 36,75
 Wahoo: AA 対空: 0,0
 Wahoo: luck 運: 13,60
 Wahoo: speed 速力: 5
+Dace: HP 耐久: 13,18
+Dace: Armor 装甲: 4,20
+Dace: FP 火力: 2,11
+Dace: Torp 雷装: 37,77
+Dace: AA 対空: 0,0
+Dace: luck 運: 41,81
+Dace: speed 速力: 5
 白雪改二: HP 耐久: 31,49
 白雪改二: Armor 装甲: 14,51
 白雪改二: FP 火力: 15,58
@@ -5605,6 +5619,13 @@ Wahoo: speed 速力: 5
 初雪改二: AA 対空: 37,85
 初雪改二: luck 運: 18,78
 初雪改二: speed 速力: 10
+南海: HP 耐久: 7,11
+南海: Armor 装甲: 2,12
+南海: FP 火力: 3,7
+南海: Torp 雷装: 0,0
+南海: AA 対空: 4,9
+南海: luck 運: 6,39
+南海: speed 速力: 5
 Wahoo改: HP 耐久: 17,23
 Wahoo改: Armor 装甲: 6,24
 Wahoo改: FP 火力: 4,14
@@ -5612,6 +5633,13 @@ Wahoo改: Torp 雷装: 38,85
 Wahoo改: AA 対空: 0,0
 Wahoo改: luck 運: 18,78
 Wahoo改: speed 速力: 5
+Dace改: HP 耐久: 17,23
+Dace改: Armor 装甲: 6,25
+Dace改: FP 火力: 3,13
+Dace改: Torp 雷装: 39,86
+Dace改: AA 対空: 0,0
+Dace改: luck 運: 51,98
+Dace改: speed 速力: 5
 杉: HP 耐久: 14,27
 杉: Armor 装甲: 5,22
 杉: FP 火力: 5,24
@@ -5619,6 +5647,13 @@ Wahoo改: speed 速力: 5
 杉: AA 対空: 22,63
 杉: luck 運: 16,73
 杉: speed 速力: 10
+樫: HP 耐久: 14,27
+樫: Armor 装甲: 5,22
+樫: FP 火力: 5,23
+樫: Torp 雷装: 16,37
+樫: AA 対空: 22,62
+樫: luck 運: 16,72
+樫: speed 速力: 10
 榧: HP 耐久: 14,27
 榧: Armor 装甲: 5,22
 榧: FP 火力: 5,23
@@ -5633,6 +5668,13 @@ Wahoo改: speed 速力: 5
 大泊: AA 対空: 6,18
 大泊: luck 運: 40,80
 大泊: speed 速力: 5
+野埼: HP 耐久: 8,13
+野埼: Armor 装甲: 3,16
+野埼: FP 火力: 3,11
+野埼: Torp 雷装: 0,0
+野埼: AA 対空: 6,14
+野埼: luck 運: 7,48
+野埼: speed 速力: 5
 杉改: HP 耐久: 27,45
 杉改: Armor 装甲: 12,56
 杉改: FP 火力: 7,43
@@ -5668,6 +5710,13 @@ Eidsvold: speed 速力: 5
 Киров: AA 対空: 34,72
 Киров: luck 運: 26,86
 Киров: speed 速力: 10
+野埼改: HP 耐久: 14,23
+野埼改: Armor 装甲: 4,28
+野埼改: FP 火力: 4,17
+野埼改: Torp 雷装: 0,0
+野埼改: AA 対空: 8,28
+野埼改: luck 運: 8,58
+野埼改: speed 速力: 5
 しまね丸: HP 耐久: 39,51
 しまね丸: Armor 装甲: 9,23
 しまね丸: FP 火力: 6,26
@@ -5689,6 +5738,13 @@ Minneapolis: speed 速力: 10
 Киров改: AA 対空: 40,82
 Киров改: luck 運: 32,96
 Киров改: speed 速力: 10
+Leonardo da Vinci: HP 耐久: 18,25
+Leonardo da Vinci: Armor 装甲: 9,27
+Leonardo da Vinci: FP 火力: 6,16
+Leonardo da Vinci: Torp 雷装: 45,90
+Leonardo da Vinci: AA 対空: 0,0
+Leonardo da Vinci: luck 運: 60,110
+Leonardo da Vinci: speed 速力: 5
 しまね丸改: HP 耐久: 41,62
 しまね丸改: Armor 装甲: 9,32
 しまね丸改: FP 火力: 14,40
@@ -5710,6 +5766,13 @@ Glorious: Torp 雷装: 16,32
 Glorious: AA 対空: 24,70
 Glorious: luck 運: 6,39
 Glorious: speed 速力: 10
+Wasp: HP 耐久: 65,88
+Wasp: Armor 装甲: 43,79
+Wasp: FP 火力: 37,57
+Wasp: Torp 雷装: 0,0
+Wasp: AA 対空: 54,90
+Wasp: luck 運: 44,88
+Wasp: speed 速力: 10
 Glorious: HP 耐久: 55,78
 Glorious: Armor 装甲: 39,49
 Glorious: FP 火力: 0,23
@@ -5717,6 +5780,13 @@ Glorious: Torp 雷装: 0,0
 Glorious: AA 対空: 28,70
 Glorious: luck 運: 6,39
 Glorious: speed 速力: 10
+Wasp改: HP 耐久: 69,90
+Wasp改: Armor 装甲: 52,88
+Wasp改: FP 火力: 39,60
+Wasp改: Torp 雷装: 0,0
+Wasp改: AA 対空: 56,96
+Wasp改: luck 運: 48,96
+Wasp改: speed 速力: 10
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
@@ -6559,3 +6629,9 @@ Schnellboot小鬼群: speed 速力: 10
 巡洋戦艦水姫-壊: speed 速力: 10
 巡洋戦艦水姫-壊: speed 速力: 10
 巡洋戦艦水姫-壊: speed 速力: 10
+深海空母蜂姫: speed 速力: 10
+深海空母蜂姫: speed 速力: 10
+深海空母蜂姫: speed 速力: 10
+深海空母蜂姫-壊: speed 速力: 10
+深海空母蜂姫-壊: speed 速力: 10
+深海空母蜂姫-壊: speed 速力: 10
