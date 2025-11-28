@@ -3295,6 +3295,13 @@ Sea Gladiator: Evas 砲撃回避: 1
 Sea Gladiator: Rare レア: 1
 Sea Gladiator: Cost: 3
 Sea Gladiator: Dist: 2
+強風改二(熟練): AA 対空: 7
+強風改二(熟練): LoS 索敵: 3
+強風改二(熟練): Acc 砲撃命中: 2
+強風改二(熟練): Evas 砲撃回避: 5
+強風改二(熟練): Rare レア: 5
+強風改二(熟練): Cost: 6
+強風改二(熟練): Dist: 3
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
