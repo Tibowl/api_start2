@@ -2431,7 +2431,7 @@ Pola改: speed 速力: 10
 春風改: Armor 装甲: 11,38
 春風改: FP 火力: 7,38
 春風改: Torp 雷装: 14,68
-春風改: AA 対空: 10,56
+春風改: AA 対空: 12,59
 春風改: luck 運: 30,89
 春風改: speed 速力: 10
 Warspite改: HP 耐久: 82,92
@@ -4594,8 +4594,8 @@ Samuel B.Roberts改: speed 速力: 5
 早波改: Armor 装甲: 14,49
 早波改: FP 火力: 12,51
 早波改: Torp 雷装: 27,80
-早波改: AA 対空: 18,58
-早波改: luck 運: 10,55
+早波改: AA 対空: 18,59
+早波改: luck 運: 11,57
 早波改: speed 速力: 10
 Johnston改: HP 耐久: 34,50
 Johnston改: Armor 装甲: 16,52
@@ -5486,6 +5486,13 @@ Mogador: Torp 雷装: 16,56
 Mogador: AA 対空: 28,64
 Mogador: luck 運: 6,51
 Mogador: speed 速力: 10
+秋月改二: HP 耐久: 38,58
+秋月改二: Armor 装甲: 19,56
+秋月改二: FP 火力: 28,67
+秋月改二: Torp 雷装: 26,84
+秋月改二: AA 対空: 84,119
+秋月改二: luck 運: 17,82
+秋月改二: speed 速力: 10
 白雲: HP 耐久: 15,29
 白雲: Armor 装甲: 5,19
 白雲: FP 火力: 10,30

@@ -9689,10 +9689,10 @@
     "api_voicef": 3,
     "api_yomi": "のわき"
 }, {
-    "api_afterbull": 0,
-    "api_afterfuel": 0,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterbull": 380,
+    "api_afterfuel": 370,
+    "api_afterlv": 85,
+    "api_aftershipid": "963",
     "api_backs": 7,
     "api_broken": [1, 2, 13, 1],
     "api_buildtime": 30,
@@ -10435,7 +10435,7 @@
     "api_souk": [11, 38],
     "api_stype": 2,
     "api_taik": [23, 38],
-    "api_tyku": [10, 56],
+    "api_tyku": [12, 59],
     "api_voicef": 3,
     "api_yomi": "はるかぜ"
 }, {
@@ -19703,7 +19703,7 @@
     "api_houg": [12, 51],
     "api_id": 688,
     "api_leng": 1,
-    "api_luck": [10, 55],
+    "api_luck": [11, 57],
     "api_maxeq": [0, 0, 0, 0, 0],
     "api_name": "早波改",
     "api_powup": [1, 1, 1, 1],
@@ -19715,7 +19715,7 @@
     "api_souk": [14, 49],
     "api_stype": 2,
     "api_taik": [32, 49],
-    "api_tyku": [18, 58],
+    "api_tyku": [18, 59],
     "api_voicef": 3,
     "api_yomi": "はやなみ"
 }, {
@@ -23537,6 +23537,36 @@
     "api_tyku": [28, 64],
     "api_voicef": 1,
     "api_yomi": "モガドール"
+}, {
+    "api_afterbull": 0,
+    "api_afterfuel": 0,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_backs": 8,
+    "api_broken": [2, 3, 14, 2],
+    "api_buildtime": 30,
+    "api_bull_max": 30,
+    "api_ctype": 54,
+    "api_fuel_max": 25,
+    "api_getmes": "<br>",
+    "api_houg": [28, 67],
+    "api_id": 963,
+    "api_leng": 1,
+    "api_luck": [17, 82],
+    "api_maxeq": [0, 0, 0, 0, 0],
+    "api_name": "秋月改二",
+    "api_powup": [2, 1, 4, 1],
+    "api_raig": [26, 84],
+    "api_slot_num": 4,
+    "api_soku": 10,
+    "api_sort_id": 17016,
+    "api_sortno": 563,
+    "api_souk": [19, 56],
+    "api_stype": 2,
+    "api_taik": [38, 58],
+    "api_tyku": [84, 119],
+    "api_voicef": 3,
+    "api_yomi": "あきづき"
 }, {
     "api_afterbull": 190,
     "api_afterfuel": 160,
