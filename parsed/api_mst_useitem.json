@@ -553,7 +553,7 @@
     "api_usetype": 0
 }, {
     "api_category": 0,
-    "api_description": ["令和七年２０２５年の冬、クリ<br>スマスに贈られる、少し大きな<br>プレゼント箱です。開封時に、<br>プレゼントの中身は提督が好き<br>なものを選ぶことが可能です。", ""],
+    "api_description": ["令和七年２０２５年の冬、クリ<br>スマスに贈られる少し大きなプ<br>レゼント箱です。提督は開封時<br>に英艦載機を選ぶことが可能で<br>す(もちろん他の選択も可能)！", ""],
     "api_id": 80,
     "api_name": "Xmas Select Gift Box",
     "api_price": 0,
