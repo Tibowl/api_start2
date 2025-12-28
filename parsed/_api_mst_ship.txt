@@ -5556,6 +5556,13 @@ Gloire改: speed 速力: 10
 伊41: AA 対空: 0,0
 伊41: luck 運: 18,71
 伊41: speed 速力: 5
+Thonburi: HP 耐久: 19,29
+Thonburi: Armor 装甲: 13,23
+Thonburi: FP 火力: 26,46
+Thonburi: Torp 雷装: 0,0
+Thonburi: AA 対空: 9,17
+Thonburi: luck 運: 8,48
+Thonburi: speed 速力: 5
 春雨改二: HP 耐久: 31,49
 春雨改二: Armor 装甲: 14,51
 春雨改二: FP 火力: 16,66
@@ -5577,6 +5584,13 @@ Gloire改: speed 速力: 10
 伊41改: AA 対空: 0,0
 伊41改: luck 運: 22,81
 伊41改: speed 速力: 5
+Thonburi改: HP 耐久: 33,41
+Thonburi改: Armor 装甲: 18,28
+Thonburi改: FP 火力: 32,62
+Thonburi改: Torp 雷装: 0,0
+Thonburi改: AA 対空: 12,24
+Thonburi改: luck 運: 12,77
+Thonburi改: speed 速力: 5
 稲木改二: HP 耐久: 27,37
 稲木改二: Armor 装甲: 9,47
 稲木改二: FP 火力: 9,43
