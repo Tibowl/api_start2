@@ -377,7 +377,7 @@
     }],
     "api_mst_const": {
         "api_boko_max_ships": {
-            "api_int_value": 700,
+            "api_int_value": 710,
             "api_string_value": ""
         },
         "api_dpflag_quest": {
@@ -6784,7 +6784,7 @@
         "api_outside_id": 0,
         "api_price": 2100,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "睦月の床",
         "api_type": 0,
         "api_version": 1
@@ -7291,7 +7291,7 @@
         "api_outside_id": 0,
         "api_price": 1500,
         "api_rarity": 3,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "折鶴の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -7525,7 +7525,7 @@
         "api_outside_id": 4,
         "api_price": 2200,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "破魔矢の窓",
         "api_type": 2,
         "api_version": 1
@@ -8019,7 +8019,7 @@
         "api_outside_id": 0,
         "api_price": 3000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "「謹賀新年」掛け軸",
         "api_type": 3,
         "api_version": 1
@@ -8643,7 +8643,7 @@
         "api_outside_id": 0,
         "api_price": 200,
         "api_rarity": 2,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "だるま",
         "api_type": 4,
         "api_version": 1
@@ -8955,7 +8955,7 @@
         "api_outside_id": 0,
         "api_price": 3000,
         "api_rarity": 4,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "提督の麻雀卓",
         "api_type": 5,
         "api_version": 32
@@ -9397,7 +9397,7 @@
         "api_outside_id": 0,
         "api_price": 0,
         "api_rarity": 2,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "「横須賀鎮守府」掛け軸",
         "api_type": 3,
         "api_version": 1
@@ -9501,7 +9501,7 @@
         "api_outside_id": 0,
         "api_price": 2200,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "年越し蕎麦",
         "api_type": 5,
         "api_version": 1
@@ -9530,7 +9530,7 @@
         "api_saleflg": 1,
         "api_title": "鎮守府カウンターバー",
         "api_type": 2,
-        "api_version": 87
+        "api_version": 88
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 109,
@@ -10063,7 +10063,7 @@
         "api_saleflg": 1,
         "api_title": "年末年始の提督大奮発",
         "api_type": 5,
-        "api_version": 30
+        "api_version": 31
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -10736,7 +10736,7 @@
         "api_outside_id": 0,
         "api_price": 1800,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "鎮守府大掃除道具",
         "api_type": 4,
         "api_version": 1
@@ -10788,7 +10788,7 @@
         "api_outside_id": 0,
         "api_price": 1600,
         "api_rarity": 3,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "睦月の壁紙",
         "api_type": 1,
         "api_version": 1
@@ -12465,7 +12465,7 @@
         "api_outside_id": 0,
         "api_price": 2020,
         "api_rarity": 5,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "風雲の原稿支援物資庫",
         "api_type": 4,
         "api_version": 1
@@ -12949,7 +12949,7 @@
         "api_saleflg": 0,
         "api_title": "海防艦の汎用円形机",
         "api_type": 5,
-        "api_version": 71
+        "api_version": 72
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -13196,7 +13196,7 @@
         "api_saleflg": 1,
         "api_title": "蜜柑と特注鎮守府ちゃぶ台",
         "api_type": 5,
-        "api_version": 28
+        "api_version": 29
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -13245,7 +13245,7 @@
         "api_outside_id": 0,
         "api_price": 2021,
         "api_rarity": 5,
-        "api_saleflg": 0,
+        "api_saleflg": 1,
         "api_title": "焼き餅セット",
         "api_type": 4,
         "api_version": 1
@@ -13274,7 +13274,7 @@
         "api_saleflg": 0,
         "api_title": "潜水艦隊の窓",
         "api_type": 2,
-        "api_version": 62
+        "api_version": 63
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -13648,7 +13648,7 @@
         "api_outside_id": 10,
         "api_price": 120210,
         "api_rarity": 6,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "窓の無い部屋",
         "api_type": 2,
         "api_version": 1
@@ -14509,7 +14509,7 @@
         "api_saleflg": 0,
         "api_title": "主力オブ主力な季節の窓",
         "api_type": 2,
-        "api_version": 12
+        "api_version": 13
     }, {
         "api_active_flag": 1,
         "api_bgm_id": 0,
@@ -14522,7 +14522,7 @@
         "api_saleflg": 0,
         "api_title": "七駆の私物棚",
         "api_type": 3,
-        "api_version": 15
+        "api_version": 16
     }, {
         "api_active_flag": 0,
         "api_bgm_id": 0,
@@ -14805,7 +14805,7 @@
         "api_outside_id": 0,
         "api_price": 1880,
         "api_rarity": 4,
-        "api_saleflg": 1,
+        "api_saleflg": 0,
         "api_title": "年越しの床と小型囲炉裏",
         "api_type": 0,
         "api_version": 1
@@ -15145,6 +15145,19 @@
         "api_rarity": 5,
         "api_saleflg": 1,
         "api_title": "トンブリの私物棚",
+        "api_type": 3,
+        "api_version": 1
+    }, {
+        "api_active_flag": 0,
+        "api_bgm_id": 157,
+        "api_description": "飛龍の魂、此処に在り。<br>令和八年の迎春を祝う、<br>精鋭航空母艦の手による<br>新春掛け軸です。彼女の<br>さらなる飛躍を祈って！",
+        "api_id": 663,
+        "api_no": 156,
+        "api_outside_id": 0,
+        "api_price": 2026,
+        "api_rarity": 6,
+        "api_saleflg": 0,
+        "api_title": "迎春新年！飛龍の掛け軸",
         "api_type": 3,
         "api_version": 1
     }],
@@ -15887,37 +15900,37 @@
     "api_mst_mapbgm": [{
         "api_boss_bgm": [23, 23],
         "api_id": 11,
-        "api_map_bgm": [84, 2],
+        "api_map_bgm": [85, 2],
         "api_maparea_id": 1,
-        "api_moving_bgm": 108,
+        "api_moving_bgm": 170,
         "api_no": 1
     }, {
         "api_boss_bgm": [23, 23],
         "api_id": 12,
-        "api_map_bgm": [84, 2],
+        "api_map_bgm": [85, 2],
         "api_maparea_id": 1,
         "api_moving_bgm": 14,
         "api_no": 2
     }, {
         "api_boss_bgm": [29, 29],
         "api_id": 13,
-        "api_map_bgm": [29, 2],
+        "api_map_bgm": [170, 2],
         "api_maparea_id": 1,
-        "api_moving_bgm": 84,
+        "api_moving_bgm": 85,
         "api_no": 3
     }, {
         "api_boss_bgm": [6, 91],
         "api_id": 14,
         "api_map_bgm": [23, 2],
         "api_maparea_id": 1,
-        "api_moving_bgm": 116,
+        "api_moving_bgm": 170,
         "api_no": 4
     }, {
         "api_boss_bgm": [13, 13],
         "api_id": 15,
         "api_map_bgm": [23, 226],
         "api_maparea_id": 1,
-        "api_moving_bgm": 108,
+        "api_moving_bgm": 116,
         "api_no": 5
     }, {
         "api_boss_bgm": [37, 226],
@@ -15934,18 +15947,18 @@
         "api_moving_bgm": 29,
         "api_no": 1
     }, {
-        "api_boss_bgm": [46, 92],
+        "api_boss_bgm": [46, 46],
         "api_id": 22,
         "api_map_bgm": [162, 2],
         "api_maparea_id": 2,
-        "api_moving_bgm": 84,
+        "api_moving_bgm": 85,
         "api_no": 2
     }, {
         "api_boss_bgm": [273, 3],
         "api_id": 23,
         "api_map_bgm": [273, 2],
         "api_maparea_id": 2,
-        "api_moving_bgm": 23,
+        "api_moving_bgm": 170,
         "api_no": 3
     }, {
         "api_boss_bgm": [4, 5],
@@ -17826,12 +17839,12 @@
         "api_shop_description": "特注家具を製作できます！<br>特注家具職人(1回分)",
         "api_type": 0
     }, {
-        "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計700隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
+        "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計710隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
         "api_id": 16,
         "api_item": [0, 0, 0, 0, 0, 0, 0, 0],
         "api_name": "母港拡張",
         "api_price": 1000,
-        "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計700隻まで！ 装備枠も自動的に+40増加します。",
+        "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計710隻まで！ 装備枠も自動的に+40増加します。",
         "api_type": 0
     }, {
         "api_description": "油の一滴は…燃料不足解消に！<br>タンカー徴用(燃1200)",
@@ -51456,7 +51469,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 82,
-        "api_version": ["91", "88", "1227"],
+        "api_version": ["91", "89", "1231"],
         "api_weda": [159, 147],
         "api_wedb": [165, 202]
     }, {
@@ -53392,7 +53405,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 132,
-        "api_version": ["96", "17", "1227"],
+        "api_version": ["97", "18", "1231"],
         "api_weda": [132, -18],
         "api_wedb": [138, 168]
     }, {
@@ -53660,7 +53673,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 144,
-        "api_version": ["91", "88", "1227"],
+        "api_version": ["91", "89", "1231"],
         "api_weda": [222, 9],
         "api_wedb": [172, 199]
     }, {
@@ -55908,7 +55921,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1345,
-        "api_version": ["91", "88", "1227"],
+        "api_version": ["91", "89", "1231"],
         "api_weda": [159, 147],
         "api_wedb": [165, 202]
     }, {
@@ -57126,7 +57139,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1397,
-        "api_version": ["96", "17", "1227"],
+        "api_version": ["97", "18", "1231"],
         "api_weda": [132, -18],
         "api_wedb": [138, 168]
     }, {
@@ -58164,27 +58177,27 @@
         "api_weda": [384, 60],
         "api_wedb": [180, 180]
     }, {
-        "api_battle_d": [171, 222],
-        "api_battle_n": [228, 222],
-        "api_boko_d": [198, 228],
-        "api_boko_n": [252, 228],
-        "api_ensyue_n": [198, 0],
-        "api_ensyuf_d": [138, 210],
-        "api_ensyuf_n": [192, 210],
+        "api_battle_d": [36, 216],
+        "api_battle_n": [-48, 168],
+        "api_boko_d": [96, 228],
+        "api_boko_n": [48, 168],
+        "api_ensyue_n": [-60, 0],
+        "api_ensyuf_d": [30, 192],
+        "api_ensyuf_n": [-18, 156],
         "api_filename": "gykqxdkfpzih",
         "api_id": 349,
         "api_kaisyu_d": [24, -6],
         "api_kaisyu_n": [-6, 6],
-        "api_kaizo_d": [102, 108],
-        "api_kaizo_n": [174, 144],
-        "api_map_d": [162, 198],
-        "api_map_n": [216, 198],
+        "api_kaizo_d": [-24, 108],
+        "api_kaizo_n": [-48, 120],
+        "api_map_d": [24, 216],
+        "api_map_n": [-24, 168],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1429,
-        "api_version": ["105", "17", "1227"],
-        "api_weda": [153, -12],
-        "api_wedb": [120, 153]
+        "api_version": ["106", "18", "1231"],
+        "api_weda": [366, 24],
+        "api_wedb": [180, 168]
     }, {
         "api_battle_d": [144, 120],
         "api_battle_n": [156, 168],
@@ -58692,7 +58705,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 1452,
-        "api_version": ["92", "30", "1227"],
+        "api_version": ["92", "31", "1231"],
         "api_weda": [330, -6],
         "api_wedb": [138, 168]
     }, {
@@ -60430,27 +60443,27 @@
         "api_weda": [72, 48],
         "api_wedb": [168, 192]
     }, {
-        "api_battle_d": [171, 222],
-        "api_battle_n": [228, 222],
-        "api_boko_d": [198, 228],
-        "api_boko_n": [252, 228],
-        "api_ensyue_n": [198, 0],
-        "api_ensyuf_d": [138, 210],
-        "api_ensyuf_n": [192, 210],
+        "api_battle_d": [36, 216],
+        "api_battle_n": [-48, 168],
+        "api_boko_d": [96, 228],
+        "api_boko_n": [48, 168],
+        "api_ensyue_n": [-60, 0],
+        "api_ensyuf_d": [30, 192],
+        "api_ensyuf_n": [-18, 156],
         "api_filename": "xooelfidumnp",
         "api_id": 453,
         "api_kaisyu_d": [24, -6],
         "api_kaisyu_n": [-6, 6],
-        "api_kaizo_d": [102, 108],
-        "api_kaizo_n": [174, 144],
-        "api_map_d": [162, 198],
-        "api_map_n": [216, 198],
+        "api_kaizo_d": [-24, 108],
+        "api_kaizo_n": [-48, 120],
+        "api_map_d": [24, 216],
+        "api_map_n": [-24, 168],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 253,
-        "api_version": ["105", "17", "1227"],
-        "api_weda": [153, -12],
-        "api_wedb": [120, 153]
+        "api_version": ["106", "18", "1231"],
+        "api_weda": [366, 24],
+        "api_wedb": [180, 168]
     }, {
         "api_battle_d": [120, 192],
         "api_battle_n": [60, 168],
@@ -61284,7 +61297,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 291,
-        "api_version": ["92", "30", "1227"],
+        "api_version": ["92", "31", "1231"],
         "api_weda": [330, -6],
         "api_wedb": [138, 168]
     }, {
@@ -62822,27 +62835,27 @@
         "api_weda": [249, 45],
         "api_wedb": [132, 151]
     }, {
-        "api_battle_d": [171, 222],
-        "api_battle_n": [228, 222],
-        "api_boko_d": [198, 229],
-        "api_boko_n": [256, 231],
-        "api_ensyue_n": [198, 0],
-        "api_ensyuf_d": [138, 210],
-        "api_ensyuf_n": [192, 210],
+        "api_battle_d": [49, 163],
+        "api_battle_n": [-19, 148],
+        "api_boko_d": [18, 166],
+        "api_boko_n": [-46, 142],
+        "api_ensyue_n": [-64, 0],
+        "api_ensyuf_d": [-1, 127],
+        "api_ensyuf_n": [-66, 109],
         "api_filename": "fvsfztikmgyk",
         "api_id": 564,
         "api_kaisyu_d": [28, -24],
         "api_kaisyu_n": [1, -27],
-        "api_kaizo_d": [88, 103],
-        "api_kaizo_n": [153, 136],
-        "api_map_d": [162, 198],
-        "api_map_n": [216, 198],
+        "api_kaizo_d": [-25, 13],
+        "api_kaizo_n": [-73, 22],
+        "api_map_d": [30, 138],
+        "api_map_n": [-31, 121],
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 364,
-        "api_version": ["105", "17", "1227"],
-        "api_weda": [153, -12],
-        "api_wedb": [120, 153]
+        "api_version": ["106", "18", "1231"],
+        "api_weda": [393, 43],
+        "api_wedb": [154, 181]
     }, {
         "api_battle_d": [150, 48],
         "api_battle_n": [48, 66],
@@ -64686,7 +64699,7 @@
         "api_pa": [0, 0],
         "api_pab": [0, 0],
         "api_sortno": 448,
-        "api_version": ["96", "17", "1227"],
+        "api_version": ["97", "18", "1231"],
         "api_weda": [132, -24],
         "api_wedb": [138, 171]
     }, {
