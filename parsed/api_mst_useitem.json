@@ -712,4 +712,11 @@
     "api_name": "航空特別増加食",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["装備開発の資源配分を記録可能<br>な枠を1つ拡張できるキー。", ""],
+    "api_id": 103,
+    "api_name": "工廠拡張キー",
+    "api_price": 0,
+    "api_usetype": 0
 }]
