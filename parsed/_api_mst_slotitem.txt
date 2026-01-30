@@ -3309,6 +3309,8 @@ Sea Gladiator: Dist: 2
 強風改二(熟練): Rare レア: 5
 強風改二(熟練): Cost: 6
 強風改二(熟練): Dist: 3
+三式爆雷投射機改: ASW 対潜: 10
+三式爆雷投射機改: Rare レア: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2

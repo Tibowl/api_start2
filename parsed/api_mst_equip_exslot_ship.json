@@ -703,5 +703,20 @@
         "api_req_level": 0,
         "api_ship_ids": null,
         "api_stypes": null
+    },
+    "569": {
+        "api_ctypes": {
+            "54": 1,
+            "101": 1
+        },
+        "api_req_level": 0,
+        "api_ship_ids": {
+            "564": 1,
+            "648": 1,
+            "982": 1
+        },
+        "api_stypes": {
+            "1": 1
+        }
     }
 }

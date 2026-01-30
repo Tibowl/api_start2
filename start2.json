@@ -1095,6 +1095,21 @@
             "api_req_level": 0,
             "api_ship_ids": null,
             "api_stypes": null
+        },
+        "569": {
+            "api_ctypes": {
+                "54": 1,
+                "101": 1
+            },
+            "api_req_level": 0,
+            "api_ship_ids": {
+                "564": 1,
+                "648": 1,
+                "982": 1
+            },
+            "api_stypes": {
+                "1": 1
+            }
         }
     },
     "api_mst_equip_limit_exslot": {
@@ -98847,6 +98862,33 @@
         "api_tais": 0,
         "api_tyku": 7,
         "api_type": [5, 36, 45, 43, 26],
+        "api_usebull": "0",
+        "api_version": 2
+    }, {
+        "api_atap": 0,
+        "api_bakk": 0,
+        "api_baku": 0,
+        "api_broken": [0, 4, 2, 2],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 0,
+        "api_id": 569,
+        "api_leng": 0,
+        "api_luck": 0,
+        "api_name": "三式爆雷投射機改",
+        "api_raig": 0,
+        "api_raik": 0,
+        "api_raim": 0,
+        "api_rare": 4,
+        "api_sakb": 0,
+        "api_saku": 0,
+        "api_soku": 0,
+        "api_sortno": 569,
+        "api_souk": 0,
+        "api_taik": 0,
+        "api_tais": 10,
+        "api_tyku": 0,
+        "api_type": [7, 32, 15, 17, 0],
         "api_usebull": "0",
         "api_version": 2
     }, {
