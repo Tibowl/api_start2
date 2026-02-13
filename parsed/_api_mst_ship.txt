@@ -5815,6 +5815,13 @@ Wasp改: Torp 雷装: 0,0
 Wasp改: AA 対空: 56,96
 Wasp改: luck 運: 48,96
 Wasp改: speed 速力: 10
+飛龍改三: HP 耐久: 73,91
+飛龍改三: Armor 装甲: 50,80
+飛龍改三: FP 火力: 0,72
+飛龍改三: Torp 雷装: 0,0
+飛龍改三: AA 対空: 46,90
+飛龍改三: luck 運: 63,122
+飛龍改三: speed 速力: 10
 Colorado改: HP 耐久: 91,98
 Colorado改: Armor 装甲: 83,99
 Colorado改: FP 火力: 80,105
