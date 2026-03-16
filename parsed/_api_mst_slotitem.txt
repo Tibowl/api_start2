@@ -3327,6 +3327,11 @@ Sea Gladiator: Dist: 2
 流星改(友永隊): Rare レア: 6
 流星改(友永隊): Cost: 9
 流星改(友永隊): Dist: 6
+53cm連装魚雷改(酸素魚雷): Torp 雷装: 7
+53cm連装魚雷改(酸素魚雷): Acc 砲撃命中: 1
+53cm連装魚雷改(酸素魚雷): Evas 砲撃回避: 2
+53cm連装魚雷改(酸素魚雷): Rare レア: 3
+53cm連装魚雷改(酸素魚雷): Range 射程: 1
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
