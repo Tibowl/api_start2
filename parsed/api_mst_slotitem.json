@@ -2986,7 +2986,8 @@
     "api_tais": 0,
     "api_tyku": 11,
     "api_type": [3, 5, 6, 6, 13],
-    "api_usebull": "0"
+    "api_usebull": "0",
+    "api_version": 2
 }, {
     "api_atap": 0,
     "api_bakk": 0,
