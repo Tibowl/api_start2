@@ -719,4 +719,11 @@
     "api_name": "工廠拡張キー",
     "api_price": 0,
     "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["工廠を本格的に使用した艦娘<br>の高度な改装や最新装備改修<br>及び改修装備の状態回復など<br>にも使用可能です。", ""],
+    "api_id": 104,
+    "api_name": "工廠資源",
+    "api_price": 0,
+    "api_usetype": 0
 }]
