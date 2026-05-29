@@ -311,6 +311,18 @@
     "api_required_defeat_count": 5,
     "api_sally_flag": [1, 0, 0]
 }, {
+    "api_id": 56,
+    "api_infotext": "ラエへの増援輸送を実施後、<br>遊撃部隊をラバウルへ展開！<br>空襲を企図する敵艦隊を討て！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 13,
+    "api_maparea_id": 5,
+    "api_max_maphp": null,
+    "api_name": "ラバウル方面海域",
+    "api_no": 6,
+    "api_opetext": "ラバウル空襲艦隊を討て",
+    "api_required_defeat_count": 280,
+    "api_sally_flag": [1, 0, 0]
+}, {
     "api_id": 61,
     "api_infotext": "有力な潜水艦隊を編成し、中部<br>海域哨戒線に進出せよ。敵艦隊<br>を発見、これを漸減撃滅せよ！",
     "api_item": [0, 0, 0, 0],
