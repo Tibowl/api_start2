@@ -672,11 +672,11 @@
     "api_usetype": 4
 }, {
     "api_category": 0,
-    "api_description": ["艦娘が集めたり、作ったりした<br>「てるてる坊主」です。　　　<br>複数集めると梅雨明け頃に何か<br>ちょっといいコトあるかも！　<br>※夏本格到来時に消滅します。", ""],
+    "api_description": ["艦娘が集めたり、作ったりした<br>「てるてる坊主」です。　　　<br>※海色リボンや装備、貴重な新<br>　アイテム等と交換可能です！<br>※夏到来時に消滅します。", ""],
     "api_id": 97,
     "api_name": "てるてる坊主",
     "api_price": 0,
-    "api_usetype": 0
+    "api_usetype": 4
 }, {
     "api_category": 0,
     "api_description": ["旗艦に付与されます(既に同様 <br>のものが付与されている場合は<br>上書きして付与されます)。　 <br>※艦娘の能力が微上昇します。", ""],
@@ -724,6 +724,13 @@
     "api_description": ["工廠を本格的に使用した艦娘<br>の高度な改装や最新装備改修<br>及び改修装備の状態回復など<br>にも使用可能です。", ""],
     "api_id": 104,
     "api_name": "工廠資源",
+    "api_price": 0,
+    "api_usetype": 0
+}, {
+    "api_category": 0,
+    "api_description": ["航空母艦などの格納庫の拡張に<br>使う基本資材及び設計図です。<br>※イベントや任務などでも獲得<br>可能です。他の資材と合わせて<br>使用します。", ""],
+    "api_id": 105,
+    "api_name": "格納庫増設",
     "api_price": 0,
     "api_usetype": 0
 }]

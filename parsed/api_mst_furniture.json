@@ -1528,7 +1528,7 @@
     "api_outside_id": 0,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "「第六駆逐隊」掛け軸",
     "api_type": 3,
     "api_version": 1
@@ -1684,7 +1684,7 @@
     "api_outside_id": 0,
     "api_price": 400,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "戦艦映画ポスター",
     "api_type": 3,
     "api_version": 1
@@ -1957,7 +1957,7 @@
     "api_outside_id": 0,
     "api_price": 100,
     "api_rarity": 1,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ハンガーラック",
     "api_type": 4,
     "api_version": 1
@@ -2584,7 +2584,7 @@
     "api_saleflg": 0,
     "api_title": "温泉檜風呂",
     "api_type": 5,
-    "api_version": 45
+    "api_version": 46
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -2659,7 +2659,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "「迷彩主義」掛け軸",
     "api_type": 3,
     "api_version": 1
@@ -2711,7 +2711,7 @@
     "api_outside_id": 4,
     "api_price": 0,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "七夕飾りの窓",
     "api_type": 2,
     "api_version": 1
@@ -2724,7 +2724,7 @@
     "api_outside_id": 4,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "蚊取り線香の窓",
     "api_type": 2,
     "api_version": 1
@@ -2737,7 +2737,7 @@
     "api_outside_id": 4,
     "api_price": 5000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鎮守府風鈴",
     "api_type": 2,
     "api_version": 1
@@ -2750,7 +2750,7 @@
     "api_outside_id": 0,
     "api_price": 800,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "夏先取りセット",
     "api_type": 4,
     "api_version": 1
@@ -2987,7 +2987,7 @@
     "api_saleflg": 1,
     "api_title": "鎮守府カウンターバー",
     "api_type": 2,
-    "api_version": 96
+    "api_version": 97
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 109,
@@ -3036,7 +3036,7 @@
     "api_outside_id": 0,
     "api_price": 20000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "日本酒＆ウィスキー棚",
     "api_type": 4,
     "api_version": 1
@@ -3075,7 +3075,7 @@
     "api_outside_id": 0,
     "api_price": 30000,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "バー仕様の壁",
     "api_type": 1,
     "api_version": 1
@@ -3101,7 +3101,7 @@
     "api_outside_id": 0,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "脱衣所",
     "api_type": 4,
     "api_version": 1
@@ -3117,7 +3117,7 @@
     "api_saleflg": 0,
     "api_title": "温泉岩風呂",
     "api_type": 5,
-    "api_version": 45
+    "api_version": 46
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -3153,7 +3153,7 @@
     "api_outside_id": 0,
     "api_price": 600,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "梅雨の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -3166,7 +3166,7 @@
     "api_outside_id": 4,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "梅雨の緑カーテン窓",
     "api_type": 2,
     "api_version": 1
@@ -3179,7 +3179,7 @@
     "api_outside_id": 0,
     "api_price": 22000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花鉢の提督机",
     "api_type": 5,
     "api_version": 1
@@ -3192,7 +3192,7 @@
     "api_outside_id": 0,
     "api_price": 1800,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "レインコート＆傘掛け",
     "api_type": 4,
     "api_version": 1
@@ -3218,7 +3218,7 @@
     "api_outside_id": 0,
     "api_price": 7500,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "水風呂",
     "api_type": 5,
     "api_version": 1
@@ -3231,7 +3231,7 @@
     "api_outside_id": 4,
     "api_price": 1880,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "鬼灯の花の窓",
     "api_type": 2,
     "api_version": 1
@@ -3296,7 +3296,7 @@
     "api_outside_id": 0,
     "api_price": 500,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "艦隊氷旗",
     "api_type": 3,
     "api_version": 1
@@ -3790,7 +3790,7 @@
     "api_outside_id": 0,
     "api_price": 2000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -3803,7 +3803,7 @@
     "api_outside_id": 0,
     "api_price": 2300,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花の床",
     "api_type": 0,
     "api_version": 1
@@ -3816,7 +3816,7 @@
     "api_outside_id": 0,
     "api_price": 700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "鮎の季節の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -3829,7 +3829,7 @@
     "api_outside_id": 0,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "梅雨の季節の床",
     "api_type": 0,
     "api_version": 1
@@ -3842,7 +3842,7 @@
     "api_outside_id": 0,
     "api_price": 1200,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "藤の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -3855,7 +3855,7 @@
     "api_outside_id": 0,
     "api_price": 160000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "藤と水面の床",
     "api_type": 0,
     "api_version": 1
@@ -3881,7 +3881,7 @@
     "api_outside_id": 0,
     "api_price": 1900,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花のステンドグラス",
     "api_type": 3,
     "api_version": 1
@@ -3920,7 +3920,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "木製の涼しげな壁",
     "api_type": 1,
     "api_version": 1
@@ -4999,10 +4999,10 @@
     "api_outside_id": 0,
     "api_price": 4000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "艦娘の傘立て",
     "api_type": 4,
-    "api_version": 15
+    "api_version": 16
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -5012,7 +5012,7 @@
     "api_outside_id": 0,
     "api_price": 3700,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "七夕の畳",
     "api_type": 0,
     "api_version": 1
@@ -5025,7 +5025,7 @@
     "api_outside_id": 0,
     "api_price": 7700,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "七夕の床の間",
     "api_type": 5,
     "api_version": 1
@@ -5038,7 +5038,7 @@
     "api_outside_id": 0,
     "api_price": 1770,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "天の河の壁板",
     "api_type": 1,
     "api_version": 1
@@ -5051,7 +5051,7 @@
     "api_outside_id": 0,
     "api_price": 700,
     "api_rarity": 2,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "笹の壁紙",
     "api_type": 1,
     "api_version": 1
@@ -5093,7 +5093,7 @@
     "api_saleflg": 0,
     "api_title": "大型生花アレンジメント",
     "api_type": 3,
-    "api_version": 34
+    "api_version": 35
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 140,
@@ -5506,7 +5506,7 @@
     "api_outside_id": 6,
     "api_price": 3000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "提督の舷窓",
     "api_type": 2,
     "api_version": 2
@@ -5636,7 +5636,7 @@
     "api_outside_id": 0,
     "api_price": 1600,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "初夏の床",
     "api_type": 0,
     "api_version": 1
@@ -5649,7 +5649,7 @@
     "api_outside_id": 3,
     "api_price": 5000,
     "api_rarity": 4,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "夏を待つブラインド窓",
     "api_type": 2,
     "api_version": 1
@@ -5662,7 +5662,7 @@
     "api_outside_id": 0,
     "api_price": 980,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "艦娘特製の梅雨飾り",
     "api_type": 3,
     "api_version": 1
@@ -5701,7 +5701,7 @@
     "api_outside_id": 0,
     "api_price": 500,
     "api_rarity": 2,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花柄の白い壁紙",
     "api_type": 1,
     "api_version": 1
@@ -5714,7 +5714,7 @@
     "api_outside_id": 4,
     "api_price": 160000,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花の特注ステンド窓",
     "api_type": 2,
     "api_version": 1
@@ -5727,7 +5727,7 @@
     "api_outside_id": 0,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花の生花飾り",
     "api_type": 3,
     "api_version": 1
@@ -5740,7 +5740,7 @@
     "api_outside_id": 0,
     "api_price": 5500,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "梅雨を楽しむ二人の机",
     "api_type": 5,
     "api_version": 16
@@ -6247,7 +6247,7 @@
     "api_outside_id": 0,
     "api_price": 1700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "蓮の葉模様の床",
     "api_type": 0,
     "api_version": 1
@@ -6260,7 +6260,7 @@
     "api_outside_id": 0,
     "api_price": 1500,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "海防艦の傘絵の壁",
     "api_type": 1,
     "api_version": 1
@@ -6273,7 +6273,7 @@
     "api_outside_id": 4,
     "api_price": 133000,
     "api_rarity": 6,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "「Taffy III」Window",
     "api_type": 2,
     "api_version": 1
@@ -6406,7 +6406,7 @@
     "api_saleflg": 0,
     "api_title": "海防艦の汎用円形机",
     "api_type": 5,
-    "api_version": 81
+    "api_version": 82
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -6731,7 +6731,7 @@
     "api_saleflg": 1,
     "api_title": "潜水艦隊の窓",
     "api_type": 2,
-    "api_version": 71
+    "api_version": 72
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -7404,7 +7404,7 @@
     "api_outside_id": 0,
     "api_price": 680,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "梅雨を愉しむ飾り棚",
     "api_type": 3,
     "api_version": 1
@@ -7456,10 +7456,10 @@
     "api_outside_id": 4,
     "api_price": 135000,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "フランス艦 la fenêtre",
     "api_type": 2,
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -7469,7 +7469,7 @@
     "api_outside_id": 0,
     "api_price": 5300,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "フランス艦 la table",
     "api_type": 5,
     "api_version": 3
@@ -7482,7 +7482,7 @@
     "api_outside_id": 0,
     "api_price": 123000,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "フランス艦 les meuble",
     "api_type": 4,
     "api_version": 1
@@ -7576,7 +7576,7 @@
     "api_saleflg": 0,
     "api_title": "榛名の白い窓",
     "api_type": 2,
-    "api_version": 15
+    "api_version": 16
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -7690,7 +7690,7 @@
     "api_outside_id": 0,
     "api_price": 1770,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "睡蓮の飾り棚と読書椅子",
     "api_type": 4,
     "api_version": 1
@@ -7716,7 +7716,7 @@
     "api_outside_id": 0,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花のお茶会テーブル",
     "api_type": 5,
     "api_version": 1
@@ -7729,7 +7729,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 5,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "ステンドグラス梅雨座卓",
     "api_type": 5,
     "api_version": 1
@@ -7768,7 +7768,7 @@
     "api_outside_id": 0,
     "api_price": 7070,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "天の河の銀河床",
     "api_type": 0,
     "api_version": 1
@@ -7781,7 +7781,7 @@
     "api_outside_id": 0,
     "api_price": 700,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "いい風感じる壁紙",
     "api_type": 1,
     "api_version": 1
@@ -7979,7 +7979,7 @@
     "api_saleflg": 0,
     "api_title": "七駆の私物棚",
     "api_type": 3,
-    "api_version": 21
+    "api_version": 22
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -8093,7 +8093,7 @@
     "api_outside_id": 0,
     "api_price": 1880,
     "api_rarity": 3,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "紫陽花の和箪笥",
     "api_type": 4,
     "api_version": 1
@@ -8109,7 +8109,7 @@
     "api_saleflg": 0,
     "api_title": "提督と大淀秘書机",
     "api_type": 5,
-    "api_version": 11
+    "api_version": 12
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -8119,7 +8119,7 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 4,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "木漏れ日のすだれ",
     "api_type": 1,
     "api_version": 1
@@ -8366,7 +8366,7 @@
     "api_outside_id": 0,
     "api_price": 255000,
     "api_rarity": 6,
-    "api_saleflg": 1,
+    "api_saleflg": 0,
     "api_title": "大井の超私物棚",
     "api_type": 3,
     "api_version": 1
@@ -8483,10 +8483,10 @@
     "api_outside_id": 0,
     "api_price": 2200,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "砂浜とカニさん",
     "api_type": 0,
-    "api_version": 2
+    "api_version": 3
 }, {
     "api_active_flag": 1,
     "api_bgm_id": 0,
@@ -8496,7 +8496,7 @@
     "api_outside_id": 0,
     "api_price": 123000,
     "api_rarity": 6,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "青空と山側の夏雲",
     "api_type": 1,
     "api_version": 1
@@ -8509,7 +8509,7 @@
     "api_outside_id": 0,
     "api_price": 1300,
     "api_rarity": 3,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "梅雨明けの木製壁",
     "api_type": 1,
     "api_version": 1
@@ -8535,7 +8535,7 @@
     "api_outside_id": 0,
     "api_price": 5100,
     "api_rarity": 5,
-    "api_saleflg": 0,
+    "api_saleflg": 1,
     "api_title": "ソロモンの熱い夏",
     "api_type": 3,
     "api_version": 1
@@ -8707,7 +8707,7 @@
     "api_saleflg": 1,
     "api_title": "第32駆逐隊の制服掛け",
     "api_type": 4,
-    "api_version": 1
+    "api_version": 3
 }, {
     "api_active_flag": 0,
     "api_bgm_id": 0,
@@ -8719,6 +8719,32 @@
     "api_rarity": 5,
     "api_saleflg": 1,
     "api_title": "32駆夢幻のお茶会",
+    "api_type": 5,
+    "api_version": 2
+}, {
+    "api_active_flag": 0,
+    "api_bgm_id": 0,
+    "api_description": "北の海と氷を知り尽くした<br>艦娘のかき氷です。彼女の<br>厳選したフレーバーは、イ<br>チゴと抹茶の二種類です。<br>本物の氷の味を…どうぞ？",
+    "api_id": 672,
+    "api_no": 90,
+    "api_outside_id": 0,
+    "api_price": 1921,
+    "api_rarity": 4,
+    "api_saleflg": 1,
+    "api_title": "大泊のかき氷",
+    "api_type": 4,
+    "api_version": 1
+}, {
+    "api_active_flag": 1,
+    "api_bgm_id": 0,
+    "api_description": "フランス生まれの艦娘たち<br>が提督との素敵な日々の時<br>間を過ごすために特注した<br>二人のための食卓です。時<br>間によって変化するかも？",
+    "api_id": 673,
+    "api_no": 115,
+    "api_outside_id": 0,
+    "api_price": 7800,
+    "api_rarity": 6,
+    "api_saleflg": 1,
+    "api_title": "Notre table",
     "api_type": 5,
     "api_version": 1
 }]

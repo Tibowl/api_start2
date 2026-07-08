@@ -442,4 +442,52 @@
     "api_opetext": "スラバヤ沖海戦・バタビア沖海戦",
     "api_required_defeat_count": 2,
     "api_sally_flag": [1, 0, 0]
+}, {
+    "api_id": 621,
+    "api_infotext": "駆逐艦を中心とした水上艦<br>による最後の戦隊、第三十<br>一戦隊。同戦隊を切っ先と<br>して反撃作戦を開始せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 6,
+    "api_maparea_id": 62,
+    "api_max_maphp": 300,
+    "api_name": "九州沖/南西諸島沖",
+    "api_no": 1,
+    "api_opetext": "第三十一戦隊駆逐艦の出撃",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 0, 1]
+}, {
+    "api_id": 622,
+    "api_infotext": "第三十一戦隊の活躍により<br>比島方面まで敵を押し返す<br>ことに成功！サンベルナル<br>ジノを通峡、前進せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 9,
+    "api_maparea_id": 62,
+    "api_max_maphp": 300,
+    "api_name": "南沙諸島沖/オルモック沖/サンベルナルジノ海峡沖",
+    "api_no": 2,
+    "api_opetext": "サンベルナルジノ海峡 通峡",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 623,
+    "api_infotext": "いよいよ反攻の時！第三十<br>一戦隊、第六艦隊、そして<br>連合艦隊主力を以て、深海<br>ウルシー泊地を強襲せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 15,
+    "api_maparea_id": 62,
+    "api_max_maphp": 300,
+    "api_name": "パラオ沖/ウルシ―泊地沖/中部太平洋",
+    "api_no": 3,
+    "api_opetext": "ウルシー泊地への本格反攻",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 624,
+    "api_infotext": "",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 1,
+    "api_maparea_id": 62,
+    "api_max_maphp": 300,
+    "api_name": "",
+    "api_no": 4,
+    "api_opetext": "",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
 }]

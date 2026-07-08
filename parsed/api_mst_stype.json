@@ -98,6 +98,7 @@
     },
     "api_id": 1,
     "api_kcnt": 2,
+    "api_max_slotplus": 0,
     "api_name": "海防艦",
     "api_scnt": 1,
     "api_sortno": 1
@@ -201,6 +202,7 @@
     },
     "api_id": 2,
     "api_kcnt": 3,
+    "api_max_slotplus": 0,
     "api_name": "駆逐艦",
     "api_scnt": 2,
     "api_sortno": 2
@@ -304,6 +306,7 @@
     },
     "api_id": 3,
     "api_kcnt": 3,
+    "api_max_slotplus": 0,
     "api_name": "軽巡洋艦",
     "api_scnt": 2,
     "api_sortno": 3
@@ -407,6 +410,7 @@
     },
     "api_id": 4,
     "api_kcnt": 3,
+    "api_max_slotplus": 0,
     "api_name": "重雷装巡洋艦",
     "api_scnt": 2,
     "api_sortno": 4
@@ -510,6 +514,7 @@
     },
     "api_id": 5,
     "api_kcnt": 4,
+    "api_max_slotplus": 0,
     "api_name": "重巡洋艦",
     "api_scnt": 3,
     "api_sortno": 5
@@ -613,6 +618,7 @@
     },
     "api_id": 6,
     "api_kcnt": 4,
+    "api_max_slotplus": 0,
     "api_name": "航空巡洋艦",
     "api_scnt": 3,
     "api_sortno": 6
@@ -716,6 +722,7 @@
     },
     "api_id": 7,
     "api_kcnt": 4,
+    "api_max_slotplus": 2,
     "api_name": "軽空母",
     "api_scnt": 3,
     "api_sortno": 7
@@ -819,6 +826,7 @@
     },
     "api_id": 8,
     "api_kcnt": 4,
+    "api_max_slotplus": 0,
     "api_name": "戦艦",
     "api_scnt": 3,
     "api_sortno": 8
@@ -922,6 +930,7 @@
     },
     "api_id": 9,
     "api_kcnt": 5,
+    "api_max_slotplus": 0,
     "api_name": "戦艦",
     "api_scnt": 4,
     "api_sortno": 9
@@ -1025,6 +1034,7 @@
     },
     "api_id": 10,
     "api_kcnt": 5,
+    "api_max_slotplus": 0,
     "api_name": "航空戦艦",
     "api_scnt": 4,
     "api_sortno": 10
@@ -1128,6 +1138,7 @@
     },
     "api_id": 11,
     "api_kcnt": 5,
+    "api_max_slotplus": 4,
     "api_name": "正規空母",
     "api_scnt": 4,
     "api_sortno": 11
@@ -1231,6 +1242,7 @@
     },
     "api_id": 12,
     "api_kcnt": 5,
+    "api_max_slotplus": 0,
     "api_name": "超弩級戦艦",
     "api_scnt": 4,
     "api_sortno": 12
@@ -1334,6 +1346,7 @@
     },
     "api_id": 13,
     "api_kcnt": 3,
+    "api_max_slotplus": 0,
     "api_name": "潜水艦",
     "api_scnt": 1,
     "api_sortno": 13
@@ -1437,6 +1450,7 @@
     },
     "api_id": 14,
     "api_kcnt": 5,
+    "api_max_slotplus": 0,
     "api_name": "潜水空母",
     "api_scnt": 2,
     "api_sortno": 14
@@ -1540,6 +1554,7 @@
     },
     "api_id": 15,
     "api_kcnt": 2,
+    "api_max_slotplus": 0,
     "api_name": "補給艦",
     "api_scnt": 1,
     "api_sortno": 15
@@ -1643,6 +1658,7 @@
     },
     "api_id": 16,
     "api_kcnt": 3,
+    "api_max_slotplus": 0,
     "api_name": "水上機母艦",
     "api_scnt": 2,
     "api_sortno": 16
@@ -1746,6 +1762,7 @@
     },
     "api_id": 17,
     "api_kcnt": 5,
+    "api_max_slotplus": 0,
     "api_name": "揚陸艦",
     "api_scnt": 2,
     "api_sortno": 17
@@ -1849,6 +1866,7 @@
     },
     "api_id": 18,
     "api_kcnt": 5,
+    "api_max_slotplus": 4,
     "api_name": "装甲空母",
     "api_scnt": 4,
     "api_sortno": 18
@@ -1952,6 +1970,7 @@
     },
     "api_id": 19,
     "api_kcnt": 5,
+    "api_max_slotplus": 0,
     "api_name": "工作艦",
     "api_scnt": 4,
     "api_sortno": 19
@@ -2055,6 +2074,7 @@
     },
     "api_id": 20,
     "api_kcnt": 5,
+    "api_max_slotplus": 0,
     "api_name": "潜水母艦",
     "api_scnt": 3,
     "api_sortno": 20
@@ -2158,6 +2178,7 @@
     },
     "api_id": 21,
     "api_kcnt": 3,
+    "api_max_slotplus": 0,
     "api_name": "練習巡洋艦",
     "api_scnt": 2,
     "api_sortno": 21
@@ -2261,6 +2282,7 @@
     },
     "api_id": 22,
     "api_kcnt": 3,
+    "api_max_slotplus": 0,
     "api_name": "補給艦",
     "api_scnt": 2,
     "api_sortno": 22

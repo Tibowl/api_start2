@@ -5727,6 +5727,33 @@
             "54": null
         }
     },
+    "1036": {
+        "api_equip_type": {
+            "4": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "16": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "25": null,
+            "26": null,
+            "27": null,
+            "30": null,
+            "34": null,
+            "35": null,
+            "36": null,
+            "40": null,
+            "43": null,
+            "50": null
+        }
+    },
     "1040": {
         "api_equip_type": {
             "1": null,
@@ -5749,6 +5776,54 @@
             "40": null,
             "43": null,
             "46": null,
+            "54": null
+        }
+    },
+    "1041": {
+        "api_equip_type": {
+            "1": null,
+            "5": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "29": null,
+            "30": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "43": null,
+            "54": null
+        }
+    },
+    "1046": {
+        "api_equip_type": {
+            "1": null,
+            "5": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "27": null,
+            "29": null,
+            "30": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "40": null,
+            "43": null,
             "54": null
         }
     }
