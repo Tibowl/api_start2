@@ -5997,12 +5997,12 @@ Béarn amélioration: Torp 雷装: 0,0
 Béarn amélioration: AA 対空: 33,82
 Béarn amélioration: luck 運: 53,98
 Béarn amélioration: speed 速力: 10
-Visby: HP 耐久: 14,27
-Visby: Armor 装甲: 5,22
-Visby: FP 火力: 5,24
-Visby: Torp 雷装: 16,66
-Visby: AA 対空: 22,63
-Visby: luck 運: 16,73
+Visby: HP 耐久: 11,19
+Visby: Armor 装甲: 5,20
+Visby: FP 火力: 6,22
+Visby: Torp 雷装: 12,36
+Visby: AA 対空: 60,74
+Visby: luck 運: 20,80
 Visby: speed 速力: 10
 日枝丸: HP 耐久: 36,51
 日枝丸: Armor 装甲: 3,18
@@ -6011,12 +6011,12 @@ Visby: speed 速力: 10
 日枝丸: AA 対空: 10,28
 日枝丸: luck 運: 3,33
 日枝丸: speed 速力: 5
-Visby改: HP 耐久: 27,45
-Visby改: Armor 装甲: 12,56
-Visby改: FP 火力: 7,43
-Visby改: Torp 雷装: 16,73
-Visby改: AA 対空: 28,80
-Visby改: luck 運: 21,83
+Visby改: HP 耐久: 17,26
+Visby改: Armor 装甲: 15,43
+Visby改: FP 火力: 10,30
+Visby改: Torp 雷装: 24,50
+Visby改: AA 対空: 74,84
+Visby改: luck 運: 36,100
 Visby改: speed 速力: 10
 日枝丸改: HP 耐久: 39,57
 日枝丸改: Armor 装甲: 17,33
