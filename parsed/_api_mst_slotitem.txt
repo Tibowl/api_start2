@@ -3373,6 +3373,66 @@ SB2U-2: Evas 砲撃回避: 1
 SB2U-2: Rare レア: 2
 SB2U-2: Cost: 5
 SB2U-2: Dist: 4
+13.8cm単装砲 Modèle 1927: FP 火力: 3
+13.8cm単装砲 Modèle 1927: AA 対空: 1
+13.8cm単装砲 Modèle 1927: Rare レア: 2
+13.8cm単装砲 Modèle 1927: Range 射程: 1
+55cm三連装魚雷 Modèle 1924: Torp 雷装: 4
+55cm三連装魚雷 Modèle 1924: Evas 砲撃回避: 1
+55cm三連装魚雷 Modèle 1924: Rare レア: 1
+55cm三連装魚雷 Modèle 1924: Range 射程: 1
+55cm複合配置五連装魚雷 Modèle 1932: Torp 雷装: 7
+55cm複合配置五連装魚雷 Modèle 1932: Acc 砲撃命中: 1
+55cm複合配置五連装魚雷 Modèle 1932: Rare レア: 2
+55cm複合配置五連装魚雷 Modèle 1932: Range 射程: 1
+20.3cm/50 連装砲 Modèle 1931: FP 火力: 9
+20.3cm/50 連装砲 Modèle 1931: AA 対空: 1
+20.3cm/50 連装砲 Modèle 1931: Armor 装甲: 1
+20.3cm/50 連装砲 Modèle 1931: Acc 砲撃命中: 2
+20.3cm/50 連装砲 Modèle 1931: Rare レア: 2
+20.3cm/50 連装砲 Modèle 1931: Range 射程: 2
+20.3cm/50 連装砲改(SHS改良弾): FP 火力: 13
+20.3cm/50 連装砲改(SHS改良弾): AA 対空: 1
+20.3cm/50 連装砲改(SHS改良弾): Armor 装甲: 1
+20.3cm/50 連装砲改(SHS改良弾): Acc 砲撃命中: -1
+20.3cm/50 連装砲改(SHS改良弾): Rare レア: 3
+20.3cm/50 連装砲改(SHS改良弾): Range 射程: 2
+Bofors 12cm単装両用砲: FP 火力: 2
+Bofors 12cm単装両用砲: AA 対空: 5
+Bofors 12cm単装両用砲: Acc 砲撃命中: 2
+Bofors 12cm単装両用砲: Evas 砲撃回避: 2
+Bofors 12cm単装両用砲: Rare レア: 2
+Bofors 12cm単装両用砲: Range 射程: 1
+PL101(偵察): LoS 索敵: 3
+PL101(偵察): ASW 対潜: 3
+PL101(偵察): Acc 砲撃命中: 1
+PL101(偵察): Evas 砲撃回避: 1
+PL101(偵察): Rare レア: 1
+PL101(偵察): Cost: 3
+PL101(偵察): Dist: 2
+PL101(爆装): LoS 索敵: 3
+PL101(爆装): ASW 対潜: 3
+PL101(爆装): Acc 砲撃命中: 1
+PL101(爆装): Evas 砲撃回避: 1
+PL101(爆装): Rare レア: 1
+PL101(爆装): Cost: 3
+PL101(爆装): Dist: 2
+V-156F(SB2U輸出型): FP 火力: 1
+V-156F(SB2U輸出型): AA 対空: 1
+V-156F(SB2U輸出型): Dive 爆撃: 5
+V-156F(SB2U輸出型): LoS 索敵: 2
+V-156F(SB2U輸出型): ASW 対潜: 4
+V-156F(SB2U輸出型): Acc 砲撃命中: 1
+V-156F(SB2U輸出型): Evas 砲撃回避: 1
+V-156F(SB2U輸出型): Rare レア: 2
+V-156F(SB2U輸出型): Cost: 5
+V-156F(SB2U輸出型): Dist: 4
+G-36A(F4F輸出型): FP 火力: 1
+G-36A(F4F輸出型): AA 対空: 4
+G-36A(F4F輸出型): Evas 砲撃回避: 2
+G-36A(F4F輸出型): Rare レア: 3
+G-36A(F4F輸出型): Cost: 5
+G-36A(F4F輸出型): Dist: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
@@ -4231,3 +4291,15 @@ GFCS+深海5inch連装砲 Mk.32: Range 射程: 2
 深海4inch三連装副砲: Evas 砲撃回避: 4
 深海4inch三連装副砲: Rare レア: 2
 深海4inch三連装副砲: Range 射程: 2
+深海28.3cm L/52 三連装砲: FP 火力: 18
+深海28.3cm L/52 三連装砲: AA 対空: 2
+深海28.3cm L/52 三連装砲: Armor 装甲: 3
+深海28.3cm L/52 三連装砲: Acc 砲撃命中: 8
+深海28.3cm L/52 三連装砲: Evas 砲撃回避: 3
+深海28.3cm L/52 三連装砲: Rare レア: 3
+深海28.3cm L/52 三連装砲: Range 射程: 3
+深海20.3cm SHS連装砲: FP 火力: 17
+深海20.3cm SHS連装砲: Armor 装甲: 2
+深海20.3cm SHS連装砲: Acc 砲撃命中: 3
+深海20.3cm SHS連装砲: Rare レア: 2
+深海20.3cm SHS連装砲: Range 射程: 3

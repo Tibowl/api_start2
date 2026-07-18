@@ -480,14 +480,26 @@
     "api_sally_flag": [1, 7, 1]
 }, {
     "api_id": 624,
-    "api_infotext": "",
-    "api_item": [0, 0, 0, 0],
-    "api_level": 1,
+    "api_infotext": "欧州作戦を実施する！北部<br>敵地上施設を痛撃した後、<br>艦隊主力をアルジェリアに<br>結集、反撃を開始せよ！",
+    "api_item": [33, 32, 0, 0],
+    "api_level": 16,
     "api_maparea_id": 62,
     "api_max_maphp": 300,
-    "api_name": "",
+    "api_name": "地中海南仏沖/アルジェリア沖/イタリア半島沖",
     "api_no": 4,
-    "api_opetext": "",
+    "api_opetext": "Opération Vado_ヴァード作戦",
+    "api_required_defeat_count": null,
+    "api_sally_flag": [1, 7, 1]
+}, {
+    "api_id": 625,
+    "api_infotext": "ブレスト港に集結したフラ<br>ンス艦隊及び欧州遠征艦隊<br>により敵のイギリス侵攻を<br>防衛、総反撃を実施せよ！",
+    "api_item": [0, 0, 0, 0],
+    "api_level": 18,
+    "api_maparea_id": 62,
+    "api_max_maphp": 300,
+    "api_name": "ブレスト沖/大西洋/イギリス本土沖/バルト海",
+    "api_no": 5,
+    "api_opetext": "Au-delà du Destin Cruel_フランス艦隊",
     "api_required_defeat_count": null,
     "api_sally_flag": [1, 7, 1]
 }]

@@ -4188,7 +4188,7 @@
     },
     "727": {
         "api_equip_type": {
-            "1": [229, 379, 382],
+            "1": [379, 382, 229],
             "4": [66, 220, 524],
             "12": null,
             "15": null,
@@ -4254,7 +4254,7 @@
         "api_equip_type": {
             "1": null,
             "2": [564],
-            "4": [10, 11, 66, 220, 524, 565],
+            "4": [524, 565, 10, 11, 66, 220],
             "5": null,
             "12": null,
             "17": null,
@@ -4274,7 +4274,7 @@
         "api_equip_type": {
             "1": null,
             "2": [564],
-            "4": [66, 220, 524, 565, 10, 11],
+            "4": [10, 11, 66, 220, 524, 565],
             "5": null,
             "12": null,
             "17": null,
@@ -4819,7 +4819,7 @@
     },
     "945": {
         "api_equip_type": {
-            "1": [229, 379, 382],
+            "1": [379, 382, 229],
             "15": null,
             "17": null,
             "21": null,
@@ -5183,7 +5183,7 @@
         "api_equip_type": {
             "1": null,
             "2": [6, 90],
-            "4": [11, 524, 565],
+            "4": [565, 11, 524],
             "12": null,
             "17": null,
             "21": null,
@@ -5226,7 +5226,7 @@
         "api_equip_type": {
             "1": null,
             "2": [6, 50, 90],
-            "4": [11, 66, 220, 524, 565, 10],
+            "4": [10, 11, 66, 220, 524, 565],
             "12": null,
             "13": null,
             "14": null,
@@ -5455,7 +5455,7 @@
         "api_equip_type": {
             "1": null,
             "2": [564],
-            "4": [11, 524, 565],
+            "4": [565, 11, 524],
             "5": null,
             "17": null,
             "21": null,
@@ -5825,6 +5825,195 @@
             "40": null,
             "43": null,
             "54": null
+        }
+    },
+    "1055": {
+        "api_equip_type": {
+            "4": null,
+            "7": null,
+            "9": null,
+            "12": null,
+            "16": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "28": null,
+            "34": null,
+            "35": null,
+            "39": null,
+            "43": null,
+            "50": null,
+            "95": null
+        }
+    },
+    "1058": {
+        "api_equip_type": {
+            "1": null,
+            "5": null,
+            "12": null,
+            "14": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "27": null,
+            "29": null,
+            "30": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "40": null,
+            "43": null,
+            "54": null
+        }
+    },
+    "1060": {
+        "api_equip_type": {
+            "4": null,
+            "6": null,
+            "7": null,
+            "9": null,
+            "12": null,
+            "13": null,
+            "16": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "28": null,
+            "30": null,
+            "34": null,
+            "35": null,
+            "36": null,
+            "39": null,
+            "40": null,
+            "43": null,
+            "50": null,
+            "95": null
+        }
+    },
+    "1061": {
+        "api_equip_type": {
+            "4": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "16": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "28": null,
+            "30": null,
+            "34": null,
+            "35": null,
+            "36": null,
+            "39": null,
+            "40": null,
+            "43": null,
+            "50": null,
+            "95": null
+        }
+    },
+    "1062": {
+        "api_equip_type": {
+            "1": null,
+            "5": null,
+            "12": null,
+            "14": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "29": null,
+            "30": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "43": null,
+            "54": null
+        }
+    },
+    "1065": {
+        "api_equip_type": {
+            "1": null,
+            "2": [4],
+            "4": [11, 524],
+            "10": null,
+            "12": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "39": null,
+            "43": null
+        }
+    },
+    "1067": {
+        "api_equip_type": {
+            "1": null,
+            "5": null,
+            "12": null,
+            "14": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "25": null,
+            "29": null,
+            "30": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "43": null,
+            "54": null
+        }
+    },
+    "1070": {
+        "api_equip_type": {
+            "1": null,
+            "2": [4],
+            "4": [11, 524],
+            "10": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "25": null,
+            "27": null,
+            "29": null,
+            "30": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "40": null,
+            "43": null,
+            "44": null,
+            "45": null
         }
     }
 }
