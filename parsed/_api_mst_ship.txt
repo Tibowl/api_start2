@@ -5962,13 +5962,13 @@ Vautour: Torp 雷装: 12,58
 Vautour: AA 対空: 8,36
 Vautour: luck 運: 5,37
 Vautour: speed 速力: 10
-Béarn: HP 耐久: 50,79
-Béarn: Armor 装甲: 27,49
-Béarn: FP 火力: 0,29
+Béarn: HP 耐久: 52,77
+Béarn: Armor 装甲: 44,70
+Béarn: FP 火力: 20,30
 Béarn: Torp 雷装: 0,0
-Béarn: AA 対空: 26,69
-Béarn: luck 運: 35,89
-Béarn: speed 速力: 10
+Béarn: AA 対空: 24,32
+Béarn: luck 運: 18,68
+Béarn: speed 速力: 5
 Algérie改: HP 耐久: 71,85
 Algérie改: Armor 装甲: 53,84
 Algérie改: FP 火力: 62,91
@@ -5983,20 +5983,20 @@ Vautour改: Torp 雷装: 24,60
 Vautour改: AA 対空: 36,68
 Vautour改: luck 運: 9,57
 Vautour改: speed 速力: 10
-Béarn改: HP 耐久: 65,89
-Béarn改: Armor 装甲: 35,69
-Béarn改: FP 火力: 0,39
+Béarn改: HP 耐久: 75,88
+Béarn改: Armor 装甲: 55,85
+Béarn改: FP 火力: 30,44
 Béarn改: Torp 雷装: 0,0
-Béarn改: AA 対空: 30,79
-Béarn改: luck 運: 40,89
-Béarn改: speed 速力: 10
-Béarn amélioration: HP 耐久: 67,89
-Béarn amélioration: Armor 装甲: 37,76
-Béarn amélioration: FP 火力: 0,69
+Béarn改: AA 対空: 30,42
+Béarn改: luck 運: 28,88
+Béarn改: speed 速力: 5
+Béarn amélioration: HP 耐久: 77,93
+Béarn amélioration: Armor 装甲: 57,87
+Béarn amélioration: FP 火力: 40,55
 Béarn amélioration: Torp 雷装: 0,0
-Béarn amélioration: AA 対空: 33,82
-Béarn amélioration: luck 運: 53,98
-Béarn amélioration: speed 速力: 10
+Béarn amélioration: AA 対空: 32,60
+Béarn amélioration: luck 運: 33,103
+Béarn amélioration: speed 速力: 5
 Visby: HP 耐久: 11,19
 Visby: Armor 装甲: 5,20
 Visby: FP 火力: 6,22
