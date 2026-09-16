@@ -15816,7 +15816,7 @@
 }, {
     "api_atap": 0,
     "api_bakk": 0,
-    "api_baku": 0,
+    "api_baku": 1,
     "api_broken": [1, 2, 0, 1],
     "api_cost": 3,
     "api_distance": 2,
@@ -15832,7 +15832,7 @@
     "api_raim": 0,
     "api_rare": 1,
     "api_sakb": 0,
-    "api_saku": 3,
+    "api_saku": 2,
     "api_soku": 0,
     "api_sortno": 586,
     "api_souk": 0,

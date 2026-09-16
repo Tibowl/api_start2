@@ -4188,8 +4188,8 @@
     },
     "727": {
         "api_equip_type": {
-            "1": [379, 382, 229],
-            "4": [66, 220, 524],
+            "1": [229, 379, 382],
+            "4": [524, 66, 220],
             "12": null,
             "15": null,
             "17": null,
@@ -4254,7 +4254,7 @@
         "api_equip_type": {
             "1": null,
             "2": [564],
-            "4": [524, 565, 10, 11, 66, 220],
+            "4": [10, 11, 66, 220, 524, 565],
             "5": null,
             "12": null,
             "17": null,
@@ -4274,7 +4274,7 @@
         "api_equip_type": {
             "1": null,
             "2": [564],
-            "4": [10, 11, 66, 220, 524, 565],
+            "4": [11, 66, 220, 524, 565, 10],
             "5": null,
             "12": null,
             "17": null,
@@ -4359,6 +4359,84 @@
             "39": null,
             "43": null,
             "54": null
+        }
+    },
+    "748": {
+        "api_equip_type": {
+            "2": null,
+            "3": null,
+            "4": null,
+            "10": null,
+            "11": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "16": null,
+            "17": null,
+            "18": null,
+            "19": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "24": null,
+            "25": null,
+            "28": null,
+            "29": null,
+            "33": null,
+            "34": null,
+            "35": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "40": null,
+            "42": null,
+            "43": null,
+            "45": null,
+            "46": null,
+            "50": null,
+            "54": null,
+            "93": null,
+            "95": null
+        }
+    },
+    "749": {
+        "api_equip_type": {
+            "2": null,
+            "3": null,
+            "4": null,
+            "10": null,
+            "11": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "16": null,
+            "17": null,
+            "18": null,
+            "19": null,
+            "20": null,
+            "21": null,
+            "23": null,
+            "24": null,
+            "25": null,
+            "28": null,
+            "29": null,
+            "33": null,
+            "34": null,
+            "35": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "40": null,
+            "42": null,
+            "43": null,
+            "45": null,
+            "46": null,
+            "50": null,
+            "54": null,
+            "93": null,
+            "95": null
         }
     },
     "877": {
@@ -4819,7 +4897,7 @@
     },
     "945": {
         "api_equip_type": {
-            "1": [379, 382, 229],
+            "1": [229, 379, 382],
             "15": null,
             "17": null,
             "21": null,
@@ -5183,7 +5261,7 @@
         "api_equip_type": {
             "1": null,
             "2": [6, 90],
-            "4": [565, 11, 524],
+            "4": [11, 524, 565],
             "12": null,
             "17": null,
             "21": null,
@@ -5455,7 +5533,7 @@
         "api_equip_type": {
             "1": null,
             "2": [564],
-            "4": [565, 11, 524],
+            "4": [11, 524, 565],
             "5": null,
             "17": null,
             "21": null,
@@ -5829,6 +5907,7 @@
     },
     "1055": {
         "api_equip_type": {
+            "2": null,
             "4": null,
             "7": null,
             "9": null,
@@ -5873,6 +5952,7 @@
     },
     "1060": {
         "api_equip_type": {
+            "2": null,
             "4": null,
             "6": null,
             "7": null,
@@ -5898,7 +5978,9 @@
     },
     "1061": {
         "api_equip_type": {
+            "1": null,
             "4": null,
+            "5": null,
             "6": null,
             "7": null,
             "8": null,
@@ -6014,6 +6096,40 @@
             "43": null,
             "44": null,
             "45": null
+        }
+    },
+    "1071": {
+        "api_equip_type": {
+            "1": null,
+            "2": null,
+            "4": null,
+            "5": null,
+            "10": null,
+            "11": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "17": null,
+            "20": null,
+            "21": null,
+            "22": null,
+            "23": null,
+            "24": null,
+            "25": null,
+            "27": null,
+            "29": null,
+            "30": null,
+            "33": null,
+            "34": null,
+            "36": null,
+            "37": null,
+            "39": null,
+            "40": null,
+            "43": null,
+            "45": null,
+            "46": null,
+            "54": null
         }
     }
 }
