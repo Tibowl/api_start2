@@ -3434,6 +3434,14 @@ G-36A(F4F輸出型): Evas 砲撃回避: 2
 G-36A(F4F輸出型): Rare レア: 3
 G-36A(F4F輸出型): Cost: 5
 G-36A(F4F輸出型): Dist: 4
+XF6F-6: FP 火力: 1
+XF6F-6: AA 対空: 12
+XF6F-6: LoS 索敵: 1
+XF6F-6: Acc 砲撃命中: 1
+XF6F-6: Evas 砲撃回避: 3
+XF6F-6: Rare レア: 5
+XF6F-6: Cost: 8
+XF6F-6: Dist: 4
 5inch単装砲: FP 火力: 1
 5inch単装砲: Range 射程: 1
 5inch連装砲: FP 火力: 2
